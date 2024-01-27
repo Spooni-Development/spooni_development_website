@@ -87,7 +87,7 @@ const developer = [
         name: 'iamgroot',
         title: 'Developer',
         links: [
-            { icon: 'github', link: 'https://github.com/alexguirre' },
+            { icon: 'github', link: 'https://github.com/TheLastSamurai123' },
             { icon: 'discord', link: 'https://discordapp.com/users/159488771711172608/' },
         ]
     },
