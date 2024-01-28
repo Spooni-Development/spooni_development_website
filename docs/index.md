@@ -46,11 +46,11 @@ hero:
 features:
   - icon: 💾
     title: Development
-    details: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    details: Continuous development is a central aspect of our company. We place great importance on constantly improving our products and services to meet the changing needs of our customers. By investing in research and development, we aim for innovative solutions that not only meet current standards but also pave the way for the future. Our development processes are agile and flexible, allowing us to quickly respond to market demands and strengthen our competitiveness.
   - icon: 🤝
     title: Team
-    details: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    details: Our team is the cornerstone of our success. We firmly believe that the collaboration of talented and motivated individuals is the key to outstanding performance. In our diverse team, individuals with different skills and backgrounds bring their unique perspectives. We promote open communication and a supportive environment to ensure that each team member can unleash their full potential. Together, we form a strong unit that successfully tackles the challenges of the ever-changing business world.
   - icon: ⚡
     title: Performance 
-    details: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    details: Excellent performance is our benchmark for success. We strive for the highest quality in everything we do to exceed our customers' expectations. Through continuous monitoring and evaluating of our performance, we identify areas for optimization. We set clear goals and measurable KPIs to ensure that our company is on a path of continuous improvement. Consistent focus on high performance at all levels not only secures our present success but also paves the way for sustainable growth in the future.
 ---
