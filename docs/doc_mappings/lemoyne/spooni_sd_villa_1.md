@@ -18,8 +18,7 @@ To install spooni_sd_villa_1:
 - Add this ensure in your server.cfg
   - `ensure spooni_sd_villa_1`
 - At the end
-  - Restart the server# 🏠SD Train Station
-Documentation relating to the spooni_train_station.
+  - Restart the server
 
 ## 2. For developers
 | Doors                     | Doorhashes
