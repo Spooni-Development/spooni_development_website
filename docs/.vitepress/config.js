@@ -81,6 +81,7 @@ export default {
             ]},
             {text: "Valentine", collapsed: true, items: [
               {text: "🔸Church", link:'/doc_mappings/new-hanover/spooni_val_church'},
+              {text: "🔸House 1", link:'/doc_mappings/new-hanover/spooni_val_house_1'},
               {text: "🔸Law Office", link:'/doc_mappings/new-hanover/spooni_val_law_office'},
             ]},
             {text: "Van Horn", collapsed: true, items: [
