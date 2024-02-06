@@ -37,8 +37,9 @@ export default {
         collapsed: true,
         items: [
 
-          // { text: "Ambarino", collapsed: true, items:[
-          // ]},
+          { text: "Ambarino", collapsed: true, items:[
+            {text: "🔸Baccus Station", link:'/doc_mappings/ambarino/spooni_bacchus_station'},
+          ]},
 
           { text: "Lemoyne", collapsed: true, items:[
             // {text: "Rhodes", collapsed: true, items: [
@@ -85,6 +86,7 @@ export default {
             {text: "Van Horn", collapsed: true, items: [
               {text: "🔸Brothel House", link:'/doc_mappings/new-hanover/spooni_van_brothel_house'},
             ]},
+            {text: "🔸Emerald Ranch Saloon", link:'/doc_mappings/new-hanover/spooni_emerald_saloon'},
           ]},
 
           { text: "West Elizabeth", collapsed: true, items:[
