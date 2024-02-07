@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠 Valentine House 1
+# 🏠 Castor Ridge
 Documentation relating to the spooni_val_house_1.
 
 ___
