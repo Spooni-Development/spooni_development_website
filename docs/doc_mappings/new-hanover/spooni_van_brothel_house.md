@@ -4,9 +4,10 @@ next: false
 ---
 
 # 🏠 Van Horn Brothel House
-Documentation relating to the spooni_van_brothel_house.
+Documentation relating to the [spooni_van_brothel_house](https://spooni-mapping.tebex.io/package/6095247).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DlFX-Y2Mhqw?si=Beay19-g2OdZ8TXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation

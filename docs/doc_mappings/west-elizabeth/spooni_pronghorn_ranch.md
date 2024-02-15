@@ -4,9 +4,10 @@ next: false
 ---
 
 # 🏠 Pronghorn Ranch
-Documentation relating to the spooni_pronghorn_ranch.
+Documentation relating to the [spooni_pronghorn_ranch](https://spooni-mapping.tebex.io/package/5999577).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ugl1PQl6f-c?si=9G6-vIOtRA0Q2qqu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation

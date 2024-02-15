@@ -4,9 +4,10 @@ next: false
 ---
 
 # 🏠 Strawberry Stable
-Documentation relating to the spooni_straw_stable.
+Documentation relating to the [spooni_straw_stable](https://spooni-mapping.tebex.io/package/5922186).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLIyc9dSlCs?si=-q6RNKnndIJulvMn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation

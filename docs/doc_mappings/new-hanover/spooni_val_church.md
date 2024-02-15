@@ -4,9 +4,10 @@ next: false
 ---
 
 # 🏠 Valentine Church
-Documentation relating to the spooni_val_church.
+Documentation relating to the [spooni_val_church](https://spooni-mapping.tebex.io/package/6074832).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w25lSF6KFNM?si=TpB_PdFwbrHmxN1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation

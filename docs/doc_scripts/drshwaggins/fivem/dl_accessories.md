@@ -4,9 +4,10 @@ next: false
 ---
 
 # 🎀 dl_accessories
-Documentation relating to the dl_accessories.
+Documentation relating to the [dl_accessories](https://drshwaggins-scripts.tebex.io/package/5591027).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCyx6ITcTLk?si=Ob0vhzsXssCQ9S60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
@@ -34,5 +35,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 :::details Config.lua
 ```lua
-Config = {}
+Coming Soon...
 :::

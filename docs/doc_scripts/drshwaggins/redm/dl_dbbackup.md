@@ -4,9 +4,10 @@ next: false
 ---
 
 # 💾 dl_dbbackup
-Documentation relating to the dl_dbbackup.
+Documentation relating to the [dl_dbbackup](https://drshwaggins-scripts.tebex.io/package/5986293).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://cdn.discordapp.com/attachments/901261289316319302/1200465560396378112/dl_dbbackup.png?ex=65c647ad&is=65b3d2ad&hm=dd3050daa240782bf6c55353aafbdee8bff2f2445980873a37c339fa88ff0e5d&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
@@ -17,11 +18,8 @@ To install dl_dbbackup:
   - `dl_dbbackup`
 - Add this ensure in your server.cfg
   - `ensure dl_dbbackup`
-- Execute the SQL file
-  - `sql.sql`
 - Now you can configure and translate the script as you like
   - `config.lua`
-  - `translation.lua`
 - At the end
   - Restart the server
 
@@ -35,4 +33,27 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 :::details Config.lua
 ```lua
 Config = {}
+Config.BackupPrints = true
+
+Config.Databasename = "YOUR_DATABASE_HERE" --importend for keys and constraints
+
+----------- INFORMATIONS-----------
+-- MIN AMOUNTS FOR TIME DIFFERENCES
+-- MIN HOUR = 1
+-- MIN MINUTE = 10
+
+-- IF YOU USE "m"(minute) or "h"(hour) the script will make a backup after each script restart and after x amount of time you setup
+-- If you want to backup only after each script restart you can set Config.TimeDifference = "d" and Config.SaveEveryUnit = 0
+-- If you use Config.TimeDifference = "d" and a Config.SaveEveryUnit over 0 the script will backup on the next script restart the after time limit it reached
+
+
+Config.TimeDifference = "d" -- "d":day, "h":hour, "m":minute
+Config.SaveEveryUnit = 1  -- IF "h" MIN AMOUNT 1 , IF "m" MIN AMOUNT 10
+Config.MaxBackups = 14
+
+
+Config.ManualDataseBackupCommand = "dbbackup"
+Config.AllowedBackupCommand = { -- INSERT STEAM IDS OF PEOPLE WHO ARE ALLOWED TO DO A DATABASE BACKUP MANUAL WITH COMMAND
+  'steam:1100001243g2348'
+}
 :::

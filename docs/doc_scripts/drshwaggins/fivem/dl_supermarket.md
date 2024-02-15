@@ -4,9 +4,10 @@ next: false
 ---
 
 # 💳 dl_supermarket
-Documentation relating to the dl_supermarket.
+Documentation relating to the [dl_supermarket](https://drshwaggins-scripts.tebex.io/package/5591749).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOJN95puxk8?si=ZVD0T6qBu_fXRO2S" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
@@ -34,5 +35,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 :::details Config.lua
 ```lua
-Config = {}
+Coming Soon...
 :::

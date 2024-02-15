@@ -4,9 +4,10 @@ next: false
 ---
 
 # 💾 dl_dbbackup
-Documentation relating to the dl_dbbackup.
+Documentation relating to the [dl_dbbackup](https://drshwaggins-scripts.tebex.io/package/5988507).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://cdn.discordapp.com/attachments/901261289316319302/1200465560396378112/dl_dbbackup.png?ex=65c647ad&is=65b3d2ad&hm=dd3050daa240782bf6c55353aafbdee8bff2f2445980873a37c339fa88ff0e5d&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
@@ -34,5 +35,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 :::details Config.lua
 ```lua
-Config = {}
+Coming Soon...
 :::

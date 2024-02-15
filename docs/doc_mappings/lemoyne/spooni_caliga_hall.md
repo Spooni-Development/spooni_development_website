@@ -4,8 +4,10 @@ next: false
 ---
 
 # 🏠 Caliga Hall
-Documentation relating to the spooni_caliga_hall.
+Documentation relating to the [spooni_caliga_hall](https://spooni-mapping.tebex.io/package/6010188).
+
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJ9Si62h3WA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation

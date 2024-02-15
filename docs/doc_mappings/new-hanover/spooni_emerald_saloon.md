@@ -4,9 +4,10 @@ next: false
 ---
 
 # 🏠 Emerald Saloon
-Documentation relating to the spooni_emerald_saloon.
+Documentation relating to the [spooni_emerald_saloon](https://spooni-mapping.tebex.io/package/6117846).
 
 ___
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
