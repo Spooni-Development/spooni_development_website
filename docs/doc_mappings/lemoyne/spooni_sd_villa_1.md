@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠SD Villa 1
+# 🏠 SD Villa 1
 Documentation relating to the spooni_sd_villa_1.
 
 ___

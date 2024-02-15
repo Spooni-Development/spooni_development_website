@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠SD Bakery + Florist + Brewery
+# 🏠 SD Bakery + Florist + Brewery
 Documentation relating to the spooni_sd_bake_flor_brew.
 
 ___

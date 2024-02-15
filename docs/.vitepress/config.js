@@ -38,7 +38,8 @@ export default {
         items: [
 
           { text: "Ambarino", collapsed: true, items:[
-            {text: "🔸Baccus Station", link:'/doc_mappings/ambarino/spooni_bacchus_station'},
+            {text: "🔸Bacchus Station", link:'/doc_mappings/ambarino/spooni_bacchus_station'},
+            {text: "🔸Hobbit House", link:'/doc_mappings/ambarino/spooni_hobbit_house'},
           ]},
 
           { text: "Lemoyne", collapsed: true, items:[
@@ -48,10 +49,10 @@ export default {
               // {text: "🔸Bake + Flor + Brew", link:'/doc_mappings/lemoyne/spooni_sd_bake_flor_brew'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/spooni_sd_cart_woodworker'},
               {text: "🔸Courthouse", link:'/doc_mappings/lemoyne/spooni_sd_courthouse'},
-              // {text: "🔸Farming", link:'/doc_mappings/lemoyne/spooni_sd_farming'},
+              {text: "🔸Farming", link:'/doc_mappings/lemoyne/spooni_sd_farming'},
               {text: "🔸Fight Club", link:'/doc_mappings/lemoyne/spooni_sd_fight_club'},
               // {text: "🔸Furniture", link:'/doc_mappings/lemoyne/spooni_sd_furniture'},
-              // {text: "🔸General Store", link:'/doc_mappings/lemoyne/spooni_sd_general-store'},
+              {text: "🔸General Store", link:'/doc_mappings/lemoyne/spooni_sd_general_store'},
               // {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/spooni_sd_jeweler'},
               // {text: "🔸Newspaper", link:'/doc_mappings/lemoyne/spooni_sd_newspaper'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/spooni_sd_policestation'},
@@ -97,8 +98,10 @@ export default {
             {text: "Strawberry", collapsed: true, items: [
               {text: "🔸Stable", link:'/doc_mappings/west-elizabeth/spooni_straw_stable'},
             ]},
-            {text: "🔸Pronghorn Ranch", link:'/doc_mappings/west-elizabeth/spooni_pronghorn_ranch'},
+            {text: "🔸Lone Mule Stead", link:'/doc_mappings/west-elizabeth/spooni_lone_mule_stead'},
             {text: "🔸Manzanita Post", link:'/doc_mappings/west-elizabeth/spooni_manzanita_post'},
+            {text: "🔸Pronghorn Ranch", link:'/doc_mappings/west-elizabeth/spooni_pronghorn_ranch'},
+            {text: "🔸Valley View Ranch", link:'/doc_mappings/west-elizabeth/spooni_valley_view_ranch'},
           ]},
         
         ]
@@ -116,8 +119,8 @@ export default {
             // { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
             // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
 
-            // { text: "DrShwaggins Scripts", collapsed: true, items:[
-            //   { text: "RedM", collapsed: true, items:[
+            { text: "DrShwaggins Scripts", collapsed: true, items:[
+              { text: "RedM", collapsed: true, items:[
             //     { text: "💵 Billing", link:'doc_scripts/drshwaggins/redm/dl_advancedbilling' },
             //     { text: "🏪 Stores", link:'doc_scripts/drshwaggins/redm/dl_advancedstores' },
             //     { text: "🎥 Cutscenes", link:'doc_scripts/drshwaggins/redm/dl_cutscenes' },
@@ -126,13 +129,13 @@ export default {
             //     { text: "🧮 Society", link:'doc_scripts/drshwaggins/redm/dl_society' },
             //     { text: "📦 Storages", link:'doc_scripts/drshwaggins/redm/dl_storages' },
             //     { text: "⚔️ Whitelist", link:'doc_scripts/drshwaggins/redm/dl_questionwhitelist' },
-            //   ]},
-            //   { text: "FiveM", collapsed: true, items:[
+              ]},
+              { text: "FiveM", collapsed: true, items:[
             //     { text: "🎀 Accessories ", link:'doc_scripts/drshwaggins/fivem/dl_accessories' },
             //     { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/fivem/dl_dbbackup' },
             //     { text: "💳 Supermarket", link:'doc_scripts/drshwaggins/fivem/dl_supermarket' },
-            //   ]},
-            // ]},
+              ]},
+            ]},
           ]
       },
     ],

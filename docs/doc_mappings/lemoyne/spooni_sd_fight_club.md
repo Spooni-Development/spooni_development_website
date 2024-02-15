@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠SD Fight Club
+# 🏠 SD Fight Club
 Documentation relating to the spooni_sd_fight_club.
 
 ___

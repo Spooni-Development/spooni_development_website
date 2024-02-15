@@ -1,21 +1,22 @@
-# 🏠SD Police Station
-Documentation relating to the spooni_police_station.
+---
+prev: false
+next: false
+---
 
-:::tabs
-== PREVIEW
+# 🏠 Hobbit House
+Documentation relating to the spooni_hobbit_house.
+
+___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/)
-:::
 
 ## 1. Installation
-spooni_police_station works Standalone.  
+spooni_hobbit_house works Standalone.  
 
-To install spooni_police_station:
+To install spooni_hobbit_house:
 - Drag and drop the resource into your resources folder
-  - `spooni_police_station`
+  - `spooni_hobbit_house`
 - Add this ensure in your server.cfg
-  - `ensure spooni_police_station`
+  - `ensure spooni_hobbit_house`
 - At the end
   - Restart the server
 

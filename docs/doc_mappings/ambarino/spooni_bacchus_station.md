@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠 Baccus Station
+# 🏠 Bacchus Station
 Documentation relating to the spooni_bacchus_station.
 
 ___

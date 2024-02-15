@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠SD Farming
+# 🏠 SD Farming
 Documentation relating to the spooni_sd_farming.
 
 ___

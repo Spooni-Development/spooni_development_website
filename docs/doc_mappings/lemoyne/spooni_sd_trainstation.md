@@ -3,7 +3,7 @@ prev: false
 next: false
 ---
 
-# 🏠SD Train Station
+# 🏠 SD Train Station
 Documentation relating to the spooni_sd_trainstation.
 
 ___
