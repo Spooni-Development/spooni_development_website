@@ -9,7 +9,7 @@ Documentation relating to the [spooni_bla_reborn](https://spooni-mapping.tebex.i
 ___
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-gk6OjztGM?si=UWfILufwXN8jJNUr" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== PREVIEW Stores
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKRhQM-tsvQ?si=BLmolahrj2y3CB2-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
@@ -57,4 +57,4 @@ If you have any problems, you can always open a ticket in the Spooni Discord.
 |---------------------------|----------------------------------------------------------------------------------|
 | Door 1                    | `[2943762851]  = {2943762851,436773540,"p_door08x",-780.3621215820312, -1307.5699462890625, 42.90399932861328}`
 | Door 2                    | `[741319790]   = {741319790,1184351509,"p_door_bla_doc_r_01x",-790.280029296875, -1305.1800537109375, 42.77099990844726}`
-| Door 3                    | `[486671891]   = {486671891,-177279925,"p_door_bla_doc_l_01x",-790.280029296875, -1304.1700439453125, 42.7709999
+| Door 3                    | `[486671891]   = {486671891,-177279925,"p_door_bla_doc_l_01x",-790.280029296875, -1304.1700439453125, 42.7709999}`
