@@ -26,7 +26,7 @@ To install spooni_hotel:
 - At the end
   - Restart the server
 
-If you have any problems, you can always open a ticket in the Spooni Discord.
+If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. Usage
 Go to a configured room and open the menu with the prompt. You can then rent your room there, with money.

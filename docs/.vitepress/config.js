@@ -53,7 +53,7 @@ export default {
               {text: "🔸Fight Club", link:'/doc_mappings/lemoyne/spooni_sd_fight_club'},
               // {text: "🔸Furniture", link:'/doc_mappings/lemoyne/spooni_sd_furniture'},
               {text: "🔸General Store", link:'/doc_mappings/lemoyne/spooni_sd_general_store'},
-              // {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/spooni_sd_jeweler'},
+              {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/spooni_sd_jeweler'},
               // {text: "🔸Newspaper", link:'/doc_mappings/lemoyne/spooni_sd_newspaper'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/spooni_sd_policestation'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/spooni_sd_slums'},

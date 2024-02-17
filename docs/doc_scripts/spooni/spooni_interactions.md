@@ -25,7 +25,7 @@ To install spooni_interactions:
 - At the end
   - Restart the server
 
-If you have any problems, you can always open a ticket in the Spooni Discord.
+If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. Usage
 Go to a prop in the list and interact with the prompt to open the menu, where you can then select scenarios.

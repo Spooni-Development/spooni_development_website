@@ -26,7 +26,7 @@ To install spooni_tippi:
 - At the end
   - Restart the server
 
-If you have any problems, you can always open a ticket in the Spooni Discord.
+If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. Usage
 Go to a configured tippi and open the menu with the prompt, here you can then claim the tippi with money or items.
