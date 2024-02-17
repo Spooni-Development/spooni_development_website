@@ -28,7 +28,7 @@ export default {
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Spooni-Development' },
-      { icon: 'discord', link: 'https://discord.gg/TaaSXRdaNK' },
+      { icon: 'discord', link: 'https://discord.gg/spooni' },
       { icon: 'youtube', link: 'https://www.youtube.com/@masterfighter2698' },
     ],
     sidebar: [
