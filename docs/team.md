@@ -37,7 +37,7 @@ import {
 
 const artist = [
         {
-        avatar: 'https://avatars.githubusercontent.com/u/127257627?v=4',
+        avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
         name: 'Elitefighter',
         title: 'Lead 3D Artist',
         links: [
@@ -46,7 +46,7 @@ const artist = [
         ]
     },
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/avatars/540860975218163724/d6f5541116792884ee7a3aeee462e450.webp?size=128',
         name: 'Arthur Mottergan',
         title: '3D Artist',
         links: [
@@ -67,7 +67,7 @@ const developer = [
         ]
     },
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/avatars/352854698660724738/97f4a19413d024afb72a37aedf1c190d.webp?size=128',
         name: 'DrShwaggins',
         title: 'Developer',
         links: [
@@ -83,8 +83,8 @@ const developer = [
         ]
     },
     {
-        avatar: 'user.png',
-        name: 'iamgroot',
+        avatar: 'https://cdn.discordapp.com/avatars/159488771711172608/9a30377851c92d6fc0b8f195ab1da2d7.webp?size=128',
+        name: 'IAMGROOT',
         title: 'Developer',
         links: [
             { icon: 'github', link: 'https://github.com/TheLastSamurai123' },
@@ -104,7 +104,7 @@ const developer = [
 
 const mapper = [
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/8ba713ec93a69a43b2266562ba94e6c6.webp?size=128',
         name: 'FINN',
         title: 'Lead Mapper',
         links: [
@@ -112,7 +112,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/avatars/331861578842636301/df4061d35e18b740de40906e069f1586.webp?size=128',
         name: 'Alina',
         title: 'Mapper',
         links: [
@@ -120,7 +120,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/avatars/590183982885502998/069fccc93c80de758ed1b212511e8c38.webp?size=128',
         name: 'Crossvok',
         title: 'Mapper',
         links: [
@@ -128,7 +128,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/avatars/548973605724225543/a_4234ebe024fe386d7a8b719aa0c508ea.webp?size=128',
         name: 'J.A.R.V.I.S.',
         title: 'Mapper',
         links: [
