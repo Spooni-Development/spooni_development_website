@@ -4,11 +4,11 @@ next: false
 ---
 
 # 🏠 Lone Mule Stead
-Documentation relating to the [spooni_lone_mule_stead](https://spooni-mapping.tebex.io).
+Documentation relating to the [spooni_lone_mule_stead](https://spooni-mapping.tebex.io/package/6132968).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vxF2CTbFOc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_lone_mule_stead works Standalone.  

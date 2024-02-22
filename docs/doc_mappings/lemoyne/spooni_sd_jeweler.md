@@ -4,11 +4,11 @@ next: false
 ---
 
 # 🏠 SD Jeweler
-Documentation relating to the [spooni_sd_jeweler](https://spooni-mapping.tebex.io/package/).
+Documentation relating to the [spooni_sd_jeweler](https://spooni-mapping.tebex.io/package/6135961).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFnqPoi6HI0?si=BbnMcuvchbIP9opk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_sd_jeweler works Standalone.  
