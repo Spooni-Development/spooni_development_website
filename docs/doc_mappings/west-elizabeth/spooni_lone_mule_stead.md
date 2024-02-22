@@ -8,7 +8,7 @@ Documentation relating to the [spooni_lone_mule_stead](https://spooni-mapping.te
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vxF2CTbFOc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxF2CTbFOc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_lone_mule_stead works Standalone.  
