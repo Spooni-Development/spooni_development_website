@@ -114,6 +114,7 @@ export default {
             // { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
             // { text: "🏠 Housebuilder", link:'/doc_scripts/spooni/spooni_housebuilder' },
             { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
+            { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_jobblips' },
             { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
             // { text: "🏹 Tippi", link:'/doc_scripts/spooni/spooni_tippi' },
             { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
