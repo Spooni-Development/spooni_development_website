@@ -23,6 +23,7 @@ export default {
     outline: "deep",
     nav: [
       { text: "Docs", link: "/docs" },
+      // { text: "Roadmap", link: "/roadmap" },
       { text: "MICO", link: "/mico" },
       { text: "Team", link: "/team" },
     ],

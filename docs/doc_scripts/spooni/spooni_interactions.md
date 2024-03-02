@@ -6,10 +6,6 @@ next: false
 # 🪑 Interactions
 Documentation relating to the spooni_interactions.
 
-___
-<br>
-<iframe width="560" height="315" src="https://cdn.discordapp.com/attachments/1009153559029366838/1196900317611171941/spooni_interactions_560.png?ex=65b94f49&is=65a6da49&hm=bf13519af5a73cbf2eb58a034f305c1673640a9d1a1e5dbf91fbcfe50eb360c5&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## 1. Installation
 spooni_interactions works Standalone. 
 

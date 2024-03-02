@@ -44,13 +44,14 @@ hero:
 
 # Features section
 features:
-  - icon: 💾
-    title: Development
-    details: Continuous development is a central aspect of our company. We place great importance on constantly improving our products and services to meet the changing needs of our customers. By investing in research and development, we aim for innovative solutions that not only meet current standards but also pave the way for the future. Our development processes are agile and flexible, allowing us to quickly respond to market demands and strengthen our competitiveness.
-  - icon: 🤝
-    title: Team
-    details: Our team is the cornerstone of our success. We firmly believe that the collaboration of talented and motivated individuals is the key to outstanding performance. In our diverse team, individuals with different skills and backgrounds bring their unique perspectives. We promote open communication and a supportive environment to ensure that each team member can unleash their full potential. Together, we form a strong unit that successfully tackles the challenges of the ever-changing business world.
-  - icon: ⚡
-    title: Performance 
-    details: Excellent performance is our benchmark for success. We strive for the highest quality in everything we do to exceed our customers' expectations. Through continuous monitoring and evaluating of our performance, we identify areas for optimization. We set clear goals and measurable KPIs to ensure that our company is on a path of continuous improvement. Consistent focus on high performance at all levels not only secures our present success but also paves the way for sustainable growth in the future.
+  - icon: 🗿
+    title: Mappings
+    details: How long have you dreamt of living in your own house, or simply benefiting from the city's key properties? With a sharp focus on detail and authenticity, we offer excellent mappings. Our aim is to provide you with a new perspective on your favorite places and seamlessly integrate them into your roleplay.
+
+  - icon: 💡
+    title: Custom Request
+    details: Do you have a personal request? We also offer private commissions. Whether it's a script, mapping, or placeable props - anything is possible. With specific ideas from you and our understanding of authenticity and good roleplay, we can help you fulfill your wish and bring a smile to your face.
+  - icon: 💻
+    title: Server Service 
+    details: You want your own RedM server? But you're not familiar with the technology or having trouble setting it up? No problem! Get in touch with us on our Discord. Our competent developers can assist you with everything from consultation, setup, to troubleshooting your server.
 ---

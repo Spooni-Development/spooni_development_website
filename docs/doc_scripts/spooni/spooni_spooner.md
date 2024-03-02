@@ -6,18 +6,12 @@ next: false
 # 💻 Spooner
 Documentation relating to the spooni_spooner.
 
-___
-<br>
-<iframe width="560" height="315" src="https://cdn.discordapp.com/attachments/1009153559029366838/1196914505087733771/spooni_spooner_560.png?ex=65b95c7f&is=65a6e77f&hm=0bdbf8a07d70ee2bc508edccebeba6739f0ec73422c51120e26ddb21ec6b363d&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## 1. Installation
 spooni_spooner works Standalone. 
 
 To install spooni_spooner:
 - Download the resource
   - On [Github](https://github.com/Spooni-Development/spooni_spooner)
-- Drag and drop the resource into your resources folder
-  - `spooni_spooner`
 - Ensure that all requirements are installed
   - [uiprompt](https://github.com/kibook/redm-uiprompt)
 - Add the exec to the server.cfg
