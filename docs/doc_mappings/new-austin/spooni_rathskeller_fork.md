@@ -1,6 +1,7 @@
 ---
 prev: false
 next: false
+aside: false
 ---
 
 # 🏠  Rathskeller Fork

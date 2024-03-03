@@ -1,6 +1,7 @@
 ---
 prev: false
 next: false
+aside: false
 ---
 
 # 🏠 Lone Mule Stead
@@ -26,4 +27,4 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 ## 2. For developers
 | Doors                     | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
-| Coming soon               | `...`
+| Front Door                | `[1064206560] = {1064206560,-1497029950,"p_door37x",-862.04400634766,-748.65698242188,58.869998931885}`

@@ -1,6 +1,7 @@
 ---
 prev: false
 next: false
+aside: false
 ---
 
 # 🏠 Emerald Saloon
@@ -26,4 +27,5 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 ## 2. For developers
 | Doors                     | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
-| Coming soon               | `...`
+| Front Door                | `[-340669348] = {-340669348, -542955242, "p_door04x", 1445.011962890625, 368.64898681640625, 88.91000366210938}`
+| Back Door                 | `[-1652510725] = {-1652510725, -542955242, "p_door04x", 1452.5460205078125, 375.6789855957031, 88.92430114746094}`

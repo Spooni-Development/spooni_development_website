@@ -65,7 +65,6 @@ export default {
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},
             {text: "🔸Caliga Hall", link:'/doc_mappings/lemoyne/spooni_caliga_hall'},
-            {text: "🔸Dewberry Creek", link:'/doc_mappings/lemoyne/spooni_dewberry_creek'},
           ]},
 
           { text: "New Austin", collapsed: true, items:[
@@ -91,6 +90,7 @@ export default {
               {text: "🔸Brothel House", link:'/doc_mappings/new-hanover/spooni_van_brothel_house'},
             ]},
             {text: "🔸Cumberland Crest", link:'/doc_mappings/new-hanover/spooni_cumberland_crest'},
+            {text: "🔸Dewberry Creek", link:'/doc_mappings/new-hanover/spooni_dewberry_creek'},
             {text: "🔸Emerald Ranch Saloon", link:'/doc_mappings/new-hanover/spooni_emerald_saloon'},
           ]},
 
