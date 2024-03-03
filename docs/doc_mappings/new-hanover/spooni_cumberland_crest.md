@@ -3,21 +3,21 @@ prev: false
 next: false
 ---
 
-# 🏠 SD Farming
-Documentation relating to the [spooni_sd_farming](https://spooni-mapping.tebex.io/package/6147237).
+# 🏠 Cumberland Crest
+Documentation relating to the [spooni_cumberland_crest](https://spooni-mapping.tebex.io/package/6157355).
 
 ___
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
-spooni_sd_farming works Standalone.  
+spooni_cumberland_crest works Standalone.  
 
-To install spooni_sd_farming:
+To install spooni_cumberland_crest:
 - Drag and drop the resource into your resources folder
-  - `spooni_sd_farming`
+  - `spooni_cumberland_crest`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_farming`
+  - `ensure spooni_cumberland_crest`
 - At the end
   - Restart the server
 

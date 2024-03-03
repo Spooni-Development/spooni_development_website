@@ -3,21 +3,21 @@ prev: false
 next: false
 ---
 
-# 🏠 SD Farming
-Documentation relating to the [spooni_sd_farming](https://spooni-mapping.tebex.io/package/6147237).
+# 🏠 Thieves' Landing Distillery
+Documentation relating to the [spooni_thl_distillery](https://spooni-mapping.tebex.io/package/5905786).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
-spooni_sd_farming works Standalone.  
+spooni_thl_distillery works Standalone.  
 
-To install spooni_sd_farming:
+To install spooni_thl_distillery:
 - Drag and drop the resource into your resources folder
-  - `spooni_sd_farming`
+  - `spooni_thl_distillery`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_farming`
+  - `ensure spooni_thl_distillery`
 - At the end
   - Restart the server
 

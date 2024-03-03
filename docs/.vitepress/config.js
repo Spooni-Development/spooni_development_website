@@ -58,7 +58,7 @@ export default {
               // {text: "🔸Newspaper", link:'/doc_mappings/lemoyne/spooni_sd_newspaper'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/spooni_sd_policestation'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/spooni_sd_slums'},
-              // {text: "🔸Spalding", link:'/doc_mappings/lemoyne/spooni_sd_spalding'},
+              {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/spooni_sd_spaldings'},
               {text: "🔸Train Station", link:'/doc_mappings/lemoyne/spooni_sd_trainstation'},
               {text: "🔸Villa 1", link:'/doc_mappings/lemoyne/spooni_sd_villa_1'},
               // {text: "🔸Warehouse", link:'/doc_mappings/lemoyne/spooni_sd_warehouse'},
@@ -75,6 +75,7 @@ export default {
             // ]},
             {text: "🔸MacFarlane's Ranch", link:'/doc_mappings/new-austin/spooni_mac_farlanes_ranch'},
             {text: "🔸Rathskeller Fork", link:'/doc_mappings/new-austin/spooni_rathskeller_fork'},
+            {text: "🔸Thieves' Landing Distillery", link:'/doc_mappings/new-austin/spooni_thl_distillery'},
           ]},
 
           { text: "New Hanover", collapsed: true, items:[
@@ -89,6 +90,7 @@ export default {
             {text: "Van Horn", collapsed: true, items: [
               {text: "🔸Brothel House", link:'/doc_mappings/new-hanover/spooni_van_brothel_house'},
             ]},
+            {text: "🔸Cumberland Crest", link:'/doc_mappings/new-hanover/spooni_cumberland_crest'},
             {text: "🔸Emerald Ranch Saloon", link:'/doc_mappings/new-hanover/spooni_emerald_saloon'},
           ]},
 
@@ -103,6 +105,11 @@ export default {
             {text: "🔸Manzanita Post", link:'/doc_mappings/west-elizabeth/spooni_manzanita_post'},
             {text: "🔸Pronghorn Ranch", link:'/doc_mappings/west-elizabeth/spooni_pronghorn_ranch'},
             {text: "🔸Valley View Ranch", link:'/doc_mappings/west-elizabeth/spooni_valley_view_ranch'},
+          ]},
+
+          
+          { text: "Other", collapsed: true, items:[
+            {text: "🔸Secret Cellar", link:'/doc_mappings/other/spooni_secretcellar'},
           ]},
         
         ]
