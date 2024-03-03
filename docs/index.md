@@ -36,7 +36,7 @@ hero:
   tagline: Scripts & Mappings
   actions:
     - theme: brand
-      text: Store
+      text: Tebex Store
       link: https://spooni-mapping.tebex.io/
     - theme: alt
       text: Props
