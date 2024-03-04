@@ -140,9 +140,9 @@ export default {
                 { text: "⚔️ Whitelist", link:'doc_scripts/drshwaggins/redm/dl_questionwhitelist' },
               ]},
               { text: "FiveM", collapsed: true, items:[
-                { text: "🎀 Accessories ", link:'doc_scripts/drshwaggins/fivem/dl_accessories' },
+                // { text: "🎀 Accessories ", link:'doc_scripts/drshwaggins/fivem/dl_accessories' },
                 { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/fivem/dl_dbbackup' },
-                { text: "💳 Supermarket", link:'doc_scripts/drshwaggins/fivem/dl_supermarket' },
+                // { text: "💳 Supermarket", link:'doc_scripts/drshwaggins/fivem/dl_supermarket' },
               ]},
             ]},
           ]
