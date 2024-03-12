@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Fight Club
+# 🏠 St. Denis Fight Club
 Documentation relating to the [spooni_sd_fight_club](https://spooni-mapping.tebex.io/package/6099470).
 
 ___

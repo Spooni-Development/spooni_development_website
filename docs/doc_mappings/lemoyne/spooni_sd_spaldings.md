@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Spaldings
+# 🏠 St. Denis Spaldings
 Documentation relating to the [spooni_sd_spaldings](https://spooni-mapping.tebex.io/package/6172478).
 
 ___

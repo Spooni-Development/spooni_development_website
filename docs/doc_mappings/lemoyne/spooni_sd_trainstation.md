@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Train Station
+# 🏠 St. Denis Train Station
 Documentation relating to the [spooni_sd_trainstation](https://spooni-mapping.tebex.io/package/6074612).
 
 ___

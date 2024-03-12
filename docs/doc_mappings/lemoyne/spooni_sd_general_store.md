@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD General Store
+# 🏠 St. Denis General Store
 Documentation relating to the [spooni_sd_general_store](https://spooni-mapping.tebex.io/package/6133167).
 
 ___

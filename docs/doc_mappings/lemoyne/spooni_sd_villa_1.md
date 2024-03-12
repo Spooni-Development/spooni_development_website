@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Villa 1
+# 🏠 St. Denis Villa 1
 Documentation relating to the [spooni_sd_villa_1](https://spooni-mapping.tebex.io/package/5692534).
 
 ___

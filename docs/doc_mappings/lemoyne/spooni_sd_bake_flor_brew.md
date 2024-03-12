@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Bakery + Florist + Brewery
+# 🏠 St. Denis Bakery + Florist + Brewery
 Documentation relating to the [spooni_sd_bake_flor_brew](https://spooni-mapping.tebex.io).
 
 ___

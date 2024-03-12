@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Courthouse
+# 🏠 St. Denis Courthouse
 Documentation relating to the [spooni_sd_courthouse](https://spooni-mapping.tebex.io/package/5824786).
 
 ___

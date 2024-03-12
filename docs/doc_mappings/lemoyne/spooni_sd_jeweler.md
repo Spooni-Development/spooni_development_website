@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Jeweler
+# 🏠 St. Denis Jeweler
 Documentation relating to the [spooni_sd_jeweler](https://spooni-mapping.tebex.io/package/6135961).
 
 ___

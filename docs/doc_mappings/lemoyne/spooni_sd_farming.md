@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 SD Farming
+# 🏠 St. Denis Farming
 Documentation relating to the [spooni_sd_farming](https://spooni-mapping.tebex.io/package/6147237).
 
 ___
