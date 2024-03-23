@@ -48,7 +48,8 @@ export default {
             // ]},
             {text: "St. Denis", collapsed: true, items: [
               // {text: "🔸Bake + Flor + Brew", link:'/doc_mappings/lemoyne/spooni_sd_bake_flor_brew'},
-              {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/spooni_sd_cart_woodworker'},
+              {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/spooni_sd_cart_woodworker'},              
+              {text: "🔸Church", link:'/doc_mappings/lemoyne/spooni_sd_church'},
               {text: "🔸Courthouse", link:'/doc_mappings/lemoyne/spooni_sd_courthouse'},
               {text: "🔸Farming", link:'/doc_mappings/lemoyne/spooni_sd_farming'},
               {text: "🔸Fight Club", link:'/doc_mappings/lemoyne/spooni_sd_fight_club'},
