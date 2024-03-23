@@ -15,22 +15,10 @@ To install spooni_spooner:
   - On [Github](https://github.com/Spooni-Development/spooni_spooner)
 - Ensure that all requirements are installed
   - [uiprompt](https://github.com/kibook/redm-uiprompt)
-- Add the exec to the server.cfg
+- Add the permissions' exec to the server.cfg
   ```
     exec @spooni_spooner/permissions.cfg
   ```
-- Add the permissions
-    ```
-    add_ace builtin.everyone spooni_spooner.view allow
-    add_ace builtin.everyone spooni_spooner.spawn allow
-    add_ace builtin.everyone spooni_spooner.modify.own allow
-    add_ace builtin.everyone spooni_spooner.delete.own allow
-    add_ace builtin.everyone spooni_spooner.properties allow
-
-    add_ace builtin.everyone spooner.noEntityLimit allow
-    add_ace builtin.everyone spooner.modify.other allow
-    add_ace builtin.everyone spooner.delete.other allow
-    ```
 - Drag and drop the resource into your resources folder
   - `spooni_spooner`
 - Add this ensure in your server.cfg
