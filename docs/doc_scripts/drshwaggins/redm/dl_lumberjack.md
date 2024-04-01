@@ -20,9 +20,7 @@ To install dl_lumberjack:
 - Add this ensure in your server.cfg
   - `ensure dl_lumberjack`
 - Execute the SQL file
-  - `vorp_redem.sql`
-  or
-  - `rsg.sql`
+  - `vorp_redem.sql` or `rsg.sql`
 - Now you can configure and translate the script as you like
   - `config.lua`
 - At the end
