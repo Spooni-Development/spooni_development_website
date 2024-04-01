@@ -23,6 +23,7 @@ To install dl_lumberjack:
   - `vorp_redem.sql` or `rsg.sql`
 - Now you can configure and translate the script as you like
   - `config.lua`
+  - `translation.lua`
 - At the end
   - Restart the server
 
