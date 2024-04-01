@@ -12,7 +12,7 @@ ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSiBfxjrBjs?si=_H4254fWmP09RNCp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
-dl_lumberjack works only with VORP. 
+dl_lumberjack works only with VORP, RSG & RedEM:RP 
 
 To install dl_lumberjack:
 - Drag and drop the resource into your resources folder
