@@ -121,7 +121,7 @@ export default {
           items: [
             // { text: "💀 Blackmarket", link:'/doc_scripts/spooni/spooni_blackmarket' },
             // { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
-            // { text: "🏠 Housebuilder", link:'/doc_scripts/spooni/spooni_housebuilder' },
+            { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' },
             { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
             { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_jobblips' },
             { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
@@ -136,6 +136,7 @@ export default {
                 { text: "🎥 Cutscenes", link:'doc_scripts/drshwaggins/redm/dl_cutscenes' },
                 { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/redm/dl_dbbackup' },
                 { text: "🍊 Farmroutes", link:'doc_scripts/drshwaggins/redm/dl_farmroutes' },
+                { text: "🪓 Lumberjack", link:'doc_scripts/drshwaggins/redm/dl_lumberjack' },
                 { text: "🧮 Society", link:'doc_scripts/drshwaggins/redm/dl_society' },
                 { text: "📦 Storages", link:'doc_scripts/drshwaggins/redm/dl_storages' },
                 { text: "⚔️ Whitelist", link:'doc_scripts/drshwaggins/redm/dl_questionwhitelist' },

@@ -5,20 +5,20 @@ aside: false
 ---
 
 # 🏠 Housebuilder
-Documentation relating to the spooni_housebuilder.
+Documentation relating to the spooni_build_my_home.
 
 ___
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
-spooni_housebuilder works only with VORP & RPX. 
+spooni_build_my_home works only with VORP & RPX. 
 
-To install spooni_housebuilder:
+To install spooni_build_my_home:
 - Drag and drop the resource into your resources folder
-  - `spooni_housebuilder`
+  - `spooni_build_my_home`
 - Add this ensure in your server.cfg
-  - `ensure spooni_housebuilder`
+  - `ensure spooni_build_my_home`
 - Execute the SQL file
   - `housebuilder.sql`
 - Now you can configure and translate the script as you like
