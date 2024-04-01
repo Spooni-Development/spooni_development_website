@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 🪑 Interactions
-Documentation relating to the spooni_interactions.
+Documentation relating to the [spooni_interactions](https://github.com/Emotion06/spooni_interactions).
 
 ## 1. Installation
 spooni_interactions works Standalone. 

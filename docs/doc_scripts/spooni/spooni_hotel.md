@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 🏨 Hotel
-Documentation relating to the spooni_hotel.
+Documentation relating to the [spooni_hotel](https://spooni-mapping.tebex.io/).
 
 ___
 <br>

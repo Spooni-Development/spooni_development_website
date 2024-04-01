@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 🌱 VegMod
-Documentation relating to the spooni_vegmod.
+Documentation relating to the [spooni_vegmod](https://github.com/Spooni-Development/spooni_vegmod).
 
 ## 1. Installation
 spooni_vegmod works Standalone. 

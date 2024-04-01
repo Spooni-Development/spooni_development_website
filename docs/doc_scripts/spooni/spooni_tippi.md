@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 🏹 Tippi
-Documentation relating to the spooni_tippi.
+Documentation relating to the [spooni_tippi](https://spooni-mapping.tebex.io/).
 
 ___
 <br>

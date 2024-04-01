@@ -4,12 +4,16 @@ next: false
 aside: false
 ---
 
-# 🏠 Housebuilder
-Documentation relating to the spooni_build_my_home.
+# 🏠 Build my Home
+Documentation relating to the [spooni_build_my_home](https://spooni-mapping.tebex.io/package/6193414).
 
 ___
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Add-ons
+- [🏠 Build my Home V2](https://spooni-mapping.tebex.io/package/6194362)
+- [🏠 Build my Home V3](https://spooni-mapping.tebex.io/package/6194363)
 
 ## 1. Installation
 spooni_build_my_home works only with VORP & RPX. 

@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 💀 Blackmarket
-Documentation relating to the spooni_blackmarket.
+Documentation relating to the [spooni_blackmarket](https://spooni-mapping.tebex.io/).
 
 ___
 <br>

@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 📍 Job Blips
-Documentation relating to the spooni_jobblips.
+Documentation relating to the [spooni_jobblips](https://github.com/Spooni-Development/spooni_jobblips).
 
 ## 1. Installation
 spooni_jobblips works only with VORP. 
