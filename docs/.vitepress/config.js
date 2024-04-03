@@ -130,22 +130,15 @@ export default {
             // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
 
             { text: "DrShwaggins Scripts", collapsed: true, items:[
-              { text: "RedM", collapsed: true, items:[
-                { text: "💵 Billing", link:'doc_scripts/drshwaggins/redm/dl_advancedbilling' },
-                { text: "🏪 Stores", link:'doc_scripts/drshwaggins/redm/dl_advancedstores' },
-                { text: "🎥 Cutscenes", link:'doc_scripts/drshwaggins/redm/dl_cutscenes' },
-                { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/redm/dl_dbbackup' },
-                { text: "🍊 Farmroutes", link:'doc_scripts/drshwaggins/redm/dl_farmroutes' },
-                { text: "🪓 Lumberjack", link:'doc_scripts/drshwaggins/redm/dl_lumberjack' },
-                { text: "🧮 Society", link:'doc_scripts/drshwaggins/redm/dl_society' },
-                { text: "📦 Storages", link:'doc_scripts/drshwaggins/redm/dl_storages' },
-                { text: "⚔️ Whitelist", link:'doc_scripts/drshwaggins/redm/dl_questionwhitelist' },
-              ]},
-              { text: "FiveM", collapsed: true, items:[
-                // { text: "🎀 Accessories ", link:'doc_scripts/drshwaggins/fivem/dl_accessories' },
-                { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/fivem/dl_dbbackup' },
-                // { text: "💳 Supermarket", link:'doc_scripts/drshwaggins/fivem/dl_supermarket' },
-              ]},
+              { text: "💵 Billing", link:'doc_scripts/drshwaggins/redm/dl_advancedbilling' },
+              { text: "🏪 Stores", link:'doc_scripts/drshwaggins/redm/dl_advancedstores' },
+              { text: "🎥 Cutscenes", link:'doc_scripts/drshwaggins/redm/dl_cutscenes' },
+              { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/redm/dl_dbbackup' },
+              { text: "🍊 Farmroutes", link:'doc_scripts/drshwaggins/redm/dl_farmroutes' },
+              { text: "🪓 Lumberjack", link:'doc_scripts/drshwaggins/redm/dl_lumberjack' },
+              { text: "🧮 Society", link:'doc_scripts/drshwaggins/redm/dl_society' },
+              { text: "📦 Storages", link:'doc_scripts/drshwaggins/redm/dl_storages' },
+              { text: "⚔️ Whitelist", link:'doc_scripts/drshwaggins/redm/dl_questionwhitelist' },
             ]},
           ]
       },
