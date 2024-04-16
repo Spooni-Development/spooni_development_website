@@ -40,7 +40,7 @@ hero:
       link: https://spooni-mapping.tebex.io/
     - theme: alt
       text: Props
-      link: https://www.spooni.de/props
+      link: https://spooni.de/props/
 
 # Features section
 features:
