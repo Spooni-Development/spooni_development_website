@@ -35,23 +35,53 @@ import {
   VPTeamPageSection
 } from 'vitepress/theme'
 
-const artist = [
-        {
+const director = [
+    {
         avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
         name: 'Elitefighter',
-        title: 'Lead 3D Artist',
+        title: 'Founder',
         links: [
             { icon: 'github', link: 'https://github.com/Masterspooni' },
             { icon: 'discord', link: 'https://discordapp.com/users/989576880938176583/' },
         ]
     },
+]
+
+const supervisor = [
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/8ba713ec93a69a43b2266562ba94e6c6.webp?size=128',
+        name: 'FINN',
+        title: 'Lead Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/1009153559029366838/' },
+        ]
+    },
+]
+
+const artist = [
     {
         avatar: 'https://cdn.discordapp.com/avatars/540860975218163724/d6f5541116792884ee7a3aeee462e450.webp?size=128',
         name: 'Arthur Mottergan',
-        title: '3D Artist',
+        title: 'Lead 3D Artist',
         links: [
             { icon: 'github', link: 'https://github.com/Simastrix' },
             { icon: 'discord', link: 'https://discordapp.com/users/540860975218163724/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/188b5cb17d826ff98cad942e9123703f.webp?size=128',
+        name: 'Coral Star',
+        title: '3D Artist',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/768852909248610365/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/768852909248610365/06eb31218ea43c97777447912c8130ab.webp?size=128',
+        name: 'Lovie',
+        title: '3D Artist',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/768852909248610365/' },
         ]
     },
 ]
@@ -91,28 +121,11 @@ const developer = [
             { icon: 'discord', link: 'https://discordapp.com/users/159488771711172608/' },
         ]
     },
-    {
-        avatar: 'https://avatars.githubusercontent.com/u/85403339?v=4',
-        name: 'i3ucky',
-        title: 'Developer',
-        links: [
-            { icon: 'github', link: 'https://github.com/i3ucky' },
-            { icon: 'discord', link: 'https://discordapp.com/users/484326762889740308/' },
-        ]
-    },
 ]
 
 const mapper = [
     {
-        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/8ba713ec93a69a43b2266562ba94e6c6.webp?size=128',
-        name: 'FINN',
-        title: 'Lead Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/1009153559029366838/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/331861578842636301/df4061d35e18b740de40906e069f1586.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/331861578842636301/d6afea1b6c57dfbf6f4dbbea1d4315b0.webp?size=128',
         name: 'Alina',
         title: 'Mapper',
         links: [
@@ -137,17 +150,6 @@ const mapper = [
     },
 ]
 
-const designer = [
-    {
-        avatar: 'user.png',
-        name: 'Leander',
-        title: 'Designer',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/364021054198251531/' },
-        ]
-    },
-]
-
 </script>
 
 <VPTeamPage>
@@ -155,6 +157,22 @@ const designer = [
     <template #title>Our Team</template>
     <template #lead></template>
   </VPTeamPageTitle>
+
+<VPTeamPageSection>
+    <template #title>Director</template>
+    <template #lead></template>
+    <template #members>
+     <VPTeamMembers size="medium" :members="director" />
+    </template>
+</VPTeamPageSection>
+
+<VPTeamPageSection>
+    <template #title>Supervisor</template>
+    <template #lead></template>
+    <template #members>
+     <VPTeamMembers size="medium" :members="supervisor" />
+    </template>
+</VPTeamPageSection>
 
   <VPTeamPageSection>
     <template #title>3D Artists</template>
@@ -164,27 +182,19 @@ const designer = [
     </template>
   </VPTeamPageSection>
 
-  <VPTeamPageSection>
+<VPTeamPageSection>
     <template #title>Developers</template>
     <template #lead></template>
     <template #members>
      <VPTeamMembers size="medium" :members="developer" />
     </template>
-  </VPTeamPageSection>
+</VPTeamPageSection>
 
   <VPTeamPageSection>
     <template #title>Mappers</template>
     <template #lead></template>
     <template #members>
      <VPTeamMembers size="medium" :members="mapper" />
-    </template>
-  </VPTeamPageSection>
-
-  <VPTeamPageSection>
-    <template #title>Designer</template>
-    <template #lead></template>
-    <template #members>
-     <VPTeamMembers size="medium" :members="designer" />
     </template>
   </VPTeamPageSection>
 </VPTeamPage>
