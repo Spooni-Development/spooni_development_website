@@ -41,6 +41,8 @@ export default {
           { text: "Ambarino", collapsed: true, items:[
             {text: "🔸Bacchus Station", link:'/doc_mappings/ambarino/spooni_bacchus_station'},
             {text: "🔸Hobbit House", link:'/doc_mappings/ambarino/spooni_hobbit_house'},
+            {text: "🔸Moonstone Pond", link:'/doc_mappings/ambarino/spooni_moonstone_pond'},
+
           ]},
 
           { text: "Lemoyne", collapsed: true, items:[
@@ -66,6 +68,7 @@ export default {
               // {text: "🔸Warehouse", link:'/doc_mappings/lemoyne/spooni_sd_warehouse'},
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},
+            {text: "🔸Bra Worker Houses", link:'/doc_mappings/lemoyne/spooni_bra_worker_houses'},
             {text: "🔸Caliga Hall", link:'/doc_mappings/lemoyne/spooni_caliga_hall'},
           ]},
 
@@ -90,6 +93,8 @@ export default {
             ]},
             {text: "Van Horn", collapsed: true, items: [
               {text: "🔸Brothel House", link:'/doc_mappings/new-hanover/spooni_van_brothel_house'},
+              {text: "🔸Stable House", link:'/doc_mappings/new-hanover/spooni_van_stable_house'},
+
             ]},
             {text: "🔸Cumberland Crest", link:'/doc_mappings/new-hanover/spooni_cumberland_crest'},
             {text: "🔸Dewberry Creek", link:'/doc_mappings/new-hanover/spooni_dewberry_creek'},

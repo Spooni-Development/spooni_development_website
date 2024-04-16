@@ -46,12 +46,12 @@ hero:
 features:
   - icon: 🗿
     title: Mappings
-    details: How long have you dreamt of living in your own house, or simply benefiting from the city's key properties? With a sharp focus on detail and authenticity, we offer excellent mappings. Our aim is to provide you with a new perspective on your favorite places and seamlessly integrate them into your roleplay.
+    details: How long have you dreamed of living in your own home or simply benefiting from the city's most important properties? With great attention to detail and authenticity, we offer excellent mappings. Our goal is to give you a new perspective on your favorite places and integrate them seamlessly into your roleplay.
 
   - icon: 💡
     title: Custom Request
-    details: Do you have a personal request? We also offer private commissions. Whether it's a script, mapping, or placeable props - anything is possible. With specific ideas from you and our understanding of authenticity and good roleplay, we can help you fulfill your wish and bring a smile to your face.
+    details: Do you have a personal request? We also offer private commissions. Whether it's a script, mapping or placeable props - anything is possible. With specific ideas from you and our understanding of authenticity and good role-playing, we can help you fulfill your wish and put a smile on your face.
   - icon: 💻
     title: Server Service 
-    details: You want your own RedM server? But you're not familiar with the technology or having trouble setting it up? No problem! Get in touch with us on our Discord. Our competent developers can assist you with everything from consultation, setup, to troubleshooting your server.
+    details: Do you want your own RedM server? But you are not familiar with the technology or have problems setting it up? No problem! Get in touch with us on our Discord. Our expert developers can help you with everything from advice to setting up and troubleshooting your server.
 ---
