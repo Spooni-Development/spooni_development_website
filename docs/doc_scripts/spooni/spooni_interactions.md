@@ -5,14 +5,14 @@ aside: false
 ---
 
 # 🪑 Interactions
-Documentation relating to the [spooni_interactions](https://github.com/Emotion06/spooni_interactions).
+Documentation relating to the [spooni_interactions](https://github.com/Spooni-Development/spooni_interactions).
 
 ## 1. Installation
 spooni_interactions works Standalone. 
 
 To install spooni_interactions:
 - Download the resource
-  - On [Github](https://github.com/Emotion06/spooni_interactions)
+  - On [Github](https://github.com/Spooni-Development/spooni_interactions)
 - Ensure that all requirements are installed
   - [uiprompt](https://github.com/kibook/redm-uiprompt)
 - Drag and drop the resource into your resources folder
