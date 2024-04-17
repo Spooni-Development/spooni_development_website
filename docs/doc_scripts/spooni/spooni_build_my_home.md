@@ -4,6 +4,10 @@ next: false
 aside: false
 ---
 
+<Badge type="danger" text="BETA"/>
+<br>
+<br>
+
 # 🏠 Build my Home
 Documentation relating to the [spooni_build_my_home](https://spooni-mapping.tebex.io/package/6193414).
 

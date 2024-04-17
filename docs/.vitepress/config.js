@@ -25,7 +25,7 @@ export default {
       { text: "Docs", link: "/docs" },
       { text: "MICO", link: "/mico" },
       { text: "Team", link: "/team" },
-      // { text: "Partner", link: "/partner" },
+      { text: "Partner", link: "/partner" },
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Spooni-Development' },
