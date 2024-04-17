@@ -133,6 +133,7 @@ export default {
             { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
             // { text: "🏹 Tippi", link:'/doc_scripts/spooni/spooni_tippi' },
             { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
+            { text: "🛞 Vehicle Spawner", link:'doc_scripts/spooni/spooni_vehicleSpawn' },
             // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
 
             { text: "DrShwaggins Scripts", collapsed: true, items:[
