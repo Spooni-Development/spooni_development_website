@@ -222,7 +222,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/759068924833824829/a4af0c5705da5d1a5afe1bb4a6b84120.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/icons/1108094279131344986/025ad839e7230e218117514eb7ea6247.webp?size=128',
         name: 'Dust Dreams',
         title: '💿 TIER I',
         links: [
