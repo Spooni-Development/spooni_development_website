@@ -186,17 +186,17 @@ const International_RP_Server = [
             { icon: 'discord', link: 'https://discord.gg/luckyvalley ' },
         ]
     },
-
-    // TIER I
-
     {
         avatar: 'https://cdn.discordapp.com/icons/846851814547783690/6ecb01d8146b0f7655daa9d18c632ca3.webp?size=128',
         name: 'REDWest LifeRP',
-        title: '💿 TIER I',
+        title: '📀 TIER II',
         links: [
             { icon: 'discord', link: 'https://discord.gg/xsbWxUuD ' },
         ]
     },
+
+    // TIER I
+
     {
         avatar: 'user.png',
         name: 'Outlaws Roleplay',
