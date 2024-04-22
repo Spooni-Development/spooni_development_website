@@ -9,7 +9,7 @@ Documentation relating to the [spooni_sd_hotel_licorne](https://spooni-mapping.t
 
 ___
 <br>
-<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0e1f99fbdbc41b448ad76673d59a82e84f6d7781.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C4eyTh5G7K8?si=Da2OgTrpp3q5-7Ss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_sd_hotel_licorne works Standalone.  
