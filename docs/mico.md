@@ -27,11 +27,11 @@ head:
       href: logo.png
 ---
 
-# M  I  C  O - Multiple Interior Collision Object
+# M  I  C  O - Massive Interior Combined Object
 
 ## Introduction
 
-MICO, short for Multiple Interior Collision Object, is a revolutionary system designed to enhance the interior mapping experience for RedM servers. Developed to address the limitations of conventional MLOs (Moveable Interior Loader) in custom mapping, MICO offers a wide array of features aimed at optimizing performance and improving the immersion of interior spaces.
+MICO, short for Massive Interior Combined Object, is a revolutionary system designed to enhance the interior mapping experience for RedM servers. Developed to address the limitations of conventional MLOs (Moveable Interior Loader) in custom mapping, MICO offers a wide array of features aimed at optimizing performance and improving the immersion of interior spaces.
 
 ## Evolution of Interior Mapping
 
