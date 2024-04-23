@@ -59,7 +59,7 @@ export default {
               {text: "🔸General Store", link:'/doc_mappings/lemoyne/spooni_sd_general_store'},
               {text: "🔸Hotel La Licorne", link:'/doc_mappings/lemoyne/spooni_sd_hotel_licorne'},
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/spooni_sd_jeweler'},
-              {text: "🔸Newspaper", link:'/doc_mappings/lemoyne/spooni_sd_newspaper'},
+              {text: "🔸Promenade", link:'/doc_mappings/lemoyne/spooni_sd_promenade'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/spooni_sd_policestation'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/spooni_sd_slums'},
               {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/spooni_sd_spaldings'},
