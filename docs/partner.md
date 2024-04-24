@@ -313,6 +313,14 @@ const German_RP_Server = [
         ]
     },
     {
+        avatar: 'https://cdn.discordapp.com/icons/1045017560913035284/a_45154dcbbd8f6c85e7fbb35b37443cf9.webp?size=128',
+        name: 'Frontier Stories',
+        title: '📀 TIER II',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/frontierstories1899' },
+        ]
+    },
+    {
         avatar: 'https://cdn.discordapp.com/icons/950505958625382460/a_c1f9752a76f75235d60b1e260fd1f440.webp?size=128',
         name: 'Wasteland Stories',
         title: '💿 TIER I',
