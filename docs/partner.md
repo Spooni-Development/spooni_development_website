@@ -284,6 +284,14 @@ const International_RP_Server = [
         links: [
             { icon: 'discord', link: 'https://discord.gg/a78YUPzcrt ' },
         ]
+    },    
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1146917669564592329/9defff4f1e4ff60edb078cc57946f075.webp?size=128',
+        name: 'Westlands RP',
+        title: '💿 TIER I',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/westlandsrp ' },
+        ]
     },
 ]
 
