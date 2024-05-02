@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 Hobbit House
+# 🏠 Hobbit House <Badge type="danger" text="IN WORK"/>
 Documentation relating to the [spooni_hobbit_house](https://spooni-mapping.tebex.io).
 
 ___
