@@ -12,13 +12,13 @@ spooni_interactions works Standalone.
 
 To install spooni_interactions:
 - Download the resource
-  - On [Github](https://github.com/Spooni-Development/spooni_interactions)
+  - On [Github](https://github.com/Emotion06/spooni_interactions)
+- Ensure that all requirements are installed
+  - [uiprompt](https://github.com/kibook/redm-uiprompt)
 - Drag and drop the resource into your resources folder
   - `spooni_interactions`
 - Add this ensure in your server.cfg
   - `ensure spooni_interactions`
-- At the end
-  - Restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
