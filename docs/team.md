@@ -42,18 +42,18 @@ const director = [
         title: 'Founder',
         links: [
             { icon: 'github', link: 'https://github.com/Masterspooni' },
-            { icon: 'discord', link: 'https://discordapp.com/users/989576880938176583/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/271688304674471937/' },
         ]
     },
 ]
 
 const supervisor = [
     {
-        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/8ba713ec93a69a43b2266562ba94e6c6.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/857c45b96fb0f0829578d14f895cd3c5.webp?size=128',
         name: 'FINN',
         title: 'Lead Mapper',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/1009153559029366838/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/478599137563115520/' },
         ]
     },
 ]
@@ -73,15 +73,7 @@ const artist = [
         name: 'Coral Star',
         title: '3D Artist',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/768852909248610365/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/768852909248610365/06eb31218ea43c97777447912c8130ab.webp?size=128',
-        name: 'Lovie',
-        title: '3D Artist',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/768852909248610365/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
         ]
     },
 ]
@@ -129,7 +121,7 @@ const mapper = [
         name: 'Alina',
         title: 'Mapper',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/893217081900802101/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/331861578842636301/' },
         ]
     },
     {
@@ -137,7 +129,7 @@ const mapper = [
         name: 'Crossvok',
         title: 'Mapper',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/1198620250774716563/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/590183982885502998/' },
         ]
     },
     {
@@ -145,7 +137,7 @@ const mapper = [
         name: 'J.A.R.V.I.S.',
         title: 'Mapper',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/1198620462675132446/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/548973605724225543/' },
         ]
     },
 ]
