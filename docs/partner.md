@@ -403,7 +403,7 @@ const German_RP_Server = [
 </VPTeamPageSection>
 
 <VPTeamPageSection>
-    <template #title>German RR Server</template>
+    <template #title>German RP Server</template>
     <template #lead></template>
     <template #members>
      <VPTeamMembers size="medium" :members="German_RP_Server" />
@@ -417,7 +417,7 @@ const German_RP_Server = [
       <li>Beta access for specific scripts and mappings</li>
       <li>Advertisement for your RP server</li>
       <h1>💿 TIER I:</h1>
-      <li>Advertisement for your RP serve</li>
+      <li>Advertisement for your RP server</li>
   </template>
 </VPTeamPageSection>
 </VPTeamPage>
