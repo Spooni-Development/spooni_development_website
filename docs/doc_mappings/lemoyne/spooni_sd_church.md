@@ -25,7 +25,6 @@ To install spooni_sd_church:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-
 | Church                    | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Doors               | `[208893760] = {208893760, -1396774526, "door46", 2741.929931640625, -1263.373046875, 49.95296478271484}` <br> `[659041513] = {659041513, -1695431192, "door47", 2740.77197265625, -1265.0340576171875, 49.95296478271484}`
