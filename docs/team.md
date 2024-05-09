@@ -96,7 +96,7 @@ const artist = [
 
 const developer = [
     {
-        avatar: 'https://avatars.githubusercontent.com/u/111930499?v=4',
+        avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/94bdab75a18e8191e71478bcc86e414d.webp?size=128',
         name: 'Emotion',
         title: 'Developer',
         links: [
