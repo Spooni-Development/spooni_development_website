@@ -25,7 +25,6 @@ To install spooni_build_my_home:
   - `ensure spooni_build_my_home`
 - Execute the SQL file
   - `spooni_houses.sql`
-  - `items.sql`
 - Now you can configure and translate the script as you like
   - `config.lua`
   - `translation.lua`
