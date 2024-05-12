@@ -45,7 +45,7 @@ const International_Scripting = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/907324006699499570/aa5116fc14d68c59f8eaf7c0b3cea0a2.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/icons/907324006699499570/09592146e6269e1720f6322170c3d532.webp?size=128',
         name: 'SIREC STUDIO',
         title: '🔧' ,
         links: [
