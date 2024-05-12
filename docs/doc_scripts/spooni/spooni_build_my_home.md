@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 Build my Home <Badge type="danger" text="IN WORK"/>
+# 🏠 Build my Home
 Documentation relating to the [spooni_build_my_home](https://spooni-mapping.tebex.io/package/6193414).
 
 ___
