@@ -18,7 +18,9 @@ To install spooni_sd_fight_club:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_fight_club`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_fight_club`
+  ```
+    ensure spooni_sd_fight_club
+  ```
 - At the end
   - Restart the server
 

@@ -18,7 +18,9 @@ To install spooni_blackmarket:
 - Drag and drop the resource into your resources folder
   - `spooni_blackmarket`
 - Add this ensure in your server.cfg
-  - `ensure spooni_blackmarket`
+  ```
+    ensure spooni_build_my_home
+  ```
 - Execute the SQL file
   - `blackmarket.sql`
 - Now you can configure and translate the script as you like

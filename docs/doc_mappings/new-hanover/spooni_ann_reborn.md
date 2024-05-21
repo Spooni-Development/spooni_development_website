@@ -18,7 +18,9 @@ To install spooni_ann_reborn:
 - Drag and drop the resource into your resources folder
   - `spooni_ann_reborn`
 - Add this ensure in your server.cfg
-  - `ensure spooni_ann_reborn`
+  ```
+    ensure spooni_ann_reborn
+  ```
 - At the end
   - Restart the server
 

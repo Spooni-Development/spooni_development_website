@@ -18,7 +18,9 @@ To install spooni_sd_villa_4:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_villa_4`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_villa_4`
+  ```
+    ensure spooni_sd_villa_4
+  ```
 - At the end
   - Restart the server
 

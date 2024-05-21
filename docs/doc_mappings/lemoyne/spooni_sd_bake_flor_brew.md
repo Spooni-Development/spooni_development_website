@@ -18,7 +18,9 @@ To install spooni_sd_bake_flor_brew:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_bake_flor_brew`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_bake_flor_brew`
+  ```
+    ensure spooni_sd_bake_flor_brew
+  ```
 - At the end
   - Restart the server
 

@@ -22,7 +22,9 @@ To install spooni_build_my_home:
 - Drag and drop the resource into your resources folder
   - `spooni_build_my_home`
 - Add this ensure in your server.cfg
-  - `ensure spooni_build_my_home`
+  ```
+    ensure spooni_build_my_home
+  ```
 - Execute the SQL file
   - `spooni_houses.sql`
 - Now you can configure and translate the script as you like

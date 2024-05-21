@@ -18,7 +18,9 @@ To install spooni_sd_spaldings:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_spaldings`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_spaldings`
+  ```
+    ensure spooni_sd_spaldings
+  ```
 - At the end
   - Restart the server
 

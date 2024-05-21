@@ -18,7 +18,9 @@ To install spooni_xmas:
 - Drag and drop the resource into your resources folder
   - `spooni_xmas`
 - Add this ensure in your server.cfg
-  - `ensure spooni_xmas`
+  ```
+    ensure spooni_xmas
+  ```
 - Execute the SQL file
   - `xmas.sql`
 - Now you can configure and translate the script as you like

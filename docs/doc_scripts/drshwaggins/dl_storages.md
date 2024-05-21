@@ -18,7 +18,9 @@ To install dl_storages:
 - Drag and drop the resource into your resources folder
   - `dl_storages`
 - Add this ensure in your server.cfg
-  - `ensure dl_storages`
+  ```
+    ensure dl_storages
+  ```
 - Execute the SQL file
   - `storages.sql`
 - Now you can configure and translate the script as you like

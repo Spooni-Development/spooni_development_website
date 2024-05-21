@@ -18,7 +18,9 @@ To install spooni_van_stable_house:
 - Drag and drop the resource into your resources folder
   - `spooni_van_stable_house`
 - Add this ensure in your server.cfg
-  - `ensure spooni_van_stable_house`
+  ```
+    ensure spooni_van_stable_house
+  ```
 - At the end
   - Restart the server
 

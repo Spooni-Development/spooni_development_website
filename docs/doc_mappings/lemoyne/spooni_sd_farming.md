@@ -18,7 +18,9 @@ To install spooni_sd_farming:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_farming`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_farming`
+  ```
+    ensure spooni_sd_farming
+  ```
 - At the end
   - Restart the server
 

@@ -18,7 +18,9 @@ To install spooni_lone_mule_stead:
 - Drag and drop the resource into your resources folder
   - `spooni_lone_mule_stead`
 - Add this ensure in your server.cfg
-  - `ensure spooni_lone_mule_stead`
+  ```
+    ensure spooni_lone_mule_stead
+  ```
 - At the end
   - Restart the server
 

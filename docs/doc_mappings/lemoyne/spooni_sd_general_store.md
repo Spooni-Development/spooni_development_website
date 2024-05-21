@@ -18,7 +18,9 @@ To install spooni_sd_general_store:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_general_store`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_general_store`
+  ```
+    ensure spooni_sd_general_store
+  ```
 - At the end
   - Restart the server
 

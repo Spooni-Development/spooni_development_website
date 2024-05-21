@@ -18,7 +18,9 @@ To install spooni_cumberland_crest:
 - Drag and drop the resource into your resources folder
   - `spooni_cumberland_crest`
 - Add this ensure in your server.cfg
-  - `ensure spooni_cumberland_crest`
+  ```
+    ensure spooni_cumberland_crest
+  ```
 - At the end
   - Restart the server
 

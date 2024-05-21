@@ -18,7 +18,9 @@ To install spooni_emerald_saloon:
 - Drag and drop the resource into your resources folder
   - `spooni_emerald_saloon`
 - Add this ensure in your server.cfg
-  - `ensure spooni_emerald_saloon`
+  ```
+    ensure spooni_emerald_saloon
+  ```
 - At the end
   - Restart the server
 

@@ -18,7 +18,9 @@ To install spooni_hagen_orchards:
 - Drag and drop the resource into your resources folder
   - `spooni_hagen_orchards`
 - Add this ensure in your server.cfg
-  - `ensure spooni_hagen_orchards`
+  ```
+    ensure spooni_hagen_orchards
+  ```
 - At the end
   - Restart the server
 

@@ -18,7 +18,9 @@ To install spooni_sd_promenade:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_promenade`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_promenade`
+  ```
+    ensure spooni_sd_promenade
+  ```
 - At the end
   - Restart the server
 

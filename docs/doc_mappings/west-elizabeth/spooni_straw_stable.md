@@ -18,7 +18,9 @@ To install spooni_straw_stable:
 - Drag and drop the resource into your resources folder
   - `spooni_straw_stable`
 - Add this ensure in your server.cfg
-  - `ensure spooni_straw_stable`
+  ```
+    ensure spooni_straw_stable
+  ```
 - At the end
   - Restart the server
 

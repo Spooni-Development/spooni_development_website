@@ -18,7 +18,9 @@ To install spooni_sd_jeweler:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_jeweler`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_jeweler`
+  ```
+    ensure spooni_sd_jeweler
+  ```
 - At the end
   - Restart the server
 

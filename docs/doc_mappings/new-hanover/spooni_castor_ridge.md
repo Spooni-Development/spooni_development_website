@@ -18,7 +18,9 @@ To install spooni_castor_ridge:
 - Drag and drop the resource into your resources folder
   - `spooni_castor_ridge`
 - Add this ensure in your server.cfg
-  - `ensure spooni_castor_ridge`
+  ```
+    ensure spooni_castor_ridge
+  ```
 - At the end
   - Restart the server
 

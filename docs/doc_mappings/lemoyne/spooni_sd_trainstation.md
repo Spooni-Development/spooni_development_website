@@ -18,7 +18,9 @@ To install spooni_sd_trainstation:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_trainstation`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_trainstation`
+  ```
+    ensure spooni_sd_trainstation
+  ```
 - At the end
   - Restart the server
 

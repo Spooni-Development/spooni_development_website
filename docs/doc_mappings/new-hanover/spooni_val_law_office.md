@@ -18,7 +18,9 @@ To install spooni_val_law_office:
 - Drag and drop the resource into your resources folder
   - `spooni_val_law_office`
 - Add this ensure in your server.cfg
-  - `ensure spooni_val_law_office`
+  ```
+    ensure spooni_val_law_office
+  ```
 - At the end
   - Restart the server
 

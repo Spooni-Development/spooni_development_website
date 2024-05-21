@@ -18,7 +18,9 @@ To install spooni_valley_view_ranch:
 - Drag and drop the resource into your resources folder
   - `spooni_valley_view_ranch`
 - Add this ensure in your server.cfg
-  - `ensure spooni_valley_view_ranch`
+  ```
+    ensure spooni_valley_view_ranch
+  ```
 - At the end
   - Restart the server
 

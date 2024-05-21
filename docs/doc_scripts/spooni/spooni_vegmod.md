@@ -15,7 +15,9 @@ spooni_vegmod works Standalone.
 - Drag and drop the resource into your resources folder
   - `spooni_vegmod`
 - Add this ensure in your server.cfg
-  - `ensure spooni_vegmod`
+  ```
+    ensure spooni_vegmod
+  ```
 - At the end
   - Restart the server
 

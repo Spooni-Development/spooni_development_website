@@ -18,7 +18,9 @@ To install spooni_sd_church:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_church`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_church`
+  ```
+    ensure spooni_sd_church
+  ```
 - At the end
   - Restart the server
 

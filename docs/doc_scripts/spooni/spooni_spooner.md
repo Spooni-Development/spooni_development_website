@@ -21,8 +21,10 @@ To install spooni_spooner:
   ```
 - Drag and drop the resource into your resources folder
   - `spooni_spooner`
-- Add this ensure in your server.cfg
-  - `ensure spooni_spooner`
+- Add this ensure in your server.cfg  
+  ```
+    ensure spooni_spooner
+  ```
 - At the end
   - Restart the server
 

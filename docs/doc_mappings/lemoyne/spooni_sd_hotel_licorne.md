@@ -18,7 +18,9 @@ To install spooni_sd_hotel_licorne:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_hotel_licorne`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_hotel_licorne`
+  ```
+    ensure spooni_sd_hotel_licorne
+  ```
 - At the end
   - Restart the server
 

@@ -18,7 +18,9 @@ To install spooni_hobbit_house:
 - Drag and drop the resource into your resources folder
   - `spooni_hobbit_house`
 - Add this ensure in your server.cfg
-  - `ensure spooni_hobbit_house`
+  ```
+    ensure spooni_hobbit_house
+  ```
 - At the end
   - Restart the server
 

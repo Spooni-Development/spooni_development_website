@@ -18,7 +18,9 @@ To install spooni_sd_courthouse:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_courthouse`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_courthouse`
+  ```
+    ensure spooni_sd_courthouse
+  ```
 - At the end
   - Restart the server
 

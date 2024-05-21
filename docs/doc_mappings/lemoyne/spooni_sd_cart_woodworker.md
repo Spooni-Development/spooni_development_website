@@ -18,7 +18,9 @@ To install spooni_sd_cart_woodworker:
 - Drag and drop the resource into your resources folder
   - `spooni_sd_cart_woodworker`
 - Add this ensure in your server.cfg
-  - `ensure spooni_sd_cart_woodworker`
+  ```
+    ensure spooni_sd_cart_woodworker
+  ```
 - At the end
   - Restart the server
 

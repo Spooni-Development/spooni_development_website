@@ -18,7 +18,9 @@ To install dl_dbbackup:
 - Drag and drop the resource into your resources folder
   - `dl_dbbackup`
 - Add this ensure in your server.cfg
-  - `ensure dl_dbbackup`
+  ```
+    ensure dl_dbbackup
+  ```
 - Now you can configure and translate the script as you like
   - `config.lua`
 - At the end

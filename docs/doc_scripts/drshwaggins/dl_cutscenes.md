@@ -18,7 +18,9 @@ To install dl_cutscenes:
 - Drag and drop the resource into your resources folder
   - `dl_cutscenes`
 - Add this ensure in your server.cfg
-  - `ensure dl_cutscenes`
+  ```
+    ensure dl_cutscenes
+  ```
 - Now you can configure and translate the script as you like
   - `config.lua`
 - At the end

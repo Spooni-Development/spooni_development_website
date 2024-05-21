@@ -18,7 +18,9 @@ To install spooni_mac_farlanes_ranch:
 - Drag and drop the resource into your resources folder
   - `spooni_mac_farlanes_ranch`
 - Add this ensure in your server.cfg
-  - `ensure spooni_mac_farlanes_ranch`
+  ```
+    ensure spooni_mac_farlanes_ranch
+  ```
 - At the end
   - Restart the server
 

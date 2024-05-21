@@ -18,7 +18,9 @@ To install dl_farmroutes:
 - Drag and drop the resource into your resources folder
   - `dl_farmroutes`
 - Add this ensure in your server.cfg
-  - `ensure dl_farmroutes`
+  ```
+    ensure dl_farmroutes
+  ```
 - Now you can configure and translate the script as you like
   - `config.lua`
 - At the end

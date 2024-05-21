@@ -18,7 +18,9 @@ To install spooni_bacchus_station:
 - Drag and drop the resource into your resources folder
   - `spooni_bacchus_station`
 - Add this ensure in your server.cfg
-  - `ensure spooni_bacchus_station`
+  ```
+    ensure spooni_bacchus_station
+  ```
 - At the end
   - Restart the server
 

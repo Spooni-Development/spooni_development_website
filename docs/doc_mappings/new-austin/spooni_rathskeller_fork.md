@@ -18,7 +18,9 @@ To install spooni_rathskeller_fork:
 - Drag and drop the resource into your resources folder
   - `spooni_rathskeller_fork`
 - Add this ensure in your server.cfg
-  - `ensure spooni_rathskeller_fork`
+  ```
+    ensure spooni_rathskeller_fork
+  ```
 - At the end
   - Restart the server
 

@@ -18,7 +18,9 @@ To install dl_questionwhitelist:
 - Drag and drop the resource into your resources folder
   - `dl_questionwhitelist`
 - Add this ensure in your server.cfg
-  - `ensure dl_questionwhitelist`
+  ```
+    ensure dl_questionwhitelist
+  ```
 - Execute the SQL file
   - `sql.sql`
 - Now you can configure and translate the script as you like

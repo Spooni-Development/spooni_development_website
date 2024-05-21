@@ -18,7 +18,9 @@ To install spooni_secretcellar:
 - Drag and drop the resource into your resources folder
   - `spooni_secretcellar`
 - Add this ensure in your server.cfg
-  - `ensure spooni_secretcellar`
+  ```
+    ensure spooni_secretcellar
+  ```
 - At the end
   - Restart the server
 

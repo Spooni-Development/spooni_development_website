@@ -18,7 +18,9 @@ To install spooni_caliga_hall:
 - Drag and drop the resource into your resources folder
   - `spooni_caliga_hall`
 - Add this ensure in your server.cfg
-  - `ensure spooni_caliga_hall`
+  ```
+    ensure spooni_caliga_hall
+  ```
 - At the end
   - Restart the server
 

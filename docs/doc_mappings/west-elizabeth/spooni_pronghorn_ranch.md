@@ -18,7 +18,9 @@ To install spooni_pronghorn_ranch:
 - Drag and drop the resource into your resources folder
   - `spooni_pronghorn_ranch`
 - Add this ensure in your server.cfg
-  - `ensure spooni_pronghorn_ranch`
+  ```
+    ensure spooni_pronghorn_ranch
+  ```
 - At the end
   - Restart the server
 

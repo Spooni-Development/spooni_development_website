@@ -20,7 +20,9 @@ To install spooni_bla_reborn:
 - Drag and drop the resource into your resources folder
   - `spooni_bla_reborn`
 - Add this ensure in your server.cfg
-  - `ensure spooni_bla_reborn`
+  ```
+    ensure spooni_bla_reborn
+  ```
 - At the end
   - Restart the server
 

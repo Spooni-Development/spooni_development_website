@@ -18,7 +18,9 @@ To install dl_society:
 - Drag and drop the resource into your resources folder
   - `dl_society`
 - Add this ensure in your server.cfg
-  - `ensure dl_society`
+  ```
+    ensure dl_society
+  ```
 - Execute the SQL file
   - `society.sql`
 - Now you can configure and translate the script as you like

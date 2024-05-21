@@ -18,7 +18,9 @@ To install spooni_oil_worker_houses:
 - Drag and drop the resource into your resources folder
   - `spooni_oil_worker_houses`
 - Add this ensure in your server.cfg
-  - `ensure spooni_oil_worker_houses`
+  ```
+    ensure spooni_oil_worker_houses
+  ```
 - At the end
   - Restart the server
 

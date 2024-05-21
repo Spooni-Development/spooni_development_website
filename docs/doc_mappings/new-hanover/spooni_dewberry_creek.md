@@ -18,7 +18,9 @@ To install spooni_dewberry_creek:
 - Drag and drop the resource into your resources folder
   - `spooni_dewberry_creek`
 - Add this ensure in your server.cfg
-  - `ensure spooni_dewberry_creek`
+  ```
+    ensure spooni_dewberry_creek
+  ```
 - At the end
   - Restart the server
 

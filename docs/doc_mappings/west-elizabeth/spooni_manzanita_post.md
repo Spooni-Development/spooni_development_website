@@ -18,7 +18,9 @@ To install spooni_manzanita_post:
 - Drag and drop the resource into your resources folder
   - `spooni_manzanita_post`
 - Add this ensure in your server.cfg
-  - `ensure spooni_manzanita_post`
+  ```
+    ensure spooni_manzanita_post
+  ```
 - At the end
   - Restart the server
 

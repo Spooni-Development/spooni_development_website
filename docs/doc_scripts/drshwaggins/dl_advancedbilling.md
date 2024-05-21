@@ -18,7 +18,9 @@ To install dl_advancedbilling:
 - Drag and drop the resource into your resources folder
   - `dl_advancedbilling`
 - Add this ensure in your server.cfg
-  - `ensure dl_advancedbilling`
+  ```
+    ensure dl_advancedbilling
+  ```
 - Execute the SQL file
   - `mybills.sql`
 - Now you can configure and translate the script as you like

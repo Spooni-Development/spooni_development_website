@@ -18,7 +18,9 @@ To install spooni_bra_storage_house:
 - Drag and drop the resource into your resources folder
   - `spooni_bra_storage_house`
 - Add this ensure in your server.cfg
-  - `ensure spooni_bra_storage_house`
+  ```
+    ensure spooni_bra_storage_house
+  ```
 - At the end
   - Restart the server
 

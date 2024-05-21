@@ -18,7 +18,9 @@ To install spooni_thl_distillery:
 - Drag and drop the resource into your resources folder
   - `spooni_thl_distillery`
 - Add this ensure in your server.cfg
-  - `ensure spooni_thl_distillery`
+  ```
+    ensure spooni_thl_distillery
+  ```
 - At the end
   - Restart the server
 

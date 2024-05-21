@@ -18,7 +18,9 @@ To install spooni_moonstone_pond:
 - Drag and drop the resource into your resources folder
   - `spooni_moonstone_pond`
 - Add this ensure in your server.cfg
-  - `ensure spooni_moonstone_pond`
+  ```
+    ensure spooni_moonstone_pond
+  ```
 - At the end
   - Restart the server
 

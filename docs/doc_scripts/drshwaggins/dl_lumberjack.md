@@ -18,7 +18,9 @@ To install dl_lumberjack:
 - Drag and drop the resource into your resources folder
   - `dl_lumberjack`
 - Add this ensure in your server.cfg
-  - `ensure dl_lumberjack`
+  ```
+    ensure dl_lumberjack
+  ```
 - Execute the SQL file
   - `vorp_redem.sql` or `rsg.sql`
 - Now you can configure and translate the script as you like
