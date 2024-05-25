@@ -19,7 +19,7 @@ To install spooni_blackmarket:
   - `spooni_blackmarket`
 - Add this ensure in your server.cfg
   ```
-    ensure spooni_build_my_home
+    ensure spooni_blackmarket
   ```
 - Execute the SQL file
   - `blackmarket.sql`
