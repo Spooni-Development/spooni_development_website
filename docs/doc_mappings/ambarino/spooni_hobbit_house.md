@@ -29,4 +29,4 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 ## 2. For developers
 | Doors                     | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
-| Front Door                | [716373713] = {716373713,1502124512,"dis_grz_colony_buildingdoor",-746.21899414062,1827.1379394531,237.69999694824}
+| Front Door                | `[716373713] = {716373713, 1502124512, "dis_grz_colony_buildingdoor", -746.21899414062, 1827.1379394531, 237.69999694824}`
