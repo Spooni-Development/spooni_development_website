@@ -136,11 +136,11 @@ export default {
             // { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
             { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' },
             { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
-            { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_jobblips' },
+            { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_job_blips' },
             { text: "🧩 Prop Loader", link:'doc_scripts/spooni/spooni_prop_loader' },
             { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
             { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
-            { text: "🛞 Vehicle Spawner", link:'doc_scripts/spooni/spooni_vehicleSpawn' },
+            { text: "🛞 Vehicle Loader", link:'doc_scripts/spooni/spooni_vehicle_loader' },
             // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
 
             { text: "DrShwaggins Scripts", collapsed: true, items:[

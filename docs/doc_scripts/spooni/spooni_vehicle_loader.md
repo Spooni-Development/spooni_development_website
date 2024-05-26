@@ -4,18 +4,18 @@ next: false
 aside: false
 ---
 
-# 🛞 Vehicle Spawner
-Documentation relating to the spooni_vehicleSpawn.
+# 🛞 Vehicle Loader
+Documentation relating to the spooni_vehicle_loader.
 
 ## 1. Installation
-spooni_vehicleSpawn works only with VORP, RSG, QBR, RPX & RedEM.
+spooni_vehicle_loader works only with VORP, RSG, QBR, RPX & RedEM.
 
 - Download the resource
-  - On [Github](https://github.com/Spooni-Development/spooni_vehicleSpawn)
+  - On [Github](https://github.com/Spooni-Development/spooni_vehicle_loader)
 - Drag and drop the resource into your resources folder
-  - `spooni_vehicleSpawn`
+  - `spooni_vehicle_loader`
 - Add this ensure in your server.cfg
-  - `ensure spooni_vehicleSpawn`
+  - `ensure spooni_vehicle_loader`
 - At the end
   - Restart the server
 
@@ -110,4 +110,5 @@ Config.Vehicles = {
         Freeze = true,
     },
 }
+```
 :::
