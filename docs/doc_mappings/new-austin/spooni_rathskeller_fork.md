@@ -15,6 +15,8 @@ ___
 spooni_rathskeller_fork works Standalone.  
 
 To install spooni_rathskeller_fork:
+- Ensure that all requirements are installed
+  - [redm-objectloader](https://github.com/kibook/redm-objectloader)
 - Drag and drop the resource into your resources folder
   - `spooni_rathskeller_fork`
 - Add this ensure in your server.cfg
