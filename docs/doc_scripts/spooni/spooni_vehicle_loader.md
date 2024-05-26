@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 🛞 Vehicle Loader
-Documentation relating to the spooni_vehicle_loader.
+Documentation relating to the [spooni_vehicle_loader](https://github.com/Spooni-Development/spooni_vehicle_loader).
 
 ## 1. Installation
 spooni_vehicle_loader works only with VORP, RSG, QBR, RPX & RedEM.
