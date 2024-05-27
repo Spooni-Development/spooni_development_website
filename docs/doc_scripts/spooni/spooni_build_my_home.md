@@ -9,7 +9,7 @@ Documentation relating to the [spooni_build_my_home](https://spooni-mapping.tebe
 
 ___
 <br>
-<iframe width="800" height="320" src="https://cdn.discordapp.com/attachments/1009153559029366838/1238900799279595600/thumbnail.png?ex=6640f7c8&is=663fa648&hm=23a39ea0ba17195acf67aba9fadba2b4814b07351fe91eae876a79fca811ed1d&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Add-ons
 - [🏠 Build my Home V2](https://spooni-mapping.tebex.io/package/6194362)

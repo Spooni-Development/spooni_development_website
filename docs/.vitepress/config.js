@@ -161,5 +161,15 @@ export default {
       message: "Released under the GNU General Public License v3.0.",
       copyright: 'Copyright © 2022 SPOONI Development',
     },
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            'vue-vendor': ['vue', 'vue-router', 'vuex']
+          }
+        }
+      },
+      chunkSizeWarningLimit: 1000
+    },
   },
 };
