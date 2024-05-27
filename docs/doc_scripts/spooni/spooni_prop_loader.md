@@ -29,7 +29,7 @@ To install spooni_prop_loader:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. Usage
-Allows efficient loading of objects in a polyzone through optimization techniques, which improves resource utilization and increases performance.
+Provides an efficient method for loading objects within a polyzone, which significantly improves performance. Unlike traditional methods, it is no longer necessary to use XML's, which simplifies and speeds up the development process. However, it should be noted that doors do not work with this script and the placement of house props is not recommended.
 
 ## 3. For developers
 
