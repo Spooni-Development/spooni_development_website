@@ -5,11 +5,11 @@ aside: false
 ---
 
 # 🧩 Prop Loader
-Documentation relating to the [spooni_prop_loader](https://spooni-mapping.tebex.io/).
+Documentation relating to the [spooni_prop_loader](https://spooni-mapping.tebex.io/package/6284606).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/spooni_prop_loader.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_prop_loader works Standalone. 
@@ -21,7 +21,7 @@ To install spooni_prop_loader:
   ```
     ensure spooni_prop_loader
   ```
-- Now you can configure and translate the script as you like
+- Now you can configure the script as you like
   - `config.lua`
 - At the end
   - Restart the server
