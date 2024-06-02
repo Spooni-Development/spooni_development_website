@@ -42,7 +42,7 @@ export default {
             {text: "🔸Bacchus Station", link:'/doc_mappings/ambarino/spooni_bacchus_station'},
             {text: "🔸Hobbit House", link:'/doc_mappings/ambarino/spooni_hobbit_house'},
             {text: "🔸Moonstone Pond", link:'/doc_mappings/ambarino/spooni_moonstone_pond'},
-
+            {text: "🔸Wapiti", link:'/doc_mappings/ambarino/spooni_wapiti'},
           ]},
 
           { text: "Lemoyne", collapsed: true, items:[
