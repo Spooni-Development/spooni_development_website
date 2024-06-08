@@ -64,6 +64,7 @@ export default {
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/spooni_sd_slums'},
               {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/spooni_sd_spaldings'},
               {text: "🔸Train Station", link:'/doc_mappings/lemoyne/spooni_sd_trainstation'},
+              {text: "🔸Undertaker", link:'/doc_mappings/lemoyne/spooni_sd_undertaker'},
               {text: "🔸Villa 1", link:'/doc_mappings/lemoyne/spooni_sd_villa_1'},
               {text: "🔸Villa 2", link:'/doc_mappings/lemoyne/spooni_sd_villa_2'},
               {text: "🔸Villa 3", link:'/doc_mappings/lemoyne/spooni_sd_villa_3'},

@@ -5,11 +5,11 @@ aside: false
 ---
 
 # 🏠 Wapiti
-Documentation relating to the [spooni_wapiti](https://spooni-mapping.tebex.io/package/).
+Documentation relating to the [spooni_wapiti](https://spooni-mapping.tebex.io/package/6299187).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6dUeDUtCmA?si=gFMr8ZLDhjIPulSc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_wapiti works Standalone.  
