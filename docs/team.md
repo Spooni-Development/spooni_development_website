@@ -120,15 +120,6 @@ const developer = [
             { icon: 'discord', link: 'https://discordapp.com/users/893217081900802101/' },
         ]
     },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/159488771711172608/9a30377851c92d6fc0b8f195ab1da2d7.webp?size=128',
-        name: 'IAMGROOT',
-        title: 'Developer',
-        links: [
-            { icon: 'github', link: 'https://github.com/TheLastSamurai123' },
-            { icon: 'discord', link: 'https://discordapp.com/users/159488771711172608/' },
-        ]
-    },
 ]
 
 const mapper = [
@@ -154,6 +145,38 @@ const mapper = [
         title: 'Mapper',
         links: [
             { icon: 'discord', link: 'https://discordapp.com/users/548973605724225543/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/176c9ceeaea32b91580c6c722de4cd12.webp?size=128',
+        name: 'Leesh',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/355024108301582349/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/236592676449943552/26a62fc46a38af4eefbc4c76aec12b1d.webp?size=128',
+        name: 'SkouJ',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/236592676449943552/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/361c0278e0c0acabc95895dd68b1e749.webp?size=128',
+        name: 'Sprudeli',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/404260740275503105/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/459014447881781248/efa6831ca0e0bd5617dd2d21caa70922.webp?size=128',
+        name: 'Yeehaw Ren',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/459014447881781248/' },
         ]
     },
 ]
