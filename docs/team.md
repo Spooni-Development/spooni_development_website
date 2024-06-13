@@ -68,12 +68,13 @@ const artist = [
             { icon: 'discord', link: 'https://discordapp.com/users/540860975218163724/' },
         ]
     },
+    
     {
-        avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/188b5cb17d826ff98cad942e9123703f.webp?size=128',
-        name: 'Coral Star',
+        avatar: 'https://cdn.discordapp.com/avatars/1033065913219555358/70f51bdc031fc05a47f6bfb428af89e4.webp?size==128',
+        name: 'Howard',
         title: '3D Artist',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/1033065913219555358/' },
         ]
     },
     {
