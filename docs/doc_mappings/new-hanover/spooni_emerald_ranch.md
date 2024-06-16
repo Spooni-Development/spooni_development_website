@@ -5,11 +5,11 @@ aside: false
 ---
 
 # 🏠 Emerald Ranch
-Documentation relating to the [spooni_emerald_ranch](https://spooni-mapping.tebex.io/package/).
+Documentation relating to the [spooni_emerald_ranch](https://spooni-mapping.tebex.io/package/6311943).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uGKJsAK5y2c?si=az4h4mi4YAZHEl0J" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_emerald_ranch works Standalone.  
@@ -42,7 +42,6 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 | Front Door (L)            | `[3567554255] = {3567554255, -1497029950, "p_door37x", 1441.9375, 355.8080139160156, 87.49385833740234}`
 | Front Door (R)            | `[3716063363] = {3716063363, -1497029950, "p_door37x", 1441.976806640625, 348.44000244140625, 87.49197387695312}`
 | Side Door                 | `[41511544] = {41511544, -1497029950, "p_door37x", 1442.448974609375, 341.1289978027344, 87.61499786376953}`
-| Cellar Door               | `[817743616] = {817743616, objHash, "objName", coords}`
 
 | Saloon                    | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|

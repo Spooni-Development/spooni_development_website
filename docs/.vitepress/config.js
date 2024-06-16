@@ -103,7 +103,6 @@ export default {
             ]},
             {text: "🔸Cumberland Crest", link:'/doc_mappings/new-hanover/spooni_cumberland_crest'},
             {text: "🔸Dewberry Creek", link:'/doc_mappings/new-hanover/spooni_dewberry_creek'},
-            {text: "🔸Emerald Ranch Saloon", link:'/doc_mappings/new-hanover/spooni_emerald_saloon'},
             {text: "🔸Emerald Ranch", link:'/doc_mappings/new-hanover/spooni_emerald_ranch'},
             {text: "🔸Oil Field Worker Houses", link:'/doc_mappings/new-hanover/spooni_oil_worker_houses'},
 
