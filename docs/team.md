@@ -49,7 +49,7 @@ const director = [
 
 const supervisor = [
     {
-        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/857c45b96fb0f0829578d14f895cd3c5.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/49f8783229956455cc764198834e711d.webp?size=128',
         name: 'FINN',
         title: 'Lead Mapper',
         links: [
@@ -78,17 +78,17 @@ const artist = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/1033065913219555358/70f51bdc031fc05a47f6bfb428af89e4.webp?size=128',
-        name: 'Howard',
-        title: '3D Artist',
+        avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/9f67e8070eabc252309b4a51b52f4784.webp?size=128',
+        name: 'CoralStar',
+        title: 'Junior 3D Artist',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/1033065913219555358/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
         ]
     },
     {
         avatar: 'https://cdn.discordapp.com/avatars/768852909248610365/03794a5ef7af0c08b03b89450c85f05d.webp?size=128',
         name: 'Lovie',
-        title: '3D Artist',
+        title: 'Junior 3D Artist',
         links: [
             { icon: 'discord', link: 'https://discordapp.com/users/768852909248610365/' },
         ]
@@ -133,7 +133,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/590183982885502998/069fccc93c80de758ed1b212511e8c38.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/590183982885502998/3b1dd4aa81a2767e98c1f025253225c0.webp?size=128',
         name: 'Crossvok',
         title: 'Mapper',
         links: [

@@ -78,10 +78,12 @@ export default {
           ]},
 
           { text: "New Austin", collapsed: true, items:[
-            // {text: "Armadillo", collapsed: true, items: [
-            // ]},
+            {text: "Armadillo", collapsed: true, items: [
+              // {text: "🔸Armadillo Reborn", link:'/doc_mappings/new-austin/spooni_arm_reborn'},
+            ]},
             // {text: "Tumbleweed", collapsed: true, items: [
             // ]},
+            {text: "🔸Cholla Springs Alchemist", link:'/doc_mappings/new-austin/spooni_cho_alchemist'},
             {text: "🔸MacFarlane's Ranch", link:'/doc_mappings/new-austin/spooni_mac_farlanes_ranch'},
             {text: "🔸Rathskeller Fork", link:'/doc_mappings/new-austin/spooni_rathskeller_fork'},
             {text: "🔸Thieves' Landing Distillery", link:'/doc_mappings/new-austin/spooni_thl_distillery'},
