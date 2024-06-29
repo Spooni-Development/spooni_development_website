@@ -9,7 +9,7 @@ Documentation relating to the [spooni_oil_worker_houses](https://spooni-mapping.
 
 ___
 <br>
-<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/f34154cc8f0bf71cc7d98a7fabe99487b95ac929.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dTQ6UthT39E?si=qyVLCnrdXLpRIT9C" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_oil_worker_houses works Standalone.  
