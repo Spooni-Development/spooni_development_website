@@ -66,9 +66,9 @@ export default {
               {text: "🔸Train Station", link:'/doc_mappings/lemoyne/spooni_sd_trainstation'},
               {text: "🔸Undertaker", link:'/doc_mappings/lemoyne/spooni_sd_undertaker'},
               {text: "🔸Villa 1", link:'/doc_mappings/lemoyne/spooni_sd_villa_1'},
-              {text: "🔸Villa 2", link:'/doc_mappings/lemoyne/spooni_sd_villa_2'},
-              {text: "🔸Villa 3", link:'/doc_mappings/lemoyne/spooni_sd_villa_3'},
+              {text: "🔸Villa 2 & 3", link:'/doc_mappings/lemoyne/spooni_sd_villa_2'},
               {text: "🔸Villa 4", link:'/doc_mappings/lemoyne/spooni_sd_villa_4'},
+              {text: "🔸Villa 5", link:'/doc_mappings/lemoyne/spooni_sd_villa_5'},
               // {text: "🔸Warehouse", link:'/doc_mappings/lemoyne/spooni_sd_warehouse'},
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},
@@ -106,6 +106,8 @@ export default {
             {text: "🔸Cumberland Crest", link:'/doc_mappings/new-hanover/spooni_cumberland_crest'},
             {text: "🔸Dewberry Creek", link:'/doc_mappings/new-hanover/spooni_dewberry_creek'},
             {text: "🔸Emerald Ranch", link:'/doc_mappings/new-hanover/spooni_emerald_ranch'},
+            {text: "🔸Greenbank Mill", link:'/doc_mappings/new-hanover/spooni_greenbank_mill'},
+
             {text: "🔸Oil Field Worker Houses", link:'/doc_mappings/new-hanover/spooni_oil_worker_houses'},
 
           ]},
