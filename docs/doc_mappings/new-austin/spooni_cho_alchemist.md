@@ -5,7 +5,7 @@ aside: false
 ---
 
 # 🏠 Cholla Springs Alchemist
-Documentation relating to the [spooni_cho_alchemist](https://spooni-mapping.tebex.io/package/).
+Documentation relating to the [spooni_cho_alchemist](https://spooni-mapping.tebex.io/package/6327075).
 
 ___
 <br>
