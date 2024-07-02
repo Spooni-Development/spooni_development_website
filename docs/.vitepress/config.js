@@ -49,7 +49,6 @@ export default {
             // {text: "Rhodes", collapsed: true, items: [
             // ]},
             {text: "St. Denis", collapsed: true, items: [
-              // {text: "🔸Bake + Flor + Brew", link:'/doc_mappings/lemoyne/spooni_sd_bake_flor_brew'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/spooni_sd_cart_woodworker'},              
               {text: "🔸Church", link:'/doc_mappings/lemoyne/spooni_sd_church'},
               {text: "🔸Courthouse", link:'/doc_mappings/lemoyne/spooni_sd_courthouse'},
@@ -59,6 +58,7 @@ export default {
               {text: "🔸General Store", link:'/doc_mappings/lemoyne/spooni_sd_general_store'},
               {text: "🔸Hotel La Licorne", link:'/doc_mappings/lemoyne/spooni_sd_hotel_licorne'},
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/spooni_sd_jeweler'},
+              {text: "🔸Little Italy", link:'/doc_mappings/lemoyne/spooni_sd_little_italy'},
               {text: "🔸Promenade", link:'/doc_mappings/lemoyne/spooni_sd_promenade'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/spooni_sd_policestation'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/spooni_sd_slums'},
