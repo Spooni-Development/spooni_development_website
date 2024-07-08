@@ -20,7 +20,9 @@ To install spooni_job_blips:
 - Drag and drop the resource into your resources folder
   - `spooni_job_blips`
 - Add this ensure in your server.cfg
-  - `ensure spooni_job_blips`
+  ```
+    ensure spooni_job_blips
+  ```
 - Now you can configure and translate the script as you like
   - `config.lua`
   - `translation.lua`

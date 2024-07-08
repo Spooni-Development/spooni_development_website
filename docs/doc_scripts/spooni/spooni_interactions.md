@@ -22,7 +22,14 @@ To install spooni_interactions:
 - Drag and drop the resource into your resources folder
   - `spooni_interactions`
 - Add this ensure in your server.cfg
-  - `ensure spooni_interactions`
+  ```
+    ensure spooni_interactions
+  ```
+- Now you can configure and translate the script as you like
+  - `config.lua`
+  - `translation.lua`
+- At the end
+  - Restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
