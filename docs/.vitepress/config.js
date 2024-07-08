@@ -49,6 +49,8 @@ export default {
             // {text: "Rhodes", collapsed: true, items: [
             // ]},
             {text: "St. Denis", collapsed: true, items: [
+              // {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/spooni_sd_bakery_florist'},
+              // {text: "🔸Brewery", link:'/doc_mappings/lemoyne/spooni_sd_brewery'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/spooni_sd_cart_woodworker'},              
               {text: "🔸Church", link:'/doc_mappings/lemoyne/spooni_sd_church'},
               {text: "🔸Courthouse", link:'/doc_mappings/lemoyne/spooni_sd_courthouse'},
@@ -58,8 +60,7 @@ export default {
               {text: "🔸General Store", link:'/doc_mappings/lemoyne/spooni_sd_general_store'},
               {text: "🔸Hotel La Licorne", link:'/doc_mappings/lemoyne/spooni_sd_hotel_licorne'},
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/spooni_sd_jeweler'},
-              {text: "🔸Little Italy", link:'/doc_mappings/lemoyne/spooni_sd_little_italy'},
-              {text: "🔸Promenade", link:'/doc_mappings/lemoyne/spooni_sd_promenade'},
+              // {text: "🔸Promenade", link:'/doc_mappings/lemoyne/spooni_sd_promenade'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/spooni_sd_policestation'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/spooni_sd_slums'},
               {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/spooni_sd_spaldings'},
@@ -67,7 +68,7 @@ export default {
               {text: "🔸Undertaker", link:'/doc_mappings/lemoyne/spooni_sd_undertaker'},
               {text: "🔸Villa 1", link:'/doc_mappings/lemoyne/spooni_sd_villa_1'},
               {text: "🔸Villa 2, 3 & 4", link:'/doc_mappings/lemoyne/spooni_sd_villa_2_3_4'},
-              {text: "🔸Villa 5", link:'/doc_mappings/lemoyne/spooni_sd_villa_5'},
+              // {text: "🔸Villa 5", link:'/doc_mappings/lemoyne/spooni_sd_villa_5'},
               // {text: "🔸Warehouse", link:'/doc_mappings/lemoyne/spooni_sd_warehouse'},
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},

@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 St. Denis Promenade <Badge type="danger" text="IN WORK"/>
+# 🏠 St. Denis Promenade
 Documentation relating to the [spooni_sd_promenade](https://spooni-mapping.tebex.io/package/).
 
 ___
