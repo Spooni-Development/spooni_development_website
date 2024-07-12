@@ -49,7 +49,7 @@ export default {
             // {text: "Rhodes", collapsed: true, items: [
             // ]},
             {text: "St. Denis", collapsed: true, items: [
-              // {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/spooni_sd_bakery_florist'},
+              {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/spooni_sd_bakery_florist'},
               // {text: "🔸Brewery", link:'/doc_mappings/lemoyne/spooni_sd_brewery'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/spooni_sd_cart_woodworker'},              
               {text: "🔸Church", link:'/doc_mappings/lemoyne/spooni_sd_church'},
