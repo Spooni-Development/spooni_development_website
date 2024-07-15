@@ -293,6 +293,22 @@ const International_RP_Server = [
             { icon: 'discord', link: 'https://discord.gg/westlandsrp ' },
         ]
     },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/',
+        name: 'California Roleplay',
+        title: '💿 TIER I',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/californiaroleplay ' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/',
+        name: 'Western Dreams',
+        title: '💿 TIER I',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/westerndreams ' },
+        ]
+    },
 ]
 
 const German_RP_Server = [
