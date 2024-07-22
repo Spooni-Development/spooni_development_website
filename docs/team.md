@@ -85,14 +85,6 @@ const artist = [
             { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
         ]
     },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/768852909248610365/03794a5ef7af0c08b03b89450c85f05d.webp?size=128',
-        name: 'Lovie',
-        title: 'Junior 3D Artist',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/768852909248610365/' },
-        ]
-    },
 ]
 
 const developer = [
