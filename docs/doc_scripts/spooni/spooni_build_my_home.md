@@ -5,15 +5,11 @@ aside: false
 ---
 
 # 🏠 Build my Home
-Documentation relating to the [spooni_build_my_home](https://spooni-mapping.tebex.io/package/6193414).
+Documentation relating to the [spooni_build_my_home](https://spooni-mapping.tebex.io/package/6194363).
 
 ___
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Add-ons
-- [🏠 Build my Home V2](https://spooni-mapping.tebex.io/package/6194362)
-- [🏠 Build my Home V3](https://spooni-mapping.tebex.io/package/6194363)
 
 ## 1. Installation
 spooni_build_my_home works only with VORP, RSG & RPX. 
@@ -29,6 +25,8 @@ To install spooni_build_my_home:
   - `spooni_houses.sql`
 - Now you can configure and translate the script as you like
   - `config.lua`
+  - `functions.lua`
+  - `furniture.lua`
   - `translation.lua`
 - At the end
   - Restart the server
@@ -47,12 +45,17 @@ Config = {}
 Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg)
 Config.Locale = 'en' -- select your language (en, de, fr, es)
 Config.DeleteCommand = 'deletespoonihouse' -- command to delete the houses
+Config.BuildingJob = false -- turn false to disable joblock
 Config.NoTXAdmin = false -- if you have no txAdmin on your Server.
 Config.Furniture = true -- if you want to furnish the houses.
 Config.Blip = true -- if you want a blip for the houses.
 Config.Dresser = true -- if you want to have a wardrobe in the houses.
 Config.Storage = true -- if you want to have a storage in the houses.
+Config.Ledger = true -- if you want to have a ledger in the houses.
+Config.OnlyOwnerCanAccessLedger = true
+Config.TaxSystem = true -- if you want to have a tax for the houses.
 Config.DistanceBetweenHouses = 25.0 -- the minimum distance a new house must have before it can be built.
+Config.FurnitureZone = 100.0
 
 Config.BlockedZones = {
     [1] = { -- St Denis
@@ -93,6 +96,13 @@ Config.BlockedZones = {
     },
 }
 
+Config.WhitelistedZones = {
+    -- [1] = { -- St Denis
+    --     coords = vector3(2605.814, -1263.41, 52.681),
+    --     distance = 150.0,
+    -- },
+}
+
 Config.HousePromptKeys = {
     ['toggle_lock'] = `INPUT_INTERACT_OPTION1`,   -- [G]
     ['furniture_placement'] = `INPUT_FRONTEND_LEFT`, -- [LEFT ARROW]
@@ -104,6 +114,9 @@ Config.HousePromptKeys = {
     ['place_dresser'] = `INPUT_INTERACT_OPTION1`, -- [G]
     ['remove_dresser'] = `INPUT_FRONTEND_RUP`, -- [LEFT CONTROL]
     ['open_dresser'] = `INPUT_INTERACT_OPTION1`, -- [G]
+    ['ledger_deposit_prompt'] = `INPUT_FRONTEND_RUP`, -- [LEFT CONTROL]
+    ['ledger_remove_prompt'] = `INPUT_INTERACT_POS`,   -- [R]
+    ['ledger_check_prompt'] = `INPUT_INTERACT_OPTION1`, -- [G]
     ['furniture_removal'] = `INPUT_FRONTEND_RUP`, -- [LEFT CONTROL]
 }
 
@@ -129,138 +142,9 @@ Config.Houses = {
     [1] = {                     -- house
         StorageLimit = 25,      -- the maximum number of items you can have in storage
         StorageWeight = 3500,   -- the maximum weight you can have in storage
-        Setup = {
-            [1] = { -- Step
-                Timer = 10000,  -- building time
-                Items = {
-                    wood = 1,   -- item name -- quantity
-                },
-            },
-            [2] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [3] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [4] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [5] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [6] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [7] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [8] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [9] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [10] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [11] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [12] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [13] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [14] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [15] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [16] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [17] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [18] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [19] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [20] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [21] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-        },
-    },
-    [2] = {                    -- house
-        StorageLimit = 25,     -- the maximum number of items you can have in storage
-        StorageWeight = 3500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -286,103 +170,34 @@ Config.Houses = {
                     wood = 1,
                 },
             },
-            [5] = {
+        },
+    },
+    [2] = {                    -- house
+        StorageLimit = 25,     -- the maximum number of items you can have in storage
+        StorageWeight = 3500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
+        Setup = {
+            [1] = {            -- Step
+                Timer = 10000, -- building time
+                Items = {
+                    wood = 1,  -- item name -- quantity
+                },
+            },
+            [2] = {
                 Timer = 10000,
                 Items = {
                     wood = 1,
                 },
             },
-            [6] = {
+            [3] = {
                 Timer = 10000,
                 Items = {
                     wood = 1,
                 },
             },
-            [7] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [8] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [9] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [10] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [11] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [12] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [13] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [14] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [15] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [16] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [17] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [18] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [19] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [20] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [21] = {
+            [4] = {
                 Timer = 10000,
                 Items = {
                     wood = 1,
@@ -393,6 +208,9 @@ Config.Houses = {
     [3] = {                    -- house
         StorageLimit = 30,     -- the maximum number of items you can have in storage
         StorageWeight = 3500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -525,6 +343,9 @@ Config.Houses = {
     [4] = {                    -- house
         StorageLimit = 75,     -- the maximum number of items you can have in storage
         StorageWeight = 7500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -657,6 +478,9 @@ Config.Houses = {
     [5] = {                    -- house
         StorageLimit = 35,     -- the maximum number of items you can have in storage
         StorageWeight = 3500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -789,6 +613,144 @@ Config.Houses = {
     [6] = {                    -- house
         StorageLimit = 35,     -- the maximum number of items you can have in storage
         StorageWeight = 3500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
+        Setup = {
+            [1] = {            -- Step
+                Timer = 10000, -- building time
+                Items = {
+                    wood = 1,  -- item name -- quantity
+                },
+            },
+            [2] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [3] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [4] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [5] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [6] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [7] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [8] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [9] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [10] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [11] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [12] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [13] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [14] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [15] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [16] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [17] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [18] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [19] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [20] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [21] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+        },
+    },
+    [7] = {                    -- house
+        StorageLimit = 35,     -- the maximum number of items you can have in storage
+        StorageWeight = 3500,  -- the maximum weight you can have in storage
+        FurnitureRadius = 80.0, -- the radius in which you can place furniture for this house
+        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
+        TaxAmount = 500, -- amount in cash that must be in ledger
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -919,6 +881,93 @@ Config.Houses = {
         },
     },
 }
+```
+:::
+
+:::details Functions.lua
+```lua
+local VORPcore
+
+if Config.Framework == 'vorp' then
+    VORPcore = exports.vorp_core:GetCore()
+end
+
+-- Notify
+function clNotify(text, error, success)
+    if Config.Framework == "vorp" then
+        if error then
+            VORPcore.NotifyAvanced(text, "menu_textures", "cross", "COLOR_RED", 4000)
+        elseif success then
+            VORPcore.NotifyAvanced(text, "hud_textures", "check", "COLOR_GREEN", 4000)
+        else
+            VORPcore.NotifyAvanced(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+        end
+    end
+    if Config.Framework == "rpx" then
+        if error then
+            exports["rpx-core"]:ShowAdvancedRightNotification(text, "menu_textures", "cross", "COLOR_RED", 4000)
+        elseif success then
+            exports["rpx-core"]:ShowAdvancedRightNotification(text, "hud_textures", "check", "COLOR_GREEN", 4000)
+        else
+            exports["rpx-core"]:ShowAdvancedRightNotification(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+        end
+    end
+    if Config.Framework == "rsg" then
+        if error then
+            TriggerEvent('RSGCore:Notify', text, 'error')
+        elseif success then
+            TriggerEvent('RSGCore:Notify', text, 'success')
+        else
+            TriggerEvent('RSGCore:Notify', text, 'info')
+        end
+    end
+end
+
+function svNotify(src, text, error, success)
+    if Config.Framework == "vorp" then
+        if error then
+            VORPcore.NotifyAvanced(src, text, "menu_textures", "cross", "COLOR_RED", 4000)
+        elseif success then
+            VORPcore.NotifyAvanced(src, text, "hud_textures", "check", "COLOR_GREEN", 4000)
+        else
+            VORPcore.NotifyAvanced(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+        end
+    end
+    if Config.Framework == "rpx" then
+        if error then
+            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "menu_textures", "cross", "COLOR_RED", 4000)
+        elseif success then
+            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "hud_textures", "check", "COLOR_GREEN", 4000)
+        else
+            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+        end
+    end
+    if Config.Framework == "rsg" then
+        if error then
+            TriggerClientEvent('RSGCore:Notify', src, text, 'error')
+        elseif success then
+            TriggerClientEvent('RSGCore:Notify', src, text, 'success')
+        else
+            TriggerClientEvent('RSGCore:Notify', src, text, 'info')
+        end
+    end
+end
+
+-- Wardrobe
+function ClothingMenuEvent()
+    -- TriggerEvent('syn_clothing:OpenOutfits')
+    TriggerEvent('kd_clothingstore:openWardrobe', false)
+end
+
+function CustomNewStageEvent(owner, type, stage)
+    -- Custom Event to trigger when upgrading house / next building step
+end
+
+function TaxNotPaid(houseID, type, ledger)
+    -- Custom Event to trigger when a house has failed paying tax
+    --return false -- use this when the house should not get deleted and only access should get revoked
+    return true -- use this when the house should get deleted from db
+end
 ```
 :::
 
@@ -1754,86 +1803,5 @@ Furniture.Categories = {
         },
     },
 }
-```
-:::
-
-:::details Functions.lua
-```lua
-local VORPcore
-
-if Config.Framework == 'vorp' then
-    VORPcore = exports.vorp_core:GetCore()
-end
-
--- Notify
-function clNotify(text, error, success)
-    if Config.Framework == "vorp" then
-        if error then
-            VORPcore.NotifyAvanced(text, "menu_textures", "cross", "COLOR_RED", 4000)
-        elseif success then
-            VORPcore.NotifyAvanced(text, "hud_textures", "check", "COLOR_GREEN", 4000)
-        else
-            VORPcore.NotifyAvanced(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
-        end
-    end
-    if Config.Framework == "rpx" then
-        if error then
-            exports["rpx-core"]:ShowAdvancedRightNotification(text, "menu_textures", "cross", "COLOR_RED", 4000)
-        elseif success then
-            exports["rpx-core"]:ShowAdvancedRightNotification(text, "hud_textures", "check", "COLOR_GREEN", 4000)
-        else
-            exports["rpx-core"]:ShowAdvancedRightNotification(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
-        end
-    end
-    if Config.Framework == "rsg" then
-        if error then
-            TriggerEvent('RSGCore:Notify', text, 'error')
-        elseif success then
-            TriggerEvent('RSGCore:Notify', text, 'success')
-        else
-            TriggerEvent('RSGCore:Notify', text, 'info')
-        end
-    end
-end
-
-function svNotify(src, text, error, success)
-    if Config.Framework == "vorp" then
-        if error then
-            VORPcore.NotifyAvanced(src, text, "menu_textures", "cross", "COLOR_RED", 4000)
-        elseif success then
-            VORPcore.NotifyAvanced(src, text, "hud_textures", "check", "COLOR_GREEN", 4000)
-        else
-            VORPcore.NotifyAvanced(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
-        end
-    end
-    if Config.Framework == "rpx" then
-        if error then
-            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "menu_textures", "cross", "COLOR_RED", 4000)
-        elseif success then
-            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "hud_textures", "check", "COLOR_GREEN", 4000)
-        else
-            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
-        end
-    end
-    if Config.Framework == "rsg" then
-        if error then
-            TriggerClientEvent('RSGCore:Notify', src, text, 'error')
-        elseif success then
-            TriggerClientEvent('RSGCore:Notify', src, text, 'success')
-        else
-            TriggerClientEvent('RSGCore:Notify', src, text, 'info')
-        end
-    end
-end
-
--- Wardrobe
-function ClothingMenuEvent()
-    -- TriggerEvent('syn_clothing:OpenOutfits')
-    TriggerEvent('kd_clothingstore:openWardrobe', false)
-end
-
-function CustomNewStageEvent(owner, type, stage)
-    -- Custom Event to trigger when upgrading house / next building step
-end
 ```
 :::
