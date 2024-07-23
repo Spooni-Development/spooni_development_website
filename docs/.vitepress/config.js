@@ -46,8 +46,9 @@ export default {
           ]},
 
           { text: "Lemoyne", collapsed: true, items:[
-            // {text: "Rhodes", collapsed: true, items: [
-            // ]},
+            {text: "Rhodes", collapsed: true, items: [
+              {text: "🔸Caravan ", link:'/doc_mappings/lemoyne/spooni_rhodes_caravan'},
+            ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/spooni_sd_bakery_florist'},
               // {text: "🔸Brewery", link:'/doc_mappings/lemoyne/spooni_sd_brewery'},
