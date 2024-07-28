@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏨 Hotel
+# 🏨 Hotel <Badge type="danger" text="IN WORK"/>
 Documentation relating to the [spooni_hotel](https://spooni-mapping.tebex.io/).
 
 ___
@@ -12,7 +12,7 @@ ___
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
-spooni_hotel works only with VORP. 
+spooni_hotel works only with VORP, RSG & RPX. 
 
 To install spooni_hotel:
 - Drag and drop the resource into your resources folder
@@ -32,7 +32,7 @@ To install spooni_hotel:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. Usage
-Go to a configured room and open the menu with the prompt. You can then rent your room there, with money.
+With this script, you can create hotels where guests can rent rooms. The script allows you to name rooms, set prices and determine the rental period. You can also create storage and checkroom areas. It offers an easy way to manage and customize your hotel.
 
 ## 3. For developers
 
