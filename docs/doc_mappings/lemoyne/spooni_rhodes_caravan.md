@@ -4,8 +4,8 @@ next: false
 aside: false
 ---
 
-# 🏠 Rhodes Caravan <Badge type="danger" text="IN WORK"/>
-Documentation relating to the [spooni_rhodes_caravan](https://spooni-mapping.tebex.io/package/).
+# 🏠 Rhodes Caravan
+Documentation relating to the [spooni_rhodes_caravan](https://spooni-mapping.tebex.io/package/6380772).
 
 ___
 <br>
