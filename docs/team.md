@@ -141,7 +141,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/176c9ceeaea32b91580c6c722de4cd12.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/479399d419a00c8df8832406fac01aef.webp?size=128',
         name: 'Leesh',
         title: 'Mapper',
         links: [
@@ -157,7 +157,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/361c0278e0c0acabc95895dd68b1e749.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/fa698d2e1131311ff6f8b28f99fcef80.webp?size=128',
         name: 'Sprudeli',
         title: 'Mapper',
         links: [
@@ -165,7 +165,7 @@ const mapper = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/459014447881781248/efa6831ca0e0bd5617dd2d21caa70922.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/459014447881781248/a088de6c33db12dc5342258fc4e525c2.webp?size=128',
         name: 'Yeehaw Ren',
         title: 'Mapper',
         links: [
