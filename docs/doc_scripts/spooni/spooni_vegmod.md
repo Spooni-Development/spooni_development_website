@@ -9,7 +9,7 @@ Documentation relating to the [spooni_vegmod](https://github.com/Spooni-Developm
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aSU8pKQhkHM?si=OM7ck0Sxt5tJXmbq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_vegmod works Standalone. 
