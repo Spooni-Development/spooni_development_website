@@ -93,11 +93,11 @@ const International_Scripting = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/960899012809064528/92e3b426237ae5e6a243c97c3b2b9654.webp?size=128',
-        name: 'TWH-Scripts',
+        avatar: 'https://cdn.discordapp.com/icons/942431188881141820/79a5d93ced30fa576d14d70c5d46b8d6.webp?size=128',
+        name: 'SireVLC',
         title: '🔧' ,
         links: [
-            { icon: 'discord', link: 'https://discord.gg/yG75Bq59M9' },
+            { icon: 'discord', link: 'https://discord.gg/2zEQY8RaFb' },
         ]
     },
     {
@@ -147,7 +147,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/f92ea8a4f8802d65f84b46721f24ece4.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/a_0bb2ea0806d2f7d650a870b97c3043af.webp?size=96',
         name: 'Yellowstone RP',
         title: '📀 TIER II',
         links: [
@@ -206,21 +206,21 @@ const International_RP_Server = [
     // TIER I
 
     {
-        avatar: 'user.png',
+        avatar: 'https://cdn.discordapp.com/icons/1206360727758307348/8dedd210d7df0a322e207ca143aa1425.webp?size=128',
         name: 'Outlaws Roleplay',
         title: '💿 TIER I',
         links: [
             { icon: 'discord', link: 'https://discord.gg/ ' },
         ]
     },
-    {
-        avatar: 'https://cdn.discordapp.com/icons/619924089439518740/46eb2addf0b186a4e71fa6c0f6d4f3dc.webp?size=128',
-        name: 'Cuatreros Del Mal',
-        title: '💿 TIER I',
-        links: [
-            { icon: 'discord', link: 'https://discord.gg/8YHF4kkmd7 ' },
-        ]
-    },
+    // {
+    //     avatar: 'https://cdn.discordapp.com/icons/619924089439518740/46eb2addf0b186a4e71fa6c0f6d4f3dc.webp?size=128',
+    //     name: 'Cuatreros Del Mal',
+    //     title: '💿 TIER I',
+    //     links: [
+    //         { icon: 'discord', link: 'https://discord.gg/8YHF4kkmd7 ' },
+    //     ]
+    // },
     {
         avatar: 'https://cdn.discordapp.com/icons/877929107416039514/a_ce0069930fc48fb49ef9c764b86b6df7.webp?size=128',
         name: 'Texas Roleplay',
@@ -294,7 +294,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/',
+        avatar: 'user.png',
         name: 'California Roleplay',
         title: '💿 TIER I',
         links: [
@@ -302,7 +302,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/',
+        avatar: 'user.png',
         name: 'Western Dreams',
         title: '💿 TIER I',
         links: [
@@ -350,6 +350,14 @@ const German_RP_Server = [
         title: '📀 TIER II',
         links: [
             { icon: 'discord', link: 'https://discord.gg/frontierstories1899' },
+        ]
+    },
+        {
+        avatar: 'https://cdn.discordapp.com/icons/939204524466393149/b9175ea37dfd853b4ef834b24dbe70aa.webp?size=128',
+        name: 'Misty Mountain',
+        title: '💿 TIER I',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/8Azu5NGUGn' },
         ]
     },
     {
