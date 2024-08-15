@@ -27,7 +27,6 @@ To install spooni_build_my_home:
   - `config.lua`
   - `functions.lua`
   - `furniture.lua`
-  - `translation.lua`
 - At the end
   - Restart the server
 

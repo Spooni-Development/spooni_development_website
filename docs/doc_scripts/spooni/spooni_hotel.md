@@ -26,7 +26,7 @@ To install spooni_hotel:
 - Now you can configure and translate the script as you like
   - `config.lua`
   - `translation.lua`
-  - `functions`
+  - `functions.lua`
 - At the end
   - Restart the server
 
