@@ -9,7 +9,7 @@ Documentation relating to the [spooni_hotel](https://spooni-mapping.tebex.io/641
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43GdPjmo84A?si=_NNRro-2pKUq2xdF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eNOMcOatqvM?si=VLZ4LsspunJoxdXr" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_hotel works only with VORP, RSG & RPX. 
