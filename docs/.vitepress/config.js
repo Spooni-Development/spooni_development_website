@@ -35,7 +35,7 @@ export default {
     sidebar: [
       {
         text: 'Mappings',
-        collapsed: true,
+        collapsed: false,
         items: [
 
           { text: "Ambarino", collapsed: true, items:[
@@ -136,7 +136,7 @@ export default {
       },
       {
           text: 'Scripts',
-          collapsed: true,
+          collapsed: false,
           items: [
             // { text: "💀 Blackmarket", link:'/doc_scripts/spooni/spooni_blackmarket' },
             { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
