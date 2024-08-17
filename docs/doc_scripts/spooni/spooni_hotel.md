@@ -42,17 +42,17 @@ With this script, you can create hotels where guests can rent rooms. The script 
 Config = {}
 
 Config.DevMode = true
-Config.Locale = 'en'
-Config.Framework = 'vorp' -- vorp, rsg or rpx
+Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg)
+Config.Locale = 'en' -- select your language (en, de, fr, es)
 
 Config.Key = 0x760A9C6F -- [G]
 Config.DoorControlKey = 0xCEFD9220 -- [E]
 
-Config.Society = nil -- dl_society, mega_companies, syn_society or nil
+Config.Society = nil -- dl_society, mega_companies, syn_society, custom or nil
 Config.HotelManagementCommand = "hotel"
 
 Config.Hotels = {
-  -- VT HOTEL
+    -- VT HOTEL
     {
       enable = true,
       name = 'Valentine Hotel', -- hotel name
@@ -61,10 +61,10 @@ Config.Hotels = {
       management = true, -- if true the job can manage the hotel
       coords = vector3(-326.216, 772.9606, 117.43), -- general load coords
       blip = {
-        enabled = true,  -- true or false
-        coords = vector3(-326.216, 772.9606, 117.43), -- coords
-        sprite = -211556852, -- sprite
-        scale = 0.7, -- scale
+          enabled = true,  -- true or false
+          coords = vector3(-326.216, 772.9606, 117.43), -- coords
+          sprite = -211556852, -- sprite
+          scale = 0.7, -- scale
       },
       rooms = {
         {
@@ -178,15 +178,15 @@ Config.Hotels = {
     {
       enable = true,
       name = 'St. Denis Casino Boat Hotel', -- hotel name
-      society = 'sdcasino2', -- job name
+      society = 'sdcasino', -- job name
       hotelID = 2, -- must be unique
       management = true, -- if true the job can manage the hotel
       coords = vector3(3293.958251953125, -1301.9976806640625, 45.79931640625), -- general load coords
       blip = {
-        enabled = true,  -- true or false
-        coords = vector3(3293.958251953125, -1301.9976806640625, 45.79931640625), -- coords
-        sprite = -211556852, -- sprite
-        scale = 0.7, -- scale
+          enabled = true,  -- true or false
+          coords = vector3(3293.958251953125, -1301.9976806640625, 45.79931640625), -- coords
+          sprite = -211556852, -- sprite
+          scale = 0.7, -- scale
       },
       rooms = {
         {
@@ -1202,7 +1202,10 @@ if Config.Framework == 'vorp' then
     VORPcore = exports.vorp_core:GetCore()
 end
 
--- Notify
+--- Notify
+--- @param text (string) The text of the notification.
+--- @param error (boolean) Indicates if it is an error message.
+--- @param success (boolean) Indicates if it is a success message.
 function clNotify(text, error, success)
     if Config.Framework == "vorp" then
         if error then
@@ -1233,6 +1236,10 @@ function clNotify(text, error, success)
     end
 end
 
+--- @param src (integer) The source ID of the player
+--- @param text (string) The text of the notification.
+--- @param error (boolean) Indicates if it is an error message.
+--- @param success (boolean) Indicates if it is a success message.
 function svNotify(src, text, error, success)
     if Config.Framework == "vorp" then
         if error then
@@ -1263,10 +1270,43 @@ function svNotify(src, text, error, success)
     end
 end
 
--- Wardrobe
+--- Wardrobe
 function ClothingMenuEvent()
     -- TriggerEvent('syn_clothing:OpenOutfits')
     TriggerEvent('kd_clothingstore:openWardrobe', false)
+end
+
+--- Society
+--- @param society (string) The name of the society.
+--- @param money (integer) The amount of money to be added.
+function AddMoneyToSociety(society, money)
+    if society ~= nil and money > 0 then
+        if Config.Society == "dl_society" then
+            exports.dl_society:addSocietyMoney(society, money)
+        end
+
+        if Config.Society == "mega_companies" then
+            CompaniesManager.addMoney(society, money)
+        end
+
+        if Config.Society == "syn_society" then
+            -- GET CURRENT SOCIETY MONEY
+
+            local ledgerresult = exports.oxmysql:fetchSync("SELECT ledger FROM society_ledger WHERE job=?", {society})
+            local societyamount = ledgerresult[1].ledger
+            if societyamount == nil then
+                societyamount = 0
+            end
+
+            TriggerEvent("syn_society:depositcash", money, societyamount, society)
+        end
+
+        if Config.Society == "custom" then
+            -- Your Add Money to Society Logic here
+            print(society, money)
+        end
+
+    end
 end
 ```
 :::
