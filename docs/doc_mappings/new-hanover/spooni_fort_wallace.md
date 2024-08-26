@@ -5,11 +5,11 @@ aside: false
 ---
 
 # 🏠 Fort Wallace
-Documentation relating to the [spooni_fort_wallace](https://spooni-mapping.tebex.io/package/).
+Documentation relating to the [spooni_fort_wallace](https://spooni-mapping.tebex.io/package/6423059).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5L69yCk_Uw?si=9u_qwMkKKrq7rd4y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_fort_wallace works Standalone.  
