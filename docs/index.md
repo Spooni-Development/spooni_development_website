@@ -86,6 +86,22 @@ import {
 
 const sponsors = [
     {
+        avatar: 'https://cdn.discordapp.com/icons/1080957020796096664/27692dfcbf10cf409412f4c213eda4cf.webp?size=128',
+        name: 'n-core',
+        title: 'RDR2 Roleplay Server',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/3Kbjdu5cFZ' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1153427642297614398/a_deec25fe81c88ac8d5cd8e58539da396.webp?size=128',
+        name: 'American Dreams',
+        title: 'RDR2 Roleplay Server',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/eck4zVn3Zm' },
+        ]
+    },
+    {
         avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/705dbb0c48c53ddd8c824649b6d0a662.webp?size=128',
         name: 'Babylon 1819',
         title: 'RDR2 Roleplay Server',
@@ -101,14 +117,7 @@ const sponsors = [
             { icon: 'discord', link: 'https://discord.gg/7n3wf96RpZ' },
         ]
     },
-    {
-        avatar: 'https://cdn.discordapp.com/icons/1153427642297614398/a_deec25fe81c88ac8d5cd8e58539da396.webp?size=96',
-        name: 'American Dreams',
-        title: 'RDR2 Roleplay Server',
-        links: [
-            { icon: 'discord', link: 'https://discord.gg/eck4zVn3Zm' },
-        ]
-    },
+
 ]
 
 </script>
