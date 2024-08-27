@@ -124,7 +124,7 @@ const sponsors = [
 
 <VPTeamPage id="sponsors">
   <VPTeamPageTitle>
-    <template #title>Our Sponsors</template>
+    <template #title>Sponsored projects</template>
     <template #lead></template>
   </VPTeamPageTitle>
 
