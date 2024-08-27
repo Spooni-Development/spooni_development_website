@@ -72,7 +72,7 @@ features:
 
 <div class="center-arrow">
   <a href="#sponsors" style="text-decoration: none;">
-    <img src="arrow.png" alt="Scroll Down" style="width: 75px; height: 75px;" />
+    <img src="/arrow.png" alt="Scroll Down" style="width: 75px; height: 75px;" />
   </a>
 </div>
 
