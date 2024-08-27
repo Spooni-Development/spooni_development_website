@@ -163,6 +163,14 @@ const International_RP_Server = [
         ]
     },
     {
+        avatar: 'https://cdn.discordapp.com/icons/1143877766547259422/39efb06a10bdec0fa2f6a50000389162.webp?size=128',
+        name: 'High Noon',
+        title: '📀 TIER II',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/highnoon' },
+        ]
+    },
+    {
         avatar: 'https://cdn.discordapp.com/icons/737446331920023628/ec9a0ca8dc56d473a796c9bd0d915dda.webp?size=128',
         name: 'Gilded RP',
         title: '📀 TIER II',

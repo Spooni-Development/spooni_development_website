@@ -55,3 +55,74 @@ features:
     title: Server Service 
     details: Do you want your own RedM server? But you are not familiar with the technology or have problems setting it up? No problem! Get in touch with us on our Discord. Our expert developers can help you with everything from advice to setting up and troubleshooting your server.
 ---
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+  .center-arrow {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+</style>
+
+
+<br>
+
+<div class="center-arrow">
+  <a href="#sponsors" style="text-decoration: none;">
+    <img src="arrow.png" alt="Scroll Down" style="width: 75px; height: 75px;" />
+  </a>
+</div>
+
+<script setup>
+import {
+  VPTeamPage,
+  VPTeamPageTitle,
+  VPTeamMembers,
+  VPTeamPageSection
+} from 'vitepress/theme'
+
+const sponsors = [
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/705dbb0c48c53ddd8c824649b6d0a662.webp?size=128',
+        name: 'Babylon 1819',
+        title: 'RDR2 Roleplay Server',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/UKDZ5euhd5' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1052829950119530547/73dbc607b1932d82bb654668938ff6cd.webp?size=128',
+        name: 'Last Hope RP',
+        title: 'RDR2 Roleplay Server',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/7n3wf96RpZ' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1153427642297614398/a_deec25fe81c88ac8d5cd8e58539da396.webp?size=96',
+        name: 'American Dreams',
+        title: 'RDR2 Roleplay Server',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/eck4zVn3Zm' },
+        ]
+    },
+]
+
+</script>
+
+<VPTeamPage id="sponsors">
+  <VPTeamPageTitle>
+    <template #title>Our Sponsors</template>
+    <template #lead></template>
+  </VPTeamPageTitle>
+
+<VPTeamPageSection>
+    <template #lead></template>
+    <template #members>
+     <VPTeamMembers size="medium" :members="sponsors" />
+    </template>
+</VPTeamPageSection>
+</VPTeamPage>
