@@ -117,7 +117,14 @@ const sponsors = [
             { icon: 'discord', link: 'https://discord.gg/7n3wf96RpZ' },
         ]
     },
-
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1143862512937336933/99dec736bccbd1b0902d8f613eec5075.webp?size=128',
+        name: 'Last Hope RP',
+        title: 'Golden Plains',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/MFnB9BDcYP' },
+        ]
+    },
 ]
 
 </script>
