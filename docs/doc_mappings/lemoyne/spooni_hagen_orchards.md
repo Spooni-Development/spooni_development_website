@@ -4,7 +4,7 @@ next: false
 aside: false
 ---
 
-# 🏠 Hagen Orchards <Badge type="danger" text="IN WORK"/>
+# 🏠 Hagen Orchards
 Documentation relating to the [spooni_hagen_orchards](https://spooni-mapping.tebex.io/package/).
 
 ___
