@@ -7,15 +7,17 @@ export default {
   head: [
     [
       "link",
-      { rel: "icon", type: "image/png", sizes: "64x64", href: "/logo.png" },
+      { rel: "icon", type: "image/png", sizes: "64x64", href: "/logo.png", loading: "lazy" },
     ],
     [
       "link",
       {
         rel: "stylesheet",
-        href: "https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css",
+        href: "https://cdn.jsdelivr.net/npm/tailwindcss@latest/dist/tailwind.min.css",
+        media: "print", onload: "this.media='all'"
       },
-    ],
+    ]
+    
   ],
   themeConfig: {
     logo: "/logo.png",
@@ -178,7 +180,9 @@ export default {
           }
         }
       },
-      chunkSizeWarningLimit: 1000
-    },
+      chunkSizeWarningLimit: 1000,
+      minify: 'terser',
+      cache: true
+    },    
   },
 };
