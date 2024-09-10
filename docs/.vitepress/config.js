@@ -128,6 +128,8 @@ export default {
             {text: "🔸Manzanita Post", link:'/doc_mappings/west-elizabeth/spooni_manzanita_post'},
             {text: "🔸Pronghorn Ranch", link:'/doc_mappings/west-elizabeth/spooni_pronghorn_ranch'},
             {text: "🔸Valley View Ranch", link:'/doc_mappings/west-elizabeth/spooni_valley_view_ranch'},
+            {text: "🔸Windmill Ridge", link:'/doc_mappings/west-elizabeth/spooni_windmill_ridge'},
+
           ]},
 
           
