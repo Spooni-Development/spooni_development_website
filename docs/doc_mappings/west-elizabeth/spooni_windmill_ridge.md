@@ -9,7 +9,7 @@ Documentation relating to the [spooni_windmill_ridge](https://spooni-mapping.teb
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zcSS5gnXg74?si=ksVrFvM7Ev9QMTON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_windmill_ridge works Standalone.  
