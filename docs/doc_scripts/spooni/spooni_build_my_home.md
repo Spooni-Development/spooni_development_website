@@ -41,9 +41,12 @@ Build your own house with our house props in 21 steps anywhere on the map, furni
 ```lua
 Config = {}
 
+Config.Debug = false -- debug prints, keep on false
 Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg)
 Config.Locale = 'en' -- select your language (en, de, fr, es)
+
 Config.DeleteCommand = 'deletespoonihouse' -- command to delete the houses
+Config.DeleteCommandPerms = {'admin', 'mod'}
 Config.BuildingJob = false -- turn false to disable joblock
 Config.NoTXAdmin = false -- if you have no txAdmin on your Server.
 Config.Furniture = true -- if you want to furnish the houses.
@@ -55,6 +58,7 @@ Config.OnlyOwnerCanAccessLedger = true
 Config.TaxSystem = true -- if you want to have a tax for the houses.
 Config.DistanceBetweenHouses = 25.0 -- the minimum distance a new house must have before it can be built.
 Config.FurnitureZone = 100.0
+Config.MaxHousesPerPlayer = 5
 
 Config.BlockedZones = {
     [1] = { -- St Denis
@@ -144,6 +148,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
+        LoadRadius = 200,
+        MaxFurniture = 150,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -164,6 +170,108 @@ Config.Houses = {
                 },
             },
             [4] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [5] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [6] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [7] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [8] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [9] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [10] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [11] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [12] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [13] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [14] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [15] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [16] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [17] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [18] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [19] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [20] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [21] = {
                 Timer = 10000,
                 Items = {
                     wood = 1,
@@ -177,6 +285,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
+        LoadRadius = 200,
+        MaxFurniture = 150,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -202,6 +312,108 @@ Config.Houses = {
                     wood = 1,
                 },
             },
+            [5] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [6] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [7] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [8] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [9] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [10] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [11] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [12] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [13] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [14] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [15] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [16] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [17] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [18] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [19] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [20] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
+            [21] = {
+                Timer = 10000,
+                Items = {
+                    wood = 1,
+                },
+            },
         },
     },
     [3] = {                    -- house
@@ -210,6 +422,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
+        LoadRadius = 200,
+        MaxFurniture = 150,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -345,6 +559,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
+        LoadRadius = 200,
+        MaxFurniture = 150,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -480,6 +696,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
+        LoadRadius = 200,
+        MaxFurniture = 250,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -615,141 +833,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
-        Setup = {
-            [1] = {            -- Step
-                Timer = 10000, -- building time
-                Items = {
-                    wood = 1,  -- item name -- quantity
-                },
-            },
-            [2] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [3] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [4] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [5] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [6] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [7] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [8] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [9] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [10] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [11] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [12] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [13] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [14] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [15] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [16] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [17] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [18] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [19] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [20] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-            [21] = {
-                Timer = 10000,
-                Items = {
-                    wood = 1,
-                },
-            },
-        },
-    },
-    [7] = {                    -- house
-        StorageLimit = 35,     -- the maximum number of items you can have in storage
-        StorageWeight = 3500,  -- the maximum weight you can have in storage
-        FurnitureRadius = 80.0, -- the radius in which you can place furniture for this house
-        TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
-        TaxAmount = 500, -- amount in cash that must be in ledger
+        LoadRadius = 450,
+        MaxFurniture = 150,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
