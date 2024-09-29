@@ -139,7 +139,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1026351824946593803/a_36dcabc439274fb964560dba8ad6b151.webp?size=128',
+        avatar: 'user.png',        
         name: 'Oeste  Roleplay',
         title: '📀 TIER II',
         links: [
@@ -210,6 +210,14 @@ const International_RP_Server = [
             { icon: 'discord', link: 'https://discord.gg/xsbWxUuD ' },
         ]
     },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/589982489607667712/736c7afcf0fa72a70083d11b622c9b6d.webp?size=128',
+        name: 'Ranch Roleplay',
+        title: '📀 TIER II',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/ranch ' },
+        ]
+    },
 
     // TIER I
 
@@ -221,14 +229,6 @@ const International_RP_Server = [
             { icon: 'discord', link: 'https://discord.gg/ ' },
         ]
     },
-    // {
-    //     avatar: 'https://cdn.discordapp.com/icons/619924089439518740/46eb2addf0b186a4e71fa6c0f6d4f3dc.webp?size=128',
-    //     name: 'Cuatreros Del Mal',
-    //     title: '💿 TIER I',
-    //     links: [
-    //         { icon: 'discord', link: 'https://discord.gg/8YHF4kkmd7 ' },
-    //     ]
-    // },
     {
         avatar: 'https://cdn.discordapp.com/icons/877929107416039514/a_ce0069930fc48fb49ef9c764b86b6df7.webp?size=128',
         name: 'Texas Roleplay',
@@ -317,6 +317,14 @@ const International_RP_Server = [
             { icon: 'discord', link: 'https://discord.gg/westerndreams ' },
         ]
     },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1265811755549069372/4461f2067efa359c134fcc24e7ba49e4.webp?size=128',
+        name: 'BAYANG SINILANGAN RP',
+        title: '💿 TIER I',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/bayangsinilanganrp ' },
+        ]
+    },
 ]
 
 const German_RP_Server = [
@@ -361,7 +369,7 @@ const German_RP_Server = [
         ]
     },
         {
-        avatar: 'https://cdn.discordapp.com/icons/939204524466393149/b9175ea37dfd853b4ef834b24dbe70aa.webp?size=128',
+        avatar: 'user.png',
         name: 'Misty Mountain',
         title: '💿 TIER I',
         links: [
@@ -369,7 +377,7 @@ const German_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/950505958625382460/a_c1f9752a76f75235d60b1e260fd1f440.webp?size=128',
+        avatar: 'user.png',        
         name: 'Wasteland Stories',
         title: '💿 TIER I',
         links: [
