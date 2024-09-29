@@ -68,9 +68,16 @@ const artist = [
             { icon: 'discord', link: 'https://discordapp.com/users/540860975218163724/' },
         ]
     },
-    
     {
-        avatar: 'https://cdn.discordapp.com/avatars/1033065913219555358/70f51bdc031fc05a47f6bfb428af89e4.webp?size==128',
+        avatar: 'https://cdn.discordapp.com/avatars/158243778895937536/a_1858e49f686435f49d64d657d87522ef.gif?size=128',
+        name: 'Mike',
+        title: '3D Artist',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/158243778895937536/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/1033065913219555358/70f51bdc031fc05a47f6bfb428af89e4.webp?size=128',
         name: 'Howard',
         title: '3D Artist',
         links: [
@@ -125,27 +132,11 @@ const mapper = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/590183982885502998/3b1dd4aa81a2767e98c1f025253225c0.webp?size=128',
-        name: 'Crossvok',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/590183982885502998/' },
-        ]
-    },
-    {
         avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/20065ddc60918ce09dde24fcbd78f514.webp?size=128',
         name: 'Leesh',
         title: 'Mapper',
         links: [
             { icon: 'discord', link: 'https://discordapp.com/users/355024108301582349/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/236592676449943552/6c3a2366671a7e297fb786363984f048.webp?size=128',
-        name: 'SkouJ',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/236592676449943552/' },
         ]
     },
     {
@@ -157,14 +148,63 @@ const mapper = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/459014447881781248/a088de6c33db12dc5342258fc4e525c2.webp?size=128',
-        name: 'Yeehaw Ren',
+        avatar: 'https://cdn.discordapp.com/avatars/274553699727310848/498c77a79393df52db811d744387e691.png?size=128',
+        name: 'Cookee',
         title: 'Mapper',
         links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/459014447881781248/' },
+            { icon: 'discord', link: 'https://discordapp.com/users/274553699727310848/' },
         ]
     },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/c4eabf1d18be73bf6c65d96be7eb6ea4.webp?size=128',
+        name: 'starburns',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/381107972371251216/4fbcb48aaae153a2d846c5486d005fb7.png?size=128',
+        name: 'Marin Fox',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+        ]
+    },   
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/58879c9c805a550406a2610a3fa754eb.webp?size=128',
+        name: 'αмηєѕια',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+        ]
+    }, 
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/73468826716471296/c98aedfca12cbd93af96ae2bd6ee4ea6.png?size=128',
+        name: 'Lucy',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/73468826716471296/' },
+        ]
+    },   
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/159394227787268096/9f22888753e98aac5e8055d14d0b2e9d.png?size=128',
+        name: 'Jamilton',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/159394227787268096/' },
+        ]
+    }, 
+    {
+        avatar: 'https://cdn.discordapp.com/avatars/746266875058716702/c3c28a4ca78da1981b6958400450ddfb.png?size=128',
+        name: '𝓑𝓾𝓷𝓷𝔂',
+        title: 'Mapper',
+        links: [
+            { icon: 'discord', link: 'https://discordapp.com/users/746266875058716702/' },
+        ]
+    }, 
 ]
+
 
 </script>
 

@@ -37,11 +37,27 @@ import {
 
 const International_Scripting = [
     {
+        avatar: 'https://cdn.discordapp.com/icons/953724414028046356/cdf1bfa5b691ce5d0aad5d93086387d4.webp?size=128',
+        name: 'DrShwaggins Scripts',
+        title: '🔧' ,
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/m8SmDPWcu3' },
+        ]
+    },    
+    {
         avatar: 'https://cdn.discordapp.com/icons/777290543406776341/a_8893fe3c222deef6054f729a541d2975.webp?size=128',
         name: 'Syn Scripts',
         title: '🔧' ,
         links: [
             { icon: 'discord', link: 'https://discord.gg/synscripts' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/1021957724440899584/a_1d0f9cf6a58096b91548f4c164ce0917.webp?size=128',
+        name: 'Bryce Canyon County',
+        title: '🔧' ,
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/GuwS7Y7PA3' },
         ]
     },
     {
@@ -61,11 +77,11 @@ const International_Scripting = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1021957724440899584/a_1d0f9cf6a58096b91548f4c164ce0917.webp?size=128',
-        name: 'Bryce Canyon County',
+        avatar: 'https://cdn.discordapp.com/icons/991835489160151171/fb1669ec949e09aeb9ed9da768a59e57.webp?size=128',
+        name: 'Xakra Scripts',
         title: '🔧' ,
         links: [
-            { icon: 'discord', link: 'https://discord.gg/GuwS7Y7PA3' },
+            { icon: 'discord', link: 'https://discord.gg/aRK4g7KNQr' },
         ]
     },
     {
@@ -74,6 +90,14 @@ const International_Scripting = [
         title: '🔧' ,
         links: [
             { icon: 'discord', link: 'https://discord.gg/srrmCQ58WP' },
+        ]
+    },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/820144145040408586/3e3f061f13ded09919a78346465aae9e.webp?size=128',
+        name: 'Hellcat Development',
+        title: '🔧' ,
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/GGm6b3ChFX' },
         ]
     },
     {
@@ -350,14 +374,6 @@ const German_RP_Server = [
         title: '📀 TIER II',
         links: [
             { icon: 'discord', link: 'https://discord.gg/risingsunrp' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/icons/938402250471145543/a_024baddff6d793bd274f9ae9d084d29b.webp?size=128',
-        name: 'The Western Hills',
-        title: '📀 TIER II',
-        links: [
-            { icon: 'discord', link: 'https://discord.gg/western-hills' },
         ]
     },
     {
