@@ -9,7 +9,7 @@ Documentation relating to the [dl_farmroutes](https://drshwaggins-scripts.tebex.
 
 ___
 <br>
-<iframe width="560" height="315" src="https://cdn.discordapp.com/attachments/901261289316319302/1200465488946405477/dl_farmroutes.png?ex=65c6479c&is=65b3d29c&hm=14d492a25fb975ec73071b22b487c8ef0240a7f77d3ef613401673c28b8d3dac&" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9e5bc4cd8c9f86ae0a601e1b8f382bb02277198a.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 1. Installation
 dl_farmroutes works only with VORP. 
