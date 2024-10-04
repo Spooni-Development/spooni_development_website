@@ -38,25 +38,42 @@ However, it should be noted that doors do not work with this script and the plac
 ```lua
 Config = {}
 
+Config.DevMode = true
+
 local glm = require "glm"
 
 Config.Zones = {
     {
-        name = "test-house16", -- name of the zone
-        thickness = 30, -- height
-        point = glm.polygon.new(
-            {
-                vec3(-1103.442138671875, -1036.9124755859375, 65.7997055053711),
-                vec3(-1094.2259521484375, -1053.654296875, 65.49501037597656),
-                vec3(-1115.611328125, -1063.375732421875, 66.67459869384766),
-                vec3(-1124.4923095703125, -1039.748779296875, 66.6490707397461),
-            }
-        ),
+        name = "annesburg-apple-tree", -- name of the zone
+        thickness = 20, -- height
+        point = glm.polygon.new({
+            vec3(3001.654541015625, 1399.3458251953125, 43.19),
+            vec3(2998.39990234375, 1393.282958984375, 43.19),
+            vec3(2991.999267578125, 1395.465576171875, 43.19),
+            vec3(2994.195556640625, 1401.05322265625, 43.19),
+        }),
         objects = {
             {
-                model = `house16`,
-                coords = vec3(-1107.861816,-1051.015869,69.010002),
-                rotation = vec3(0.000000,0.000000,25.323042),
+                model = `p_tree_apple_01`,
+                coords = vec3(2996.754638, 1396.794067, 43.584380),
+                rotation = vec3(0.000000,0.000000,0.000000),
+            },
+        },
+    },
+    {
+        name = "sd-apple-tree", -- name of the zone
+        thickness = 20, -- height
+        point = glm.polygon.new({
+            vec3(2388.52685546875, -1365.8651123046875, 44.60),
+            vec3(2393.53857421875, -1358.3861083984375, 44.60),
+            vec3(2400.209716796875, -1362.7315673828125, 44.60),
+            vec3(2396.250732421875, -1370.1510009765625, 44.60),
+        }),
+        objects = {
+            {
+                model = `p_tree_apple_01`,
+                coords = vec3(2395.054443359375, -1364.2969970703125, 45.21649169921875),
+                rotation = vec3(0.000000,0.000000,0.000000),
             },
         },
     },
