@@ -5,11 +5,11 @@ aside: false
 ---
 
 # 🏠 St. Denis Promenade
-Documentation relating to the [spooni_sd_promenade](https://spooni-mapping.tebex.io/package/).
+Documentation relating to the [spooni_sd_promenade](https://spooni-mapping.tebex.io/package/6477821).
 
 ___
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oe0tt2gpLew?si=YoH8Por8fDNfs1fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 1. Installation
 spooni_sd_promenade works Standalone.  
@@ -26,41 +26,18 @@ To install spooni_sd_promenade:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-<!-- :::details <Badge type="danger" text="IMPORTANT"/>
-  ### If you have set up several of our mappings in St. Denis, here's what you need to do for a smooth installation:
+:::details <Badge type="danger" text="IMPORTANT"/>
+### Installation of our mappings in St. Denis:
+1. Navigate to the folder where the mapping `spooni_sd_promenade` is installed.
+2. Search for a folder named `update`.
+3. Go to the respective folder `update_sd_courthouse` or `update_sd_spaldings`.
+4. Copy the files from this folder.
+5. Open the `spooni_sd_courthouse` or `spooni_sd_spaldings` folder and go to the `stream` folder.
+6. Paste the copied files into the `stream` folder and overwrite existing files.
+7. Restart the server to apply the changes.
 
-  ### For spooni_sd_courthouse:
-  - Open the folder where the Mapping is installed.
-  - Look for a folder named `update_sd_courthouse`.
-  - Copy the files from this folder.
-  - Find the folder named `spooni_sd_courthouse` and open its `stream` folder.
-  - Paste the copied files into the `stream` folder, replacing any existing ones.
-  - Restart the server.
-
-  ### For spooni_sd_promenade:
-  - Open the folder where the Mapping is installed.
-  - Find a folder called `update_sd_promenade`.
-  - Copy the files from this folder.
-  - Navigate to the folder named `spooni_sd_promenade` and open its `stream` folder.
-  - Paste the copied files into the `stream` folder, replacing the current ones.
-  - Restart the server.
-
-  ### For spooni_sd_spaldings:
-  - Open the folder where the Mapping is installed.
-  - Search for a folder named `update_sd_spaldings`.
-  - Copy the files from this folder.
-  - Go to the folder named `spooni_sd_spaldings` and open its `stream` folder.
-  - Paste the copied files into the `stream` folder, replacing any existing files.
-  - Restart the server.
-
-  ### If you have them all:
-  - Open the folder where the Mapping is installed.
-  - Look for a folder named `update_all`.
-  - Copy the files from this folder.
-  - Find the folders named `spooni_sd_courthouse`, `spooni_sd_promenade`, and `spooni_sd_spaldings`, and open their `stream` folder.
-  - Paste the copied files into the `stream` folder, replacing any existing ones.
-  - Restart the server.
-::: -->
+*Note*: If you have installed all mappings, search for a folder named `update_all`. Copy the files from this folder and paste them into the `stream` folder of `spooni_sd_courthouse`, `spooni_sd_promenade` and `spooni_sd_spaldings`. Overwrite the existing files.
+:::
 
 ## 2. For developers
 

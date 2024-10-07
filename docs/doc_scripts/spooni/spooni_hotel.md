@@ -41,7 +41,7 @@ With this script, you can create hotels where guests can rent rooms. The script 
 ```lua
 Config = {}
 
-Config.DevMode = true
+Config.DevMode = true -- only for testing, not for the live server
 Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg)
 Config.Locale = 'en' -- select your language (en, de, fr, es)
 

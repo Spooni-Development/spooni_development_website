@@ -28,25 +28,6 @@ To install spooni_bla_reborn:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-:::details <Badge type="danger" text="IMPORTANT"/>
-  ### If you have a different mapping from other creators, you must take the following steps to use the mapping without errors:
-
-  ### fg_bla_lawfirm:
-  - Navigate to the folder `update-for-fg_bla_lawfirm` 
-  - Copy the files over the current ones in the `stream` folder.
-  - Then restart the server!
-
-  ### yourmaps_bla_church:
-  - Navigate to the folder `update-for-yourmaps_bla_church`
-  - Copy the files over the current ones in the `stream` folder.
-  - Then restart the server!
-
-  ### blackwater-hotel:
-  - Navigate to the folder `update-for-blackwater-hotel` 
-  - Copy the files over the current ones in the `stream` folder.
-  - Then restart the server!
-:::
-
 ## 2. For developers
 
 | City Hall                 | Doorhashes

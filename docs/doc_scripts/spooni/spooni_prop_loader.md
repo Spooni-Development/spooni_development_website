@@ -38,7 +38,7 @@ However, it should be noted that doors do not work with this script and the plac
 ```lua
 Config = {}
 
-Config.DevMode = true
+Config.DevMode = true -- only for testing, not for the live server
 
 local glm = require "glm"
 
