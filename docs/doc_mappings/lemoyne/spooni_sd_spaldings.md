@@ -26,8 +26,8 @@ To install spooni_sd_spaldings:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-:::details <Badge type="danger" text="IMPORTANT"/>
-### Installation of our mappings in St. Denis:
+## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
+
 1. Navigate to the folder where the mapping `spooni_sd_spaldings` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_sd_promenade` or `update_sd_courthouse`.
@@ -37,9 +37,8 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 7. Restart the server to apply the changes.
 
 *Note*: If you have installed all mappings, search for a folder named `update_all`. Copy the files from this folder and paste them into the `stream` folder of `spooni_sd_courthouse`, `spooni_sd_promenade` and `spooni_sd_spaldings`. Overwrite the existing files.
-:::
 
-## 2. For developers
+## 3. For developers
 | Ground Floor              | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[3297414024] = {3297414024,2039808363,"door20",2675.549072265625,-1399.52197265625,46.24536895751953}`<br>`[3596693301] = {3596693301,2039808363,"door20",2676.112060546875,-1397.31103515625,46.24489212036133}`
