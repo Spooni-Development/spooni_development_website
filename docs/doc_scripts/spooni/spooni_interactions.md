@@ -1,15 +1,10 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🪑 Interactions
-Documentation relating to the [spooni_interactions](https://github.com/Spooni-Development/spooni_interactions).
+Documentation relating to the spooni_interactions.
 
-___
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== DOWNLOAD
+[Download the script](https://github.com/Spooni-Development/spooni_interactions)
+:::
 
 ## 1. Installation
 spooni_interactions works Standalone. 

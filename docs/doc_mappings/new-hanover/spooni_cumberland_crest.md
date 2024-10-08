@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Cumberland Crest
-Documentation relating to the [spooni_cumberland_crest](https://spooni-mapping.tebex.io/package/6157355).
+Documentation relating to the spooni_cumberland_crest.
 
-___
-<br>
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9860265073ff3c58e8e332617b783cefc88fb07e.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== PREVIEW
+<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9860265073ff3c58e8e332617b783cefc88fb07e.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6157355)
+:::
 
 ## 1. Installation
 spooni_cumberland_crest works Standalone.  

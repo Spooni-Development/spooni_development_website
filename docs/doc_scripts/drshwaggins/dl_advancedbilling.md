@@ -1,15 +1,11 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 💵 dl_advancedbilling
-Documentation relating to the [dl_advancedbilling](https://drshwaggins-scripts.tebex.io/package/5676792).
+Documentation relating to the dl_advancedbilling.
 
-___
-<br>
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZkblpaxLME?si=NM_dwxeY-ej6gDz9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5676792)
+:::
 
 ## 1. Installation
 dl_advancedbilling works only with VORP. 

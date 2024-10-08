@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Mac Farlane's Ranch
-Documentation relating to the [spooni_mac_farlanes_ranch](https://spooni-mapping.tebex.io/package/5905786).
+Documentation relating to the spooni_mac_farlanes_ranch.
 
-___
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cNJcAJRx7N4 " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== PREVIEW
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cNJcAJRx7N4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/5905786)
+:::
 
 ## 1. Installation
 spooni_mac_farlanes_ranch works Standalone.  

@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Braithwaite Storage House
-Documentation relating to the [spooni_bra_storage_house](https://spooni-mapping.tebex.io/package/6055667).
+Documentation relating to the spooni_bra_storage_house.
 
-___
-<br>
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1218000/d43129ec0cae3abe732912aff57c483dc38bc5f0.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== PREVIEW
+<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1218000/d43129ec0cae3abe732912aff57c483dc38bc5f0.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/)
+:::
 
 ## 1. Installation
 spooni_bra_storage_house works Standalone.  

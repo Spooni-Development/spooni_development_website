@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Braithwaite Worker Houses
-Documentation relating to the [spooni_bra_worker_houses](https://spooni-mapping.tebex.io/package/6220788).
+Documentation relating to the spooni_bra_worker_houses.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/crGDF0divu4?si=6rOKllGPii7IgDuR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6220788)
+:::
 
 ## 1. Installation
 spooni_bra_worker_houses works Standalone.  

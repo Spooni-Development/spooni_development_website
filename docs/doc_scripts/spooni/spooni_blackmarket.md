@@ -1,15 +1,10 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 💀 Blackmarket
-Documentation relating to the [spooni_blackmarket](https://spooni-mapping.tebex.io/).
+Documentation relating to the spooni_blackmarket.
 
-___
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== BUY
+[Buy the script](https://spooni-mapping.tebex.io/package/)
+:::
 
 ## 1. Installation
 spooni_blackmarket works only with VORP. 

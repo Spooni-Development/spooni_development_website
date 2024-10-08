@@ -1,32 +1,7 @@
 ---
-layout: home
+layout: page
 title: Team
-prev: false
-next: false
-
-# Meta property
-head:
-  - - meta
-    - property: og:type
-      content: website
-  - - meta
-    - property: og:title
-      content: SPOONI Development
-  - - meta
-    - property: og:description
-      content: Scripts & Mappings
-  - - meta
-    - name: title
-      content: SPOONI Development
-  - - meta
-    - name: description
-      content: Scripts & Mappings
-  - - link
-    - rel: icon
-      type: image/png
-      href: logo.png
 ---
-
 <script setup>
 import {
   VPTeamPage,
@@ -204,53 +179,45 @@ const mapper = [
         ]
     }, 
 ]
-
-
 </script>
 
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>Our Team</template>
-    <template #lead></template>
   </VPTeamPageTitle>
 
 <VPTeamPageSection>
     <template #title>Director</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="director" />
+     <VPTeamMembers size="small" :members="director" />
     </template>
 </VPTeamPageSection>
 
 <VPTeamPageSection>
     <template #title>Supervisor</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="supervisor" />
+     <VPTeamMembers size="small" :members="supervisor" />
     </template>
 </VPTeamPageSection>
 
   <VPTeamPageSection>
     <template #title>3D Artists</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="artist" />
+     <VPTeamMembers size="small" :members="artist" />
     </template>
   </VPTeamPageSection>
 
 <VPTeamPageSection>
     <template #title>Developers</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="developer" />
+     <VPTeamMembers size="small" :members="developer" />
     </template>
 </VPTeamPageSection>
 
   <VPTeamPageSection>
     <template #title>Mappers</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="mapper" />
+     <VPTeamMembers size="small" :members="mapper" />
     </template>
   </VPTeamPageSection>
 </VPTeamPage>

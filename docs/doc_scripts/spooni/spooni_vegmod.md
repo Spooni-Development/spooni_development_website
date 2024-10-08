@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🌱 VegMod
-Documentation relating to the [spooni_vegmod](https://github.com/Spooni-Development/spooni_vegmod).
+Documentation relating to the spooni_vegmod.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aSU8pKQhkHM?si=OM7ck0Sxt5tJXmbq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== DOWNLOAD
+[Download the script](https://github.com/Spooni-Development/spooni_vegmod)
+:::
 
 ## 1. Installation
 spooni_vegmod works Standalone. 

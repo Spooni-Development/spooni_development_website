@@ -1,15 +1,10 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 📍 Job Blips
-Documentation relating to the [spooni_job_blips](https://github.com/Spooni-Development/spooni_job_blips).
+Documentation relating to the spooni_job_blips.
 
-___
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== DOWNLOAD
+[Download the script](https://github.com/Spooni-Development/spooni_job_blips)
+:::
 
 ## 1. Installation
 spooni_job_blips works only with VORP. 

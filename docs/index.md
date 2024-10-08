@@ -1,32 +1,7 @@
 ---
 layout: home
 title: Home
-prev: false
-next: false
 
-# Meta property
-head:
-  - - meta
-    - property: og:type
-      content: website
-  - - meta
-    - property: og:title
-      content: SPOONI Development
-  - - meta
-    - property: og:description
-      content: Scripts & Mappings
-  - - meta
-    - name: title
-      content: SPOONI Development
-  - - meta
-    - name: description
-      content: Scripts & Mappings
-  - - link
-    - rel: icon
-      type: image/png
-      href: logo.png
-
-# Hero section
 hero:
   name: SPOONI
   text: Development
@@ -42,7 +17,6 @@ hero:
       text: Props
       link: https://spooni.de/props/
 
-# Features section
 features:
   - icon: 🗿
     title: Mappings
@@ -55,20 +29,6 @@ features:
     title: Server Service 
     details: Do you want your own RedM server? But you are not familiar with the technology or have problems setting it up? No problem! Get in touch with us on our Discord. Our expert developers can help you with everything from advice to setting up and troubleshooting your server.
 ---
-
-<style>
-  html {
-    scroll-behavior: smooth;
-  }
-  .center-arrow {
-    display: flex;
-    justify-content: center;
-    margin-top: 2rem;
-  }
-</style>
-
-
-<br>
 
 <div class="center-arrow">
   <a href="#sponsors" style="text-decoration: none;">
@@ -141,20 +101,20 @@ const sponsors = [
           { icon: 'discord', link: 'https://discord.gg/6j83qWXEXm' },
       ]
     },
+    {
+        avatar: 'https://cdn.discordapp.com/icons/939204524466393149/dafafab983a9061e4bc87a1dd263e188.webp?size=128',
+        name: 'Misty Mountain',
+        title: 'RDR2 Roleplay Server',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/8Azu5NGUGn' },
+        ]
+    },
 ]
-
 </script>
 
 <VPTeamPage id="sponsors">
   <VPTeamPageTitle>
     <template #title>Sponsored projects</template>
-    <template #lead></template>
   </VPTeamPageTitle>
-
-<VPTeamPageSection>
-    <template #lead></template>
-    <template #members>
-     <VPTeamMembers size="medium" :members="sponsors" />
-    </template>
-</VPTeamPageSection>
+  <VPTeamMembers size="small" :members="sponsors" />
 </VPTeamPage>

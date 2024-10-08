@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 📦 dl_storages
 Documentation relating to the [dl_storages](https://drshwaggins-scripts.tebex.io/package/5855834).
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JjLrjQpgcGM?si=AswNDJAGUQduWLI1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5855834)
+:::
 
 ## 1. Installation
 dl_storages works only with VORP. 

@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Bacchus Station
-Documentation relating to the [spooni_bacchus_station](https://spooni-mapping.tebex.io/package/6119466).
+Documentation relating to the spooni_bacchus_station.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vEv_MzuSU4M?si=rCW-m_h7b9zDtXuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6119466)
+:::
 
 ## 1. Installation
 spooni_bacchus_station works Standalone.  

@@ -1,30 +1,6 @@
 ---
 layout: doc
-title: Docs
-prev: false
-next: false
-
-# Meta property
-head:
-  - - meta
-    - property: og:type
-      content: website
-  - - meta
-    - property: og:title
-      content: SPOONI Development
-  - - meta
-    - property: og:description
-      content: Scripts & Mappings
-  - - meta
-    - name: title
-      content: SPOONI Development
-  - - meta
-    - name: description
-      content: Scripts & Mappings
-  - - link
-    - rel: icon
-      type: image/png
-      href: logo.png
+prev: true
 ---
 
 # 👋 Welcome

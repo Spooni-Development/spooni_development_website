@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # ⚔️ dl_questionwhitelist
-Documentation relating to the [dl_questionwhitelist](https://drshwaggins-scripts.tebex.io/package/5915178).
+Documentation relating to the dl_questionwhitelist.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gm3W5wBjng?si=kpFTrMTGXW03j1-E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5915178)
+:::
 
 ## 1. Installation
 dl_questionwhitelist works Standalone. 

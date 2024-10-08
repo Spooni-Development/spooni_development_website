@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🪓 dl_lumberjack
-Documentation relating to the [dl_lumberjack](https://drshwaggins-scripts.tebex.io/package/6048168).
+Documentation relating to the dl_lumberjack.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSiBfxjrBjs?si=_H4254fWmP09RNCp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/6048168)
+:::
 
 ## 1. Installation
 dl_lumberjack works only with VORP, RSG & RedEM:RP 

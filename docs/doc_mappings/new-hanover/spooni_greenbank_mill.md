@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Greenbank Mill
-Documentation relating to the [spooni_greenbank_mill](https://spooni-mapping.tebex.io/package/6356024).
+Documentation relating to the spooni_greenbank_mill.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5oxfL-UIqOA?si=n-ljIBEGJzS1AAj5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6356024)
+:::
 
 ## 1. Installation
 spooni_greenbank_mill works Standalone.  

@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Ridgewood Farm
-Documentation relating to the [spooni_ridgewood_farm](https://spooni-mapping.tebex.io/package/6434764).
+Documentation relating to the spooni_ridgewood_farm.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_wKQavPdNy8?si=pVZIvWJYF8TJXC3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6434764)
+::
 
 ## 1. Installation
 spooni_ridgewood_farm works Standalone.  

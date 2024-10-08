@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠  Rathskeller Fork
-Documentation relating to the [spooni_rathskeller_fork](https://spooni-mapping.tebex.io/package/5651383).
+Documentation relating to the spooni_rathskeller_fork.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nWH_vkNw7l8?si=qpS7XG5XRddyM1Dp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/5651383)
+:::
 
 ## 1. Installation
 spooni_rathskeller_fork works Standalone.  

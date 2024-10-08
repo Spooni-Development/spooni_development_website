@@ -1,30 +1,7 @@
 ---
 layout: doc
 title: MICO
-prev: false
 next: false
-
-# Meta property
-head:
-  - - meta
-    - property: og:type
-      content: website
-  - - meta
-    - property: og:title
-      content: SPOONI Development
-  - - meta
-    - property: og:description
-      content: Scripts & Mappings
-  - - meta
-    - name: title
-      content: SPOONI Development
-  - - meta
-    - name: description
-      content: Scripts & Mappings
-  - - link
-    - rel: icon
-      type: image/png
-      href: logo.png
 ---
 
 # M  I  C  O - Massive Interior Combined Object
@@ -54,3 +31,4 @@ MICO has a history of product releases at SPOONI Mapping based on its underlying
 MICO is committed to continuous improvement and innovation. Expect further enhancements, additional features, and exciting developments in the future as it aims to redefine the possibilities of interior mapping in the RedM environment.
 
 Explore the future of interior mapping with the **MICO system** and **SPOONI**!
+

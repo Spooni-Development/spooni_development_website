@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Cholla Springs Alchemist
-Documentation relating to the [spooni_cho_alchemist](https://spooni-mapping.tebex.io/package/6327075).
+Documentation relating to the spooni_cho_alchemist.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3FeU6OLDCvw?si=Vxxwyo-PxQB8Zy8p" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6327075)
+:::
 
 ## 1. Installation
 spooni_cho_alchemist works Standalone.  

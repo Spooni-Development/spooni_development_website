@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Moonstone Pond
-Documentation relating to the [spooni_moonstone_pond](https://spooni-mapping.tebex.io/package/6222295).
+Documentation relating to the spooni_moonstone_pond.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8SADx-ox6Ho?si=rgSgWuF_VrcCYbGy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6222295)
+:::
 
 ## 1. Installation
 spooni_moonstone_pond works Standalone.  

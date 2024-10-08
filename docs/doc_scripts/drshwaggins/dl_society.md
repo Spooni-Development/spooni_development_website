@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🧮 dl_society
-Documentation relating to the [dl_society](https://drshwaggins-scripts.tebex.io/package/5638677).
+Documentation relating to the dl_society.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ET6X3eYkQlA?si=rbXCE-GZIrryJAWP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5638677)
+:::
 
 ## 1. Installation
 dl_society works only with VORP & RedEM:RP. 

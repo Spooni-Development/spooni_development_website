@@ -1,15 +1,13 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 💾 dl_dbbackup
 Documentation relating to the [dl_dbbackup](https://drshwaggins-scripts.tebex.io/package/5986293).
 
-___
-<br>
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/d13175ec053e5ff7902ddb1a2c5ce57c40c48cd1.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== PREVIEW
+<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/d13175ec053e5ff7902ddb1a2c5ce57c40c48cd1.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5986293)
+:::
 
 ## 1. Installation
 dl_questionwhitelist works Standalone. 

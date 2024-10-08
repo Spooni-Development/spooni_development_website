@@ -1,32 +1,7 @@
 ---
-layout: home
+layout: page
 title: Partner
-prev: false
-next: false
-
-# Meta property
-head:
-  - - meta
-    - property: og:type
-      content: website
-  - - meta
-    - property: og:title
-      content: SPOONI Development
-  - - meta
-    - property: og:description
-      content: Scripts & Mappings
-  - - meta
-    - name: title
-      content: SPOONI Development
-  - - meta
-    - name: description
-      content: Scripts & Mappings
-  - - link
-    - rel: icon
-      type: image/png
-      href: logo.png
 ---
-
 <script setup>
 import {
   VPTeamPage,
@@ -219,7 +194,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1051237554533445692/256695fe232262fea69b284ab7ff5b85.webp?size=128',
+        avatar: 'user.png',
         name: 'Lucky Valley',
         title: '📀 TIER II',
         links: [
@@ -262,7 +237,7 @@ const International_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/928375286091878410/4e8856a06fe2cfd501d6477ee9c5d4bb.webp?size=128',
+        avatar: 'user.png',
         name: '1889 Roleplay',
         title: '💿 TIER I',
         links: [
@@ -384,14 +359,6 @@ const German_RP_Server = [
             { icon: 'discord', link: 'https://discord.gg/frontierstories1899' },
         ]
     },
-        {
-        avatar: 'user.png',
-        name: 'Misty Mountain',
-        title: '💿 TIER I',
-        links: [
-            { icon: 'discord', link: 'https://discord.gg/8Azu5NGUGn' },
-        ]
-    },
     {
         avatar: 'user.png',        
         name: 'Wasteland Stories',
@@ -447,30 +414,27 @@ const German_RP_Server = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>Our Partners</template>
-    <template #lead></template>
+
   </VPTeamPageTitle>
 
 <VPTeamPageSection>
     <template #title>International Scripting</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="International_Scripting" />
+     <VPTeamMembers size="small" :members="International_Scripting" />
     </template>
 </VPTeamPageSection>
 
 <VPTeamPageSection>
     <template #title>International RP Server</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="International_RP_Server" />
+     <VPTeamMembers size="small" :members="International_RP_Server" />
     </template>
 </VPTeamPageSection>
 
 <VPTeamPageSection>
     <template #title>German RP Server</template>
-    <template #lead></template>
     <template #members>
-     <VPTeamMembers size="medium" :members="German_RP_Server" />
+     <VPTeamMembers size="small" :members="German_RP_Server" />
     </template>
 </VPTeamPageSection>
 

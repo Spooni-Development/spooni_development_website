@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🍊 dl_farmroutes
-Documentation relating to the [dl_farmroutes](https://drshwaggins-scripts.tebex.io/package/5783283).
+Documentation relating to the dl_farmroutes.
 
-___
-<br>
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9e5bc4cd8c9f86ae0a601e1b8f382bb02277198a.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== PREVIEW
+<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9e5bc4cd8c9f86ae0a601e1b8f382bb02277198a.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5783283)
+:::
 
 ## 1. Installation
 dl_farmroutes works only with VORP. 

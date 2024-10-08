@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏠 Pronghorn Ranch
-Documentation relating to the [spooni_pronghorn_ranch](https://spooni-mapping.tebex.io/package/5999577).
+Documentation relating to the spooni_pronghorn_ranch.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ugl1PQl6f-c?si=9G6-vIOtRA0Q2qqu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the mapping](https://spooni-mapping.tebex.io/package/5999577)
+:::
 
 ## 1. Installation
 spooni_pronghorn_ranch works Standalone.  

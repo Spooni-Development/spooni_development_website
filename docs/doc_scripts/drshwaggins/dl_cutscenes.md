@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🎥 dl_cutscenes
 Documentation relating to the [dl_cutscenes](https://drshwaggins-scripts.tebex.io/package/5876605).
 
-___
-<br>
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/2b0727aaa2fcb8c08eeedfabca283a9fa5266304.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::tabs
+== PREVIEW
+<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/2b0727aaa2fcb8c08eeedfabca283a9fa5266304.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5876605)
+:::
 
 ## 1. Installation
 dl_cutscenes works only with VORP & RedEM:RP. 

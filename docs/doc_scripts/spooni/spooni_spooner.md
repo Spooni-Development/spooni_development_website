@@ -1,15 +1,13 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 💻 Spooner
-Documentation relating to the [spooni_spooner](https://github.com/Spooni-Development/spooni_spooner).
+Documentation relating to the spooni_spooner.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-vBL0laTaw?si=TxZ9iKd_sPRe1jQX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+== DOWNLOAD
+[Download the script](https://github.com/Spooni-Development/spooni_spooner)
+:::
+
 
 ## 1. Installation
 spooni_spooner works Standalone. 

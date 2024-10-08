@@ -1,15 +1,12 @@
----
-prev: false
-next: false
-aside: false
----
-
 # 🏪 dl_advancedstores
-Documentation relating to the [dl_advancedstores](https://drshwaggins-scripts.tebex.io/package/5736588).
+Documentation relating to the dl_advancedstores.
 
-___
-<br>
+:::tabs
+== PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EkeFqSfrFc?si=k5EA8VCC_tOQx93f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+== BUY
+[Buy the script](https://drshwaggins-scripts.tebex.io/package/5736588)
+:::
 
 ## 1. Installation
 dl_advancedstores works only with VORP. 
