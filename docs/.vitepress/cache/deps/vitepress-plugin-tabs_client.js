@@ -4,8 +4,8 @@ import {
 } from "./chunk-CZX7GLWV.js";
 
 // node_modules/vitepress-plugin-tabs/src/client/index.ts
-import PluginTabs from "C:/Users/Anwender/Desktop/spooni-docs-new/node_modules/vitepress-plugin-tabs/src/client/PluginTabs.vue";
-import PluginTabsTab from "C:/Users/Anwender/Desktop/spooni-docs-new/node_modules/vitepress-plugin-tabs/src/client/PluginTabsTab.vue";
+import PluginTabs from "C:/Users/Anwender/Documents/GitHub/spooni_docs/node_modules/vitepress-plugin-tabs/src/client/PluginTabs.vue";
+import PluginTabsTab from "C:/Users/Anwender/Documents/GitHub/spooni_docs/node_modules/vitepress-plugin-tabs/src/client/PluginTabsTab.vue";
 
 // node_modules/vitepress-plugin-tabs/src/client/useTabsSelectedState.ts
 var injectionKey = "vitepress:tabSharedState";
