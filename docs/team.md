@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+sidebar: false
 ---
 <script setup>
 import {
@@ -189,7 +190,7 @@ const mapper = [
 <VPTeamPageSection>
     <template #title>Director</template>
     <template #members>
-     <VPTeamMembers size="small" :members="director" />
+     <VPTeamMembers size="medium" :members="director" />
     </template>
 </VPTeamPageSection>
 

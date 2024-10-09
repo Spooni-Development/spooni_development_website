@@ -1,6 +1,5 @@
 ---
 layout: doc
-prev: true
 ---
 
 # 👋 Welcome

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Partner
+sidebar: false
 ---
 <script setup>
 import {
