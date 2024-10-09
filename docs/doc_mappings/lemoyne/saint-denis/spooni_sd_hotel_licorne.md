@@ -23,7 +23,17 @@ To install spooni_sd_hotel_licorne:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. For developers
+## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
+
+1. Navigate to the folder where the mapping `spooni_sd_hotel_licorne` is installed.
+2. Search for a folder named `update`.
+3. Go to the respective folder `update_sd_farming`. 
+4. Copy the files from this folder.
+5. Open the `spooni_sd_farming` folder and go to the `stream` folder.
+6. Paste the copied files into the `stream` folder and overwrite existing files.
+7. Restart the server to apply the changes
+
+## 3. For developers
 | Apartments                | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Apartment 1               | `[1379714587] = {1379714587,-113235247,"p_door15x",2616.306640625,-1005.5200195312,49.080001831055}`
