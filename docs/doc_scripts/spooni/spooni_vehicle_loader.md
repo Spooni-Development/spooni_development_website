@@ -29,7 +29,7 @@ This tool allows you to spawn vehicles on the map.
 ```lua
 Config = {}
 
-Config.DevMode = true
+Config.DevMode = true -- only for testing, not for the live server
 Config.Framework = 'vorp' -- vorp, rsg, rpx, qbr, redem
 
 Config.Vehicles = {
