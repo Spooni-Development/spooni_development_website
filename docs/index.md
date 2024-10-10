@@ -58,7 +58,7 @@ const sponsors = [
       name: 'The Last Days',
       title: 'RDR2 Survial Roleplay',
       links: [
-          { icon: 'discord', link: 'https://discord.gg/thelastdays' },
+          { icon: 'discord', link: 'https://discord.gg/the-last-days-1070353246121623594' },
       ]
     },
     {
