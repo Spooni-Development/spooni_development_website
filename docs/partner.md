@@ -393,14 +393,6 @@ const German_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1070353246121623594/81697cd7f6bb599fc56897df53134696.webp?size=128',
-        name: 'The Last Days',
-        title: '💿 TIER I',
-        links: [
-            { icon: 'discord', link: 'https://discord.gg/thelastdays' },
-        ]
-    },
-    {
         avatar: 'https://cdn.discordapp.com/icons/1196012895251734580/d7781511c6bf350e59bc5ab6235f30c5.webp?size=128',
         name: 'Little Creek',
         title: '💿 TIER I',
