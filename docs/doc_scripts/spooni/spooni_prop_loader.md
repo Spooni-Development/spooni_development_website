@@ -35,7 +35,7 @@ However, it should be noted that doors do not work with this script and the plac
 ```lua
 Config = {}
 
-Config.DevMode = true -- only for testing, not for the live server
+Config.DevMode = true
 
 local glm = require "glm"
 
@@ -43,12 +43,15 @@ Config.Zones = {
     {
         name = "annesburg-apple-tree", -- name of the zone
         thickness = 20, -- height
-        point = glm.polygon.new({
-            vec3(3001.654541015625, 1399.3458251953125, 43.19),
-            vec3(2998.39990234375, 1393.282958984375, 43.19),
-            vec3(2991.999267578125, 1395.465576171875, 43.19),
-            vec3(2994.195556640625, 1401.05322265625, 43.19),
-        }),
+        debug = true, -- debug drawing of the points and walls of the zone
+        point = glm.polygon.new(
+            {
+                vec3(3001.654541015625, 1399.3458251953125, 43.19),
+                vec3(2998.39990234375, 1393.282958984375, 43.19),
+                vec3(2991.999267578125, 1395.465576171875, 43.19),
+                vec3(2994.195556640625, 1401.05322265625, 43.19),
+            }
+        ),
         objects = {
             {
                 model = `p_tree_apple_01`,
@@ -58,14 +61,17 @@ Config.Zones = {
         },
     },
     {
-        name = "sd-apple-tree", -- name of the zone
-        thickness = 20, -- height
-        point = glm.polygon.new({
-            vec3(2388.52685546875, -1365.8651123046875, 44.60),
-            vec3(2393.53857421875, -1358.3861083984375, 44.60),
-            vec3(2400.209716796875, -1362.7315673828125, 44.60),
-            vec3(2396.250732421875, -1370.1510009765625, 44.60),
-        }),
+        name = "sd-apple-tree",
+        thickness = 20,
+        debug = true,
+        point = glm.polygon.new(
+            {
+                vec3(2388.52685546875, -1365.8651123046875, 44.60),
+                vec3(2393.53857421875, -1358.3861083984375, 44.60),
+                vec3(2400.209716796875, -1362.7315673828125, 44.60),
+                vec3(2396.250732421875, -1370.1510009765625, 44.60),
+            }
+        ),
         objects = {
             {
                 model = `p_tree_apple_01`,
