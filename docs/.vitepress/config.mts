@@ -182,8 +182,8 @@ export default defineConfig({
       },
     ],
     footer: {
-      message: "Released under the GNU General Public License v3.0.",
-      copyright: 'Copyright © 2022 SPOONI Development',
+      message: "Released under the GNU General Public License v3.0.", 
+      copyright: 'Copyright © 2022 <a style="color: #f25c05;" href="https://discord.gg/spooni" target="_blank">SPOONI Development</a>',
     },   
   },
 })
