@@ -145,7 +145,8 @@ export default defineConfig({
           ]},
 
           
-          { text: "Other", collapsed: true, items:[
+          { text: "Other", collapsed: false, items:[
+            // {text: "🔸Guarma", link:'/doc_mappings/other/spooni_guarma'},
             {text: "🔸Secret Cellar", link:'/doc_mappings/other/spooni_secretcellar'},
           ]},
         
