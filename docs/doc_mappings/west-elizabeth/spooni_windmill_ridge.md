@@ -23,7 +23,17 @@ To install spooni_windmill_ridge:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. For developers
+## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
+
+1. Navigate to the folder where the mapping `spooni_windmill_ridge` is installed.
+2. Search for a folder named `update`.
+3. Go to the respective folder `update_bla_church`.
+4. Copy the files from this folder.
+5. Open the `spooni_bla_church` folder and go to the `stream` folder.
+6. Paste the copied files into the `stream` folder and overwrite existing files.
+7. Restart the server to apply the changes.
+
+## 3. For developers
 | Doors                     | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1696123688] = {1696123688,-1005172683,"p_door01x",-1021.9400024414062,-1624.47998046875,78.05000305175781}`
