@@ -38,12 +38,12 @@ Build your own house with our house props in 21 steps anywhere on the map, furni
 ```lua
 Config = {}
 
-Config.Debug = false -- debug prints, keep on false
-Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg)
+Config.DevMode = true -- only for testing, not for the live server
+Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg, rsg-old) *rsg-old = old inventory version
 Config.Locale = 'en' -- select your language (en, de, fr, es)
 
 Config.DeleteCommand = 'deletespoonihouse' -- command to delete the houses
-Config.DeleteCommandPerms = {'admin', 'mod'}
+Config.DeleteCommandPerms = {"admin", "mod"}
 Config.BuildingJob = false -- turn false to disable joblock
 Config.NoTXAdmin = false -- if you have no txAdmin on your Server.
 Config.Furniture = true -- if you want to furnish the houses.
@@ -54,8 +54,7 @@ Config.Ledger = true -- if you want to have a ledger in the houses.
 Config.OnlyOwnerCanAccessLedger = true
 Config.TaxSystem = true -- if you want to have a tax for the houses.
 Config.DistanceBetweenHouses = 25.0 -- the minimum distance a new house must have before it can be built.
-Config.FurnitureZone = 100.0
-Config.MaxHousesPerPlayer = 5
+Config.MaxHousesPerPlayer = 5 -- the maximum amount of houses a player may own.
 
 Config.BlockedZones = {
     [1] = { -- St Denis
@@ -146,7 +145,7 @@ Config.Houses = {
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
         LoadRadius = 200,
-        MaxFurniture = 150,
+        MaxFurniture = 5,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -283,7 +282,7 @@ Config.Houses = {
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
         LoadRadius = 200,
-        MaxFurniture = 150,
+        MaxFurniture = 5,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -420,7 +419,7 @@ Config.Houses = {
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
         LoadRadius = 200,
-        MaxFurniture = 150,
+        MaxFurniture = 5,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -557,7 +556,7 @@ Config.Houses = {
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
         LoadRadius = 200,
-        MaxFurniture = 150,
+        MaxFurniture = 5,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -694,7 +693,7 @@ Config.Houses = {
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
         LoadRadius = 200,
-        MaxFurniture = 250,
+        MaxFurniture = 5,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -830,8 +829,8 @@ Config.Houses = {
         FurnitureRadius = 50.0, -- the radius in which you can place furniture for this house
         TaxInDaysAfterBuilding = 14, -- 14 days after building tax will be acquired if enabled above
         TaxAmount = 500, -- amount in cash that must be in ledger
-        LoadRadius = 450,
-        MaxFurniture = 150,
+        LoadRadius = 200,
+        MaxFurniture = 5,
         Setup = {
             [1] = {            -- Step
                 Timer = 10000, -- building time
@@ -993,13 +992,16 @@ function clNotify(text, error, success)
             exports["rpx-core"]:ShowAdvancedRightNotification(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
         end
     end
-    if Config.Framework == "rsg" then
+    if Config.Framework == "rsg" or "rsg-old" then
         if error then
-            TriggerEvent('RSGCore:Notify', text, 'error')
+            local dataError = {description = text, duration = 4000, type = 'error' }
+            TriggerEvent('ox_lib:notify', dataError)
         elseif success then
-            TriggerEvent('RSGCore:Notify', text, 'success')
+            local dataSuccess = {description = text, duration = 4000, type = 'success' }
+            TriggerEvent('ox_lib:notify', dataSuccess)
         else
-            TriggerEvent('RSGCore:Notify', text, 'info')
+            local data = {description = text, duration = 4000, type = 'inform' }
+            TriggerEvent('ox_lib:notify', data)
         end
     end
 end
@@ -1023,13 +1025,16 @@ function svNotify(src, text, error, success)
             exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
         end
     end
-    if Config.Framework == "rsg" then
+    if Config.Framework == "rsg" or "rsg-old" then
         if error then
-            TriggerClientEvent('RSGCore:Notify', src, text, 'error')
+            local dataError = {description = text, duration = 4000, type = 'error' }
+            TriggerClientEvent('ox_lib:notify', src, dataError)
         elseif success then
-            TriggerClientEvent('RSGCore:Notify', src, text, 'success')
+            local dataSuccess = {description = text, duration = 4000, type = 'success' }
+            TriggerClientEvent('ox_lib:notify', src, dataSuccess)
         else
-            TriggerClientEvent('RSGCore:Notify', src, text, 'info')
+            local data = {description = text, duration = 4000, type = 'inform' }
+            TriggerClientEvent('ox_lib:notify', src, data)
         end
     end
 end
@@ -1040,14 +1045,29 @@ function ClothingMenuEvent()
     TriggerEvent('kd_clothingstore:openWardrobe', false)
 end
 
+-- New Stage
 function CustomNewStageEvent(owner, type, stage)
     -- Custom Event to trigger when upgrading house / next building step
 end
 
+-- Tax
 function TaxNotPaid(houseID, type, ledger)
     -- Custom Event to trigger when a house has failed paying tax
-    --return false -- use this when the house should not get deleted and only access should get revoked
+    -- return false -- use this when the house should not get deleted and only access should get revoked
     return true -- use this when the house should get deleted from db
+end
+
+-- Custom Inventory
+function CustomInventory()
+    -- Custom Event to trigger when you have a custom Inventory
+    return false
+end
+
+-- Debug
+function Debug(...)
+    if Config.DevMode then
+        print(...)
+    end
 end
 ```
 :::
