@@ -26,7 +26,7 @@ features:
     title: Custom Request
     details: Do you have a personal request? We also offer private commissions. Whether it's a script, mapping or placeable props - anything is possible. With specific ideas from you and our understanding of authenticity and good role-playing, we can help you fulfill your wish and put a smile on your face.
   - icon: 💻
-    title: Service 
+    title: Server Service 
     details: Do you want your own RedM? But you are not familiar with the technology or have problems setting it up? No problem! Get in touch with us on our Discord. Our expert developers can help you with everything from advice to setting up and troubleshooting your.
 ---
 
