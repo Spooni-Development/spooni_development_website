@@ -109,11 +109,11 @@ const International_Scripting = [
         ]
     },    
     {
-        avatar: 'https://cdn.discordapp.com/icons/1048689370858803241/e6576f49bf614f2f7baddc06b725d98c.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/icons/1118302504900370442/25e197dc3945d2d24a61886f600b8b52.webp?size=128',
         name: 'LeFruScripts',
         title: '🔧' ,
         links: [
-            { icon: 'discord', link: 'https://discord.gg/4nHUKrBrvw' },
+            { icon: 'discord', link: 'https://discord.gg/nqcA4JJ2dC' },
         ]
     },
     {
