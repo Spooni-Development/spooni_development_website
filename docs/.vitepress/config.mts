@@ -98,6 +98,7 @@ export default defineConfig({
             ]},
             // {text: "Tumbleweed", collapsed: true, items: [
             // ]},
+            {text: "🔸Buckshot Bend", link:'/doc_mappings/new-austin/spooni_buckshot_bend'},
             {text: "🔸Cholla Springs Alchemist", link:'/doc_mappings/new-austin/spooni_cho_alchemist'},
             {text: "🔸MacFarlane's Ranch", link:'/doc_mappings/new-austin/spooni_mac_farlanes_ranch'},
             {text: "🔸Rathskeller Fork", link:'/doc_mappings/new-austin/spooni_rathskeller_fork'},
