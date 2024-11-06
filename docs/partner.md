@@ -286,6 +286,14 @@ const International_RP_Server = [
         ]
     },
     {
+        avatar: 'https://cdn.discordapp.com/icons/1299969838743031818/2ee8c18e890836b5bde15beda244ae9d.webp?size=128',
+        name: 'State of New Heaven 1890',
+        title: '💿 TIER I',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/newhaven ' },
+        ]
+    },
+    {
         avatar: 'https://cdn.discordapp.com/icons/402330838072688640/addf19be48e8ce18ba46c8cd8a3cbed7.webp?size=128',
         name: 'Legacy Roleplay and Gaming',
         title: '💿 TIER I',
@@ -353,7 +361,7 @@ const German_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1045017560913035284/a_45154dcbbd8f6c85e7fbb35b37443cf9.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/icons/1045017560913035284/a_43338668f0446772a11fef9d4e3e503a.webp?size=128',
         name: 'Frontier Stories',
         title: '📀 TIER II',
         links: [
@@ -393,7 +401,7 @@ const German_RP_Server = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/icons/1196012895251734580/d7781511c6bf350e59bc5ab6235f30c5.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/icons/1196012895251734580/c6ed810896da68b7ec2cd3568641f3d7.webp?size=128',
         name: 'Little Creek',
         title: '💿 TIER I',
         links: [

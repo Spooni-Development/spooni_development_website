@@ -71,7 +71,7 @@ const sponsors = [
   },
   {
     avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/705dbb0c48c53ddd8c824649b6d0a662.webp?size=128',
-    name: 'Babylon 1819',
+    name: 'Babylon 1918',
     title: 'RDR2 Roleplay',
     links: [
         { icon: 'discord', link: 'https://discord.gg/UKDZ5euhd5' },
@@ -110,12 +110,20 @@ const sponsors = [
     ]
   },
   {
-      avatar: 'https://cdn.discordapp.com/icons/939204524466393149/dafafab983a9061e4bc87a1dd263e188.webp?size=128',
-      name: 'Misty Mountain',
-      title: 'RDR2 Roleplay',
-      links: [
-          { icon: 'discord', link: 'https://discord.gg/8Azu5NGUGn' },
-      ]
+    avatar: 'https://cdn.discordapp.com/icons/939204524466393149/dafafab983a9061e4bc87a1dd263e188.webp?size=128',
+    name: 'Misty Mountain',
+    title: 'RDR2 Roleplay',
+    links: [
+        { icon: 'discord', link: 'https://discord.gg/8Azu5NGUGn' },
+    ]
+  },
+  {
+      avatar: 'https://cdn.discordapp.com/icons/1217371173319348266/0df2419df7f5254804ee49f9db062dd5.webp?size=128',
+    name: 'The Golden Age',
+    title: 'RDR2 Roleplay',
+    links: [
+        { icon: 'discord', link: 'https://discord.gg/BWMmAErXKu' },
+    ]
   },
 ]
 </script>
