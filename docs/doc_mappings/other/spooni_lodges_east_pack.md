@@ -1,5 +1,5 @@
-# 🏘️ Ridewood Package
-Documentation relating to the spooni_ridgewood_package.
+# 🏘️ Lodges East Pack
+Documentation relating to the spooni_lodges_east_pack.
 
 :::tabs
 == PREVIEW
@@ -9,14 +9,14 @@ Documentation relating to the spooni_ridgewood_package.
 :::
 
 ## 1. Installation
-spooni_ridgewood_package works Standalone.  
+spooni_lodges_east_pack works Standalone.  
 
-To install spooni_ridgewood_package:
+To install spooni_lodges_east_pack:
 - Drag and drop the resource into your resources folder
-  - `spooni_ridgewood_package`
+  - `spooni_lodges_east_pack`
 - Add this ensure in your server.cfg
   ```
-    ensure spooni_ridgewood_package
+    ensure spooni_lodges_east_pack
   ```
 - At the end
   - Restart the server

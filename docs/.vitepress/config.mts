@@ -149,7 +149,8 @@ export default defineConfig({
           
           { text: "Other", collapsed: false, items:[
             {text: "🔸Guarma", link:'/doc_mappings/other/spooni_guarma'},
-            // {text: "🔸Ridewood Package", link:'/doc_mappings/other/spooni_ridgewood_package'},
+            {text: "🔸Lodges East Pack", link:'/doc_mappings/other/spooni_lodges_east_pack'},
+            {text: "🔸Lodges West Pack", link:'/doc_mappings/other/spooni_lodges_west_pack'},
             {text: "🔸Secret Cellar", link:'/doc_mappings/other/spooni_secretcellar'},
           ]},
         
