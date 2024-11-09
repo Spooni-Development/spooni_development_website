@@ -3,9 +3,9 @@ Documentation relating to the spooni_lodges_west_pack.
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/3f7615e63452a128f74bbd7af18559ffefc7b0be.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6533613)
 :::
 
 ## 1. Installation
@@ -89,7 +89,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 
 | House 10                  | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
-| Front Door                | `[1941392466] = {1941392466, -542955242, "p_door04x", -2303.740478515625, -3000.721923828125, 0.26384091377258}`
-| Back Door                 | `[950005723] = {950005723, -542955242, "p_door04x", -2319.7490234375, -3004.4111328125, 0.26384091377258}`
-| Side Door                 | `[2060088367] = {2060088367, -542955242, "p_door04x", -2311.50048828125, -3012.6708984375, 0.26583981513977}`
-| Balcony Door              | `[2900823389] = {2900823389, -542955242, "p_door04x", -2313.836669921875, -3000.126708984375, 3.67584419250488}`
+| Front Door                | `[1941392466] = {1941392466, -542955242, "p_door04x", -5775.2138671875, -2687.823974609375, -12.83153533935546}`
+| Back Door                 | `[950005723] = {950005723, -542955242, "p_door04x", -5775.43505859375, -2704.25048828125, -12.83153533935546}`
+| Side Door                 | `[2060088367] = {2060088367, -542955242, "p_door04x", -5765.45166015625, -2698.20166015625, -12.82953643798828}`
+| Balcony Door              | `[2900823389] = {2900823389, -542955242, "p_door04x", -5778.19140625, -2697.489501953125, -9.4195327758789}`
