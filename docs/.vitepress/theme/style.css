@@ -65,35 +65,15 @@
 /**
  * Component: Emotion
  * -------------------------------------------------------------------------- */
-
-.content-container { /* docs */
+/* docs */
+.content-container {
   max-width: 100% !important;
 }
-.aside { /* docs */
+.aside { 
 max-width: 300px !important;
 }
-.aside-container { /* docs */
+.aside-container { 
 width: fit-content !important;
-}
-.vp-doc h1, h1 { /* titles in orange */
-  color: #f25c05 !important;
-}
-.icon { /* features icons in hero section */
-  background-color: transparent !important;
-}
-.box { /* features box in hero section */
-  border-width: 2px;
-  border-style: solid;
-  border-color: rgba(240, 91, 5, 0.75) !important;
-  border-radius: 15px;
-}
-.center-arrow { /* on homepage */
-  display: flex;
-  justify-content: center;
-  margin-top: 2rem;
-}
-html {
-  scroll-behavior: smooth;
 }
 ::-webkit-scrollbar {
   width: 12px;        
@@ -105,6 +85,30 @@ html {
   background-color: #2E2E32; 
   border-radius: 10px;     
   border: 3px solid #1B1B1F; 
+}
+/* titles in orange */
+.vp-doc h1, h1 { 
+  color: #f25c05 !important;
+}
+/* features icons in hero section */
+.icon { 
+  background-color: transparent !important;
+}
+/* features box in hero section */
+/* .box { 
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgba(240, 91, 5, 0.75) !important;
+  border-radius: 15px;
+} */
+/* on homepage */
+.center-arrow { 
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+html {
+  scroll-behavior: smooth;
 }
 * {
   scrollbar-width: thin; 
