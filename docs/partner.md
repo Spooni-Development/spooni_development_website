@@ -131,6 +131,14 @@ const International_RP_Server = [
     // TIER II
 
     {
+        avatar: 'https://cdn.discordapp.com/icons/921617122055049216/a_abd162f2c3887cf8264912c8c1803d78.webp?size=128',
+        name: 'Syn County',
+        title: '📀 TIER II',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/syncounty' },
+        ]
+    },
+    {
         avatar: 'https://cdn.discordapp.com/icons/894324037419958292/723e886966e6117807efa14d682c7323.webp?size=128',
         name: 'GoldRush Roleplay',
         title: '📀 TIER II',

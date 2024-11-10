@@ -45,7 +45,7 @@ const artist = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/158243778895937536/a_1858e49f686435f49d64d657d87522ef.gif?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/158243778895937536/66b021ea78201c1b4554faf1c50f297b.webp?size=128',
         name: 'Mike',
         title: '3D Artist',
         links: [
@@ -61,7 +61,7 @@ const artist = [
         ]
     },
     {
-        avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/9f67e8070eabc252309b4a51b52f4784.webp?size=128',
+        avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/9468f0a4ad4f257297952ed457e1e237.webp?size=512',
         name: 'CoralStar',
         title: 'Junior 3D Artist',
         links: [
