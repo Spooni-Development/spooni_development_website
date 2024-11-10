@@ -119,7 +119,7 @@ const sponsors = [
   },
   {
       avatar: 'https://cdn.discordapp.com/icons/1217371173319348266/0df2419df7f5254804ee49f9db062dd5.webp?size=128',
-    name: 'The Golden Age',
+    name: 'Pioneers Country',
     title: 'RDR2 Roleplay',
     links: [
         { icon: 'discord', link: 'https://discord.gg/BWMmAErXKu' },
