@@ -9,4 +9,4 @@ We are pleased to present our new documentation for our mappings and scripts. He
 
 We hope you enjoy the new documentation and find it helpful and useful.
 
-Your SPOONI Team 
+Your SPOONI Team

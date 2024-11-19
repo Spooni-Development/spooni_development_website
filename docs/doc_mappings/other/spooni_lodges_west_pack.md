@@ -3,7 +3,7 @@ Documentation relating to the spooni_lodges_west_pack.
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/3f7615e63452a128f74bbd7af18559ffefc7b0be.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iwFZC0DbNlg?si=33wsan0f1AlxHvkf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
 [Buy the mapping](https://spooni-mapping.tebex.io/package/6533613)
 :::
