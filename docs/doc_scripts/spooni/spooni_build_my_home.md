@@ -5,7 +5,7 @@ Documentation relating to the spooni_build_my_home.
 == PREVIEW
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/c592bf08c16cdfdffc78082171f18499b816c45e.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the script](https://spooni-mapping.tebex.io/package/6194363)
+[Buy the script](https://spooni-shop.fragmentor.io/product/6194363)
 :::
 
 ## 1. Installation

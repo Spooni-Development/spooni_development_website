@@ -5,7 +5,7 @@ Documentation relating to the spooni_lone_mule_stead.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxF2CTbFOc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6132968)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6132968)
 :::
 
 ## 1. Installation

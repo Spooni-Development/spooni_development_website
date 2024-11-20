@@ -5,7 +5,7 @@ Documentation relating to the spooni_oil_worker_houses.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dTQ6UthT39E?si=qyVLCnrdXLpRIT9C" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6228610)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6228610)
 :::
 
 ## 1. Installation

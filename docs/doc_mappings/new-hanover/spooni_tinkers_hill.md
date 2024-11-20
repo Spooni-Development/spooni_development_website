@@ -5,7 +5,7 @@ Documentation relating to the spooni_tinkers_hill.
 == PREVIEW
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/5a07236f4235d5131ce819ac1123fe8577ba84a3.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6481963)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6481963)
 :::
 
 ## 1. Installation

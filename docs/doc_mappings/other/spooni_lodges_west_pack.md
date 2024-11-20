@@ -5,7 +5,7 @@ Documentation relating to the spooni_lodges_west_pack.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iwFZC0DbNlg?si=33wsan0f1AlxHvkf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6533613)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6533613)
 :::
 
 ## 1. Installation

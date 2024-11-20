@@ -5,7 +5,7 @@ Documentation relating to the spooni_sd_jeweler.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AFnqPoi6HI0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6135961)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6135961)
 :::
 
 ## 1. Installation

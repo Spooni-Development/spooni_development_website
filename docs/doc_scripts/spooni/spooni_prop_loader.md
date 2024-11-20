@@ -5,7 +5,7 @@ Documentation relating to the spooni_prop_loader.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H83ZO_y2hdU?si=QoFrjKJwYYfuGScf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the script](https://spooni-mapping.tebex.io/package/6284606)
+[Buy the script](https://spooni-shop.fragmentor.io/product/6284606)
 :::
 
 ## 1. Installation

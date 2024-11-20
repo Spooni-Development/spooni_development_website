@@ -5,7 +5,7 @@ Documentation relating to the spooni_van_brothel_house.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DlFX-Y2Mhqw?si=Beay19-g2OdZ8TXk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6095247)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6095247)
 :::
 
 ## 1. Installation

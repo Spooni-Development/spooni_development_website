@@ -3,7 +3,7 @@ Documentation relating to the spooni_xmas.
 
 :::tabs
 == BUY
-[Buy the script](https://spooni-mapping.tebex.io/package/)
+[Buy the script](https://spooni-shop.fragmentor.io/product/)
 :::
 
 ## 1. Installation

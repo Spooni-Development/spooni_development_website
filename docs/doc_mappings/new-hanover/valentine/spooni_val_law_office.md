@@ -5,7 +5,7 @@ Documentation relating to the spooni_val_law_office.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmZgg8LVUko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/5925118)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/5925118)
 :::
 
 ## 1. Installation

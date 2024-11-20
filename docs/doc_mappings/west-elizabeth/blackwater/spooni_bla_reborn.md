@@ -8,7 +8,7 @@ Documentation relating to the spooni_bla_reborn.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKRhQM-tsvQ?si=BLmolahrj2y3CB2-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/5741069)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/5741069)
 :::
 
 ## 1. Installation

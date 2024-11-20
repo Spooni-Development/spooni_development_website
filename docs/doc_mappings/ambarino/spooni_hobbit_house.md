@@ -5,7 +5,7 @@ Documentation relating to the spooni_hobbit_house.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQ7mE7kX9yQ?si=11u1QnDyfhLoM1M7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6281773)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/6281773)
 :::
 
 ## 1. Installation

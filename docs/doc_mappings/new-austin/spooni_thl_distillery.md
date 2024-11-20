@@ -5,7 +5,7 @@ Documentation relating to the spooni_thl_distillery.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9KoRs8MnQ8?si=h1lNiYgdLG_40ReA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/5905786)
+[Buy the mapping](https://spooni-shop.fragmentor.io/product/5905786)
 :::
 
 ## 1. Installation
