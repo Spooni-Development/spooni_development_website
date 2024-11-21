@@ -460,8 +460,4 @@ sidebar: false
             <VPTeamMembers size="small" :members="server" />
         </template>
     </VPTeamPageSection>
-    <!--  -->
-    <VPTeamPageSection>
-    <template #title>Info</template>
-    </VPTeamPageSection>
 </VPTeamPage>
