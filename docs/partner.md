@@ -267,6 +267,14 @@ sidebar: false
                 { icon: 'discord', link: 'https://discord.gg/frontierstories1899' },
             ]
         },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/22dbaef640b86526eb225b61457d7cb8.webp?size=128',
+            name: 'Wildwood County ',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/wildwoodrp' },
+            ]
+        },
 
         // TIER I
 
