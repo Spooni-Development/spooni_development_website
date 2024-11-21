@@ -12,7 +12,7 @@ sidebar: false
     VPTeamPageSection
     } from 'vitepress/theme'
 
-    const scripting = [
+    const developer = [
         {
             avatar: 'https://cdn.discordapp.com/icons/953724414028046356/cdf1bfa5b691ce5d0aad5d93086387d4.webp?size=128',
             name: 'DrShwaggins Scripts',
@@ -426,39 +426,36 @@ sidebar: false
 </script>
 
 <VPTeamPage>
-    <VPTeamPageTitle>
-        <template #title>Our Partners</template>
-    </VPTeamPageTitle>
-    <!--  -->
+    <VPTeamPageTitle><template #title>Our Partners</template></VPTeamPageTitle>
+    <!-- Developer -->
     <VPTeamPageSection>
-        <template #title>Scripting</template>
-        <template #members>
-            <VPTeamMembers size="small" :members="scripting" />
-        </template>
+        <template #title>Developer</template>
+        <template #members><VPTeamMembers size="small" :members="developer"/></template>
     </VPTeamPageSection>
-    <!--  -->
+    <!-- Roleplay Server -->
     <VPTeamPageSection>
         <template #title>Roleplay Server</template>
+        <template #members><VPTeamMembers size="small" :members="server"/></template>
+    </VPTeamPageSection>
+    <!-- Info -->
+    <VPTeamPageSection>
+        <template #title>Info</template>
         <template #lead>
-        <div style="display: flex; justify-content: center; gap: 200px;">
-            <div style="text-align: left; flex-shrink: 0; white-space: normal;">
-                <h1><strong>📀 TIER II:</strong></h1>
-                <ul>
-                    <li>- Beta access for specific scripts and mappings</li>
-                    <li>- Advertisement for your RP server</li>
-                </ul>
+            <div style="display: flex; justify-content: center; gap: 200px;">
+                <div style="text-align: left; flex-shrink: 0; white-space: normal;">
+                    <h1><strong>📀 TIER II:</strong></h1>
+                    <ul>
+                        <li>- Beta access for specific scripts and mappings</li>
+                        <li>- Advertisement for your RP server</li>
+                    </ul>
+                </div>
+                <div style="text-align: left; flex-shrink: 0; white-space: normal;">
+                    <h1><strong>💿 TIER I:</strong></h1>
+                    <ul>
+                        <li>- Advertisement for your RP server</li>
+                    </ul>
+                </div>
             </div>
-            <div style="text-align: left; flex-shrink: 0; white-space: normal;">
-                <h1><strong>💿 TIER I:</strong></h1>
-                <ul>
-                    <li>- Advertisement for your RP server</li>
-                </ul>
-            </div>
-        </div>
-        <br>
-        </template>
-        <template #members>
-            <VPTeamMembers size="small" :members="server" />
         </template>
     </VPTeamPageSection>
 </VPTeamPage>

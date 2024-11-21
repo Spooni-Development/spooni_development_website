@@ -16,7 +16,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
             name: 'Elitefighter',
-            title: 'Founder',
+            title: 'Founder & Director',
             links: [
                 { icon: 'github', link: 'https://github.com/Masterspooni' },
                 { icon: 'discord', link: 'https://discordapp.com/users/271688304674471937/' },
@@ -149,7 +149,7 @@ sidebar: false
             ]
         },   
         {
-            avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/58879c9c805a550406a2610a3fa754eb.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/a_0a5433db5ef04ce2df8fa7847b72066c.gif?size=128',
             name: 'αмηєѕια',
             title: 'Mapper',
             links: [
@@ -185,42 +185,30 @@ sidebar: false
 
 <VPTeamPage>
     <!--  -->
-    <VPTeamPageTitle>
-        <template #title>Our Team</template>
-    </VPTeamPageTitle>
-    <!--  -->
+    <VPTeamPageTitle><template #title>Our Team</template></VPTeamPageTitle>
+    <!-- Director -->
     <VPTeamPageSection>
         <template #title>Director</template>
-        <template #members>
-            <VPTeamMembers size="medium" :members="director" />
-        </template>
+        <template #members><VPTeamMembers size="medium" :members="director" /></template>
     </VPTeamPageSection>
-    <!--  -->
+    <!-- Supervisor -->
     <VPTeamPageSection>
         <template #title>Supervisor</template>
-        <template #members>
-            <VPTeamMembers size="small" :members="supervisor" />
-        </template>
+        <template #members><VPTeamMembers size="small" :members="supervisor" /></template>
     </VPTeamPageSection>
-    <!--  -->
+    <!-- 3D Artist -->
     <VPTeamPageSection>
-        <template #title>3D Artists</template>
-        <template #members>
-            <VPTeamMembers size="small" :members="artist" />
-        </template>
+        <template #title>3D Artist</template>
+        <template #members><VPTeamMembers size="small" :members="artist" /></template>
     </VPTeamPageSection>
-    <!--  -->
+    <!-- Developer -->
     <VPTeamPageSection>
-        <template #title>Developers</template>
-        <template #members>
-            <VPTeamMembers size="small" :members="developer" />
-        </template>
+        <template #title>Developer</template>
+        <template #members><VPTeamMembers size="small" :members="developer" /></template>
     </VPTeamPageSection>
-    <!--  -->
+    <!-- Mapper -->
     <VPTeamPageSection>
-        <template #title>Mappers</template>
-        <template #members>
-            <VPTeamMembers size="small" :members="mapper" />
-        </template>
+        <template #title>Mapper</template>
+        <template #members><VPTeamMembers size="small" :members="mapper" /></template>
     </VPTeamPageSection>
 </VPTeamPage>
