@@ -455,6 +455,7 @@ sidebar: false
                 </ul>
             </div>
         </div>
+        <br>
         </template>
         <template #members>
             <VPTeamMembers size="small" :members="server" />
