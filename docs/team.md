@@ -3,222 +3,224 @@ layout: page
 title: Team
 sidebar: false
 ---
+
 <script setup>
-import {
-  VPTeamPage,
-  VPTeamPageTitle,
-  VPTeamMembers,
-  VPTeamPageSection
-} from 'vitepress/theme'
+    import {
+    VPTeamPage,
+    VPTeamPageTitle,
+    VPTeamMembers,
+    VPTeamPageSection
+    } from 'vitepress/theme'
 
-const director = [
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
-        name: 'Elitefighter',
-        title: 'Founder',
-        links: [
-            { icon: 'github', link: 'https://github.com/Masterspooni' },
-            { icon: 'discord', link: 'https://discordapp.com/users/271688304674471937/' },
-        ]
-    },
-]
+    const director = [
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
+            name: 'Elitefighter',
+            title: 'Founder',
+            links: [
+                { icon: 'github', link: 'https://github.com/Masterspooni' },
+                { icon: 'discord', link: 'https://discordapp.com/users/271688304674471937/' },
+            ]
+        },
+    ]
 
-const supervisor = [
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/49f8783229956455cc764198834e711d.webp?size=128',
-        name: 'FINN',
-        title: 'Lead Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/478599137563115520/' },
-        ]
-    },
-]
+    const supervisor = [
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/49f8783229956455cc764198834e711d.webp?size=128',
+            name: 'FINN',
+            title: 'Lead Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/478599137563115520/' },
+            ]
+        },
+    ]
 
-const artist = [
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/540860975218163724/d6f5541116792884ee7a3aeee462e450.webp?size=128',
-        name: 'Arthur Mottergan',
-        title: 'Lead 3D Artist',
-        links: [
-            { icon: 'github', link: 'https://github.com/Simastrix' },
-            { icon: 'discord', link: 'https://discordapp.com/users/540860975218163724/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/158243778895937536/66b021ea78201c1b4554faf1c50f297b.webp?size=128',
-        name: 'Mike',
-        title: '3D Artist',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/158243778895937536/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/1033065913219555358/70f51bdc031fc05a47f6bfb428af89e4.webp?size=128',
-        name: 'Howard',
-        title: '3D Artist',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/1033065913219555358/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/9468f0a4ad4f257297952ed457e1e237.webp?size=512',
-        name: 'CoralStar',
-        title: 'Junior 3D Artist',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
-        ]
-    },
-]
+    const artist = [
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/540860975218163724/d6f5541116792884ee7a3aeee462e450.webp?size=128',
+            name: 'Arthur Mottergan',
+            title: 'Lead 3D Artist',
+            links: [
+                { icon: 'github', link: 'https://github.com/Simastrix' },
+                { icon: 'discord', link: 'https://discordapp.com/users/540860975218163724/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/158243778895937536/66b021ea78201c1b4554faf1c50f297b.webp?size=128',
+            name: 'Mike',
+            title: '3D Artist',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/158243778895937536/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/1033065913219555358/70f51bdc031fc05a47f6bfb428af89e4.webp?size=128',
+            name: 'Howard',
+            title: '3D Artist',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/1033065913219555358/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/9468f0a4ad4f257297952ed457e1e237.webp?size=512',
+            name: 'CoralStar',
+            title: 'Junior 3D Artist',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
+            ]
+        },
+    ]
 
-const developer = [
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/94bdab75a18e8191e71478bcc86e414d.webp?size=128',
-        name: 'Emotion',
-        title: 'Developer',
-        links: [
-            { icon: 'github', link: 'https://github.com/Emotion06' },
-            { icon: 'discord', link: 'https://discordapp.com/users/549911000976195590/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/352854698660724738/97f4a19413d024afb72a37aedf1c190d.webp?size=128',
-        name: 'DrShwaggins',
-        title: 'Developer',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/352854698660724738/' },
-        ]
-    },
-    {
-        avatar: 'user.png',
-        name: 'LeFruJohn',
-        title: 'Developer',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/893217081900802101/' },
-        ]
-    },
-]
+    const developer = [
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/94bdab75a18e8191e71478bcc86e414d.webp?size=128',
+            name: 'Emotion',
+            title: 'Developer',
+            links: [
+                { icon: 'github', link: 'https://github.com/Emotion06' },
+                { icon: 'discord', link: 'https://discordapp.com/users/549911000976195590/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/352854698660724738/97f4a19413d024afb72a37aedf1c190d.webp?size=128',
+            name: 'DrShwaggins',
+            title: 'Developer',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/352854698660724738/' },
+            ]
+        },
+        {
+            avatar: 'user.png',
+            name: 'LeFruJohn',
+            title: 'Developer',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/893217081900802101/' },
+            ]
+        },
+    ]
 
-const mapper = [
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/331861578842636301/d6afea1b6c57dfbf6f4dbbea1d4315b0.webp?size=128',
-        name: 'Alina',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/331861578842636301/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/20065ddc60918ce09dde24fcbd78f514.webp?size=128',
-        name: 'Leesh',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/355024108301582349/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/fa698d2e1131311ff6f8b28f99fcef80.webp?size=128',
-        name: 'Sprudeli',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/404260740275503105/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/274553699727310848/498c77a79393df52db811d744387e691.png?size=128',
-        name: 'Cookee',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/274553699727310848/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/c4eabf1d18be73bf6c65d96be7eb6ea4.webp?size=128',
-        name: 'starburns',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
-        ]
-    },
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/381107972371251216/4fbcb48aaae153a2d846c5486d005fb7.png?size=128',
-        name: 'Marin Fox',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
-        ]
-    },   
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/58879c9c805a550406a2610a3fa754eb.webp?size=128',
-        name: 'αмηєѕια',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
-        ]
-    }, 
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/73468826716471296/c98aedfca12cbd93af96ae2bd6ee4ea6.png?size=128',
-        name: 'Lucy',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/73468826716471296/' },
-        ]
-    },   
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/159394227787268096/9f22888753e98aac5e8055d14d0b2e9d.png?size=128',
-        name: 'Jamilton',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/159394227787268096/' },
-        ]
-    }, 
-    {
-        avatar: 'https://cdn.discordapp.com/avatars/746266875058716702/c3c28a4ca78da1981b6958400450ddfb.png?size=128',
-        name: '𝓑𝓾𝓷𝓷𝔂',
-        title: 'Mapper',
-        links: [
-            { icon: 'discord', link: 'https://discordapp.com/users/746266875058716702/' },
-        ]
-    }, 
-]
+    const mapper = [
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/331861578842636301/d6afea1b6c57dfbf6f4dbbea1d4315b0.webp?size=128',
+            name: 'Alina',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/331861578842636301/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/20065ddc60918ce09dde24fcbd78f514.webp?size=128',
+            name: 'Leesh',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/355024108301582349/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/fa698d2e1131311ff6f8b28f99fcef80.webp?size=128',
+            name: 'Sprudeli',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/404260740275503105/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/274553699727310848/498c77a79393df52db811d744387e691.png?size=128',
+            name: 'Cookee',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/274553699727310848/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/c4eabf1d18be73bf6c65d96be7eb6ea4.webp?size=128',
+            name: 'starburns',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/381107972371251216/4fbcb48aaae153a2d846c5486d005fb7.png?size=128',
+            name: 'Marin Fox',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+            ]
+        },   
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/58879c9c805a550406a2610a3fa754eb.webp?size=128',
+            name: 'αмηєѕια',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+            ]
+        }, 
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/73468826716471296/c98aedfca12cbd93af96ae2bd6ee4ea6.png?size=128',
+            name: 'Lucy',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/73468826716471296/' },
+            ]
+        },   
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/159394227787268096/9f22888753e98aac5e8055d14d0b2e9d.png?size=128',
+            name: 'Jamilton',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/159394227787268096/' },
+            ]
+        }, 
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/746266875058716702/c3c28a4ca78da1981b6958400450ddfb.png?size=128',
+            name: '𝓑𝓾𝓷𝓷𝔂',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/746266875058716702/' },
+            ]
+        }, 
+    ]
 </script>
 
 <VPTeamPage>
-  <VPTeamPageTitle>
-    <template #title>Our Team</template>
-  </VPTeamPageTitle>
-
-<VPTeamPageSection>
-    <template #title>Director</template>
-    <template #members>
-     <VPTeamMembers size="medium" :members="director" />
-    </template>
-</VPTeamPageSection>
-
-<VPTeamPageSection>
-    <template #title>Supervisor</template>
-    <template #members>
-     <VPTeamMembers size="small" :members="supervisor" />
-    </template>
-</VPTeamPageSection>
-
-  <VPTeamPageSection>
-    <template #title>3D Artists</template>
-    <template #members>
-     <VPTeamMembers size="small" :members="artist" />
-    </template>
-  </VPTeamPageSection>
-
-<VPTeamPageSection>
-    <template #title>Developers</template>
-    <template #members>
-     <VPTeamMembers size="small" :members="developer" />
-    </template>
-</VPTeamPageSection>
-
-  <VPTeamPageSection>
-    <template #title>Mappers</template>
-    <template #members>
-     <VPTeamMembers size="small" :members="mapper" />
-    </template>
-  </VPTeamPageSection>
+    <!--  -->
+    <VPTeamPageTitle>
+        <template #title>Our Team</template>
+    </VPTeamPageTitle>
+    <!--  -->
+    <VPTeamPageSection>
+        <template #title>Director</template>
+        <template #members>
+            <VPTeamMembers size="medium" :members="director" />
+        </template>
+    </VPTeamPageSection>
+    <!--  -->
+    <VPTeamPageSection>
+        <template #title>Supervisor</template>
+        <template #members>
+            <VPTeamMembers size="small" :members="supervisor" />
+        </template>
+    </VPTeamPageSection>
+    <!--  -->
+    <VPTeamPageSection>
+        <template #title>3D Artists</template>
+        <template #members>
+            <VPTeamMembers size="small" :members="artist" />
+        </template>
+    </VPTeamPageSection>
+    <!--  -->
+    <VPTeamPageSection>
+        <template #title>Developers</template>
+        <template #members>
+            <VPTeamMembers size="small" :members="developer" />
+        </template>
+    </VPTeamPageSection>
+    <!--  -->
+    <VPTeamPageSection>
+        <template #title>Mappers</template>
+        <template #members>
+            <VPTeamMembers size="small" :members="mapper" />
+        </template>
+    </VPTeamPageSection>
 </VPTeamPage>
