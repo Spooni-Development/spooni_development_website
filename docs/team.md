@@ -90,10 +90,20 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/avatars/383325451072045058/8e81e307d7508c8e19c0b539f2112329.webp?size=128',
+            name: 'Chawklet',
+            title: 'Developer',
+            links: [
+                { icon: 'github', link: 'https://github.com/hellcatdevelopment' },
+                { icon: 'discord', link: 'https://discordapp.com/users/383325451072045058/' },
+            ]
+        },
+        {
             avatar: 'user.png',
             name: 'LeFruJohn',
             title: 'Developer',
             links: [
+                { icon: 'github', link: 'https://github.com/LeFruJohn0' },
                 { icon: 'discord', link: 'https://discordapp.com/users/893217081900802101/' },
             ]
         },
@@ -180,6 +190,22 @@ sidebar: false
                 { icon: 'discord', link: 'https://discordapp.com/users/746266875058716702/' },
             ]
         }, 
+        {
+            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/263565721106120704/avatars/e1a87a71143eacafbe35f2918c7a96fd.webp?size=128',
+            name: 'SunDragoness',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/263565721106120704/' },
+            ]
+        }, 
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/106866103539523584/389d6d2311cd72728955d7f0518cd2cc.webp?size=128',
+            name: 'Birae',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/106866103539523584/' },
+            ]
+        },
     ]
 </script>
 

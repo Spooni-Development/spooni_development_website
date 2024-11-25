@@ -76,6 +76,7 @@ export default defineConfig({
               {text: "🔸Hotel La Licorne", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_hotel_licorne'},
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_jeweler'},
               {text: "🔸Promenade", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_promenade'},
+              {text: "🔸Saloon", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_saloon'},
               // {text: "🔸Police Station", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_policestation'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_slums'},
               {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_spaldings'},
@@ -187,7 +188,7 @@ export default defineConfig({
     ],
     footer: {
       message: "Released under the GNU General Public License v3.0.", 
-      copyright: 'Copyright © 2022 <a style="color: #f25c05;" href="https://discord.gg/spooni" target="_blank">SPOONI Development</a>',
+      copyright: '© 2022 - 2024 <a style="color: #f25c05;" href="https://discord.gg/spooni" target="_blank">SPOONI Development</a>',
     },   
   },
 })
