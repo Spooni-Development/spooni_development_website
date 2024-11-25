@@ -24,8 +24,7 @@ To install spooni_build_my_home:
   - `config.lua`
   - `functions.lua`
   - `furniture.lua`
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 

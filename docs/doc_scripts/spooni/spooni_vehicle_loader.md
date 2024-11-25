@@ -15,8 +15,7 @@ spooni_vehicle_loader works only with VORP, RSG, QBR, RPX & RedEM.
   - `spooni_vehicle_loader`
 - Add this ensure in your server.cfg
   - `ensure spooni_vehicle_loader`
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 

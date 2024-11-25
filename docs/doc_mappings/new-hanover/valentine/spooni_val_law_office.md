@@ -18,8 +18,7 @@ To install spooni_val_law_office:
   ```
     ensure spooni_val_law_office
   ```
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 

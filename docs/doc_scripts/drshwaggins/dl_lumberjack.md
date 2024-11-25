@@ -23,8 +23,7 @@ To install dl_lumberjack:
 - Now you can configure and translate the script as you like
   - `config.lua`
   - `translation.lua`
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [DrShwaggins Discord](https://discord.gg/K9H27J5VaS).
 

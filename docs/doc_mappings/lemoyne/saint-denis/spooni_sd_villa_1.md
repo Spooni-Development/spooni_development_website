@@ -18,8 +18,7 @@ To install spooni_sd_villa_1:
   ```
     ensure spooni_sd_villa_1
   ```
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 ## 2. For developers
 | Main House                | Doorhashes

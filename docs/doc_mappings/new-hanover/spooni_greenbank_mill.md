@@ -18,8 +18,7 @@ To install spooni_greenbank_mill:
   ```
     ensure spooni_greenbank_mill
   ```
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 

@@ -21,8 +21,7 @@ To install spooni_blackmarket:
 - Now you can configure and translate the script as you like
   - `config.lua`
   - `translation.lua`
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 

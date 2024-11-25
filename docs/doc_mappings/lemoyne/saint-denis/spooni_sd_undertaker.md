@@ -18,8 +18,7 @@ To install spooni_sd_undertaker:
   ```
     ensure spooni_sd_undertaker
   ```
-- At the end
-  - Restart the server
+- At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
