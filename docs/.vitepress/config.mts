@@ -137,6 +137,7 @@ export default defineConfig({
               {text: "🔸Reborn 1", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_reborn'},
             ]},
             {text: "Strawberry", collapsed: true, items: [
+              {text: "🔸Gunsmith", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_gunsmith'},
               {text: "🔸Stable", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_stable'},
             ]},
             {text: "🔸Lone Mule Stead", link:'/doc_mappings/west-elizabeth/spooni_lone_mule_stead'},
@@ -146,7 +147,6 @@ export default defineConfig({
             {text: "🔸Windmill Ridge", link:'/doc_mappings/west-elizabeth/spooni_windmill_ridge'},
 
           ]},
-
           
           { text: "Other", collapsed: false, items:[
             {text: "🔸Guarma", link:'/doc_mappings/other/spooni_guarma'},
