@@ -77,7 +77,7 @@ export default defineConfig({
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_jeweler'},
               {text: "🔸Night Club", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_night_club'},
               {text: "🔸Promenade", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_promenade'},
-              // {text: "🔸Police", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_police'},
+              {text: "🔸Police", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_police'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_slums'},
               {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_spaldings'},
               {text: "🔸Train Station", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_trainstation'},
