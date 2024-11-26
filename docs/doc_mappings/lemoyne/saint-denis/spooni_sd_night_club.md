@@ -33,8 +33,11 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 
-
 ## 3. For developers
+| Second floor              | Doorhashes
+|---------------------------|----------------------------------------------------------------------------------|
+| Big Door                  | `[1856035488] = {1856035488, -1322808940, "door_bastille", 2632.97216796875, -1231.3458251953125, 64.74528503417969}`
+
 | Night Club                | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[953969904] = {953969904, -705727376, "p_doornbd31x", 2639.6220703125, -1229.8468017578125, 52.39528656005859}`
@@ -59,5 +62,3 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 | Cell 1                    | `[169250661] = {169250661, -798350419, "p_door_val_jail_cell01x", 2636.132080078125, -1226.6458740234375, 44.07528686523437}`
 | Cell 2                    | `[1163790371] = {1163790371, -798350419, "p_door_val_jail_cell01x", 2634.8720703125, -1223.2158203125, 44.07528686523437}`
 | Cell 3                    | `[350987535] = {350987535, -798350419, "p_door_val_jail_cell01x", 2639.382080078125, -1221.98583984375, 44.08528137207031}`
-
-
