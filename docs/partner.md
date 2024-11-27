@@ -269,10 +269,18 @@ sidebar: false
         },
         {
             avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/22dbaef640b86526eb225b61457d7cb8.webp?size=128',
-            name: 'Wildwood County ',
+            name: 'Wildwood County',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/wildwoodrp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1308329282602274856/59b8287c7e784669fcf9f201cc67b0f1.webp?size=128',
+            name: 'Vendetta County',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/x7xTAKfV' },
             ]
         },
 
