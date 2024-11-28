@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Tebex Store
-      link: https://spooni-shop.fragmentor.io/
+      link: https://spooni-mapping.tebex.io/
     - theme: alt
       text: Props
       link: https://spooni.de/props/
