@@ -65,7 +65,7 @@ export default defineConfig({
             ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
-              // {text: "🔸Brewery", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_brewery'},
+              {text: "🔸Brewery", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_brewery'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_cart_woodworker'},              
               {text: "🔸Church", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_church'},
               {text: "🔸Courthouse", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_courthouse'},
