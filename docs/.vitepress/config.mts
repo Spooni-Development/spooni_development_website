@@ -166,6 +166,7 @@ export default defineConfig({
             { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
             { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
             { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_job_blips' },
+            { text: "🗑️ Prop Deleter", link:'doc_scripts/spooni/spooni_prop_deleter' },
             { text: "🧩 Prop Loader", link:'doc_scripts/spooni/spooni_prop_loader' },
             { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
             { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
