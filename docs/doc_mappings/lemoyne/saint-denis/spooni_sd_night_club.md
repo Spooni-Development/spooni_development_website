@@ -5,7 +5,7 @@ Documentation relating to the [spooni_sd_night_club](https://spooni-shop.fragmen
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R52JiHn3LC8?si=NV0t88goGJOK2ITa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
 [Buy the mapping](https://spooni-shop.fragmentor.io/product/)
 :::
