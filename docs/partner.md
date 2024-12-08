@@ -12,25 +12,6 @@ sidebar: false
     VPTeamPageSection
     } from 'vitepress/theme'
 
-    // const server_provider = [
-    //     {
-    //         avatar: 'https://cdn.discordapp.com/avatars/315241449178529792/a_61b3eb3194f204bf2876702d6d96e08f.gif?size=128',
-    //         name: 'Iceline Hosting',
-    //         title: 'Simplified server hosting, at any scale.',
-    //         links: [
-    //             { icon: 'discord', link: 'https://discord.gg/knVH9SYB4g' },
-    //         ]
-    //     },
-    //     // {
-    //     //     avatar: 'https://cdn.discordapp.com/icons/713045522650234963/a_95b90916293b52195ed1bfaccbaa8d9b.webp?size=128',
-    //     //     name: 'Avoro',
-    //     //     title: 'Your hoster for DDoS-protected services in Frankfurt.',
-    //     //     links: [
-    //     //         { icon: 'discord', link: 'https://discord.gg/avoro' },
-    //     //     ]
-    //     // },
-    // ]
-
     const developer = [
         {
             avatar: 'https://cdn.discordapp.com/icons/953724414028046356/cdf1bfa5b691ce5d0aad5d93086387d4.webp?size=128',
@@ -468,11 +449,6 @@ sidebar: false
 
 <VPTeamPage>
     <VPTeamPageTitle><template #title>Our Partners</template></VPTeamPageTitle>
-    <!-- Server Provider -->
-    <!-- <VPTeamPageSection>
-        <template #title>Server Provider</template>
-        <template #members><VPTeamMembers size="medium" :members="server_provider"/></template>
-    </VPTeamPageSection> -->
     <!-- Developer -->
     <VPTeamPageSection>
         <template #title>Developer</template>
