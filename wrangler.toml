@@ -1,2 +1,7 @@
 name = "spooni_docs"
 compatibility_date = "2024-12-08"
+
+[build]
+command = "npm run docs:build
+[build.output]
+path = "docs/.vitepress/dist"
