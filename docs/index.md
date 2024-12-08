@@ -28,7 +28,7 @@ features:
     title: Server Service 
     details: Do you want your own RedM server but need help with setup or troubleshooting? No problem! Buy your server through our partner and get a guide on contacting us. Our expert developers will support you with setup, troubleshooting, and tailored advice for your project.
     link: https://iceline-hosting.com/spooni
-    linkText: Get your server
+    linkText: Get your server.
 ---
 
 <div class="center-arrow">

@@ -14,14 +14,14 @@ sidebar: false
 
     const server_service = [
         {
-           avatar: '/logo.png',
-            name: 'Standard Server',
+           avatar: '/standard_service.png',
+            name: 'Standard',
             title: '50€',
             desc: '<b> - Setting up the FXServer <br> - Setting up the database <br> - Installing the framework </b>',
         },
         {
-           avatar: '/logo.png',
-            name: 'Premium Server',
+           avatar: '/premium_service.png',
+            name: 'Premium',
             title: '100€',
             desc: '<b> - Standard package <br> - Custom request </b>',
         },
@@ -36,7 +36,7 @@ sidebar: false
                 { icon: 'discord', link: 'https://discord.gg/knVH9SYB4g' },
             ],
             sponsor: 'https://iceline-hosting.com/spooni',
-            actionText: 'Get your server'
+            actionText: 'Get your server.'
         },
     ]
 </script>
