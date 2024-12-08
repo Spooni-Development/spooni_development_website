@@ -28,7 +28,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_sd_hotel_licorne` or `update_spooni_sd_undertaker`. 
 4. Copy the files from this folder.
-5. Open the `spooni_sd_hotel_licorne` or `update_spooni_sd_undertaker` folder and go to the `stream` folder.
+5. Open the `spooni_sd_farming` & `spooni_sd_hotel_licorne` or `update_spooni_sd_undertaker` folder and go to the `stream` folder.
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 

@@ -12,11 +12,30 @@ sidebar: false
     VPTeamPageSection
     } from 'vitepress/theme'
 
+    // const server_provider = [
+    //     {
+    //         avatar: 'https://cdn.discordapp.com/avatars/315241449178529792/a_61b3eb3194f204bf2876702d6d96e08f.gif?size=128',
+    //         name: 'Iceline Hosting',
+    //         title: 'Simplified server hosting, at any scale.',
+    //         links: [
+    //             { icon: 'discord', link: 'https://discord.gg/knVH9SYB4g' },
+    //         ]
+    //     },
+    //     // {
+    //     //     avatar: 'https://cdn.discordapp.com/icons/713045522650234963/a_95b90916293b52195ed1bfaccbaa8d9b.webp?size=128',
+    //     //     name: 'Avoro',
+    //     //     title: 'Your hoster for DDoS-protected services in Frankfurt.',
+    //     //     links: [
+    //     //         { icon: 'discord', link: 'https://discord.gg/avoro' },
+    //     //     ]
+    //     // },
+    // ]
+
     const developer = [
         {
             avatar: 'https://cdn.discordapp.com/icons/953724414028046356/cdf1bfa5b691ce5d0aad5d93086387d4.webp?size=128',
             name: 'DrShwaggins Scripts',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/m8SmDPWcu3' },
             ]
@@ -24,7 +43,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/777290543406776341/a_8893fe3c222deef6054f729a541d2975.webp?size=128',
             name: 'Syn Scripts',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/synscripts' },
             ]
@@ -32,7 +51,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/1021957724440899584/a_1d0f9cf6a58096b91548f4c164ce0917.webp?size=128',
             name: 'Bryce Canyon County',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/GuwS7Y7PA3' },
             ]
@@ -40,7 +59,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/907324006699499570/09592146e6269e1720f6322170c3d532.webp?size=128',
             name: 'SIREC STUDIO',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/hrWUHjjXwn' },
             ]
@@ -48,7 +67,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/870659641879724104/b85569f37578506f0628fb88135d9296.webp?size=128',
             name: 'Gum Scripts',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/8ZzQqGSngH' },
             ]
@@ -56,7 +75,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/991835489160151171/fb1669ec949e09aeb9ed9da768a59e57.webp?size=128',
             name: 'Xakra Scripts',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/aRK4g7KNQr' },
             ]
@@ -64,7 +83,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/d8562aa500b4fb01423ac5abdc3d2e1a.webp?size=128',
             name: 'Fixitfy',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/srrmCQ58WP' },
             ]
@@ -72,7 +91,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/820144145040408586/3e3f061f13ded09919a78346465aae9e.webp?size=128',
             name: 'Hellcat Development',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/GGm6b3ChFX' },
             ]
@@ -80,7 +99,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/1022133473508589609/67188236c70ac2e4afc6e17a64013a42.webp?size=128',
             name: 'NIGHT SHIFT STUDIO',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/n26dFYTNCa' },
             ]
@@ -88,7 +107,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/919890110177230898/19f6a0b86b48079bcf9e51d85af415e1.webp?size=128',
             name: 'Mega | Development Services',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/kfFE3JrySd' },
             ]
@@ -96,7 +115,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/942431188881141820/79a5d93ced30fa576d14d70c5d46b8d6.webp?size=128',
             name: 'SireVLC',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/2zEQY8RaFb' },
             ]
@@ -104,7 +123,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/1137911244658065529/d2f22d99fd2a27142d39b0d1bda76851.webp?size=128',
             name: 'JR Scripts',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/njZVvWYmpE' },
             ]
@@ -112,7 +131,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/1118302504900370442/25e197dc3945d2d24a61886f600b8b52.webp?size=128',
             name: 'LeFruScripts',
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/nqcA4JJ2dC' },
             ]
@@ -120,7 +139,7 @@ sidebar: false
         {
             avatar: 'https://cdn.discordapp.com/icons/716696767407718493/a_578e1b7e584cf62f67741baba33ee0d6.webp?size=128',
             name: "ZioMark's HUB",
-            title: '🔧' ,
+            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/ziomark' },
             ]
@@ -130,7 +149,6 @@ sidebar: false
     const server = [
 
         // TIER II
-
         {
             avatar: 'https://cdn.discordapp.com/icons/921617122055049216/a_abd162f2c3887cf8264912c8c1803d78.webp?size=128',
             name: 'Syn County',
@@ -156,7 +174,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/a_0bb2ea0806d2f7d650a870b97c3043af.webp?size=96',
+            avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/8761ba37762141bb7b41f1bf07a5c8dd.webp?size=128',
             name: 'Yellowstone RP',
             title: '📀 TIER II',
             links: [
@@ -268,11 +286,19 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/22dbaef640b86526eb225b61457d7cb8.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/364ecb49ee52628af8fccf558cde4774.webp?size=128',
             name: 'Wildwood County',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/wildwoodrp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1139609447480688733/a_04f9c9ad68538eb9f3f7a253bf04222d.webp?size=128',
+            name: 'Legendary Roleplay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/legendaryrp' },
             ]
         },
         {
@@ -285,7 +311,6 @@ sidebar: false
         },
 
         // TIER I
-
         {
             avatar: 'https://cdn.discordapp.com/icons/1206360727758307348/8dedd210d7df0a322e207ca143aa1425.webp?size=128',
             name: 'Outlaws Roleplay',
@@ -390,12 +415,20 @@ sidebar: false
                 { icon: 'discord', link: 'https://discord.gg/westerndreams' },
             ]
         },
-                {
+        {
             avatar: 'user.png',        
             name: 'Wasteland Stories',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/wasteland' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1179139330476875786/f8c5b621595b2693234c7d2bb0a893c9.webp?size=128',        
+            name: '2Toxic',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/2toxic-1179139330476875786' },
             ]
         },
         {
@@ -435,6 +468,11 @@ sidebar: false
 
 <VPTeamPage>
     <VPTeamPageTitle><template #title>Our Partners</template></VPTeamPageTitle>
+    <!-- Server Provider -->
+    <!-- <VPTeamPageSection>
+        <template #title>Server Provider</template>
+        <template #members><VPTeamMembers size="medium" :members="server_provider"/></template>
+    </VPTeamPageSection> -->
     <!-- Developer -->
     <VPTeamPageSection>
         <template #title>Developer</template>
