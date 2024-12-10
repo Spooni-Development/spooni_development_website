@@ -333,7 +333,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.png',
+            avatar: 'user.svg',
             name: '1889 Roleplay',
             title: '💿 TIER I',
             links: [
@@ -421,7 +421,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.png',        
+            avatar: 'user.svg',        
             name: 'Wasteland Stories',
             title: '💿 TIER I',
             links: [

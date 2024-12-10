@@ -99,7 +99,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.png',
+            avatar: 'user.svg',
             name: 'LeFruJohn',
             title: 'Developer',
             links: [

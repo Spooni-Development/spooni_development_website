@@ -15,11 +15,11 @@ export default defineConfig({
   head: [
     [
       "link",
-      { rel: "icon", type: "image/png", sizes: "64x64", href: "/logo.png", loading: "lazy" },
+      { rel: "icon", sizes: "64x64", href: "/logo.svg", loading: "lazy" },
     ],
   ],
   themeConfig: {
-    logo: "/logo.png",
+    logo: "/logo.svg",
     siteTitle: "SPOONI Development",
     outline: {
       level: 'deep',

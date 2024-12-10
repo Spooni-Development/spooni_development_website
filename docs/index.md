@@ -2,11 +2,11 @@
 layout: home
 title: Home
 
-hero:
+hero: 
   name: SPOONI
   text: Development
   image:
-    src: /logo.png
+    src: /logo.svg
     alt: SPOONI Development logo
   tagline: Scripts & Mappings
   actions:
@@ -33,7 +33,7 @@ features:
 
 <div class="center-arrow">
   <a href="#sponsors" style="text-decoration: none;">
-    <img src="/arrow.png" alt="Scroll Down" style="width: 75px; height: 75px;" />
+    <img src="/arrow.svg" alt="Scroll Down" style="width: 75px; height: 75px;" />
   </a>
 </div>
 
