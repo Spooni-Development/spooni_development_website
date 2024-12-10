@@ -87,10 +87,18 @@ sidebar: false
         },
         {
             avatar: 'https://cdn.discordapp.com/icons/919890110177230898/19f6a0b86b48079bcf9e51d85af415e1.webp?size=128',
-            name: 'Mega | Development Services',
+            name: 'Mega Development',
             // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/kfFE3JrySd' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/788825023565529108/12dfa8562af24318350f7b418e21818a.webp?size=128',
+            name: 'BulgaR Scripts',
+            // title: '🔧' ,
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/7Ac56XKYRY' },
             ]
         },
         {
@@ -248,6 +256,22 @@ sidebar: false
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/sr-roleplay' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1145304254886707200/fafb6807077c6c5ca01607801989f4ef.webp?size=128',
+            name: 'High Stakes Roleplay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/highstakes' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/926153128561246218/236ae10cb12b3e58e7b880e42c463c43.webp?size=128',
+            name: 'FarWest Québec',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/arwestqc' },
             ]
         },
         {
