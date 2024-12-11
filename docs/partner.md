@@ -235,6 +235,14 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1182659001645797447/a_bf2e8ecf84e1ed91c26ec784b390dc7c.webp?size=128',
+            name: 'Arizona RP',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/arizonarpofficial' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1265811755549069372/4461f2067efa359c134fcc24e7ba49e4.webp?size=128',
             name: 'BAYANG SINILANGAN RP',
             title: '📀 TIER II',
@@ -271,7 +279,7 @@ sidebar: false
             name: 'FarWest Québec',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/arwestqc' },
+                { icon: 'discord', link: 'https://discord.gg/farwestqc' },
             ]
         },
         {
