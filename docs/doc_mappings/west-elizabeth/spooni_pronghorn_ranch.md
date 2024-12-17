@@ -11,8 +11,10 @@ Documentation relating to the spooni_pronghorn_ranch.
 ## 1. Installation
 spooni_pronghorn_ranch works Standalone.  
 
-To install spooni_pronghorn_ranch:
-- Drag and drop the resource into your resources folder
+#### To install spooni_pronghorn_ranch:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_pronghorn_ranch`
 - Add this ensure in your server.cfg
   ```

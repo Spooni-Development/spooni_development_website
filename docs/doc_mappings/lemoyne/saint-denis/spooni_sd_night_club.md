@@ -1,5 +1,5 @@
 # 🏠 St. Denis Night Club <Badge type="danger" text="CURRENTLY ONLY AVAILABLE FOR SPONSORS" />
-Documentation relating to the [spooni_sd_night_club](https://spooni-shop.fragmentor.io/product/5824786).
+Documentation relating to the spooni_sd_night_club.
 
 <Badge type="warning" text="DISCLAIMER: This MLO is only an add-on to the existing St. Denis Saloon MLO from R*" />
 
@@ -13,8 +13,10 @@ Documentation relating to the [spooni_sd_night_club](https://spooni-shop.fragmen
 ## 1. Installation
 spooni_sd_night_club works Standalone.  
 
-To install spooni_sd_night_club:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_night_club:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_night_club`
 - Add this ensure in your server.cfg
   ```

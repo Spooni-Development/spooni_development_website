@@ -11,8 +11,10 @@ Documentation relating to the spooni_arm_reborn.
 ## 1. Installation
 spooni_arm_reborn works Standalone.  
 
-To install spooni_arm_reborn:
-- Drag and drop the resource into your resources folder
+#### To install spooni_arm_reborn:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_arm_reborn`
 - Add this ensure in your server.cfg
   ```

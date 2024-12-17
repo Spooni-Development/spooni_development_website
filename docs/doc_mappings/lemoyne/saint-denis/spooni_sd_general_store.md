@@ -11,8 +11,10 @@ Documentation relating to the spooni_sd_general_store.
 ## 1. Installation
 spooni_sd_general_store works Standalone.  
 
-To install spooni_sd_general_store:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_general_store:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_general_store`
 - Add this ensure in your server.cfg
   ```

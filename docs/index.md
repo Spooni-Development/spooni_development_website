@@ -47,11 +47,11 @@ import {
 
 const sponsors = [
   {
-    avatar: 'https://cdn.discordapp.com/icons/1080957020796096664/27692dfcbf10cf409412f4c213eda4cf.webp?size=128',
-    name: 'n-core',
+    avatar: 'https://cdn.discordapp.com/icons/1317242352682663937/e821fa7ea65a8a9968d92f761a54142d.webp?size=128',
+    name: 'FAT LADY',
     title: 'RDR2 Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/3Kbjdu5cFZ' },
+        { icon: 'discord', link: 'https://discord.gg/fatlady' },
     ]
   },
   {

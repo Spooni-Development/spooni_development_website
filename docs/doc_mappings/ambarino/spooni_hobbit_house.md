@@ -11,8 +11,10 @@ Documentation relating to the spooni_hobbit_house.
 ## 1. Installation
 spooni_hobbit_house works Standalone.  
 
-To install spooni_hobbit_house:
-- Drag and drop the resource into your resources folder
+#### To install spooni_hobbit_house:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_hobbit_house`
 - Add this ensure in your server.cfg
   ```

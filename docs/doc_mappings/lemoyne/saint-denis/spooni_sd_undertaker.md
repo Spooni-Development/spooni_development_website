@@ -11,8 +11,10 @@ Documentation relating to the spooni_sd_undertaker.
 ## 1. Installation
 spooni_sd_undertaker works Standalone.  
 
-To install spooni_sd_undertaker:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_undertaker:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_undertaker`
 - Add this ensure in your server.cfg
   ```

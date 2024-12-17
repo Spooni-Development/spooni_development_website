@@ -11,8 +11,10 @@ Documentation relating to the spooni_val_church.
 ## 1. Installation
 spooni_val_church works Standalone.  
 
-To install spooni_val_church:
-- Drag and drop the resource into your resources folder
+#### To install spooni_val_church:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_val_church`
 - Add this ensure in your server.cfg
   ```

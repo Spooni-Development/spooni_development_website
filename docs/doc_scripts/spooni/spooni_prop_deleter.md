@@ -11,7 +11,9 @@ Documentation relating to the spooni_prop_deleter.
 ## 1. Installation
 spooni_prop_deleter works Standalone. 
 
-To install spooni_prop_deleter:
+#### To install spooni_prop_deleter:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `spooni_prop_deleter`
 - Add this ensure in your server.cfg

@@ -12,7 +12,7 @@ Documentation relating to the spooni_spooner.
 ## 1. Installation
 spooni_spooner works Standalone. 
 
-To install spooni_spooner:
+#### To install spooni_spooner:
 - Download the resource
   - On [Github](https://github.com/Spooni-Development/spooni_spooner)
 - Ensure that all requirements are installed

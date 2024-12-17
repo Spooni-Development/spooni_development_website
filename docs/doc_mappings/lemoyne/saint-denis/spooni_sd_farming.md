@@ -11,8 +11,10 @@ Documentation relating to the spooni_sd_farming.
 ## 1. Installation
 spooni_sd_farming works Standalone.  
 
-To install spooni_sd_farming:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_farming:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_farming`
 - Add this ensure in your server.cfg
   ```

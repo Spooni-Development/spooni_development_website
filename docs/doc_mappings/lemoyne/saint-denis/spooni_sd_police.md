@@ -1,5 +1,5 @@
 # 🏠 St. Denis Police <Badge type="danger" text="CURRENTLY ONLY AVAILABLE FOR SPONSORS" />
-Documentation relating to the [spooni_sd_police](https://spooni-shop.fragmentor.io/product/5824786).
+Documentation relating to the spooni_sd_police.
 
 <Badge type="warning" text="DISCLAIMER: This MLO is only an add-on to the existing St. Denis Police MLO from R*" />
 
@@ -13,8 +13,10 @@ Documentation relating to the [spooni_sd_police](https://spooni-shop.fragmentor.
 ## 1. Installation
 spooni_sd_police works Standalone.  
 
-To install spooni_sd_police:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_police:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_police`
 - Add this ensure in your server.cfg
   ```

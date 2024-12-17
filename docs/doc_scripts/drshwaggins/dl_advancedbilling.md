@@ -10,7 +10,9 @@ Documentation relating to the dl_advancedbilling.
 ## 1. Installation
 dl_advancedbilling works only with VORP. 
 
-To install dl_advancedbilling:
+#### To install dl_advancedbilling:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_advancedbilling`
 - Add this ensure in your server.cfg
@@ -49,7 +51,7 @@ Config.UseCommand = true -- Enables/Disables Command
 Config.MenuCommand = "mybills"
 Config.EnableEventOpening = true -- Allow to open Menu from export event (use it in inventory for example to open menu if item is activated)
 
-Config.UseNPlayerSelector = true -- You NEED TO INSTALL MEGA_NPLAYERSELECTOR TO USE THIS | Otherwise using nearest player by PlayerDistance
+Config.UseNPlayerSelector = true -- You NEED #### To install MEGA_NPLAYERSELECTOR TO USE THIS | Otherwise using nearest player by PlayerDistance
 
 Config.UseUI = true
 Config.UseAnims = true

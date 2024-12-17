@@ -11,8 +11,10 @@ Documentation relating to the spooni_van_stable_house.
 ## 1. Installation
 spooni_van_stable_house works Standalone.  
 
-To install spooni_van_stable_house:
-- Drag and drop the resource into your resources folder
+#### To install spooni_van_stable_house:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_van_stable_house`
 - Add this ensure in your server.cfg
   ```

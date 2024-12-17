@@ -13,8 +13,10 @@ Documentation relating to the spooni_guarma.
 ## 1. Installation
 spooni_guarma works Standalone.  
 
-To install spooni_guarma:
-- Drag and drop the resource into your resources folder
+#### To install spooni_guarma:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_guarma`
 - Add this ensure in your server.cfg
   ```

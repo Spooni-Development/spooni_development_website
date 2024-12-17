@@ -11,8 +11,10 @@ Documentation relating to the spooni_straw_stable.
 ## 1. Installation
 spooni_straw_stable works Standalone.  
 
-To install spooni_straw_stable:
-- Drag and drop the resource into your resources folder
+#### To install spooni_straw_stable:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_straw_stable`
 - Add this ensure in your server.cfg
   ```

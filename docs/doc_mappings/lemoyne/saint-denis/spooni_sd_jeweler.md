@@ -11,8 +11,10 @@ Documentation relating to the spooni_sd_jeweler.
 ## 1. Installation
 spooni_sd_jeweler works Standalone.  
 
-To install spooni_sd_jeweler:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_jeweler:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_jeweler`
 - Add this ensure in your server.cfg
   ```

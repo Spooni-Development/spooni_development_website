@@ -11,7 +11,11 @@ Documentation relating to the [dl_cutscenes](https://drshwaggins-scripts.tebex.i
 ## 1. Installation
 dl_cutscenes works only with VORP & RedEM:RP. 
 
-To install dl_cutscenes:
+#### To install dl_cutscenes:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_cutscenes`
 - Add this ensure in your server.cfg

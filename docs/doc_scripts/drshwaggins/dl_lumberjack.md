@@ -11,7 +11,9 @@ Documentation relating to the dl_lumberjack.
 ## 1. Installation
 dl_lumberjack works only with VORP, RSG & RedEM:RP 
 
-To install dl_lumberjack:
+#### To install dl_lumberjack:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_lumberjack`
 - Add this ensure in your server.cfg

@@ -11,7 +11,9 @@ Documentation relating to the dl_advancedstores.
 ## 1. Installation
 dl_advancedstores works only with VORP. 
 
-To install dl_advancedstores:
+#### To install dl_advancedstores:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_advancedstores`
 - Add this ensure in your server.cfg

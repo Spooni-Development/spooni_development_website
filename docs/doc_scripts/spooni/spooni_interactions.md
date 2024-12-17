@@ -9,7 +9,7 @@ Documentation relating to the spooni_interactions.
 ## 1. Installation
 spooni_interactions works Standalone. 
 
-To install spooni_interactions:
+#### To install spooni_interactions:
 - Download the resource
   - On [Github](https://github.com/Spooni-Development/spooni_interactions)
 - Ensure that all requirements are installed

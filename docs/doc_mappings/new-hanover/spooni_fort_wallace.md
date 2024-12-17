@@ -11,8 +11,10 @@ Documentation relating to the spooni_fort_wallace.
 ## 1. Installation
 spooni_fort_wallace works Standalone.  
 
-To install spooni_fort_wallace:
-- Drag and drop the resource into your resources folder
+#### To install spooni_fort_wallace:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_fort_wallace`
 - Add this ensure in your server.cfg
   ```

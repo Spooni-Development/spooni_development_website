@@ -1,5 +1,5 @@
 # 🏠 St. Denis Courthouse
-Documentation relating to the [spooni_sd_courthouse](https://spooni-shop.fragmentor.io/product/5824786).
+Documentation relating to the spooni_sd_courthouse.
 
 :::tabs
 == PREVIEW
@@ -11,8 +11,10 @@ Documentation relating to the [spooni_sd_courthouse](https://spooni-shop.fragmen
 ## 1. Installation
 spooni_sd_courthouse works Standalone.  
 
-To install spooni_sd_courthouse:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_courthouse:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_courthouse`
 - Add this ensure in your server.cfg
   ```

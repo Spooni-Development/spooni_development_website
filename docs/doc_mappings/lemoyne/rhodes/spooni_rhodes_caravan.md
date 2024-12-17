@@ -11,8 +11,10 @@ Documentation relating to the spooni_rhodes_caravan.
 ## 1. Installation
 spooni_rhodes_caravan works Standalone.  
 
-To install spooni_rhodes_caravan:
-- Drag and drop the resource into your resources folder
+#### To install spooni_rhodes_caravan:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_rhodes_caravan`
 - Add this ensure in your server.cfg
   ```

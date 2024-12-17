@@ -94,9 +94,9 @@ export default defineConfig({
           ]},
 
           { text: "New Austin", collapsed: true, items:[
-            {text: "Armadillo", collapsed: true, items: [
-              // {text: "🔸Armadillo Reborn", link:'/doc_mappings/new-austin/spooni_arm_reborn'},
-            ]},
+            // {text: "Armadillo", collapsed: true, items: [
+            //   {text: "🔸Armadillo Reborn", link:'/doc_mappings/new-austin/spooni_arm_reborn'},
+            // ]},
             // {text: "Tumbleweed", collapsed: true, items: [
             // ]},
             {text: "🔸Buckshot Bend", link:'/doc_mappings/new-austin/spooni_buckshot_bend'},

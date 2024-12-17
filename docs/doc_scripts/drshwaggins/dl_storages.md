@@ -11,7 +11,9 @@ Documentation relating to the [dl_storages](https://drshwaggins-scripts.tebex.io
 ## 1. Installation
 dl_storages works only with VORP. 
 
-To install dl_storages:
+#### To install dl_storages:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_storages`
 - Add this ensure in your server.cfg

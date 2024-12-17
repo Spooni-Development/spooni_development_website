@@ -11,8 +11,10 @@ Documentation relating to the spooni_thl_distillery.
 ## 1. Installation
 spooni_thl_distillery works Standalone.  
 
-To install spooni_thl_distillery:
-- Drag and drop the resource into your resources folder
+#### To install spooni_thl_distillery:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_thl_distillery`
 - Add this ensure in your server.cfg
   ```

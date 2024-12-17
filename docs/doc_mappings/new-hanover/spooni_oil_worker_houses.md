@@ -11,8 +11,10 @@ Documentation relating to the spooni_oil_worker_houses.
 ## 1. Installation
 spooni_oil_worker_houses works Standalone.  
 
-To install spooni_oil_worker_houses:
-- Drag and drop the resource into your resources folder
+#### To install spooni_oil_worker_houses:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_oil_worker_houses`
 - Add this ensure in your server.cfg
   ```

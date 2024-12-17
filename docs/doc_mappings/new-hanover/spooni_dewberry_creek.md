@@ -11,8 +11,10 @@ Documentation relating to the spooni_dewberry_creek.
 ## 1. Installation
 spooni_dewberry_creek works Standalone.  
 
-To install spooni_dewberry_creek:
-- Drag and drop the resource into your resources folder
+#### To install spooni_dewberry_creek:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_dewberry_creek`
 - Add this ensure in your server.cfg
   ```

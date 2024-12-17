@@ -12,7 +12,9 @@ Documentation relating to the [dl_dbbackup](https://drshwaggins-scripts.tebex.io
 ## 1. Installation
 dl_questionwhitelist works Standalone. 
 
-To install dl_dbbackup:
+#### To install dl_dbbackup:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_dbbackup`
 - Add this ensure in your server.cfg

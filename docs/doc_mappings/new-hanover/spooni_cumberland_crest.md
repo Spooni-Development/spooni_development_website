@@ -11,8 +11,10 @@ Documentation relating to the spooni_cumberland_crest.
 ## 1. Installation
 spooni_cumberland_crest works Standalone.  
 
-To install spooni_cumberland_crest:
-- Drag and drop the resource into your resources folder
+#### To install spooni_cumberland_crest:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_cumberland_crest`
 - Add this ensure in your server.cfg
   ```

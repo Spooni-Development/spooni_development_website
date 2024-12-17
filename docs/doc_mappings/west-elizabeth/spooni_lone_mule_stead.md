@@ -11,8 +11,10 @@ Documentation relating to the spooni_lone_mule_stead.
 ## 1. Installation
 spooni_lone_mule_stead works Standalone.  
 
-To install spooni_lone_mule_stead:
-- Drag and drop the resource into your resources folder
+#### To install spooni_lone_mule_stead:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_lone_mule_stead`
 - Add this ensure in your server.cfg
   ```

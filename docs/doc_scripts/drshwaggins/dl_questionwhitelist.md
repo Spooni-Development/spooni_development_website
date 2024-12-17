@@ -11,7 +11,9 @@ Documentation relating to the dl_questionwhitelist.
 ## 1. Installation
 dl_questionwhitelist works Standalone. 
 
-To install dl_questionwhitelist:
+#### To install dl_questionwhitelist:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `dl_questionwhitelist`
 - Add this ensure in your server.cfg

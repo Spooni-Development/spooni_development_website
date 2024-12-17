@@ -365,6 +365,14 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1211215512705441833/487cc3c255c5c97c71ba298d3c4265e3.webp?size=128',
+            name: 'Beyond the Rift',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/8v55442VZU' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1162304446890512445/fa417c570441ae7bb25031d562d39b1a.webp?size=128',
             name: 'FRONTIER RP',
             title: '💿 TIER I',

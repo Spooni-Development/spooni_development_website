@@ -11,8 +11,10 @@ Documentation relating to the spooni_sd_bakery_florist.
 ## 1. Installation
 spooni_sd_bakery_florist works Standalone.  
 
-To install spooni_sd_bakery_florist:
-- Drag and drop the resource into your resources folder
+#### To install spooni_sd_bakery_florist:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_sd_bakery_florist`
 - Add this ensure in your server.cfg
   ```

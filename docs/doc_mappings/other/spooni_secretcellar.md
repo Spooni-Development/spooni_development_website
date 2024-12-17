@@ -11,8 +11,10 @@ Documentation relating to the spooni_secretcellar.
 ## 1. Installation
 spooni_secretcellar works Standalone.  
 
-To install spooni_secretcellar:
-- Drag and drop the resource into your resources folder
+#### To install spooni_secretcellar:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_secretcellar`
 - Add this ensure in your server.cfg
   ```

@@ -11,10 +11,12 @@ Documentation relating to the spooni_rathskeller_fork.
 ## 1. Installation
 spooni_rathskeller_fork works Standalone.  
 
-To install spooni_rathskeller_fork:
+#### To install spooni_rathskeller_fork:
 - Ensure that all requirements are installed
   - [redm-objectloader](https://github.com/kibook/redm-objectloader)
-- Drag and drop the resource into your resources folder
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_rathskeller_fork`
 - Add this ensure in your server.cfg
   ```

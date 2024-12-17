@@ -11,8 +11,10 @@ Documentation relating to the spooni_caliga_hall.
 ## 1. Installation
 spooni_caliga_hall works Standalone.  
 
-To install spooni_caliga_hall:
-- Drag and drop the resource into your resources folder
+#### To install spooni_caliga_hall:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_caliga_hall`
 - Add this ensure in your server.cfg
   ```

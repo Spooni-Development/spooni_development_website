@@ -11,8 +11,10 @@ Documentation relating to the spooni_cho_alchemist.
 ## 1. Installation
 spooni_cho_alchemist works Standalone.  
 
-To install spooni_cho_alchemist:
-- Drag and drop the resource into your resources folder
+#### To install spooni_cho_alchemist:
+- Download the resource
+  - On [Cfx.re Portal](https://portal.cfx.re/)
+- Drag and drop the resource into your resources fold
   - `spooni_cho_alchemist`
 - Add this ensure in your server.cfg
   ```
