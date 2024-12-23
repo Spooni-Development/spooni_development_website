@@ -6,7 +6,7 @@ sidebar: false
 
 <script setup>
     import {
-    VPTeamPage,
+    VPTeamPage, 
     VPTeamPageTitle,
     VPTeamMembers,
     VPTeamPageSection
