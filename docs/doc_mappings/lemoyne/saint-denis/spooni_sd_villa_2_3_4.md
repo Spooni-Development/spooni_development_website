@@ -5,7 +5,7 @@ Documentation relating to the spooni_sd_villa_2_3_4.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk3XBZIKpSg?si=LH_JDO6_Qk0TbdUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6341677)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6341677)
 :::
 
 ## 1. Installation

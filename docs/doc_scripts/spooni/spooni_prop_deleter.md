@@ -5,7 +5,7 @@ Documentation relating to the spooni_prop_deleter.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the script](https://spooni-shop.fragmentor.io/product/6564260)
+[Buy the script](https://spooni-mapping.tebex.io/package/6564260)
 :::
 
 ## 1. Installation

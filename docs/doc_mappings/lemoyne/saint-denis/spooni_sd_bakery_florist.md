@@ -5,7 +5,7 @@ Documentation relating to the spooni_sd_bakery_florist.
 == PREVIEW
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/89d00dffdf211d1bcb34a65ba3cd0e425d0a6219.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6357270)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6357270)
 :::
 
 ## 1. Installation

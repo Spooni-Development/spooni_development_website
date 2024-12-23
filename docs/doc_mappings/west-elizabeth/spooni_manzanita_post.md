@@ -5,7 +5,7 @@ Documentation relating to the spooni_manzanita_post.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V36KaY2dPUI?si=D65F4iV_WpX1FCKN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6015623)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6015623)
 :::
 
 ## 1. Installation

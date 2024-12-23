@@ -5,7 +5,7 @@ Documentation relating to the spooni_straw_stable.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLIyc9dSlCs?si=-q6RNKnndIJulvMn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/5922186)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/5922186)
 :::
 
 ## 1. Installation

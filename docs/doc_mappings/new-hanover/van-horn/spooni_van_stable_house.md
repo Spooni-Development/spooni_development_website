@@ -5,7 +5,7 @@ Documentation relating to the spooni_van_stable_house.
 == PREVIEW
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0bfdc312db629d4b888c9bdb2a8c1048654a46a3.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6223768)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6223768)
 :::
 
 ## 1. Installation

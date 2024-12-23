@@ -5,7 +5,7 @@ Documentation relating to the spooni_dewberry_creek.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AxNafdEx5ck?si=JXLiEIZ0L13O26yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6090322)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6090322)
 :::
 
 ## 1. Installation

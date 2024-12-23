@@ -5,7 +5,7 @@ Documentation relating to the spooni_hagen_orchards.
 == PREVIEW
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/1ef7c0178c5bbc69072da77265db98e1642a15cd.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6451969)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6451969)
 :::
 
 ## 1. Installation

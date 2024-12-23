@@ -5,7 +5,7 @@ Documentation relating to the spooni_sd_fight_club.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnkByBxKKdE?si=tx9ePguHCnZsUcT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6099470)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6099470)
 :::
 
 ## 1. Installation

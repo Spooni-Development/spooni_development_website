@@ -5,7 +5,7 @@ Documentation relating to the spooni_sd_farming.
 == PREVIEW
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/e456cadae810567f2047b0ab67e6ca161bfc5faa.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6147237)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6147237)
 :::
 
 ## 1. Installation

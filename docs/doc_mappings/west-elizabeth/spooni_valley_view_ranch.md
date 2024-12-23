@@ -5,7 +5,7 @@ Documentation relating to the spooni_valley_view_ranch.
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oCeOuNZxiPs?si=Hbz31rL3QhXAZdLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/6125043)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6125043)
 :::
 
 ## 1. Installation

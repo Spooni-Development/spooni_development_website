@@ -5,7 +5,7 @@ Documentation relating to the spooni_straw_gunsmith.
 == PREVIEW
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/7f2ac106c812e31f2ebcad3aa92b939c8d0144ab.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-shop.fragmentor.io/product/5703317)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/5703317)
 :::
 
 ## 1. Installation
