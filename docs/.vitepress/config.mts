@@ -61,7 +61,8 @@ export default defineConfig({
 
           { text: "Lemoyne", collapsed: true, items:[
             {text: "Rhodes", collapsed: true, items: [
-              {text: "🔸Caravan ", link:'/doc_mappings/lemoyne/rhodes/spooni_rhodes_caravan'},
+              {text: "🔸Doctor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_doctor'},
+              {text: "🔸Caravan", link:'/doc_mappings/lemoyne/rhodes/spooni_rhodes_caravan'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
@@ -94,9 +95,10 @@ export default defineConfig({
           ]},
 
           { text: "New Austin", collapsed: true, items:[
-            // {text: "Armadillo", collapsed: true, items: [
-            //   {text: "🔸Armadillo Reborn", link:'/doc_mappings/new-austin/spooni_arm_reborn'},
-            // ]},
+            {text: "Armadillo", collapsed: true, items: [
+              {text: "🔸Church", link:'/doc_mappings/new-austin/armadillo/spooni_arm_church'},
+              // {text: "🔸Reborn", link:'/doc_mappings/new-austin/armadillo/spooni_arm_reborn'},
+            ]},
             // {text: "Tumbleweed", collapsed: true, items: [
             // ]},
             {text: "🔸Buckshot Bend", link:'/doc_mappings/new-austin/spooni_buckshot_bend'},
