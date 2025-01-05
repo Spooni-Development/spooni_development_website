@@ -3,9 +3,9 @@ Documentation relating to the spooni_rho_doctor.
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/1d7750ce4a78b3bf75c2398a2915c91a072a295b.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6617641)
 :::
 
 ## 1. Installation
