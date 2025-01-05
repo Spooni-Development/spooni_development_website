@@ -62,7 +62,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/d8562aa500b4fb01423ac5abdc3d2e1a.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/99205a7a5782e5d01891407c9dce0f1b.webp?size=128',
             name: 'Fixitfy',
             // title: '🔧' ,
             links: [
@@ -203,7 +203,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/97a836e71302dbd49635bdd7bb1ed62f.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/8cace274b4b7f59f777c97562d63e466.webp?size=128',
             name: 'WILDFIN',
             title: '📀 TIER II',
             links: [
@@ -259,7 +259,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1123352191751704606/a_9bee10bfd839641477ffb8e62586cee0.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1123352191751704606/861afcc739b079b515fd37196a9e8931.webp?size=128',
             name: 'Sundown Rising',
             title: '📀 TIER II',
             links: [
@@ -291,7 +291,15 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1045017560913035284/a_9477776a1a0e07f21e48e63bd5b06742.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/ecc23e09dcddaea59297f47c542a0444.webp?size=128',
+            name: 'Secret Society County',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/9K9mXH9PUF' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1045017560913035284/585d856460f99795fc9833fc9e0e4060.webp?size=128',
             name: 'Frontier Stories',
             title: '📀 TIER II',
             links: [
@@ -354,6 +362,38 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/ddrp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1281752229421912155/a_36f6447ea5677acc6402885650ab97f5.webp?size=128',
+            name: 'Promised Land',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.com/invite/promisedlandrp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1208456421855731752/2cf2bfc35461b492da439895dacb626f.webp?size=128',
+            name: 'Syntax Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/KTtaEvKKZw' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1237280019135594528/0b544c2fa18782815526f7023fda4775.webp?size=128',
+            name: 'Big Iron Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/MjCVHTTnaE' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1299654221750210560/be1640129329546b8af0665a28c3d292.webp?size=128',
+            name: 'Dusty Trails Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/dustytrailsrp' },
             ]
         },
         {
@@ -421,7 +461,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1178558432832409651/b3481d7f67f75bdbea11fb7a3814ea4a.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1178558432832409651/86a197b05b168c0d5d558b8b69e42215.webp?size=128',
             name: 'California Roleplay',
             title: '💿 TIER I',
             links: [

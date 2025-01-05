@@ -119,6 +119,14 @@ const sponsors = [
     ]
   },
   {
+    avatar: 'https://cdn.discordapp.com/icons/613827325225861130/82329991f11e62a7a860ac2ee31525aa.webp?size=128',
+    name: 'La Hermandad Roleplay',
+    title: 'RDR2 Roleplay',
+    links: [
+        { icon: 'discord', link: 'https://discord.gg/la-hermandad-roleplay-613827325225861130' },
+    ]
+  },
+  {
       avatar: 'https://cdn.discordapp.com/icons/1217371173319348266/0df2419df7f5254804ee49f9db062dd5.webp?size=128',
     name: 'Pioneers Country',
     title: 'RDR2 Roleplay',
