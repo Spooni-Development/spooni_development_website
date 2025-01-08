@@ -1,4 +1,4 @@
-# 🏠 Rhodes Doctor
+# 🏠 Rhodes Church
 Documentation relating to the spooni_rho_church.
 
 :::tabs
