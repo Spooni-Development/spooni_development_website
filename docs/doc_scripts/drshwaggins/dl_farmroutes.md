@@ -11,7 +11,7 @@ Documentation relating to the dl_farmroutes.
 ## 1. Installation
 dl_farmroutes works only with VORP. 
 
-#### To install dl_farmroutes:
+To install dl_farmroutes:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

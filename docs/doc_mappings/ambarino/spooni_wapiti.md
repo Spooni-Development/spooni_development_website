@@ -11,7 +11,7 @@ Documentation relating to the spooni_wapiti.
 ## 1. Installation
 spooni_wapiti works Standalone.  
 
-#### To install spooni_wapiti:
+To install spooni_wapiti:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

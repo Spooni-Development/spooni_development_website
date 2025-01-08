@@ -11,7 +11,7 @@ Documentation relating to the spooni_moonstone_pond.
 ## 1. Installation
 spooni_moonstone_pond works Standalone.  
 
-#### To install spooni_moonstone_pond:
+To install spooni_moonstone_pond:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

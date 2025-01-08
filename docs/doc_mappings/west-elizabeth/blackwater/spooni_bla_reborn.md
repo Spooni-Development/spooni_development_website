@@ -14,7 +14,7 @@ Documentation relating to the spooni_bla_reborn.
 ## 1. Installation
 spooni_bla_reborn works Standalone.  
 
-#### To install spooni_bla_reborn:
+To install spooni_bla_reborn:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

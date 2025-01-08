@@ -11,7 +11,7 @@ Documentation relating to the spooni_van_brothel_house.
 ## 1. Installation
 spooni_van_brothel_house works Standalone.  
 
-#### To install spooni_van_brothel_house:
+To install spooni_van_brothel_house:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

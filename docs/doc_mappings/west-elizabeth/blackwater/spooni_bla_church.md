@@ -11,7 +11,7 @@ Documentation relating to the spooni_bla_church.
 ## 1. Installation
 spooni_bla_church works Standalone.  
 
-#### To install spooni_bla_church:
+To install spooni_bla_church:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

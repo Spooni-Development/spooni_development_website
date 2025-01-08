@@ -11,7 +11,7 @@ Documentation relating to the spooni_greenbank_mill.
 ## 1. Installation
 spooni_greenbank_mill works Standalone.  
 
-#### To install spooni_greenbank_mill:
+To install spooni_greenbank_mill:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

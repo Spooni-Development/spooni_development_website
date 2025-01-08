@@ -11,7 +11,7 @@ Documentation relating to the spooni_rho_doctor.
 ## 1. Installation
 spooni_rho_doctor works Standalone.  
 
-#### To install spooni_rho_doctor:
+To install spooni_rho_doctor:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

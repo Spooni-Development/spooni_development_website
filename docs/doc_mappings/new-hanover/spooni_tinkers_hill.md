@@ -11,7 +11,7 @@ Documentation relating to the spooni_tinkers_hill.
 ## 1. Installation
 spooni_tinkers_hill works Standalone.  
 
-#### To install spooni_tinkers_hill:
+To install spooni_tinkers_hill:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

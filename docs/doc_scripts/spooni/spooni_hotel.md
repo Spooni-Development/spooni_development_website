@@ -11,7 +11,7 @@ Documentation relating to the spooni_hotel.
 ## 1. Installation
 spooni_hotel works only with VORP, RSG & RPX. 
 
-#### To install spooni_hotel:
+To install spooni_hotel:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

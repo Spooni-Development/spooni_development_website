@@ -11,7 +11,7 @@ Documentation relating to the dl_society.
 ## 1. Installation
 dl_society works only with VORP & RedEM:RP. 
 
-#### To install dl_society:
+To install dl_society:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

@@ -11,7 +11,7 @@ Documentation relating to the spooni_buckshot_bend.
 ## 1. Installation
 spooni_buckshot_bend works Standalone.  
 
-#### To install spooni_buckshot_bend:
+To install spooni_buckshot_bend:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

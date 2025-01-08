@@ -11,7 +11,7 @@ Documentation relating to the spooni_build_my_home.
 ## 1. Installation
 spooni_build_my_home works only with VORP, RSG & RPX. 
 
-#### To install spooni_build_my_home:
+To install spooni_build_my_home:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Ensure that all requirements are installed

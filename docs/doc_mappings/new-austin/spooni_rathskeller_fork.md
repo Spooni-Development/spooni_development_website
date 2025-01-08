@@ -11,7 +11,7 @@ Documentation relating to the spooni_rathskeller_fork.
 ## 1. Installation
 spooni_rathskeller_fork works Standalone.  
 
-#### To install spooni_rathskeller_fork:
+To install spooni_rathskeller_fork:
 - Ensure that all requirements are installed
   - [redm-objectloader](https://github.com/kibook/redm-objectloader)
 - Download the resource

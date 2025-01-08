@@ -11,7 +11,7 @@ Documentation relating to the spooni_lodges_west_pack.
 ## 1. Installation
 spooni_lodges_west_pack works Standalone.  
 
-#### To install spooni_lodges_west_pack:
+To install spooni_lodges_west_pack:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

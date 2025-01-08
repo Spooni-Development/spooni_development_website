@@ -9,7 +9,7 @@ Documentation relating to the spooni_job_blips.
 ## 1. Installation
 spooni_job_blips works only with VORP. 
 
-#### To install spooni_job_blips:
+To install spooni_job_blips:
 - Download the resource
   - On [Github](https://github.com/Spooni-Development/spooni_job_blips)
 - Drag and drop the resource into your resources folder

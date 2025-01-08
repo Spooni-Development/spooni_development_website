@@ -11,7 +11,7 @@ Documentation relating to the spooni_bra_storage_house.
 ## 1. Installation
 spooni_bra_storage_house works Standalone.  
 
-#### To install spooni_bra_storage_house:
+To install spooni_bra_storage_house:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

@@ -13,7 +13,7 @@ Documentation relating to the spooni_sd_police.
 ## 1. Installation
 spooni_sd_police works Standalone.  
 
-#### To install spooni_sd_police:
+To install spooni_sd_police:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

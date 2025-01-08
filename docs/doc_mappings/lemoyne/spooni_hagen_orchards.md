@@ -11,7 +11,7 @@ Documentation relating to the spooni_hagen_orchards.
 ## 1. Installation
 spooni_hagen_orchards works Standalone.  
 
-#### To install spooni_hagen_orchards:
+To install spooni_hagen_orchards:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

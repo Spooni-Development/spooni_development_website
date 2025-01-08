@@ -11,7 +11,7 @@ Documentation relating to the spooni_valley_view_ranch.
 ## 1. Installation
 spooni_valley_view_ranch works Standalone.  
 
-#### To install spooni_valley_view_ranch:
+To install spooni_valley_view_ranch:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder

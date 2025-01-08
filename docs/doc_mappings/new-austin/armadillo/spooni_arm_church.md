@@ -11,7 +11,7 @@ Documentation relating to the spooni_arm_church.
 ## 1. Installation
 spooni_arm_church works Standalone.  
 
-#### To install spooni_arm_church:
+To install spooni_arm_church:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
