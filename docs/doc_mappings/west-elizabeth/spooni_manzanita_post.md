@@ -14,7 +14,7 @@ spooni_manzanita_post works Standalone.
 #### To install spooni_manzanita_post:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_manzanita_post`
 - Add this ensure in your server.cfg
   ```

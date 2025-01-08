@@ -14,7 +14,7 @@ spooni_arm_church works Standalone.
 #### To install spooni_arm_church:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_arm_church`
 - Add this ensure in your server.cfg
   ```

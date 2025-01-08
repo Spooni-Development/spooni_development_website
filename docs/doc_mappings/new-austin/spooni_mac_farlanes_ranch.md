@@ -14,7 +14,7 @@ spooni_mac_farlanes_ranch works Standalone.
 #### To install spooni_mac_farlanes_ranch:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_mac_farlanes_ranch`
 - Add this ensure in your server.cfg
   ```

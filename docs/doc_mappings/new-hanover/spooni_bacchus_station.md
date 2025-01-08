@@ -14,7 +14,7 @@ spooni_bacchus_station works Standalone.
 #### To install spooni_bacchus_station:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_bacchus_station`
 - Add this ensure in your server.cfg
   ```

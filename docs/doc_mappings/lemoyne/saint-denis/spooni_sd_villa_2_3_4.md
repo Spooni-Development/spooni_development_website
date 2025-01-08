@@ -14,7 +14,7 @@ spooni_sd_villa_2_3_4 works Standalone.
 #### To install spooni_sd_villa_2_3_4:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_sd_villa_2_3_4`
 - Add this ensure in your server.cfg
   ```

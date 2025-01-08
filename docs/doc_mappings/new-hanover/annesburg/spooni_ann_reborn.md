@@ -14,7 +14,7 @@ spooni_ann_reborn works Standalone.
 #### To install spooni_ann_reborn:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_ann_reborn`
 - Add this ensure in your server.cfg
   ```

@@ -14,7 +14,7 @@ spooni_bra_worker_houses works Standalone.
 #### To install spooni_bra_worker_houses:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_bra_worker_houses`
 - Add this ensure in your server.cfg
   ```

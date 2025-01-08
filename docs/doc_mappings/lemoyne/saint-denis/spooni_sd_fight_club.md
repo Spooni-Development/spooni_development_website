@@ -14,7 +14,7 @@ spooni_sd_fight_club works Standalone.
 #### To install spooni_sd_fight_club:
 - Download the resource
   - On [Cfx.re Portal](https://portal.cfx.re/)
-- Drag and drop the resource into your resources fold
+- Drag and drop the resource into your resources folder
   - `spooni_sd_fight_club`
 - Add this ensure in your server.cfg
   ```
