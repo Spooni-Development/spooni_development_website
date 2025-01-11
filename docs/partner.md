@@ -291,6 +291,14 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1231614178171814008/a_ce254b829e5f350927276d41685f5834.webp?size=128',
+            name: 'Red West',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/NTaZx65MT7' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/ecc23e09dcddaea59297f47c542a0444.webp?size=128',
             name: 'Secret Society County',
             title: '📀 TIER II',

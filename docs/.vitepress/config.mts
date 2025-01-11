@@ -136,6 +136,7 @@ export default defineConfig({
 
           { text: "West Elizabeth", collapsed: true, items:[
             {text: "Blackwater", collapsed: true, items: [
+              {text: "🔸Casino Ship", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_casino_ship'},
               {text: "🔸Church", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_church'},
               {text: "🔸Reborn 1", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_reborn'},
             ]},
