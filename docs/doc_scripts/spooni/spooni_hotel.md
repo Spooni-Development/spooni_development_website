@@ -40,14 +40,15 @@ With this script, you can create hotels where guests can rent rooms. The script 
 Config = {}
 
 Config.DevMode = true -- only for testing, not for the live server
-Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg)
+Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg, rsg-old) *rsg-old = old inventory version
 Config.Locale = 'en' -- select your language (en, de, fr, es)
 
 Config.Key = 0x760A9C6F -- [G]
 Config.DoorControlKey = 0xCEFD9220 -- [E]
 
-Config.Society = nil -- dl_society, mega_companies, syn_society, custom or nil
-Config.HotelManagementCommand = "hotel"
+Config.Society = nil -- 'dl_society', 'mega_companies', 'syn_society', 'custom' or nil
+Config.HotelManagementCommand = 'hotel'
+Config.MaxRoomsPerPlayer = 5
 
 Config.Hotels = {
     -- VT HOTEL
@@ -72,12 +73,13 @@ Config.Hotels = {
           hash = 3693364451, -- doorhash
           rotation = 99.90252685546875, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
-            door = vector3(-322.118, 765.5968, 117.44), -- door location
-            inv = vector3(-325.154, 766.4559, 117.43), -- inventory location or nil
-            closet = vector3(-327.31, 764.16, 117.43), -- closet location or nil
+            door = vector3(-321.966, 765.6128, 117.44), -- door location
+            inv = vector3(-327.947, 764.2562, 117.43), -- inventory location or nil
+            closet = vector3(-325.132, 766.4810, 117.43), -- closet location or nil
           },
           blip = {
             enabled = false, -- true or false
@@ -93,12 +95,13 @@ Config.Hotels = {
           hash = 183181940,
           rotation = -79.89644622802734,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
-            door = vector3(-321.418, 762.2653, 117.45),
-            inv = vector3(-322.914, 760.0998, 117.43),
-            closet = vector3(-326.688, 758.6583, 117.45),
+            door = vector3(-322.057, 762.1725, 117.45),
+            inv = vector3(-326.643, 761.7160, 117.43),
+            closet = vector3(-323.857, 759.5326, 117.45),
           },
           blip = {
             enabled = false,
@@ -114,6 +117,7 @@ Config.Hotels = {
           hash = 3765902977,
           rotation = 100.11988830566406,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -135,6 +139,7 @@ Config.Hotels = {
           hash = 238680582,
           rotation = -79.66508483886719,
           slots = 100, 
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -156,6 +161,7 @@ Config.Hotels = {
           hash = 3049177115,
           rotation = -80.00006866455078,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -194,6 +200,7 @@ Config.Hotels = {
           hash = 568836657, -- doorhash
           rotation = 89.9999771118164, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -215,6 +222,7 @@ Config.Hotels = {
           hash = 1306597923,
           rotation = 89.9999771118164,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -236,6 +244,7 @@ Config.Hotels = {
           hash = 1614659292,
           rotation = -90.00000762939453,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -276,6 +285,7 @@ Config.Hotels = {
           hash = 1379714587, -- doorhash
           rotation = 99.99993133544922, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -294,9 +304,10 @@ Config.Hotels = {
           name = 'Apartment 2',
           roomID = 2,
           management = true,
-          hash = 2380840306,
+          hash = 2380840306, -- [4181732049] = {4181732049, -113235247, 'p_door15x', 2621.4523925781, -1006.3774414062, 49.072444915771}
           rotation = 99.81073760986328,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -318,6 +329,7 @@ Config.Hotels = {
           hash = 3065182112,
           rotation = 100.11162567138672,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -339,6 +351,7 @@ Config.Hotels = {
           hash = 42209089,
           rotation = 9.61076164245605,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -377,6 +390,7 @@ Config.Hotels = {
           hash = 3299540066, -- doorhash
           rotation = 90.0150146484375, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -398,6 +412,7 @@ Config.Hotels = {
           hash = 3153235648,
           rotation = 89.99994659423828,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -419,6 +434,7 @@ Config.Hotels = {
           hash = 407553899,
           rotation = 89.95580291748047,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -440,6 +456,7 @@ Config.Hotels = {
           hash = 2721560444,
           rotation = 89.99994659423828,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -478,6 +495,7 @@ Config.Hotels = {
           hash = 726203270, -- doorhash
           rotation = 90.0605697631836, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -499,6 +517,7 @@ Config.Hotels = {
           hash = 227196938,
           rotation = -90.12598419189453,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -520,6 +539,7 @@ Config.Hotels = {
           hash = 1993806501,
           rotation = -89.97947692871094,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -541,6 +561,7 @@ Config.Hotels = {
           hash = 992516957,
           rotation = -89.97947692871094,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -562,6 +583,7 @@ Config.Hotels = {
           hash = -1077107569,
           rotation = 89.62045288085938,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -583,6 +605,7 @@ Config.Hotels = {
           hash = 415751663,
           rotation = -89.62483215332031,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -604,6 +627,7 @@ Config.Hotels = {
           hash = -117532942,
           rotation = -89.82498931884766,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -625,6 +649,7 @@ Config.Hotels = {
           hash = -729756169,
           rotation = -89.82498931884766,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -663,6 +688,7 @@ Config.Hotels = {
           hash = -1205973305, -- doorhash
           rotation = -65.00010681152344, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -684,6 +710,7 @@ Config.Hotels = {
           hash = 1038211660,
           rotation = 115.26647186279297,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -705,6 +732,7 @@ Config.Hotels = {
           hash = -973673864,
           rotation = -65.00010681152344,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -726,6 +754,7 @@ Config.Hotels = {
           hash = -709785107, -- doorhash
           rotation = 114.99994659423828, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -742,7 +771,7 @@ Config.Hotels = {
         },
       },
     },
-    -- ANNESBURG REBORN BIERHALLE
+    -- ANNESBURG BEERHALL
     {
       enable = true,
       name = 'Annesburg Bierhalle Hotel', -- hotel name
@@ -764,6 +793,7 @@ Config.Hotels = {
           hash = 991450127, -- doorhash
           rotation = 159.6256866455078, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
@@ -785,6 +815,7 @@ Config.Hotels = {
           hash = 1474792857,
           rotation = -20.59811973571777,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -806,6 +837,7 @@ Config.Hotels = {
           hash = 1230106754,
           rotation = -20.59811973571777,
           slots = 100,
+          weight = 1000,
           maxRentDays = 3,
           price = 2.0,
           coords = {
@@ -822,173 +854,35 @@ Config.Hotels = {
         },
       },
     },
-    -- SD PROMENADE ANTIQUES STORE !! MUST STILL ADD CORR INV AND CLOSET
+    -- SD Newspaper
     {
       enable = true,
-      name = 'Antiques Store Hotel', -- hotel name
-      society = 'antiquesstore', -- job name
+      name = 'St. Denis Newspaper', -- hotel name
+      society = 'sdnews', -- job name
       hotelID = 8, -- must be unique
       management = true, -- if true the job can manage the hotel
-      coords = vector3(2633.551, -1360.43, 48.950), -- general load coords
+      coords = vector3(2615.912, -1347.47, 50.137), -- general load coords
       blip = {
           enabled = true,  -- true or false
-          coords = vector3(2633.551, -1360.43, 48.950), -- coords
+          coords = vector3(2616.412, -1345.85, 80.174), -- coords
           sprite = -211556852, -- sprite
           scale = 0.7, -- scale
       },
       rooms = {
         {
-          name = 'Apartment 1', -- display name
-          roomID = 1, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 759667685, -- doorhash
-          rotation = 40.20559692382812, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
-          price = 2.0,
-          coords = {
-            door = vector3(2629.5048828125, -1363.9559326171875, 59.89883804321289), -- door location
-            inv = vector3(2626.25439453125, -1360.4371337890625, 59.86679458618164), -- inventory location or nil
-            closet = vector3(2635.89453125, -1357.8580322265625, 59.86679458618164), -- closet location or nil
-          },
-          blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
-          },
-        },
-        {
-          name = 'Apartment 2',
-          roomID = 2,
-          management = true,
-          hash = 146395850,
-          rotation = -49.87067413330078,
-          slots = 100,
-          maxRentDays = 3,
-          price = 2.0,
-          coords = {
-            door = vector3(2623.07763671875, -1362.8641357421875, 58.47077178955078),
-            inv = vector3(2624.608154296875, -1372.993896484375, 58.45035934448242),
-            closet = vector3(2626.96240234375, -1369.002685546875, 58.45035934448242),
-          },
-          blip = {
-            enabled = false,
-            sprite = -211556852,
-            scale = 0.7,
-            colorOccupied = true,
-          },
-        },
-        {
-          name = 'Apartment 3',
-          roomID = 3,
-          management = true,
-          hash = 4202247753,
-          rotation = 129.83987426757812,
-          slots = 100,
-          maxRentDays = 3,
-          price = 2.0,
-          coords = {
-            door = vector3(2641.276611328125, -1359.72705078125, 64.35139465332031),
-            inv = vector3(2637.05126953125, -1356.650146484375, 64.34550476074219),
-            closet = vector3(2639.372314453125, -1352.60400390625, 64.34550476074219),
-          },
-          blip = {
-            enabled = false,
-            sprite = -211556852,
-            scale = 0.7,
-            colorOccupied = true,
-          },
-        },
-        {
-          name = 'Apartment 4',
-          roomID = 4,
-          management = true,
-          hash = 519962450,
-          rotation = -49.24904632568359,
-          slots = 100,
-          maxRentDays = 3,
-          price = 2.0,
-          coords = {
-            door = vector3(2623.07763671875, -1362.8641357421875, 62.68118286132812),
-            inv = vector3(2625.94580078125, -1369.3594970703125, 62.65630722045898),
-            closet = vector3(2624.232177734375, -1372.1207275390625, 62.65630722045898),
-          },
-          blip = {
-            enabled = false,
-            sprite = -211556852,
-            scale = 0.7,
-            colorOccupied = true,
-          },
-        },
-      },
-    },
-    -- SD PROMENADE TOY STORE !! MUST STILL ADD CORR INV AND CLOSET
-    {
-      enable = true,
-      name = 'Toy Store Hotel', -- hotel name
-      society = 'toystore', -- job name
-      hotelID = 9, -- must be unique
-      management = true, -- if true the job can manage the hotel
-      coords = vector3(2641.958, -1367.20, 48.918), -- general load coords
-      blip = {
-          enabled = true,  -- true or false
-          coords = vector3(2641.958, -1367.20, 48.918), -- coords
-          sprite = -211556852, -- sprite
-          scale = 0.7, -- scale
-      },
-      rooms = {
-        {
-          name = 'Apartment 1', -- display name
-          roomID = 1, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 4201425067, -- doorhash
-          rotation = 130.00001525878906, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
-          price = 2.0,
-          coords = {
-            door = vector3(2644.591552734375, -1371.1353759765625, 57.19290924072265), -- door location
-            inv = vector3(2639.770263671875, -1364.1229248046875, 57.17953491210937), -- inventory location or nil
-            closet = vector3(2648.160400390625, -1364.086181640625, 57.17953491210937), -- closet location or nil
-          },
-          blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
-          },
-        },
-      },
-    },
-    -- SD PROMENADE NEWSPAPER !! MUST STILL ADD CORR INV AND CLOSET
-    {
-      enable = true,
-      name = 'Newspaper Hotel', -- hotel name
-      society = 'newspaper', -- job name
-      hotelID = 10, -- must be unique
-      management = true, -- if true the job can manage the hotel
-      coords = vector3(2616.772, -1346.83, 50.137), -- general load coords
-      blip = {
-          enabled = true,  -- true or false
-          coords = vector3(2616.772, -1346.83, 50.137), -- coords
-          sprite = -211556852, -- sprite
-          scale = 0.7, -- scale
-      },
-      rooms = {
-        {
-          name = 'Apartment 1', -- display name
+          name = 'F2 Apartment 1', -- display name
           roomID = 1, -- must be unique
           management = true, -- if true the room can be managed
           hash = 2166693749, -- doorhash
-          rotation = -142.1488494873047, -- rotation when door is closed
+          rotation = -142.00, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
-            door = vector3(2609.169189453125, -1349.22705078125, 60.96007537841797), -- door location
-            inv = vector3(2600.449462890625, -1349.6527099609375, 60.94068145751953), -- inventory location or nil
-            closet = vector3(2597.87744140625, -1351.6162109375, 60.94068145751953), -- closet location or nil
+            door = vector3(2609.169189453125, -1349.22705078125, 61.96007537841797), -- door location
+            inv = vector3(2604.98193359375, -1345.042236328125, 61.96668243408203), -- inventory location or nil
+            closet = vector3(2600.844482421875, -1355.1136474609375, 61.95890045166015), -- closet location or nil
           },
           blip = {
             enabled = false, -- true or false
@@ -998,18 +892,234 @@ Config.Hotels = {
           },
         },
         {
-          name = 'Apartment 2', -- display name
-          roomID = 2, -- must be unique
+          name = 'F2 Apartment 2',
+          roomID = 2,
+          management = true,
+          hash = 130805160,
+          rotation = -49.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2615.167236328125, -1344.94873046875, 61.96007537841797),
+            inv = vector3(2611.86376953125, -1346.56298828125, 61.94361877441406),
+            closet = vector3(2609.059814453125, -1342.126220703125, 61.93889999389648),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F3 Apartment 1',
+          roomID = 3,
+          management = true,
+          hash = 4263466771,
+          rotation = -49.90,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2614.8203125, -1344.5845947265625, 66.46558380126953),
+            inv = vector3(2617.6875, -1339.1058349609375, 66.4429931640625),
+            closet = vector3(2611.779541015625, -1345.4444580078125, 66.44587707519531),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F3 Apartment 2',
+          roomID = 4,
+          management = true,
+          hash = 824787050,
+          rotation = -139.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2608.655029296875, -1348.623779296875, 66.46558380126953),
+            inv = vector3(2604.2421875, -1356.8685302734375, 66.40367889404297),
+            closet = vector3(2606.277587890625, -1362.1839599609375, 66.44621276855469),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F4 Room 1',
+          roomID = 5,
+          management = true,
+          hash = 1200696398,
+          rotation = 39.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2600.466064453125, -1358.2198486328125, 70.93123626708984),
+            inv = vector3(2601.629150390625, -1356.6497802734375, 70.91329193115234),
+            closet = vector3(2601.405517578125, -1351.8106689453125, 70.92283630371094),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F4 Room 2',
+          roomID = 6,
+          management = true,
+          hash = 742896487,
+          rotation = 39.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2605.4140625, -1354.0721435546875, 70.93123626708984),
+            inv = vector3(2603.220947265625, -1352.1082763671875, 70.91329193115234),
+            closet = vector3(2607.05419921875, -1352.080810546875, 70.9814682006836),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F4 Room 3',
+          roomID = 7,
+          management = true,
+          hash = 1437107752 ,
+          rotation = 39.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2610.8994140625, -1349.4649658203125, 70.93523406982422),
+            inv = vector3(2609.12451171875, -1347.8211669921875, 70.91329193115234),
+            closet = vector3(2608.278564453125, -1346.8126220703125, 70.91329956054688),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F4 Room 4',
+          roomID = 8,
+          management = true,
+          hash = 672542324 ,
+          rotation = 39.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2616.144287109375, -1345.08447265625, 70.94248962402344),
+            inv = vector3(2617.6875, -1338.6656494140625, 70.91329956054688),
+            closet = vector3(2613.939208984375, -1342.77734375, 70.91328430175781),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F4 Room 5',
+          roomID = 9,
+          management = true,
+          hash = 2220254083 ,
+          rotation = -139.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2622.036376953125, -1340.1055908203125, 70.94248962402344),
+            inv = vector3(2619.51123046875, -1333.7606201171875, 70.91404724121094),
+            closet = vector3(2623.833984375, -1337.3433837890625, 70.91329193115234),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+        {
+          name = 'F4 Room 6',
+          roomID = 10,
+          management = true,
+          hash = 250378413 ,
+          rotation = 39.99,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
+          price = 2.0,
+          coords = {
+            door = vector3(2626.5869140625, -1344.9149169921875, 70.94248962402344),
+            inv = vector3(2625.768798828125, -1337.732666015625, 70.91329956054688),
+            closet = vector3(2625.49951171875, -1342.9844970703125, 70.91507720947266),
+          },
+          blip = {
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
+          },
+        },
+      },
+    },
+    -- SD Antiques Store
+    {
+      enable = true,
+      name = 'St. Antiques Store', -- hotel name
+      society = 'sdantiques', -- job name
+      hotelID = 9, -- must be unique
+      management = true, -- if true the job can manage the hotel
+      coords = vector3(2635.311, -1358.72, 50.465), -- general load coords
+      blip = {
+          enabled = true,  -- true or false
+          coords = vector3(2631.766, -1361.77, 68.808), -- coords
+          sprite = -211556852, -- sprite
+          scale = 0.7, -- scale
+      },
+      rooms = {
+        {
+          name = 'F1 Apartment 1', -- display name
+          roomID = 1, -- must be unique
           management = true, -- if true the room can be managed
-          hash = 130805160, -- doorhash
-          rotation = -50.29581069946289, -- rotation when door is closed
+          hash = 759667685, -- doorhash
+          rotation = 40.00, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
-            door = vector3(2615.167236328125, -1344.94873046875, 60.96007537841797), -- door location
-            inv = vector3(2624.859130859375, -1343.3021240234375, 60.95200729370117), -- inventory location or nil
-            closet = vector3(2621.974853515625, -1331.1356201171875, 60.95200729370117), -- closet location or nil
+            door = vector3(2629.506103515625, -1363.954833984375, 60.89883422851562), -- door location
+            inv = vector3(2631.934326171875, -1355.080322265625, 60.86739730834961), -- inventory location or nil
+            closet = vector3(2637.749755859375, -1356.5975341796875, 60.86998748779297), -- closet location or nil
           },
           blip = {
             enabled = false, -- true or false
@@ -1019,165 +1129,102 @@ Config.Hotels = {
           },
         },
         {
-          name = 'Apartment 3', -- display name
-          roomID = 3, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 4263466771, -- doorhash
-          rotation = -49.84155654907226, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
+          name = 'F1 Apartment 2',
+          roomID = 2,
+          management = true,
+          hash = 146395850,
+          rotation = -49.73,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
           price = 2.0,
           coords = {
-            door = vector3(2614.8203125, -1344.5845947265625, 65.46558380126953), -- door location
-            inv = vector3(2617.458251953125, -1338.8758544921875, 65.44428253173828), -- inventory location or nil
-            closet = vector3(2612.46142578125, -1340.1898193359375, 65.45564270019531), -- closet location or nil
+            door = vector3(2623.078857421875, -1362.8653564453125, 59.47077560424805),
+            inv = vector3(2625.507080078125, -1366.5794677734375, 59.42181015014648),
+            closet = vector3(2627.892333984375, -1369.3450927734375, 59.45175170898437),
           },
           blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
           },
         },
         {
-          name = 'Apartment 4', -- display name
-          roomID = 4, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 824787050, -- doorhash
-          rotation = -140.0610809326172, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
+          name = 'F2 Apartment 1',
+          roomID = 3,
+          management = true,
+          hash = 4202247753,
+          rotation = 129.89,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
           price = 2.0,
           coords = {
-            door = vector3(2608.655029296875, -1348.623779296875, 65.46558380126953), -- door location
-            inv = vector3(2603.809326171875, -1351.940673828125, 65.45564270019531), -- inventory location or nil
-            closet = vector3(2602.516357421875, -1352.9796142578125, 65.45564270019531), -- closet location or nil
+            door = vector3(2641.276611328125, -1359.72705078125, 65.35139465332031),
+            inv = vector3(2634.48193359375, -1359.1959228515625, 65.34432983398438),
+            closet = vector3(2633.334716796875, -1354.4552001953125, 65.34456634521484),
           },
           blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
           },
         },
         {
-          name = 'Apartment 5', -- display name
-          roomID = 5, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 1200696398, -- doorhash
-          rotation = 40.39239501953125, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
+          name = 'F2 Apartment 2',
+          roomID = 4,
+          management = true,
+          hash = 519962450,
+          rotation = -49.50,
+          slots = 100,
+          weight = 1000,
+          maxRentDays = 3,
           price = 2.0,
           coords = {
-            door = vector3(2600.466064453125,-1358.2198486328125,69.93123626708984), -- door location
-            inv = vector3(2596.058349609375, -1353.34130859375, 69.91152954101562), -- inventory location or nil
-            closet = vector3(2599.993408203125, -1350.153076171875, 69.92283630371094), -- closet location or nil
+            door = vector3(2623.07763671875, -1362.8641357421875, 63.68118286132812),
+            inv = vector3(2625.706298828125, -1372.9234619140625, 63.6578483581543),
+            closet = vector3(2628.34521484375, -1370.7412109375, 63.66416168212893),
           },
           blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
+            enabled = false,
+            sprite = -211556852,
+            scale = 0.7,
+            colorOccupied = true,
           },
         },
+      },
+    },
+    -- SD Toy Store
+    {
+      enable = true,
+      name = 'St. Toy Store', -- hotel name
+      society = 'sdtoy', -- job name
+      hotelID = 10, -- must be unique
+      management = true, -- if true the job can manage the hotel
+      coords = vector3(2639.897, -1368.73, 50.649), -- general load coords
+      blip = {
+          enabled = true,  -- true or false
+          coords = vector3(2639.897, -1368.73, 65.649), -- coords
+          sprite = -211556852, -- sprite
+          scale = 0.7, -- scale
+      },
+      rooms = {
         {
-          name = 'Apartment 6', -- display name
-          roomID = 6, -- must be unique
+          name = 'F2 Apartment 1', -- display name
+          roomID = 1, -- must be unique
           management = true, -- if true the room can be managed
-          hash = 742896487, -- doorhash
-          rotation = 40.04999160766601, -- rotation when door is closed
+          hash = 4201425067, -- doorhash
+          rotation = 130.00, -- rotation when door is closed
           slots = 100, -- inventory Slots
+          weight = 1000,
           maxRentDays = 3, -- if -1 you can rent it infinitly
           price = 2.0,
           coords = {
-            door = vector3(2605.4140625,-1354.0721435546875,69.93123626708984), -- door location
-            inv = vector3(2605.543701171875, -1345.589111328125, 69.92283630371094), -- inventory location or nil
-            closet = vector3(2601.242431640625, -1349.1246337890625, 69.92283630371094), -- closet location or nil
-          },
-          blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
-          },
-        },
-        {
-          name = 'Apartment 7', -- display name
-          roomID = 7, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 1437107752, -- doorhash
-          rotation = 39.69633865356445, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
-          price = 2.0,
-          coords = {
-            door = vector3(2610.8994140625,-1349.4649658203125,69.93523406982422), -- door location
-            inv = vector3(2606.618896484375, -1344.47607421875, 69.92283630371094), -- inventory location or nil
-            closet = vector3(2612.340087890625, -1342.7464599609375, 69.92283630371094), -- closet location or nil
-          },
-          blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
-          },
-        },
-        {
-          name = 'Apartment 8', -- display name
-          roomID = 8, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 672542324, -- doorhash
-          rotation = 39.36271286010742, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
-          price = 2.0,
-          coords = {
-            door = vector3(2616.144287109375,-1345.08447265625,69.94248962402344), -- door location
-            inv = vector3(2615.963623046875, -1336.809326171875, 69.92283630371094), -- inventory location or nil
-            closet = vector3(2612.18896484375, -1340.1536865234375, 69.92283630371094), -- closet location or nil
-          },
-          blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
-          },
-        },
-        {
-          name = 'Apartment 9', -- display name
-          roomID = 9, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 2220254083, -- doorhash
-          rotation = -140.15390014648438, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
-          price = 2.0,
-          coords = {
-            door = vector3(2622.036376953125,-1340.1055908203125,69.94248962402344), -- door location
-            inv = vector3(2621.759033203125, -1332.2305908203125, 69.92283630371094), -- inventory location or nil
-            closet = vector3(2617.192138671875, -1335.880615234375, 69.92283630371094), -- closet location or nil
-          },
-          blip = {
-            enabled = false, -- true or false
-            sprite = -211556852, -- sprite
-            scale = 0.7, -- scale
-            colorOccupied = true, -- true or false
-          },
-        },
-        {
-          name = 'Apartment 10', -- display name
-          roomID = 10, -- must be unique
-          management = true, -- if true the room can be managed
-          hash = 250378413, -- doorhash
-          rotation = 130.00001525878906, -- rotation when door is closed
-          slots = 100, -- inventory Slots
-          maxRentDays = 3, -- if -1 you can rent it infinitly
-          price = 2.0,
-          coords = {
-            door = vector3(2626.5869140625,-1344.9149169921875,69.94248962402344), -- door location
-            inv = vector3(2626.65185546875, -1337.3363037109375, 69.92283630371094), -- inventory location or nil
-            closet = vector3(2624.749267578125, -1341.4510498046875, 69.92283630371094), -- closet location or nil
+            door = vector3(2644.591552734375, -1371.1353759765625, 58.19290924072265), -- door location
+            inv = vector3(2642.7578125, -1368.44287109375, 58.18084335327148), -- inventory location or nil
+            closet = vector3(2647.249755859375, -1368.8896484375, 58.10561370849609), -- closet location or nil
           },
           blip = {
             enabled = false, -- true or false
@@ -1200,110 +1247,105 @@ if Config.Framework == 'vorp' then
     VORPcore = exports.vorp_core:GetCore()
 end
 
---- Notify
---- @param text (string) The text of the notification.
---- @param error (boolean) Indicates if it is an error message.
---- @param success (boolean) Indicates if it is a success message.
+-- Notify
 function clNotify(text, error, success)
-    if Config.Framework == "vorp" then
+    if Config.Framework == 'vorp' then
         if error then
-            VORPcore.NotifyAvanced(text, "menu_textures", "cross", "COLOR_RED", 4000)
+            VORPcore.NotifyAvanced(text, 'menu_textures', 'cross', 'COLOR_RED', 4000)
         elseif success then
-            VORPcore.NotifyAvanced(text, "hud_textures", "check", "COLOR_GREEN", 4000)
+            VORPcore.NotifyAvanced(text, 'hud_textures', 'check', 'COLOR_GREEN', 4000)
         else
-            VORPcore.NotifyAvanced(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+            VORPcore.NotifyAvanced(text, 'inventory_items', 'provision_jail_keys', 'COLOR_PURE_WHITE', 4000)
         end
     end
-    if Config.Framework == "rpx" then
+    if Config.Framework == 'rpx' then
         if error then
-            exports["rpx-core"]:ShowAdvancedRightNotification(text, "menu_textures", "cross", "COLOR_RED", 4000)
+            exports['rpx-core']:ShowAdvancedRightNotification(text, 'menu_textures', 'cross', 'COLOR_RED', 4000)
         elseif success then
-            exports["rpx-core"]:ShowAdvancedRightNotification(text, "hud_textures", "check", "COLOR_GREEN", 4000)
+            exports['rpx-core']:ShowAdvancedRightNotification(text, 'hud_textures', 'check', 'COLOR_GREEN', 4000)
         else
-            exports["rpx-core"]:ShowAdvancedRightNotification(text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+            exports['rpx-core']:ShowAdvancedRightNotification(text, 'inventory_items', 'provision_jail_keys', 'COLOR_PURE_WHITE', 4000)
         end
     end
-    if Config.Framework == "rsg" then
+    if Config.Framework == "rsg" or Config.Framework == "rsg-old" then
         if error then
-            TriggerEvent('RSGCore:Notify', text, 'error')
+            local dataError = {description = text, duration = 4000, type = 'error' }
+            TriggerEvent('ox_lib:notify', dataError)
         elseif success then
-            TriggerEvent('RSGCore:Notify', text, 'success')
+            local dataSuccess = {description = text, duration = 4000, type = 'success' }
+            TriggerEvent('ox_lib:notify', dataSuccess)
         else
-            TriggerEvent('RSGCore:Notify', text, 'info')
+            local data = {description = text, duration = 4000, type = 'inform' }
+            TriggerEvent('ox_lib:notify', data)
         end
     end
 end
 
---- @param src (integer) The source ID of the player
---- @param text (string) The text of the notification.
---- @param error (boolean) Indicates if it is an error message.
---- @param success (boolean) Indicates if it is a success message.
 function svNotify(src, text, error, success)
-    if Config.Framework == "vorp" then
+    if Config.Framework == 'vorp' then
         if error then
-            VORPcore.NotifyAvanced(src, text, "menu_textures", "cross", "COLOR_RED", 4000)
+            VORPcore.NotifyAvanced(src, text, 'menu_textures', 'cross', 'COLOR_RED', 4000)
         elseif success then
-            VORPcore.NotifyAvanced(src, text, "hud_textures", "check", "COLOR_GREEN", 4000)
+            VORPcore.NotifyAvanced(src, text, 'hud_textures', 'check', 'COLOR_GREEN', 4000)
         else
-            VORPcore.NotifyAvanced(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+            VORPcore.NotifyAvanced(src, text, 'inventory_items', 'provision_jail_keys', 'COLOR_PURE_WHITE', 4000)
         end
     end
-    if Config.Framework == "rpx" then
+    if Config.Framework == 'rpx' then
         if error then
-            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "menu_textures", "cross", "COLOR_RED", 4000)
+            exports['rpx-core']:ShowAdvancedRightNotification(src, text, 'menu_textures', 'cross', 'COLOR_RED', 4000)
         elseif success then
-            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "hud_textures", "check", "COLOR_GREEN", 4000)
+            exports['rpx-core']:ShowAdvancedRightNotification(src, text, 'hud_textures', 'check', 'COLOR_GREEN', 4000)
         else
-            exports["rpx-core"]:ShowAdvancedRightNotification(src, text, "inventory_items", "provision_jail_keys", "COLOR_PURE_WHITE", 4000)
+            exports['rpx-core']:ShowAdvancedRightNotification(src, text, 'inventory_items', 'provision_jail_keys', 'COLOR_PURE_WHITE', 4000)
         end
     end
-    if Config.Framework == "rsg" then
+    if Config.Framework == "rsg" or Config.Framework == "rsg-old" then
         if error then
-            TriggerClientEvent('RSGCore:Notify', src, text, 'error')
+            local dataError = {description = text, duration = 4000, type = 'error' }
+            TriggerClientEvent('ox_lib:notify', src, dataError)
         elseif success then
-            TriggerClientEvent('RSGCore:Notify', src, text, 'success')
+            local dataSuccess = {description = text, duration = 4000, type = 'success' }
+            TriggerClientEvent('ox_lib:notify', src, dataSuccess)
         else
-            TriggerClientEvent('RSGCore:Notify', src, text, 'info')
+            local data = {description = text, duration = 4000, type = 'inform' }
+            TriggerClientEvent('ox_lib:notify', src, data)
         end
     end
 end
 
---- Wardrobe
+-- Wardrobe
 function ClothingMenuEvent()
     -- TriggerEvent('syn_clothing:OpenOutfits')
     TriggerEvent('kd_clothingstore:openWardrobe', false)
 end
 
---- Society
---- @param society (string) The name of the society.
---- @param money (integer) The amount of money to be added.
+-- Society
 function AddMoneyToSociety(society, money)
     if society ~= nil and money > 0 then
-        if Config.Society == "dl_society" then
+        if Config.Society == 'dl_society' then
             exports.dl_society:addSocietyMoney(society, money)
         end
 
-        if Config.Society == "mega_companies" then
+        if Config.Society == 'mega_companies' then
             CompaniesManager.addMoney(society, money)
         end
 
-        if Config.Society == "syn_society" then
-            -- GET CURRENT SOCIETY MONEY
-
-            local ledgerresult = exports.oxmysql:fetchSync("SELECT ledger FROM society_ledger WHERE job=?", {society})
-            local societyamount = ledgerresult[1].ledger
-            if societyamount == nil then
-                societyamount = 0
+        if Config.Society == 'syn_society' then
+            local ledgerresult = exports.oxmysql:fetchSync('SELECT ledger FROM society_ledger WHERE job = ?', {society})
+            if ledgerresult and ledgerresult[1] and ledgerresult[1].ledger then
+                local currentLedger = ledgerresult[1].ledger
+                local newLedger = currentLedger + money
+                exports.oxmysql:execute('UPDATE society_ledger SET ledger = ? WHERE job = ?', {newLedger, society})
+            else
+                print("No Ledger found for Job '" .. society .. "'!")
             end
-
-            TriggerEvent("syn_society:depositcash", money, societyamount, society)
         end
 
-        if Config.Society == "custom" then
+        if Config.Society == 'custom' then
             -- Your Add Money to Society Logic here
             print(society, money)
         end
-
     end
 end
 ```
