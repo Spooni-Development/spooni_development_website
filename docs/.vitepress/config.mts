@@ -61,9 +61,9 @@ export default defineConfig({
 
           { text: "Lemoyne", collapsed: true, items:[
             {text: "Rhodes", collapsed: true, items: [
+              {text: "🔸Caravan", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_caravan'},
               {text: "🔸Church", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_church'},
               {text: "🔸Doctor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_doctor'},
-              {text: "🔸Caravan", link:'/doc_mappings/lemoyne/rhodes/spooni_rhodes_caravan'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
