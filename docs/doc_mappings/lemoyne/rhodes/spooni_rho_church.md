@@ -3,7 +3,7 @@ Documentation relating to the spooni_rho_church.
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0e6bf382ac7e597d06355f1e4e667da155130022.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vyi-gvsYUw?si=poX_2lKbgntssE5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
 [Buy the mapping](https://spooni-mapping.tebex.io/package/6621641)
 :::
