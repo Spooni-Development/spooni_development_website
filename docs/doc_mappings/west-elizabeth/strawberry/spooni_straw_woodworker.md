@@ -3,7 +3,7 @@ Documentation relating to the spooni_straw_woodworker.
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/ad3cfd87b81c53d58cdcb41c6d067e62977cbba0.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRdntxxa85Q?si=P-nYlUVzCiNfgEDV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
 [Buy the mapping](https://spooni-mapping.tebex.io/package/6642062)
 :::

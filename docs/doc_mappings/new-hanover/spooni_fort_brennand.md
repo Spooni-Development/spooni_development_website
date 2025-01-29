@@ -3,7 +3,7 @@ Documentation relating to the spooni_fort_brennand.
 
 :::tabs
 == PREVIEW
-<iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/bf43776bf5a438633967ce0519407892a17f2818.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Biu6c4qZsHA?si=NqX0h-44_d2bXC7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
 [Buy the mapping](https://spooni-mapping.tebex.io/package/6644126)
 :::
