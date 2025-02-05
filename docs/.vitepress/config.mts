@@ -109,6 +109,7 @@ export default defineConfig({
             {text: "🔸Rathskeller Fork", link:'/doc_mappings/new-austin/spooni_rathskeller_fork'},
             {text: "🔸Ridgewood Farm", link:'/doc_mappings/new-austin/spooni_ridgewood_farm'},
             {text: "🔸Thieves' Landing Distillery", link:'/doc_mappings/new-austin/spooni_thl_distillery'},
+            {text: "🔸Vultures Claim", link:'/doc_mappings/new-austin/spooni_vultures_claim'}, 
           ]},
 
           { text: "New Hanover", collapsed: true, items:[
