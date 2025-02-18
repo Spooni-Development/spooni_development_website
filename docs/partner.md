@@ -203,6 +203,14 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/889136267516870717/a_eb4a4e98bdf420d7d006e8bd78d667e9.webp?size=128',
+            name: 'Der Wilde Westen',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/snyctcZD2G' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/712678812428664862/8cace274b4b7f59f777c97562d63e466.webp?size=128',
             name: 'WILDFIN',
             title: '📀 TIER II',

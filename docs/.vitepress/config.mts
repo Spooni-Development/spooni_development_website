@@ -78,6 +78,7 @@ export default defineConfig({
               {text: "🔸Hotel La Licorne", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_hotel_licorne'},
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_jeweler'},
               {text: "🔸Night Club", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_night_club'},
+              {text: "🔸Palmist & Watchmaker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_palmist'},
               {text: "🔸Police", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_police'},
               {text: "🔸Promenade", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_promenade'},
               // {text: "🔸Slums", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_slums'},

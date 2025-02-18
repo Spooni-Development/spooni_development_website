@@ -46,9 +46,9 @@ Config.Framework = 'vorp' -- select your framework (vorp, rpx, rsg, rsg-old) *rs
 Config.Locale = 'en' -- select your language (en, de, fr, es)
 
 --Webhook
-Config.Logs         = true --enable or disable the webhook
-Config.Discord      = false --if you use discord whitelist
-Config.Webhook      = "https://discord.com/api/webhooks/1028298805864575106/3eSrp0BbBBtU3NE_z8LLz4fTmBAUNaPJcnEDI3ihO_paAe_AlDgyetb56ukgU6rNcAN2"
+Config.Logs         = true -- enable or disable the webhook
+Config.Discord      = false -- if you use discord whitelist
+Config.Webhook      = "YOUR WEBHOOK HERE"
 Config.WebhookColor = 16711680 
 Config.WebhookName         = "spooni_build_my_home" 
 Config.WebhookLogo         = "https://via.placeholder.com/30x30" -- Header
