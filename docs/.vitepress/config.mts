@@ -101,12 +101,14 @@ export default defineConfig({
               {text: "🔸Church", link:'/doc_mappings/new-austin/armadillo/spooni_arm_church'},
               // {text: "🔸Reborn", link:'/doc_mappings/new-austin/armadillo/spooni_arm_reborn'},
             ]},
-            // {text: "Tumbleweed", collapsed: true, items: [
-            // ]},
+            {text: "Tumbleweed", collapsed: true, items: [
+              {text: "🔸Church", link:'/doc_mappings/new-austin/tumbleweed/spooni_tum_church'},
+            ]},
             {text: "🔸Buckshot Bend", link:'/doc_mappings/new-austin/spooni_buckshot_bend'},
             {text: "🔸Cholla Springs Alchemist", link:'/doc_mappings/new-austin/spooni_cho_alchemist'},
             {text: "🔸Fort Mercer", link:'/doc_mappings/new-austin/spooni_fort_mercer'},
             {text: "🔸MacFarlane's Ranch", link:'/doc_mappings/new-austin/spooni_mac_farlanes_ranch'},
+            {text: "🔸Rathskeller Fork 2", link:'/doc_mappings/new-austin/spooni_rathskeller_fork2'},
             {text: "🔸Rathskeller Fork", link:'/doc_mappings/new-austin/spooni_rathskeller_fork'},
             {text: "🔸Ridgewood Farm", link:'/doc_mappings/new-austin/spooni_ridgewood_farm'},
             {text: "🔸Thieves' Landing Distillery", link:'/doc_mappings/new-austin/spooni_thl_distillery'},
@@ -143,6 +145,8 @@ export default defineConfig({
               {text: "🔸Casino Ship", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_casino_ship'},
               {text: "🔸Church", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_church'},
               {text: "🔸Reborn 1", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_reborn'},
+              {text: "🔸Stone House", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_stone_house'},
+
             ]},
             {text: "Strawberry", collapsed: true, items: [
               {text: "🔸Gunsmith", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_gunsmith'},
@@ -171,19 +175,24 @@ export default defineConfig({
           text: 'Scripts',
           collapsed: false,
           items: [
-            // { text: "💀 Blackmarket", link:'/doc_scripts/spooni/spooni_blackmarket' },
-            { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' },
-            { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
-            { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
-            { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_job_blips' },
-            { text: "🗑️ Prop Deleter", link:'doc_scripts/spooni/spooni_prop_deleter' },
-            { text: "🧩 Prop Loader", link:'doc_scripts/spooni/spooni_prop_loader' },
-            { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
-            { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
-            { text: "🛞 Vehicle Loader", link:'doc_scripts/spooni/spooni_vehicle_loader' },
-            // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
+            { text: "Spooni", collapsed: false, items:[
+              // { text: "💀 Blackmarket", link:'/doc_scripts/spooni/spooni_blackmarket' },
+              { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' }, 
+              { text: "🎡 Ferris Wheel", link:'/doc_scripts/spooni/spooni_ferriswheel' },
+              { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
+              { text: "🗑️ Prop Deleter", link:'doc_scripts/spooni/spooni_prop_deleter' },
+              { text: "🧩 Prop Loader", link:'doc_scripts/spooni/spooni_prop_loader' },
+              // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
+              { text: "Free Scripts", collapsed: true, items:[
+                { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
+                { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_job_blips' },
+                { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
+                { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
+                { text: "🛞 Vehicle Loader", link:'doc_scripts/spooni/spooni_vehicle_loader' },
+              ]},
+            ]},
 
-            { text: "DrShwaggins Scripts", collapsed: true, items:[
+            { text: "DrShwaggins", collapsed: true, items:[
               { text: "💵 Billing", link:'doc_scripts/drshwaggins/dl_advancedbilling' },
               { text: "🏪 Stores", link:'doc_scripts/drshwaggins/dl_advancedstores' },
               { text: "🎥 Cutscenes", link:'doc_scripts/drshwaggins/dl_cutscenes' },
