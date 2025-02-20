@@ -46,7 +46,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/870659641879724104/b85569f37578506f0628fb88135d9296.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/870659641879724104/14e8a8210a5ab84406eca3abaa3a09c4.webp?size=128',
             name: 'Gum Scripts',
             // title: '🔧' ,
             links: [
@@ -62,7 +62,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/99205a7a5782e5d01891407c9dce0f1b.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/d8562aa500b4fb01423ac5abdc3d2e1a.webp?size=128',
             name: 'Fixitfy',
             // title: '🔧' ,
             links: [
@@ -163,7 +163,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/8761ba37762141bb7b41f1bf07a5c8dd.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/14d10c341e23f8cb21680d0454acb4c1.webp?size=128',
             name: 'Yellowstone RP',
             title: '📀 TIER II',
             links: [
@@ -187,11 +187,27 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1073213859541823590/a_89fca066570539923c535bf2bc48d497.webp?size=128',
+            name: 'Wild Frontier Roleplay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/wildfrontierrp' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/737446331920023628/ec9a0ca8dc56d473a796c9bd0d915dda.webp?size=128',
             name: 'Gilded RP',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/gildedrp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1316932126725111818/a_c313d8c2f1056f14a8614fbcafb56e85.webp?size=128',
+            name: 'Wild West Roleplay',
+            title: '📀 TIER II', 
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/mQTn4JVdxa' },
             ]
         },
         {
@@ -211,7 +227,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/8cace274b4b7f59f777c97562d63e466.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/e14086540c3d46502fcfa9848e0e7dea.webp?size=128',
             name: 'WILDFIN',
             title: '📀 TIER II',
             links: [
@@ -307,7 +323,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/ecc23e09dcddaea59297f47c542a0444.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/cde5be147092446e31eb6d3f3b1e086e.webp?size=128',
             name: 'Secret Society County',
             title: '📀 TIER II',
             links: [
@@ -323,14 +339,6 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/364ecb49ee52628af8fccf558cde4774.webp?size=128',
-            name: 'Wildwood County',
-            title: '📀 TIER II',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/wildwoodrp' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/icons/1139609447480688733/a_04f9c9ad68538eb9f3f7a253bf04222d.webp?size=128',
             name: 'Legendary Roleplay',
             title: '📀 TIER II',
@@ -339,11 +347,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1308329282602274856/59b8287c7e784669fcf9f201cc67b0f1.webp?size=128',
-            name: 'Vendetta County',
+            avatar: 'https://cdn.discordapp.com/icons/1308329282602274856/ef25d9234f28582cf715df2c018ee0ba.webp?size=128',
+            name: 'Vengeful County',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/x7xTAKfV' },
+                { icon: 'discord', link: 'https://discord.gg/5wdyC4frRf' },
             ]
         },
 
@@ -365,6 +373,22 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1315778409535766648/39c8427b6a61ffc53922354530a1213c.webp?size=128',
+            name: 'Redwood County RP',
+            title: '💿 TIER I', 
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/tMfxKdYFCv' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1326256355824242748/612960524e4f1a460e2f81e952992981.webp?size=128',
+            name: 'Untamed Roleplay',
+            title: '💿 TIER I', 
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/5W93wuwXZ3' },
+            ]
+        },
+        {
             avatar: 'user.svg',
             name: '1889 Roleplay',
             title: '💿 TIER I',
@@ -381,23 +405,23 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1281752229421912155/a_36f6447ea5677acc6402885650ab97f5.webp?size=128',
-            name: 'Promised Land',
+            avatar: 'https://cdn.discordapp.com/icons/1281752229421912155/8b2c2dca608f37003c7f7b097c1b3ec8.webp?size=128',
+            name: 'Promised Land Reborn',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.com/invite/promisedlandrp' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1208456421855731752/2cf2bfc35461b492da439895dacb626f.webp?size=128',
-            name: 'Syntax Roleplay',
+            avatar: 'https://cdn.discordapp.com/icons/1208456421855731752/2bebb693bebe129d102a4ba84593e220.webp?size=128',
+            name: 'Syntax Roleplay 1899',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/KTtaEvKKZw' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1237280019135594528/0b544c2fa18782815526f7023fda4775.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1237280019135594528/c29a4e28d7dab6dae94b3e71a1e7d61f.webp?size=128',
             name: 'Big Iron Roleplay',
             title: '💿 TIER I',
             links: [
@@ -405,7 +429,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1299654221750210560/be1640129329546b8af0665a28c3d292.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1299654221750210560/8b9699af9ae39b1d2b1aaf0b92b9e93b.webp?size=128',
             name: 'Dusty Trails Roleplay',
             title: '💿 TIER I',
             links: [
@@ -426,22 +450,6 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/8v55442VZU' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/1162304446890512445/fa417c570441ae7bb25031d562d39b1a.webp?size=128',
-            name: 'FRONTIER RP',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/frontierpremiumrp' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/1073213859541823590/a_89fca066570539923c535bf2bc48d497.webp?size=128',
-            name: 'Wild Frontier Roleplay',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/wildfrontierrp' },
             ]
         },
         {

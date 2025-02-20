@@ -79,14 +79,6 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1052829950119530547/73dbc607b1932d82bb654668938ff6cd.webp?size=128',
-    name: 'Last Hope RP',
-    title: 'RDR2 Roleplay',
-    links: [
-        { icon: 'discord', link: 'https://discord.gg/7n3wf96RpZ' },
-    ]
-  },
-  {
     avatar: 'https://cdn.discordapp.com/icons/1143862512937336933/99dec736bccbd1b0902d8f613eec5075.webp?size=128',
     name: 'Golden Plains',
     title: 'RDR2 Roleplay',
@@ -127,11 +119,11 @@ const sponsors = [
     ]
   },
   {
-      avatar: 'https://cdn.discordapp.com/icons/1217371173319348266/0df2419df7f5254804ee49f9db062dd5.webp?size=128',
-    name: 'Pioneers Country',
+      avatar: 'https://cdn.discordapp.com/icons/1217371173319348266/84f97ee9178d0d52d354d9adb670be1f.webp?size=128',
+    name: 'Spirit Frontier 1899',
     title: 'RDR2 Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/BWMmAErXKu' },
+        { icon: 'discord', link: 'https://discord.gg/4mfa4JdKcA' },
     ]
   },
 ]
