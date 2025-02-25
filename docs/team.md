@@ -90,15 +90,6 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/383325451072045058/8e81e307d7508c8e19c0b539f2112329.webp?size=128',
-            name: 'Chawklet',
-            title: 'Developer',
-            links: [
-                { icon: 'github', link: 'https://github.com/hellcatdevelopment' },
-                { icon: 'discord', link: 'https://discordapp.com/users/383325451072045058/' },
-            ]
-        },
-        {
             avatar: 'user.svg',
             name: 'LeFruJohn',
             title: 'Developer',
