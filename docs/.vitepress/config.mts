@@ -146,7 +146,7 @@ export default defineConfig({
               {text: "🔸Casino Ship", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_casino_ship'},
               {text: "🔸Church", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_church'},
               {text: "🔸Reborn 1", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_reborn'},
-              {text: "🔸Stone House", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_stone_house'},
+              {text: "🔸Wisdom Manor", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_wisdom_manor'},
 
             ]},
             {text: "Strawberry", collapsed: true, items: [
