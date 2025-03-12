@@ -38,7 +38,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Docs", link: "/docs" },
-      { text: "Map", link: "/map" },
+      { text: "Map", link: "https://spooni.de/rdr2/" },
       // { text: "MICO", link: "/mico" },
       { text: "Team", link: "/team" },
       { text: "Partner", link: "/partner" },

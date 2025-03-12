@@ -15,7 +15,7 @@ sidebar: false
     const director = [
         {
             avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
-            name: 'Elitefighter',
+            name: 'SPOONI',
             title: 'Founder & Director',
             links: [
                 { icon: 'github', link: 'https://github.com/Masterspooni' },
@@ -144,14 +144,6 @@ sidebar: false
             ]
         },   
         {
-            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/a_bb15bd5f687ee2340dc19bc36b120c4a.gif?size=128',
-            name: 'Dotster',
-            title: 'Mapper',
-            links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
-            ]
-        }, 
-        {
             avatar: 'https://cdn.discordapp.com/avatars/381107972371251216/4fbcb48aaae153a2d846c5486d005fb7.png?size=128',
             name: 'Marin Fox',
             title: 'Mapper',
@@ -159,6 +151,14 @@ sidebar: false
                 { icon: 'discord', link: 'https://discordapp.com/users/381107972371251216/' },
             ]
         },   
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/8fbf5e7956c31783d30937757981baff.webp?size=128',
+            name: 'Sprudeli',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/404260740275503105/' },
+            ]
+        }, 
         {
             avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/a_11981429cffec973fb48b25208ebf1b0.gif?size=128',
             name: 'αмηєѕια',
