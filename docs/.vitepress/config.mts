@@ -38,7 +38,8 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Docs", link: "/docs" },
-      { text: "MICO", link: "/mico" },
+      { text: "Map", link: "/map" },
+      // { text: "MICO", link: "/mico" },
       { text: "Team", link: "/team" },
       { text: "Partner", link: "/partner" },
     ],

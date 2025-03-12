@@ -73,6 +73,15 @@ sidebar: false
 
     const developer = [
         {
+            avatar: 'https://cdn.discordapp.com/avatars/188354110100209665/ce7d0e7de8a52e1f163022561db22b1c.webp?size=128',
+            name: 'Dietrich',
+            title: 'Developer',
+            links: [
+                { icon: 'github', link: 'https://github.com/Dietrich-io' },
+                { icon: 'discord', link: 'https://discordapp.com/users/188354110100209665/' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/94bdab75a18e8191e71478bcc86e414d.webp?size=128',
             name: 'Emotion',
             title: 'Developer',
@@ -82,11 +91,12 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/352854698660724738/97f4a19413d024afb72a37aedf1c190d.webp?size=128',
-            name: 'DrShwaggins',
+            avatar: 'https://cdn.discordapp.com/avatars/221575559526875136/7b00aa92ae766c8a110261e5a52a4bd9.webp?size=128',
+            name: 'Roschy',
             title: 'Developer',
             links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/352854698660724738/' },
+                { icon: 'github', link: 'https://github.com/JulianLegler' },
+                { icon: 'discord', link: 'https://discordapp.com/users/221575559526875136/' },
             ]
         },
         {
@@ -118,43 +128,43 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/fa698d2e1131311ff6f8b28f99fcef80.webp?size=128',
-            name: 'Sprudeli',
-            title: 'Mapper',
-            links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/404260740275503105/' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/avatars/274553699727310848/498c77a79393df52db811d744387e691.png?size=128',
-            name: 'Cookee',
-            title: 'Mapper',
-            links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/274553699727310848/' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/c4eabf1d18be73bf6c65d96be7eb6ea4.webp?size=128',
-            name: 'starburns',
+            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/a_bb15bd5f687ee2340dc19bc36b120c4a.gif?size=128',
+            name: 'Dotster',
             title: 'Mapper',
             links: [
                 { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
             ]
         },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/648954858505764866/13685536bd185e4dce9bdf10e1a56856.webp?size=128',
+            name: 'Blossom',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/648954858505764866/' },
+            ]
+        },   
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/a_bb15bd5f687ee2340dc19bc36b120c4a.gif?size=128',
+            name: 'Dotster',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+            ]
+        }, 
         {
             avatar: 'https://cdn.discordapp.com/avatars/381107972371251216/4fbcb48aaae153a2d846c5486d005fb7.png?size=128',
             name: 'Marin Fox',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+                { icon: 'discord', link: 'https://discordapp.com/users/381107972371251216/' },
             ]
         },   
         {
-            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/a_0a5433db5ef04ce2df8fa7847b72066c.gif?size=128',
+            avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/a_11981429cffec973fb48b25208ebf1b0.gif?size=128',
             name: 'αмηєѕια',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/198670591820038144/' },
+                { icon: 'discord', link: 'https://discordapp.com/users/884021556404166676/' },
             ]
         }, 
         {
@@ -190,7 +200,7 @@ sidebar: false
             ]
         }, 
         {
-            avatar: 'https://cdn.discordapp.com/avatars/106866103539523584/389d6d2311cd72728955d7f0518cd2cc.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/avatars/106866103539523584/6cd71e36c650add6a34dbb74fda19a8c.webp?size=128',
             name: 'Birae',
             title: 'Mapper',
             links: [
