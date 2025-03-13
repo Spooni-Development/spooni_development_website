@@ -1,4 +1,4 @@
-# 🏠 St. Denis Night Club <Badge type="danger" text="CURRENTLY ONLY AVAILABLE FOR SPONSORS" />
+# 🏠 St. Denis Night Club
 Documentation relating to the spooni_sd_night_club.
 
 <Badge type="warning" text="DISCLAIMER: This MLO is only an add-on to the existing St. Denis Saloon MLO from R*" />
