@@ -71,7 +71,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/705dbb0c48c53ddd8c824649b6d0a662.webp?size=128',
+    avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/183cf88a13fc4739fa4097850ae88cc4.webp?size=128',
     name: 'Babylon 1918',
     title: 'RDR2 Roleplay',
     links: [

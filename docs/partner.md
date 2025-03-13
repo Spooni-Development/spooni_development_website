@@ -70,6 +70,14 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1167625175676768276/aacf15af7a8e2e84427598cc00d33a32.webp?size=128',
+            name: 'D-Labs',
+            // title: '🔧' ,
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/btGP4gucKZ' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/820144145040408586/3e3f061f13ded09919a78346465aae9e.webp?size=128',
             name: 'Hellcat Development',
             // title: '🔧' ,
@@ -147,7 +155,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/894324037419958292/723e886966e6117807efa14d682c7323.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/894324037419958292/a_09b712c49286d2b491b75f0ece5c60b6.webp?size=128',
             name: 'GoldRush Roleplay',
             title: '📀 TIER II',
             links: [
@@ -291,7 +299,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1145304254886707200/fafb6807077c6c5ca01607801989f4ef.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1145304254886707200/4f2eeea4c193953106b531e7f8691541.webp?size=128',
             name: 'High Stakes Roleplay',
             title: '📀 TIER II',
             links: [
@@ -453,6 +461,22 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1288552504648400967/c244fd0c71feb43b8caac4695878337e.webp?size=128',
+            name: 'Starr Hawke RP',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/vxEqexFDGp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/792204426659495967/7b72b2069d5fc90e4e1427a4c63e90fe.webp?size=128',
+            name: 'Monarch RP',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/MQrhb9CNgv' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1299969838743031818/2ee8c18e890836b5bde15beda244ae9d.webp?size=128',
             name: 'State of New Heaven 1890',
             title: '💿 TIER I',
@@ -525,8 +549,8 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1099945412514816041/a_970b3d7f203e1a61b893221885216542.webp?size=128',
-            name: 'AmberView  Roleplay',
+            avatar: 'https://cdn.discordapp.com/icons/1243301682637705278/06e85774270bb50ba7721cf72d181c72.webp?size=128',
+            name: 'Moonstone Roleplay',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/yFugWXvGU4' },
