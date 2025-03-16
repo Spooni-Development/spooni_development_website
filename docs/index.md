@@ -14,6 +14,9 @@ hero:
       text: Tebex Store
       link: https://spooni-mapping.tebex.io/
     - theme: alt
+      text: Map
+      link: https://spooni.de/rdr2/
+    - theme: alt
       text: Props
       link: https://spooni.de/props/
 
