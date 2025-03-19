@@ -38,7 +38,6 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Docs", link: "/docs" },
-      // { text: "MICO", link: "/mico" },
       { text: "Team", link: "/team" },
       { text: "Partner", link: "/partner" },
     ],
@@ -64,6 +63,7 @@ export default defineConfig({
               {text: "🔸Caravan", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_caravan'},
               {text: "🔸Church", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_church'},
               {text: "🔸Doctor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_doctor'},
+              {text: "🔸Pleasance Ranch", link:'/doc_mappings/lemoyne/rhodes/spooni_pleasance_ranch'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
@@ -106,6 +106,7 @@ export default defineConfig({
             ]},
             {text: "🔸Buckshot Bend", link:'/doc_mappings/new-austin/spooni_buckshot_bend'},
             {text: "🔸Cholla Springs Alchemist", link:'/doc_mappings/new-austin/spooni_cho_alchemist'},
+            {text: "🔸Desert Edge Ranch", link:'/doc_mappings/new-austin/spooni_desert_edge_ranch'},
             {text: "🔸Fort Mercer", link:'/doc_mappings/new-austin/spooni_fort_mercer'},
             {text: "🔸MacFarlane's Ranch", link:'/doc_mappings/new-austin/spooni_mac_farlanes_ranch'},
             {text: "🔸Rathskeller Fork 2", link:'/doc_mappings/new-austin/spooni_rathskeller_fork2'},

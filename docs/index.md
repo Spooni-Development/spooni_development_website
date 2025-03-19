@@ -8,7 +8,7 @@ hero:
   image:
     src: /logo.svg
     alt: SPOONI Development logo
-  tagline: Scripts & Mappings
+  tagline: Nothing is Impossible
   actions:
     - theme: brand
       text: Tebex Store
@@ -19,17 +19,25 @@ hero:
     - theme: alt
       text: Props
       link: https://spooni.de/props/
-
 features:
-  - icon: 🗿
-    title: Mappings
-    details: How long have you dreamed of living in your own home or simply benefiting from the city's most important properties? With great attention to detail and authenticity, we offer excellent mappings. Our goal is to give you a new perspective on your favorite places and integrate them seamlessly into your roleplay.
-  - icon: 💡
-    title: Custom Request
-    details: Do you have a personal request? We also offer private commissions. Whether it's a script, mapping or placeable props - anything is possible. With specific ideas from you and our understanding of authenticity and good role-playing, we can help you fulfill your wish and put a smile on your face.
-  - icon: 💻
-    title: Server Service 
-    details: Do you want your own RedM server but need help with setup or troubleshooting? No problem! Buy your server through our partner and get a guide on contacting us. Our expert developers will support you with setup, troubleshooting, and tailored advice for your project.
+  - icon: ℹ️
+    title: About us
+    details: SPOONI Development specializes in professional scripts and mappings for RedM. With our experienced team, we create detailed maps, immersive gameplay experiences, and powerful scripts that take your roleplay to the next level. Whether it’s new buildings, interactive systems, or fully customized mechanics – we deliver quality with passion.
+    link: https://discord.gg/spooni
+    linkText: Contact us.
+  - icon: 💫
+    title: Showcase Server
+    details: Want to test our mappings and scripts before purchasing? On our Showcase Server, you can explore all products in a real gameplay environment. Check out our detailed mappings, test scripts in action, and see the quality of our work for yourself. Join the server and experience Spooni Development firsthand!
+    link: redm://connect/51.77.90.75:30120
+    linkText: Join the Showcase Server.
+  - icon: {  
+      src: /iceline.png,  
+      alt: Iceline Hosting, 
+      width: 55px, 
+      height: 55px,  
+    }
+    title: Iceline Hosting
+    details: In partnership with Iceline Hosting, we offer tailored solutions for RedM servers. Whether you need a powerful server for your project or assistance with setup, we’ve got you covered. Our team handles the entire configuration, optimizes performance, and ensures your server runs smoothly from day one.
     link: https://iceline-hosting.com/spooni
     linkText: Get your server.
 ---
