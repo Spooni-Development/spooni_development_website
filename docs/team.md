@@ -152,11 +152,11 @@ sidebar: false
             ]
         },   
         {
-            avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/8fbf5e7956c31783d30937757981baff.webp?size=128',
-            name: 'Sprudeli',
+            avatar: 'https://cdn.discordapp.com/avatars/432593791157927938/73b34763fe7045b8335c8cf5d6963940.webp?size=128',
+            name: 'Monokuma',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/404260740275503105/' },
+                { icon: 'discord', link: 'https://discordapp.com/users/432593791157927938/' },
             ]
         }, 
         {

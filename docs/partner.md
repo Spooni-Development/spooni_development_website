@@ -389,6 +389,14 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1175596989535240294/e3de81adfe106f85d716fba11d4cbbfa.webp?size=128',
+            name: 'Old Town Road',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/ajRhkYNmDh' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1326256355824242748/612960524e4f1a460e2f81e952992981.webp?size=128',
             name: 'Untamed Roleplay',
             title: '💿 TIER I', 
@@ -429,8 +437,8 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1237280019135594528/c29a4e28d7dab6dae94b3e71a1e7d61f.webp?size=128',
-            name: 'Big Iron Roleplay',
+            avatar: 'https://cdn.discordapp.com/icons/1237280019135594528/cb83837332a8b92c2102df177551c53e.webp?size=128',
+            name: 'Aces & Eights RP',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/MjCVHTTnaE' },
