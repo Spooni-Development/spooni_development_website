@@ -63,7 +63,7 @@ export default defineConfig({
               {text: "🔸Caravan", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_caravan'},
               {text: "🔸Church", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_church'},
               {text: "🔸Doctor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_doctor'},
-              {text: "🔸Pleasance Ranch", link:'/doc_mappings/lemoyne/rhodes/spooni_pleasance_ranch'},
+              {text: "🔸Ranch", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_ranch'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
@@ -94,6 +94,7 @@ export default defineConfig({
             {text: "🔸Bra Worker Houses", link:'/doc_mappings/lemoyne/spooni_bra_worker_houses'},
             {text: "🔸Caliga Hall", link:'/doc_mappings/lemoyne/spooni_caliga_hall'},
             {text: "🔸Hagen Orchards", link:'/doc_mappings/lemoyne/spooni_hagen_orchards'},
+            {text: "🔸Pleasance Ranch", link:'/doc_mappings/lemoyne/spooni_pleasance_ranch'},
           ]},
 
           { text: "New Austin", collapsed: true, items:[
