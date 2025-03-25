@@ -178,6 +178,7 @@ export default defineConfig({
           items: [
             { text: "Spooni", collapsed: false, items:[
               // { text: "💀 Blackmarket", link:'/doc_scripts/spooni/spooni_blackmarket' },
+              { text: "🎠 Attractions", link:'/doc_scripts/spooni/spooni_attractions' }, 
               { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' }, 
               { text: "🎡 Ferris Wheel", link:'/doc_scripts/spooni/spooni_ferriswheel' },
               { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },

@@ -8,7 +8,7 @@ Documentation relating to the spooni_ferriswheel.
 [Buy the script](https://spooni-mapping.tebex.io/package/6626997)
 :::
 
-## 1. Installation
+## 1. Installation <Badge type="warning" text="Artifacts version 12735 or higher"/>
 spooni_ferriswheel works Standalone. 
 
 To install spooni_ferriswheel:
@@ -49,6 +49,21 @@ Config.Locations = {
         Coords = vector3(2393.718506, -1357.584839, 64.577484),
         Rotation = vector3(0.0, 0.0, 59.00),
     },
+    -- {   -- Example
+    --     DistanceSpawn = 490,
+    --     Coords = vector3(0.0, 0.0, 0.0),
+    --     Rotation = vector3(0.0, 0.0, 0.0),
+    -- },
+}
+
+Config.SeatFunctions = {
+    Start = function()
+        ExecuteCommand('hidehud')
+    end,
+
+    Stop = function()
+        ExecuteCommand('hidehud')
+    end,
 }
 ```
 :::
