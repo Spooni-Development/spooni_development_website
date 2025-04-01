@@ -127,6 +127,7 @@ export default defineConfig({
             ]},
             {text: "Van Horn", collapsed: true, items: [
               {text: "🔸Brothel House", link:'/doc_mappings/new-hanover/van-horn/spooni_van_brothel_house'},
+              {text: "🔸Reborn", link:'/doc_mappings/new-hanover/van-horn/spooni_van_reborn'},
               {text: "🔸Stable House", link:'/doc_mappings/new-hanover/van-horn/spooni_van_stable_house'},
 
             ]},
