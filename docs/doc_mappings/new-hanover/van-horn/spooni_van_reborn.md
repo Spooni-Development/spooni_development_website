@@ -3,9 +3,9 @@ Documentation relating to the spooni_van_reborn.
 
 :::tabs
 == PREVIEW
-<iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0f16c06e0c159e502c8c7acb89384f537b03241c.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDpeI21yN5A?si=lfS5c2phz0GK7B_9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 == BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/)
+[Buy the mapping](https://spooni-mapping.tebex.io/package/6757596)
 :::
 
 ## 1. Installation
