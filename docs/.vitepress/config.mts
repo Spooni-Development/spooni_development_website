@@ -64,6 +64,7 @@ export default defineConfig({
               {text: "🔸Church", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_church'},
               {text: "🔸Doctor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_doctor'},
               {text: "🔸Ranch", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_ranch'},
+              {text: "🔸Tailor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_tailor'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
@@ -136,6 +137,7 @@ export default defineConfig({
             {text: "🔸Dewberry Creek", link:'/doc_mappings/new-hanover/spooni_dewberry_creek'},
             {text: "🔸Emerald Ranch", link:'/doc_mappings/new-hanover/spooni_emerald_ranch'},
             {text: "🔸Fort Brennand", link:'/doc_mappings/new-hanover/spooni_fort_brennand'},
+            {text: "🔸Fort Heartlands", link:'/doc_mappings/new-hanover/spooni_fort_heartlands'},
             {text: "🔸Fort Wallace", link:'/doc_mappings/new-hanover/spooni_fort_wallace'},
             {text: "🔸Greenbank Mill", link:'/doc_mappings/new-hanover/spooni_greenbank_mill'},
             {text: "🔸Oil Field Worker Houses", link:'/doc_mappings/new-hanover/spooni_oil_worker_houses'},
