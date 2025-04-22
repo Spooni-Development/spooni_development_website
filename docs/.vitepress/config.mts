@@ -67,7 +67,6 @@ export default defineConfig({
               {text: "🔸Tailor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_tailor'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
-              {text: "🔸Animal Shelter", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_whisker_in_the_jar'},
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
               {text: "🔸Brewery", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_brewery'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_cart_woodworker'},              
@@ -91,6 +90,7 @@ export default defineConfig({
               {text: "🔸Villa 2, 3 & 4", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_2_3_4'},
               // {text: "🔸Villa 5", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_5'},
               // {text: "🔸Warehouse", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_warehouse'},
+              {text: "🔸Ped Store", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_whisker_in_the_jar'},
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},
             {text: "🔸Bra Worker Houses", link:'/doc_mappings/lemoyne/spooni_bra_worker_houses'},
