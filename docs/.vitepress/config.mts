@@ -67,6 +67,7 @@ export default defineConfig({
               {text: "🔸Tailor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_tailor'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
+              {text: "🔸Animal Shelter", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_whisker_in_the_jar'},
               {text: "🔸Bakery & Florist", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_bakery_florist'},
               {text: "🔸Brewery", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_brewery'},
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_cart_woodworker'},              
