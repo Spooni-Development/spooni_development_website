@@ -73,15 +73,6 @@ sidebar: false
 
     const developer = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/188354110100209665/ce7d0e7de8a52e1f163022561db22b1c.webp?size=128',
-            name: 'Dietrich',
-            title: 'Developer',
-            links: [
-                { icon: 'github', link: 'https://github.com/Dietrich-io' },
-                { icon: 'discord', link: 'https://discordapp.com/users/188354110100209665/' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/94bdab75a18e8191e71478bcc86e414d.webp?size=128',
             name: 'Emotion',
             title: 'Developer',
@@ -91,7 +82,16 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/221575559526875136/7b00aa92ae766c8a110261e5a52a4bd9.webp?size=128',
+            avatar: 'https://avatars.githubusercontent.com/u/102512250?v=4',
+            name: 'Dietrich',
+            title: 'Developer',
+            links: [
+                { icon: 'github', link: 'https://github.com/Dietrich-io' },
+                { icon: 'discord', link: 'https://discordapp.com/users/188354110100209665/' },
+            ]
+        },
+        {
+            avatar: 'https://avatars.githubusercontent.com/u/10331752?v=4',
             name: 'Roschy',
             title: 'Developer',
             links: [
