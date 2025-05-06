@@ -98,11 +98,11 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1225905970035822734/3ac67d6e5c9511f452016648ee37f136.webp?size=128',
-    name: 'Bluestone Falls',
+    avatar: 'https://cdn.discordapp.com/icons/1225905970035822734/d0e66f327e828cd9195710c87028869b.webp?size=128',
+    name: 'Gamblers Ghost',
     title: 'RDR2 Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/6j83qWXEXm' },
+        { icon: 'discord', link: 'https://discord.gg/TSzFmMVNWj' },
     ]
   },
   {
