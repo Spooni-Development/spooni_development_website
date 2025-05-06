@@ -66,11 +66,11 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1070353246121623594/81697cd7f6bb599fc56897df53134696.webp?size=128',
+    avatar: 'https://cdn.discordapp.com/icons/1070353246121623594/1c6f3b5fe4b80955a8d43824b057d820.webp?size=128',
     name: 'The Last Days',
     title: 'RDR2 Survial Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/the-last-days-1070353246121623594' },
+        { icon: 'discord', link: 'https://discord.gg/cdmf4E7DT6' },
     ]
   },
   {
@@ -95,14 +95,6 @@ const sponsors = [
     title: 'RDR2 Roleplay',
     links: [
         { icon: 'discord', link: 'https://discord.gg/MFnB9BDcYP' },
-    ]
-  },
-  {
-    avatar: 'https://cdn.discordapp.com/icons/1251628443104448714/ec83d24a2a9c877580bb8aba3aa68a46.webp?size=128',
-    name: 'WILD CREEK RP',
-    title: 'RDR2 Roleplay',
-    links: [
-        { icon: 'discord', link: 'https://discord.gg/nyvjmTruJS' },
     ]
   },
   {

@@ -235,11 +235,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/e14086540c3d46502fcfa9848e0e7dea.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/5d587c76906b6c54b6d5964ac1d6e1c3.webp?size=128',
             name: 'WILDFIN',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/wildfin' },
+                { icon: 'discord', link: 'https://discord.gg/WCvy8hHYXg' },
             ]
         },
         {
@@ -282,12 +282,36 @@ sidebar: false
                 { icon: 'discord', link: 'https://discord.gg/bayangsinilanganrp' },
             ]
         },
-                {
+        {
             avatar: 'https://cdn.discordapp.com/icons/790331820042223616/95b6baa1a19e69aef592b19c078cdba8.webp?size=128',
             name: 'RED RIVER',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/redriver' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1317931784452706357/4ae6459909240608d2dccba41d939037.webp?size=128',
+            name: 'The Ravens Prophecy',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/QzrCQphAv8' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/792204426659495967/7b72b2069d5fc90e4e1427a4c63e90fe.webp?size=128',
+            name: 'Monarch RP',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/M3zg2DpqXW' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1358411622799900783/a_8dae6f7e56b5c22836ce2fecf32f0da3.webp?size=128',
+            name: 'Bounty Bay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/ghheGn2WUa' },
             ]
         },
         {
@@ -312,14 +336,6 @@ sidebar: false
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/farwestqc' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/940392432204394506/a_9e5d44b57837c31af20370802f951433.webp?size=128',
-            name: 'Rising Sun',
-            title: '📀 TIER II',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/risingsunrp' },
             ]
         },
         {
@@ -389,19 +405,19 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1175596989535240294/e3de81adfe106f85d716fba11d4cbbfa.webp?size=128',
-            name: 'Old Town Road',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/ajRhkYNmDh' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/icons/1326256355824242748/612960524e4f1a460e2f81e952992981.webp?size=128',
             name: 'Untamed Roleplay',
             title: '💿 TIER I', 
             links: [
                 { icon: 'discord', link: 'https://discord.gg/5W93wuwXZ3' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1275435887781478411/11d4883dcf621b9cdcd83de271b2a042.webp?size=128',
+            name: 'HOMELAND - ROLEPLAY',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/UgmakBkKJT' },
             ]
         },
         {
@@ -445,11 +461,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1299654221750210560/8b9699af9ae39b1d2b1aaf0b92b9e93b.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1299654221750210560/796c9533bcf54a2d3ab0980ce8079c4c.webp?size=128',
             name: 'Dusty Trails Roleplay',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/dustytrailsrp' },
+                { icon: 'discord', link: 'https://discord.gg/T3Vm6Dka6H' },
             ]
         },
         {
@@ -461,11 +477,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1211215512705441833/487cc3c255c5c97c71ba298d3c4265e3.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1211215512705441833/317c75dac17619cc04695409a96347e3.webp?size=128',
             name: 'Beyond the Rift',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/8v55442VZU' },
+                { icon: 'discord', link: 'https://discord.gg/vqDNBk4YYT' },
             ]
         },
         {
@@ -474,14 +490,6 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/vxEqexFDGp' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/792204426659495967/7b72b2069d5fc90e4e1427a4c63e90fe.webp?size=128',
-            name: 'Monarch RP',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/MQrhb9CNgv' },
             ]
         },
         {
@@ -509,11 +517,11 @@ sidebar: false
             ]
         },    
         {
-            avatar: 'https://cdn.discordapp.com/icons/1146917669564592329/9defff4f1e4ff60edb078cc57946f075.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1146917669564592329/0bc2431e6a85f25593894b2006dfb816.webp?size=128',
             name: 'Westlands RP',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/westlandsrp' },
+                { icon: 'discord', link: 'https://discord.gg/sPJzSNaced' },
             ]
         },
         {
@@ -525,11 +533,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1116885691809407007/0de05db585a9dc27b60af442ffaa075a.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1116885691809407007/431f673fda689a3d7f7dc7d853a174c7.webp?size=128',
             name: 'Western Dreams',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/westerndreams' },
+                { icon: 'discord', link: 'https://discord.gg/XAhkvVEtqg' },
             ]
         },
         {
