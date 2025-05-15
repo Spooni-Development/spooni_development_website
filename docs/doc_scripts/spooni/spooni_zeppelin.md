@@ -9,7 +9,7 @@ Documentation relating to the spooni_zeppelin.
 :::
 
 ## 1. Installation
-spooni_zeppelin works Standalone. 
+spooni_zeppelin works only with VORP, RSG, RPX & RedEM.
 
 To install spooni_zeppelin:
 - Download the resource

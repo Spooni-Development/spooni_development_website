@@ -9,7 +9,7 @@ Documentation relating to the spooni_showtime.
 :::
 
 ## 1. Installation
-spooni_showtime works Standalone. 
+spooni_showtime works only with VORP, RSG, RPX & RedEM.
 
 To install spooni_showtime:
 - Download the resource
