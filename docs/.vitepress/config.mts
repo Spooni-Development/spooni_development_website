@@ -189,7 +189,7 @@ export default defineConfig({
               { text: "🗑️ Prop Deleter", link:'doc_scripts/spooni/spooni_prop_deleter' },
               { text: "🧩 Prop Loader", link:'doc_scripts/spooni/spooni_prop_loader' },
               { text: "🎭 Theater & Cinema", link:'doc_scripts/spooni/spooni_showtime' },
-              { text: "✈️ Zeppelin", link:'doc_scripts/spooni/spooni_zeppelin' },
+              { text: "🚁 Zeppelin", link:'doc_scripts/spooni/spooni_zeppelin' },
 
               // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
               { text: "Free Scripts", collapsed: true, items:[

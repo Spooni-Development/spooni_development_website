@@ -13,7 +13,7 @@ spooni_showtime works Standalone.
 
 To install spooni_showtime:
 - Download the resource
-  - On [Github](https://github.com/Spooni-Development/spooni_showtime)
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `spooni_showtime`
 - Add this ensure in your server.cfg

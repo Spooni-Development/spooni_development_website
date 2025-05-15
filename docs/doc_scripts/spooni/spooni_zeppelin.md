@@ -1,4 +1,4 @@
-# ✈️ Zeppelin
+# 🚁 Zeppelin
 Documentation relating to the spooni_zeppelin.
 
 :::tabs
@@ -13,7 +13,7 @@ spooni_zeppelin works Standalone.
 
 To install spooni_zeppelin:
 - Download the resource
-  - On [Github](https://github.com/Spooni-Development/spooni_zeppelin)
+  - On [Cfx.re Portal](https://portal.cfx.re/)
 - Drag and drop the resource into your resources folder
   - `spooni_zeppelin`
 - Add this ensure in your server.cfg
