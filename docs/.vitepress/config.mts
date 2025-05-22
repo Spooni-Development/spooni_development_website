@@ -150,6 +150,7 @@ export default defineConfig({
             {text: "Blackwater", collapsed: true, items: [
               {text: "🔸Casino Ship", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_casino_ship'},
               {text: "🔸Church", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_church'},
+              {text: "🔸Fight Club", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_fight_club'},
               {text: "🔸Reborn 1", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_reborn'},
               {text: "🔸Wisdom Manor", link:'/doc_mappings/west-elizabeth/blackwater/spooni_bla_wisdom_manor'},
 
@@ -160,6 +161,7 @@ export default defineConfig({
               {text: "🔸Woodworker", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_woodworker'},
 
             ]},
+            {text: "🔸Krieger Ranch", link:'/doc_mappings/west-elizabeth/spooni_krieger_ranch'},
             {text: "🔸Lone Mule Stead", link:'/doc_mappings/west-elizabeth/spooni_lone_mule_stead'},
             {text: "🔸Manzanita Post", link:'/doc_mappings/west-elizabeth/spooni_manzanita_post'},
             {text: "🔸Pronghorn Ranch", link:'/doc_mappings/west-elizabeth/spooni_pronghorn_ranch'},
@@ -172,6 +174,7 @@ export default defineConfig({
             {text: "🔸Guarma", link:'/doc_mappings/other/spooni_guarma'},
             {text: "🔸Lodges East Pack", link:'/doc_mappings/other/spooni_lodges_east_pack'},
             {text: "🔸Lodges West Pack", link:'/doc_mappings/other/spooni_lodges_west_pack'},
+            {text: "🔸Railroad", link:'/doc_mappings/other/spooni_railroad'},
             {text: "🔸Secret Cellar", link:'/doc_mappings/other/spooni_secretcellar'},
           ]},
         
