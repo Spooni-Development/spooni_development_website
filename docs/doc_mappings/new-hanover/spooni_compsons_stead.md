@@ -23,8 +23,3 @@ To install spooni_compsons_stead:
 - At the end, restart the server
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
-
-## 2. For developers
-| Door                      | Doorhashes
-|---------------------------|----------------------------------------------------------------------------------|
-| Front Door                | `Coming Soon...`
