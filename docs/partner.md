@@ -371,6 +371,39 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1261049461103398943/a_53b39feb3beadec4d041c0bd0a02e74e.webp?size=128',
+            name: 'Whiskey Bend RP',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/sYXzRuUB6y' },
+            ]
+        },
+            {
+            avatar: 'https://cdn.discordapp.com/icons/1352718864580083752/2d3f204cb5a81d91c30fe597c9c832ba.webp?size=128',
+            name: 'Last Train County',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/8nNggdmg8J' },
+            ]
+        },
+            {
+            avatar: 'https://cdn.discordapp.com/icons/1189279090851725442/8469a9d4b1930c209b49f6b04a169030.webp?size=128',
+            name: 'GunSmoke Trails RP',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/PdzbFwJ9Mt' },
+            ]
+        },
+        // TIER I
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1357036506522583381/a_cbd91ec7350a4592f01c20f471e001e6.webp?size=128',
+            name: 'NOMAD ROLEPLAY',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/27T78WEyWh' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1308329282602274856/ef25d9234f28582cf715df2c018ee0ba.webp?size=128',
             name: 'Vengeful County',
             title: '📀 TIER II',
@@ -530,6 +563,14 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/californiaroleplay' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1357036506522583381/a_cbd91ec7350a4592f01c20f471e001e6.webp?size=128',
+            name: 'NOMAD ROLEPLAY',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/27T78WEyWh' },
             ]
         },
         {

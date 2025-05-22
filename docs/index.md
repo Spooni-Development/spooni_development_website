@@ -66,6 +66,14 @@ const sponsors = [
     ]
   },
   {
+    avatar: 'https://cdn.discordapp.com/icons/921617122055049216/a_abd162f2c3887cf8264912c8c1803d78.webp?size=128',
+    name: 'Syn County',
+    title: 'RDR2 Roleplay',
+    links: [
+        { icon: 'discord', link: 'https://discord.gg/syncounty' },
+    ]
+  },
+  {
     avatar: 'https://cdn.discordapp.com/icons/1070353246121623594/1c6f3b5fe4b80955a8d43824b057d820.webp?size=128',
     name: 'The Last Days',
     title: 'RDR2 Survial Roleplay',
