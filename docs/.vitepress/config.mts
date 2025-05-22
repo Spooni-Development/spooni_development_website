@@ -134,6 +134,7 @@ export default defineConfig({
 
             ]},
             {text: "🔸Bacchus Station", link:'/doc_mappings/new-hanover/spooni_bacchus_station'},
+            {text: "🔸Compsons Stead", link:'/doc_mappings/new-hanover/spooni_compsons_stead'},
             {text: "🔸Cumberland Crest", link:'/doc_mappings/new-hanover/spooni_cumberland_crest'},
             {text: "🔸Dewberry Creek", link:'/doc_mappings/new-hanover/spooni_dewberry_creek'},
             {text: "🔸Emerald Ranch", link:'/doc_mappings/new-hanover/spooni_emerald_ranch'},
