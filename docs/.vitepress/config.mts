@@ -111,6 +111,7 @@ export default defineConfig({
             {text: "🔸Cholla Springs Alchemist", link:'/doc_mappings/new-austin/spooni_cho_alchemist'},
             {text: "🔸Desert Edge Ranch", link:'/doc_mappings/new-austin/spooni_desert_edge_ranch'},
             {text: "🔸Fort Mercer", link:'/doc_mappings/new-austin/spooni_fort_mercer'},
+            {text: "🔸Fort Oasis", link:'/doc_mappings/new-austin/spooni_fort_oasis'},
             {text: "🔸MacFarlane's Ranch", link:'/doc_mappings/new-austin/spooni_mac_farlanes_ranch'},
             {text: "🔸Rathskeller Fork 2", link:'/doc_mappings/new-austin/spooni_rathskeller_fork2'},
             {text: "🔸Ridgewood Farm", link:'/doc_mappings/new-austin/spooni_ridgewood_farm'},
@@ -156,6 +157,7 @@ export default defineConfig({
 
             ]},
             {text: "Strawberry", collapsed: true, items: [
+              {text: "🔸Doctor", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_doc'},
               {text: "🔸Gunsmith", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_gunsmith'},
               {text: "🔸Stable", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_stable'},
               {text: "🔸Woodworker", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_woodworker'},
@@ -203,6 +205,11 @@ export default defineConfig({
                 { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
                 { text: "🛞 Vehicle Loader", link:'doc_scripts/spooni/spooni_vehicle_loader' },
               ]},
+            ]},
+
+            { text: "Dietrich", collapsed: true, items:[
+              { text: "🤠 Character Background", link:'doc_scripts/dietrich/spooni_character_backgrounds' },
+              { text: "🔫 Weapon Controller", link:'doc_scripts/dietrich/spooni_weapon_controller' },
             ]},
 
             { text: "DrShwaggins", collapsed: true, items:[

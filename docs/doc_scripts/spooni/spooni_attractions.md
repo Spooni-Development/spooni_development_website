@@ -30,6 +30,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 
 ## 2. Usage
 With the Carousel & Swing Ride, players can enjoy a fun ride, whether on elegantly spinning horses or soaring through the air on a swing
+
 ## 3. For developers
 
 :::details Carrousel Config.lua
