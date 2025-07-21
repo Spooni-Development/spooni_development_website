@@ -157,6 +157,7 @@ export default defineConfig({
 
             ]},
             {text: "Strawberry", collapsed: true, items: [
+              {text: "🔸Bakery", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_bakery'},
               {text: "🔸Doctor", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_doc'},
               {text: "🔸Gunsmith", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_gunsmith'},
               {text: "🔸Stable", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_stable'},
