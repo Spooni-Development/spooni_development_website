@@ -72,6 +72,7 @@ export default defineConfig({
               {text: "🔸Cart + Woodworker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_cart_woodworker'},              
               {text: "🔸Church", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_church'},
               {text: "🔸Courthouse", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_courthouse'},
+              {text: "🔸Doctor", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_doctor'},
               {text: "🔸Farming", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_farming'},
               {text: "🔸Fight Club", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_fight_club'},
               // {text: "🔸Furniture", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_furniture'},
@@ -210,7 +211,10 @@ export default defineConfig({
 
             { text: "Dietrich", collapsed: true, items:[
               { text: "🤠 Character Background", link:'doc_scripts/dietrich/spooni_character_backgrounds' },
+              { text: "👥 Ped Manager", link:'doc_scripts/dietrich/spooni_ped_manager' },
+              { text: "📈 Stockmarket", link:'doc_scripts/dietrich/spooni_stockmarket' },
               { text: "🔫 Weapon Controller", link:'doc_scripts/dietrich/spooni_weapon_controller' },
+              { text: "🐎 Wildhorse", link:'doc_scripts/dietrich/spooni_wildhorse' },
             ]},
 
             { text: "DrShwaggins", collapsed: true, items:[
