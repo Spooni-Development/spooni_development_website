@@ -46,7 +46,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/158243778895937536/66b021ea78201c1b4554faf1c50f297b.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/158243778895937536/avatars/82f1f67162524a5ffd92b60f26cf7060.webp?size=128',
             name: 'Mike',
             title: '3D Artist',
             links: [
@@ -54,7 +54,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.svg',
+            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/1033065913219555358/avatars/233a7bf22ccf99a8e989833be2ed6023.webp?size=128',
             name: 'Howard',
             title: '3D Artist',
             links: [
@@ -67,6 +67,38 @@ sidebar: false
             title: 'Junior 3D Artist',
             links: [
                 { icon: 'discord', link: 'https://discordapp.com/users/335141940561575936/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/432593791157927938/73b34763fe7045b8335c8cf5d6963940.webp?size=128',
+            name: 'Monokuma',
+            title: 'Junior 3D Artist',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/432593791157927938/' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/358249807640264706/c4daa0c880db1818d316a378b5b3b036.webp?size=128',
+            name: 'Karol Klaput',
+            title: 'Junior 3D Artist ',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/358249807640264706' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/219478609461641216/df96c0febb41e7d46c0bb911e0edc443.png?size=128',
+            name: 'Konzi',
+            title: 'Junior 3D Artist',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/219478609461641216' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/265522080945012746/2ee492b946fa6c820d37400a7128a2fd.webp?size=128',
+            name: 'W1nterFresh',
+            title: 'Junior 3D Artist',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/265522080945012746' },
             ]
         },
     ]
@@ -128,7 +160,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/198670591820038144/a_36db571f7e2aaa45aa64a86dda8229cb.gif?size=128',
+            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/198670591820038144/avatars/a_2b108327e02c43bf09ee9989a0de1985.webp?size=128',
             name: 'Dotster',
             title: 'Mapper',
             links: [
@@ -142,17 +174,9 @@ sidebar: false
             links: [
                 { icon: 'discord', link: 'https://discordapp.com/users/648954858505764866/' },
             ]
-        },     
+        },      
         {
-            avatar: 'https://cdn.discordapp.com/avatars/432593791157927938/73b34763fe7045b8335c8cf5d6963940.webp?size=128',
-            name: 'Monokuma',
-            title: 'Mapper',
-            links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/432593791157927938/' },
-            ]
-        }, 
-        {
-            avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/a_11981429cffec973fb48b25208ebf1b0.gif?size=128',
+            avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/33cf2028ab3836ee70260fdda0652ae0.webp?size=128',
             name: 'amnesia69',
             title: 'Mapper',
             links: [
@@ -191,6 +215,129 @@ sidebar: false
                 { icon: 'discord', link: 'https://discordapp.com/users/106866103539523584/' },
             ]
         },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/768581098921787412/f3ead454fa9073a2fae0674b6cfb0fa1.webp?size=128',
+            name: 'xopotsiexo',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/768581098921787412' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/232058260809711617/avatars/1de171a57bca420d7907a17905ae0f57.webp?size=128',
+            name: 'Fae',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/232058260809711617' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/816093413190664215/1217eb756d5fa5900debb6069ccbfe0a.webp?size=128',
+            name: 'Dutch',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/816093413190664215' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/623218499501686825/1891ce8f92c6e93c99103a83d6eca6e3.webp?size=128',
+            name: 'Ben',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/623218499501686825' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/522488409139314699/062b09b5e7ff7a768c5bfa343b038b5b.webp?size=128',
+            name: 'Cherri',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/522488409139314699' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/299984478762434561/8fdeb725ffd187ce6ef0fc6f87f6fdaa.webp?size=128',
+            name: 'D2Dfe',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/299984478762434561' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/514809975734927361/3ed968bb68d981591aa5b47df1584ea5.webp?size=128',
+            name: '𝐇𝐄𝐈𝐊𝐊𝐈',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/514809975734927361' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/287651757142835200/5b83b90bd0b4ea6a39d6415e498484ea.webp?size=128',
+            name: 'Kate',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/287651757142835200' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/125306329152618496/459744a853cf256c5bd6d3be5f7c929c.webp?size=128',
+            name: 'Katsuru',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/125306329152618496' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/576507448865718293/4c2975e5e6a2a4dfd7a869b7b6e3237b.webp?size=128',
+            name: 'Konrad',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/576507448865718293' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/205782927508897792/53fb35c92b2103a3b207b1bc8f2f07de.webp?size=128',
+            name: 'MissGhouls',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/205782927508897792' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/726473544522924032/9c661c5bf954502b46fd92f8863a5a8d.webp?size=128',
+            name: 'Muvvabear',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/726473544522924032' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/237969728239435776/05bc190368586b6c3b1d23dd45efa9ab.webp?size=80',
+            name: 'Ohozelot | Céline',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/237969728239435776' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/103db2fe2c05c535c26c189eb5af533f.webp?size=128',
+            name: 'Sprudeli',
+            title: 'Mapper',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/404260740275503105' },
+            ]
+        },
+    ]
+
+    const socialmedia = [
+        {
+            avatar: 'https://cdn.discordapp.com/avatars/1086682188587729037/07e9a1764304e488c646060d0aa560ea.webp?size=128',
+            name: 'Sunny',
+            title: 'Social Media',
+            links: [
+                { icon: 'discord', link: 'discord.com/users/1086682188587729037' },
+            ]
+        },
     ]
 </script>
 
@@ -221,5 +368,10 @@ sidebar: false
     <VPTeamPageSection>
         <template #title>Mapper</template>
         <template #members><VPTeamMembers size="small" :members="mapper" /></template>
+    </VPTeamPageSection>
+    <!-- Social Media -->
+    <VPTeamPageSection>
+        <template #title>Social Media</template>
+        <template #members><VPTeamMembers size="small" :members="socialmedia" /></template>
     </VPTeamPageSection>
 </VPTeamPage>

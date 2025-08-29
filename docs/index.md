@@ -90,19 +90,19 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/183cf88a13fc4739fa4097850ae88cc4.webp?size=128',
-    name: 'Babylon 1918',
+    avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/50a85eb02391cfc1f18a95c88d783a1d.png?size=128',
+    name: 'Projekt Babylon',
     title: 'RDR2 Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/UKDZ5euhd5' },
+        { icon: 'discord', link: 'https://discord.gg/At2xvpDtK7' },
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1143862512937336933/99dec736bccbd1b0902d8f613eec5075.webp?size=128',
+    avatar: 'https://cdn.discordapp.com/icons/1143862512937336933/99dec736bccbd1b0902d8f613eec5075.png?size=128',
     name: 'Golden Plains',
     title: 'RDR2 Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/MFnB9BDcYP' },
+        { icon: 'discord', link: 'https://discord.gg/tPHPT3fzev' },
     ]
   },
   {
@@ -114,11 +114,11 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/939204524466393149/dafafab983a9061e4bc87a1dd263e188.webp?size=128',
+    avatar: 'https://cdn.discordapp.com/icons/939204524466393149/e84c689605cdfc7d3bf41b616539a836.png?size=128',
     name: 'Misty Mountain',
     title: 'RDR2 Roleplay',
     links: [
-        { icon: 'discord', link: 'https://discord.gg/8Azu5NGUGn' },
+        { icon: 'discord', link: 'https://discord.gg/misty' },
     ]
   },
   {
@@ -127,14 +127,6 @@ const sponsors = [
     title: 'RDR2 Roleplay',
     links: [
         { icon: 'discord', link: 'https://discord.gg/la-hermandad-roleplay-613827325225861130' },
-    ]
-  },
-  {
-      avatar: 'https://cdn.discordapp.com/icons/1217371173319348266/84f97ee9178d0d52d354d9adb670be1f.webp?size=128',
-    name: 'Spirit Frontier 1899',
-    title: 'RDR2 Roleplay',
-    links: [
-        { icon: 'discord', link: 'https://discord.gg/4mfa4JdKcA' },
     ]
   },
 ]

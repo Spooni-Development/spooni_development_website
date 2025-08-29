@@ -141,6 +141,14 @@ sidebar: false
                 { icon: 'discord', link: 'https://discord.gg/ziomark' },
             ]
         },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1218685129279406111/8ed1addec867face1dfec9d629389fae.png?size=128',
+            name: "Murphy's Workshop",
+            // title: '🔧' ,
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/9Xm4qfAT8F' },
+            ]
+        },
     ]
 
     const server = [
@@ -299,11 +307,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/792204426659495967/7b72b2069d5fc90e4e1427a4c63e90fe.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/792204426659495967/406885e0efc326ff8120e5c44b62c030.png?size=128',
             name: 'Monarch RP',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/M3zg2DpqXW' },
+                { icon: 'discord', link: 'https://discord.gg/TntexapPDd' },
             ]
         },
         {
@@ -555,6 +563,30 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/sPJzSNaced' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1173352823010885662/bc22fd63e589525f91b2f6178ea957e8.png?size=128',
+            name: 'OMNIA 1900',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/V8wngmGxRJ' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1366429080500699146/3ab0266506e51a0ef5c046305bf4b178.png?size=128',
+            name: 'Red Country',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/8MhhfQGvBX' },
+            ]
+        },
+            {
+            avatar: 'https://cdn.discordapp.com/icons/1346962658611429416/9558913f9074e6a2386714c802df71e6.png?size=128',
+            name: 'Hot Colts Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/WNjHATubfy' },
             ]
         },
         {
