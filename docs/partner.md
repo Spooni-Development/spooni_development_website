@@ -566,6 +566,30 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1408781893939368051/c5c48c0eefbcb55a1aa40273a4275f74.png?size=128&quality=lossless',
+            name: 'BLACKTHORN RP',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/KRPGx7bTFz' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1366453347665711216/a_2f9befc733fc2c987019d20a644fa105.png?size=128&quality=lossless',
+            name: 'Stagecoach RP',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/stagecoachrp' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1366943320361930773/c3bf51b4fea1f06a22dc7bd399b20a8d.png?size=128&quality=lossless',
+            name: 'Rapid Falls Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/rapidfalls' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1173352823010885662/bc22fd63e589525f91b2f6178ea957e8.png?size=128',
             name: 'OMNIA 1900',
             title: '💿 TIER I',
