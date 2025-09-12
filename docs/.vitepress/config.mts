@@ -171,6 +171,7 @@ export default defineConfig({
               {text: "🔸Bakery", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_bakery'},
               {text: "🔸Doctor", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_doc'},
               {text: "🔸Gunsmith", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_gunsmith'},
+              {text: "🔸Log Cabin", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_log_cabin'},
               {text: "🔸Stable", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_stable'},
               {text: "🔸Woodworker", link:'/doc_mappings/west-elizabeth/strawberry/spooni_straw_woodworker'},
 
