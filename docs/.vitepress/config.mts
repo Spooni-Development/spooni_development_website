@@ -115,6 +115,7 @@ export default defineConfig({
             ]},
             {text: "Tumbleweed", collapsed: true, items: [
               {text: "🔸Church", link:'/doc_mappings/new-austin/tumbleweed/spooni_tum_church'},
+              {text: "🔸Train Station", link:'/doc_mappings/new-austin/tumbleweed/spooni_tum_trainstation'},
             ]},
             {text: "🔸Aspen Lodge", link:'/doc_mappings/new-austin/spooni_aspen_lodge'},
             {text: "🔸Buckshot Bend", link:'/doc_mappings/new-austin/spooni_buckshot_bend'},

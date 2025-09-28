@@ -66,6 +66,14 @@ const sponsors = [
     ]
   },
   {
+      avatar: 'https://cdn.discordapp.com/icons/1414965986364489801/82bbec9e232846b4d80f3579d7d83fe4.png?size=128&quality=lossless',
+      name: 'Legends - RP',
+      title: 'RDR2 Roleplay',
+      links: [
+          { icon: 'discord', link: 'https://discord.gg/Gu78WcGh7V' },
+      ]
+  },
+  {
     avatar: 'https://cdn.discordapp.com/icons/921617122055049216/a_abd162f2c3887cf8264912c8c1803d78.webp?size=128',
     name: 'Syn County',
     title: 'RDR2 Roleplay',

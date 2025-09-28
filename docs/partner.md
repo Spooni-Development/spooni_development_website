@@ -574,6 +574,38 @@ sidebar: false
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1292246904880758856/a_344a57923cd2b884f38215e50e3d1ec1.png?size=128&quality=lossless',
+            name: 'Ghost Town Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/TATA6ZTWMn' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1412536959729139722/ef47d56deec62b61a262fa2ba64d23a3.png?size=128&quality=lossless',
+            name: 'Cochise County RP',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/UvEYFrmVqf' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/719905780282818651/b09ce90e83f122ee9e5a21d01ef04ac5.png?size=128&quality=lossless',
+            name: 'Ley Salvaje',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/GTNmJJWfbw' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1404446901188956280/a_31f1b67e1258c0c1957825d0f4152da4.png?size=128&quality=lossless',
+            name: 'Hangmans Honeys',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/hangmanshoneys' },
+            ]
+        },
+        {
             avatar: 'https://cdn.discordapp.com/icons/1366453347665711216/a_2f9befc733fc2c987019d20a644fa105.png?size=128&quality=lossless',
             name: 'Stagecoach RP',
             title: '💿 TIER I',
