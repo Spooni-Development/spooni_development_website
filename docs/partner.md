@@ -574,7 +574,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1412536959729139722/ef47d56deec62b61a262fa2ba64d23a3.png?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1412536959729139722/a_535282b15eddef50cbb2b13ba8f2df9e.png?size=128',
             name: 'Cochise County RP',
             title: '💿 TIER I',
             links: [
