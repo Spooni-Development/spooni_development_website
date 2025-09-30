@@ -62,11 +62,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/d8562aa500b4fb01423ac5abdc3d2e1a.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/e07cb18ebe128b52ad66bb91144c5ba8.png?size=128',
             name: 'Fixitfy',
             // title: '🔧' ,
             links: [
-                { icon: 'discord', link: 'https://discord.gg/srrmCQ58WP' },
+                { icon: 'discord', link: 'https://discord.gg/M6ag2JBzDH' },
             ]
         },
         {
@@ -227,11 +227,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/953054569959669781/a_78103702a5973d0af64cb9b0942ef21d.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/953054569959669781/9a31adf386ddc1fbf5dee5a3bf17d64c.png?size=128',
             name: 'Western Legends',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/westernlegends' },
+                { icon: 'discord', link: 'https://discord.gg/n7Y7YhP6gx' },
             ]
         },
         {
@@ -251,7 +251,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1051237554533445692/914d49dbe587b0f5f6f3ddcf49ae4088.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1051237554533445692/ea9ae82bb95d547f5d1ceb367c015a03.png?size=128',
             name: 'Lucky Valley',
             title: '📀 TIER II',
             links: [
@@ -304,14 +304,6 @@ sidebar: false
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/QzrCQphAv8' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/792204426659495967/406885e0efc326ff8120e5c44b62c030.png?size=128',
-            name: 'Monarch RP',
-            title: '📀 TIER II',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/TntexapPDd' },
             ]
         },
         {
@@ -371,11 +363,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1139609447480688733/a6161c135416386a4032fea4d70573d9.png?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/1139609447480688733/8bd546417dd6a3f0d7d3539c222d2ecd.png?size=128',
             name: 'Legendary Roleplay',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/legendaryrp' },
+                { icon: 'discord', link: 'https://discord.gg/legendary-roleplay-1139609447480688733' },
             ]
         },
         {
@@ -494,11 +486,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1208456421855731752/a_2c45f7e218b544806912331489f6c038.png?size=128',
-            name: 'Syntax Roleplay 1899',
+            avatar: 'https://cdn.discordapp.com/icons/1208456421855731752/3f5f6a210a0c0d2d4871896273d9dbe4.png?size=128',
+            name: 'Bloodlines Roleplay', 
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/KTtaEvKKZw' },
+                { icon: 'discord', link: 'https://discord.com/invite/KTtaEvKKZw' },
             ]
         },
         {
@@ -550,13 +542,13 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1116011983486062692/33b3db05278885c78b7d70d07f8035a6.webp?size=128',
-            name: 'Our Lands',
+            avatar: 'https://cdn.discordapp.com/icons/1116011983486062692/4b444f3c925f52f448d343d60ad1536f.png?size=128',
+            name: 'Ashen Frontier', // vorher Our Lands
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/a78YUPzcrt' },
+                { icon: 'discord', link: 'https://discord.com/invite/a78YUPzcrt' },
             ]
-        },    
+        },   
         {
             avatar: 'https://cdn.discordapp.com/icons/1146917669564592329/0bc2431e6a85f25593894b2006dfb816.webp?size=128',
             name: 'Westlands RP',
@@ -566,7 +558,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1408781893939368051/c5c48c0eefbcb55a1aa40273a4275f74.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/1408781893939368051/acbb0c47c85d24ff61e141ba5618eb82.png?size=128',
             name: 'BLACKTHORN RP',
             title: '💿 TIER I',
             links: [
@@ -574,7 +566,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1292246904880758856/a_344a57923cd2b884f38215e50e3d1ec1.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/1292246904880758856/a_344a57923cd2b884f38215e50e3d1ec1.png?size=128',
             name: 'Ghost Town Roleplay',
             title: '💿 TIER I',
             links: [
@@ -582,7 +574,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1412536959729139722/ef47d56deec62b61a262fa2ba64d23a3.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/1412536959729139722/ef47d56deec62b61a262fa2ba64d23a3.png?size=128',
             name: 'Cochise County RP',
             title: '💿 TIER I',
             links: [
@@ -590,7 +582,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/719905780282818651/b09ce90e83f122ee9e5a21d01ef04ac5.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/719905780282818651/b09ce90e83f122ee9e5a21d01ef04ac5.png?size=128',
             name: 'Ley Salvaje',
             title: '💿 TIER I',
             links: [
@@ -598,7 +590,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1404446901188956280/a_31f1b67e1258c0c1957825d0f4152da4.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/1404446901188956280/a_31f1b67e1258c0c1957825d0f4152da4.png?size=128',
             name: 'Hangmans Honeys',
             title: '💿 TIER I',
             links: [
@@ -606,7 +598,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1366453347665711216/a_2f9befc733fc2c987019d20a644fa105.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/1366453347665711216/a_2f9befc733fc2c987019d20a644fa105.png?size=128',
             name: 'Stagecoach RP',
             title: '💿 TIER I',
             links: [
@@ -614,7 +606,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1366943320361930773/c3bf51b4fea1f06a22dc7bd399b20a8d.png?size=128&quality=lossless',
+            avatar: 'https://cdn.discordapp.com/icons/1366943320361930773/c3bf51b4fea1f06a22dc7bd399b20a8d.png?size=128',
             name: 'Rapid Falls Roleplay',
             title: '💿 TIER I',
             links: [
@@ -662,11 +654,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/745430187365236738/878a85603b6614295ccb3bd2eed43bd3.png?size=128',
+            avatar: 'https://cdn.discordapp.com/icons/745430187365236738/13123d526f2ff33f61c8bf51716d80e4.png?size=128',
             name: 'neue Welt',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/JQET9nXuqV' },
+                { icon: 'discord', link: 'https://discord.gg/WZkERVe6Jx' },
             ]
         },
         {
@@ -695,7 +687,7 @@ sidebar: false
         },
         {
             avatar: 'https://cdn.discordapp.com/icons/1239277223568216134/cac0b1920bd968479ae73d7618da03f0.png?size=128',
-            name: '𝐖𝐈𝐋𝐃 𝐋𝐀𝐍𝐃𝐒',
+            name: 'Wild Lands',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/wildlandsita' },
@@ -710,11 +702,11 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1335708661674410074/a_c5120223edd701385babcffb2eda1943.png?size=128',
-            name: '𝕆𝕃𝔻𝕃𝕀𝔽𝔼',
+            avatar: 'https://cdn.discordapp.com/icons/1368213758723494048/a_5229e2bb95fb8c1ec40346d6df67f3c7.png?size=128',
+            name: 'Oldlife',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/9ajTaAbKu5' },
+                { icon: 'discord', link: 'https://discord.com/invite/9ajTaAbKu5' },
             ]
         },
         {
@@ -771,14 +763,6 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/yb-rp' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/1196012895251734580/c6ed810896da68b7ec2cd3568641f3d7.webp?size=128',
-            name: 'Little Creek',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/littlecreek' },
             ]
         },
     ]
