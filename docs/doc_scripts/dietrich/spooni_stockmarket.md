@@ -2,10 +2,10 @@
 Documentation relating to the spooni_stockmarket.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFGGdoAU7bU?si=SIPcDGngWJQzTMNq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://tebex.dietrich-development.com//package/6955285?basket=cnzri3-60bbee153696f561e0e0d4de10d5667e42d0c521)
+
+<a href="https://tebex.dietrich-development.com//package/6955285?basket=cnzri3-60bbee153696f561e0e0d4de10d5667e42d0c521" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

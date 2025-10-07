@@ -1,12 +1,12 @@
 # 💾 dl_dbbackup
-Documentation relating to the [dl_dbbackup](https://drshwaggins-scripts.tebex.io/package/5986293).
+Documentation relating to the dl_dbbackup.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/d13175ec053e5ff7902ddb1a2c5ce57c40c48cd1.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-== BUY
-[Buy the script](https://drshwaggins-scripts.tebex.io/package/5986293)
+
+<a href="https://drshwaggins-scripts.tebex.io/package/5986293" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

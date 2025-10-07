@@ -2,10 +2,10 @@
 Documentation relating to the spooni_prop_loader.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H83ZO_y2hdU?si=QoFrjKJwYYfuGScf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://spooni-mapping.tebex.io/package/6284606)
+
+<a href="https://spooni-mapping.tebex.io/package/6284606" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

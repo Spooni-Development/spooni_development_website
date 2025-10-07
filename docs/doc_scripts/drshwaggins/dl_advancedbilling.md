@@ -3,8 +3,8 @@ Documentation relating to the dl_advancedbilling.
 
 == PREVIEW
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZkblpaxLME?si=NM_dwxeY-ej6gDz9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://drshwaggins-scripts.tebex.io/package/5676792)
+
+<a href="https://drshwaggins-scripts.tebex.io/package/5676792" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

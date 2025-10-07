@@ -2,11 +2,10 @@
 Documentation relating to the dl_lumberjack.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSiBfxjrBjs?si=_H4254fWmP09RNCp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://drshwaggins-scripts.tebex.io/package/6048168)
-:::
+
+<a href="https://drshwaggins-scripts.tebex.io/package/6048168" class="button-buy">🛒 Buy Now</a>
 
 ## 1. Installation
 dl_lumberjack works only with VORP, RSG & RedEM:RP 

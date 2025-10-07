@@ -2,10 +2,10 @@
 Documentation relating to the dl_farmroutes.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9e5bc4cd8c9f86ae0a601e1b8f382bb02277198a.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://drshwaggins-scripts.tebex.io/package/5783283)
+
+<a href="https://drshwaggins-scripts.tebex.io/package/5783283" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

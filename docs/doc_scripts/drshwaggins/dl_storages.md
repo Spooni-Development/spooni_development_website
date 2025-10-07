@@ -1,11 +1,11 @@
 # 📦 dl_storages
-Documentation relating to the [dl_storages](https://drshwaggins-scripts.tebex.io/package/5855834).
+Documentation relating to the dl_storages.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JjLrjQpgcGM?si=AswNDJAGUQduWLI1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://drshwaggins-scripts.tebex.io/package/5855834)
+
+<a href="https://drshwaggins-scripts.tebex.io/package/5855834" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

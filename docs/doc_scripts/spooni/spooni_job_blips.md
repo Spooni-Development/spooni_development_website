@@ -2,8 +2,8 @@
 Documentation relating to the spooni_job_blips.
 
 :::tabs
-== DOWNLOAD
-[Download the script](https://github.com/Spooni-Development/spooni_job_blips)
+== INFO
+<a href="https://github.com/Spooni-Development/spooni_job_blips" class="button-buy">⬇️ Download Now</a>
 :::
 
 ## 1. Installation

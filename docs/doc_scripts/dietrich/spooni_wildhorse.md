@@ -2,10 +2,10 @@
 Documentation relating to the spooni_wildhorse.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/537d86380a2184ff2a744bafc0db5dbd811bcc54.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://tebex.dietrich-development.com//package/6961300?basket=codikp-a5bb6f04b2ae1a89c8627950cd944742fa7b8842)
+
+<a href="https://tebex.dietrich-development.com//package/6961300?basket=codikp-a5bb6f04b2ae1a89c8627950cd944742fa7b8842" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

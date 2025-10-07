@@ -2,10 +2,10 @@
 Documentation relating to the spooni_prop_placer.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/b013869f979af86e1e4dd07f5ed3db6478b86197.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://tebex.dietrich-development.com//package/6980458?basket=cp46rq-78029a7dfdffea7bc04eb202b9f9ae15af313da0)
+
+<a href="https://tebex.dietrich-development.com//package/6980458?basket=cp46rq-78029a7dfdffea7bc04eb202b9f9ae15af313da0" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation

@@ -2,8 +2,8 @@
 Documentation relating to the spooni_vehicle_loader.
 
 :::tabs
-== DOWNLOAD
-[Download the script](https://github.com/Spooni-Development/spooni_vehicle_loader)
+== INFO
+<a href="https://github.com/Spooni-Development/spooni_vehicle_loader" class="button-buy">⬇️ Download Now</a>
 :::
 
 ## 1. Installation

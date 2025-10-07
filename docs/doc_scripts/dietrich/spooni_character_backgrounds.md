@@ -2,10 +2,10 @@
 Documentation relating to the spooni_character_backgrounds.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/8b9064685749ed979722caa88372a887c5ced559.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the script](https://tebex.dietrich-development.com//package/6922033?basket=cmukmd-bd8c89a4e16af2c22654ed1542f0eae5790e5c51)
+
+<a href="https://tebex.dietrich-development.com//package/6922033?basket=cmukmd-bd8c89a4e16af2c22654ed1542f0eae5790e5c51" class="button-buy">🛒 Buy Now</a>
 :::
 
 ## 1. Installation
