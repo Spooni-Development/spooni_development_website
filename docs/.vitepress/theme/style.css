@@ -75,21 +75,24 @@ max-width: 300px !important;
 .aside-container { 
 width: fit-content !important;
 }
+
+/* Scrollbar */
+html {
+  scroll-behavior: smooth;
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
 ::-webkit-scrollbar {
-  width: 12px;        
+  width: 12px;
 }
-::-webkit-scrollbar-track {
-  background: #1B1B1F;     
-}
-::-webkit-scrollbar-thumb {
-  background-color: #2E2E32; 
-  border-radius: 10px;     
-  border: 3px solid #1B1B1F; 
-}
+
 /* titles in orange */
 .vp-doc h1, h1 { 
   color: #f25c05 !important;
 }
+
 /* features icons in hero section */
 /* .icon { 
   background-color: transparent !important;
@@ -101,18 +104,12 @@ width: fit-content !important;
   border-color: rgba(240, 91, 5, 0.75) !important;
   border-radius: 15px;
 } */
+
 /* on homepage */
 .center-arrow { 
   display: flex;
   justify-content: center;
   margin-top: 2rem;
-}
-html {
-  scroll-behavior: smooth;
-}
-* {
-  scrollbar-width: thin; 
-  scrollbar-color: #2E2E32 #1B1B1F;
 }
 .responsive-video { 
   position: relative;
