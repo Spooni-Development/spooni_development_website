@@ -72,6 +72,7 @@ export default defineConfig({
               {text: "🔸Church", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_church'},
               {text: "🔸Doctor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_doctor'},
               {text: "🔸Ranch", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_ranch'},
+              {text: "🔸Saloon Cellar", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_saloon_cellar'},
               {text: "🔸Tailor", link:'/doc_mappings/lemoyne/rhodes/spooni_rho_tailor'},
             ]},
             {text: "St. Denis", collapsed: true, items: [
