@@ -2,13 +2,13 @@
 Documentation relating to the spooni_bla_reborn.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-gk6OjztGM?si=UWfILufwXN8jJNUr" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKRhQM-tsvQ?si=BLmolahrj2y3CB2-" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/5741069)
+<a href="https://spooni-mapping.tebex.io/package/5741069" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house64" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

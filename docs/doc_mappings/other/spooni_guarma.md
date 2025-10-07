@@ -4,10 +4,11 @@ Documentation relating to the spooni_guarma.
 <Badge type="warning" text="This project was acquired on a commission basis exclusively for one year until 1st October 2025 from Spooni Development and is not for sale during this period. It is for information purposes only." />
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/)
+
+<a href="https://spooni-mapping.tebex.io/package/TEBEXIDHERE" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

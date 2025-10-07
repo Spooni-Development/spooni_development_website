@@ -2,10 +2,11 @@
 Documentation relating to the spooni_rho_caravan.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y5oNVJU6xHY?si=2YHsJpnmza5r47yX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6380772)
+
+<a href="https://spooni-mapping.tebex.io/package/6380772" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house80" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

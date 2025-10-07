@@ -2,10 +2,11 @@
 Documentation relating to the spooni_hagen_orchards.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/1ef7c0178c5bbc69072da77265db98e1642a15cd.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6451969)
+
+<a href="https://spooni-mapping.tebex.io/package/6451969" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house82" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

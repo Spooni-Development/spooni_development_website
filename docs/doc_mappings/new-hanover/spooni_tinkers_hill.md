@@ -2,10 +2,11 @@
 Documentation relating to the spooni_tinkers_hill.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/5a07236f4235d5131ce819ac1123fe8577ba84a3.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6481963)
+
+<a href="https://spooni-mapping.tebex.io/package/6481963" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house163" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

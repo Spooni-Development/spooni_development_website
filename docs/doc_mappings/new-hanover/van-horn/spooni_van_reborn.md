@@ -2,10 +2,11 @@
 Documentation relating to the spooni_van_reborn.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDpeI21yN5A?si=lfS5c2phz0GK7B_9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6757596)
+
+<a href="https://spooni-mapping.tebex.io/package/6757596" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house185" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

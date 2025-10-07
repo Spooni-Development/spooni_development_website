@@ -2,10 +2,11 @@
 Documentation relating to the spooni_rho_doctor.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClTClTrNI0E?si=CnYShgu8vGSEfepU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6617641)
+
+<a href="https://spooni-mapping.tebex.io/package/6617641" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house15" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

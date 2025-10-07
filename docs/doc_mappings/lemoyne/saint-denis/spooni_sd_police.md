@@ -4,10 +4,11 @@ Documentation relating to the spooni_sd_police.
 <Badge type="warning" text="DISCLAIMER: This MLO is only an add-on to the existing St. Denis Police MLO from R*" />
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6548855)
+
+<a href="https://spooni-mapping.tebex.io/package/6548855" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house4" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

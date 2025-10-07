@@ -2,10 +2,11 @@
 Documentation relating to the spooni_cumberland_crest.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/9860265073ff3c58e8e332617b783cefc88fb07e.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6157355)
+
+<a href="https://spooni-mapping.tebex.io/package/6157355" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house151" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

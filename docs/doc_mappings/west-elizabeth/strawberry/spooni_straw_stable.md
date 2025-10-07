@@ -2,10 +2,11 @@
 Documentation relating to the spooni_straw_stable.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLIyc9dSlCs?si=-q6RNKnndIJulvMn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/5922186)
+
+<a href="https://spooni-mapping.tebex.io/package/5922186" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house70" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

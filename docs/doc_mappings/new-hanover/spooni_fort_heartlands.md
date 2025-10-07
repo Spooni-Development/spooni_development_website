@@ -2,10 +2,11 @@
 Documentation relating to the spooni_fort_heartlands.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WN6ke8-wQOw?si=7fS0njv9XWs-wYWf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6768920)
+
+<a href="https://spooni-mapping.tebex.io/package/6768920" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house203" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

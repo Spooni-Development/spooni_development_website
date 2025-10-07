@@ -1,11 +1,12 @@
-# 🏠 St. Denis Villa 2, 3 & 4
+# 🏠 St. Denis the Lap of Luxury 
 Documentation relating to the spooni_sd_villa_2_3_4.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mk3XBZIKpSg?si=LH_JDO6_Qk0TbdUW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6341677)
+
+<a href="https://spooni-mapping.tebex.io/package/6341677" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house13" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation

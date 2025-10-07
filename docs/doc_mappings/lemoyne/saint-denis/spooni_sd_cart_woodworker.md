@@ -1,11 +1,12 @@
-# 🏠 St. Denis Cart + Woodworker
+# 🏠 St. Denis Cart- & Woodworker
 Documentation relating to the spooni_sd_cart_woodworker.
 
 :::tabs
-== PREVIEW
+== INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lfxD-llns?si=DQtSRoZ6EQbsiiGU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-== BUY
-[Buy the mapping](https://spooni-mapping.tebex.io/package/6082121)
+
+<a href="https://spooni-mapping.tebex.io/package/6082121" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house36" class="button-map">📍 View on Map</a>
 :::
 
 ## 1. Installation
