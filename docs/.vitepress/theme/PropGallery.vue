@@ -11,7 +11,15 @@
           :class="{ active: selectedCategory === 'all' }"
           @click="selectCategory('all')"
         >
-          <span class="category-name">All Props</span>
+          <span class="category-name">
+            <svg class="all-props-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+            All Props
+          </span>
           <span class="category-count">{{ propData.length }}</span>
         </div>
 
@@ -22,7 +30,12 @@
             :class="{ active: selectedCategory === category.name && selectedSubcategory === 'all' }"
             @click="selectCategory(category.name)"
           >
-            <span class="category-name">{{ formatCategory(category.name) }}</span>
+            <span class="category-name">
+              <svg v-if="category.name === 'Spooni Props'" class="spooni-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+              </svg>
+              {{ formatCategory(category.name) }}
+            </span>
             <span class="category-count">{{ category.count }}</span>
           </div>
 
@@ -241,7 +254,13 @@ const categories = computed(() => {
         a.name.localeCompare(b.name)
       ),
     }))
-    .sort((a, b) => a.name.localeCompare(b.name));
+    .sort((a, b) => {
+      // Prioritize "Spooni Props" category
+      if (a.name === "Spooni Props") return -1;
+      if (b.name === "Spooni Props") return 1;
+      // Sort all other categories alphabetically
+      return a.name.localeCompare(b.name);
+    });
 });
 
 // Filtered props based on search query, category and subcategory
@@ -361,10 +380,11 @@ watch(filteredProps, () => {
 // Format category name
 function formatCategory(category) {
   if (!category) return '';
+  // First replace underscores with spaces
   return category
-    .split("_")
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
+    .replace(/_/g, ' ')
+    // Then capitalize the first letter of each word
+    .replace(/\b\w/g, char => char.toUpperCase());
 }
 
 // Copy to clipboard
@@ -538,7 +558,7 @@ onUnmounted(() => {
 .subcategory-item {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   padding: 0.75rem 1rem;
   cursor: pointer;
   border-radius: 6px;
@@ -601,11 +621,41 @@ onUnmounted(() => {
 .subcategory-name {
   flex: 1;
   min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
   margin-right: 0.75rem;
   transition: color 0.25s ease;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.4;
+}
+
+/* All Props Icon */
+.all-props-icon {
+  flex-shrink: 0;
+  margin-top: 0.125rem;
+  transition: all 0.25s ease;
+}
+
+.category-item:hover .all-props-icon,
+.category-item.active .all-props-icon {
+  transform: scale(1.1);
+}
+
+/* Spooni Props Icon */
+.spooni-icon {
+  flex-shrink: 0;
+  margin-top: 0.125rem;
+  color: #FFD700;
+  filter: drop-shadow(0 1px 2px rgba(255, 215, 0, 0.3));
+  transition: all 0.25s ease;
+}
+
+.category-item:hover .spooni-icon,
+.category-item.active .spooni-icon {
+  color: white;
+  filter: drop-shadow(0 2px 4px rgba(255, 255, 255, 0.5));
 }
 
 .category-count,
@@ -618,6 +668,8 @@ onUnmounted(() => {
   min-width: 28px;
   text-align: center;
   transition: all 0.25s ease;
+  align-self: flex-start;
+  margin-top: 0.1rem;
 }
 
 /* Subcategories Container */
