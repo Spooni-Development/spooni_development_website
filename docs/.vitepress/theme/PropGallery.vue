@@ -558,7 +558,7 @@ onUnmounted(() => {
 .subcategory-item {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   padding: 0.75rem 1rem;
   cursor: pointer;
   border-radius: 6px;
@@ -624,7 +624,7 @@ onUnmounted(() => {
   margin-right: 0.75rem;
   transition: color 0.25s ease;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 0.5rem;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -634,7 +634,6 @@ onUnmounted(() => {
 /* All Props Icon */
 .all-props-icon {
   flex-shrink: 0;
-  margin-top: 0.125rem;
   transition: all 0.25s ease;
 }
 
@@ -646,7 +645,6 @@ onUnmounted(() => {
 /* Spooni Props Icon */
 .spooni-icon {
   flex-shrink: 0;
-  margin-top: 0.125rem;
   color: #FFD700;
   filter: drop-shadow(0 1px 2px rgba(255, 215, 0, 0.3));
   transition: all 0.25s ease;
@@ -668,8 +666,6 @@ onUnmounted(() => {
   min-width: 28px;
   text-align: center;
   transition: all 0.25s ease;
-  align-self: flex-start;
-  margin-top: 0.1rem;
 }
 
 /* Subcategories Container */
