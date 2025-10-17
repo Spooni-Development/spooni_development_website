@@ -16,9 +16,9 @@ hero:
     - theme: alt
       text: Map
       link: https://spooni.de/rdr2/
-    - theme: alt
-      text: Props
-      link: https://spooni.de/props/
+    # - theme: alt
+    #   text: Props
+    #   link: https://spooni.de/props/
 features:
   - icon: ℹ️
     title: About us

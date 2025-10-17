@@ -12,6 +12,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@algolia/requester-node-http": "^5.15.0"
+    "@algolia/requester-node-http": "^5.15.0",
+    "medium-zoom": "^1.1.0"
   }
 }

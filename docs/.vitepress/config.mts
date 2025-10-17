@@ -38,13 +38,14 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Docs", link: "/docs" },
+      { text: "Props", link: "/props" },
       { text: "Team", link: "/team" },
       { text: "Partner", link: "/partner" },
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Spooni-Development' },
       { icon: 'discord', link: 'https://discord.gg/spooni' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@masterfighter2698' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@Spooni.Development' },
       { icon: 'instagram', link: 'https://www.instagram.com/spooni.development' },
       {         
         icon: {
