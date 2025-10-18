@@ -20,54 +20,56 @@
     
     <!-- Main Content -->
     <template v-else>
-      <PropSidebar
-        :categories="categories"
-        :selectedCategory="selectedCategory"
-        :selectedSubcategory="selectedSubcategory"
-        :totalPropsCount="propData.length"
-        @update:selectedCategory="selectedCategory = $event"
-        @update:selectedSubcategory="selectedSubcategory = $event"
-      />
-      
-      <main class="prop-main">
-        <h1 class="gallery-title">Props Gallery</h1>
-        
-        <PropSearch v-model="searchQuery" />
-        
-        <PropControls
-          :paginatedPropsLength="paginatedProps.length"
-          :filteredPropsLength="filteredProps.length"
-          :searchQuery="searchQuery"
+      <div class="gallery-content">
+        <PropSidebar
+          :categories="categories"
           :selectedCategory="selectedCategory"
           :selectedSubcategory="selectedSubcategory"
-          :itemsPerPage="itemsPerPage"
-          :columnsPerRow="columnsPerRow"
-          @update:itemsPerPage="itemsPerPage = $event"
-          @update:columnsPerRow="columnsPerRow = $event"
+          :totalPropsCount="propData.length"
+          @update:selectedCategory="selectedCategory = $event"
+          @update:selectedSubcategory="selectedSubcategory = $event"
         />
         
-        <PropGrid 
-          v-if="paginatedProps.length > 0" 
-          :paginatedProps="paginatedProps"
-          :columnsPerRow="columnsPerRow"
-        />
-        <PropEmptyState 
-          v-else 
-          :searchQuery="searchQuery" 
-        />
-        
-        <PropPagination
-          v-if="totalPages > 1"
-          :currentPage="currentPage"
-          :totalPages="totalPages"
-          :visiblePages="visiblePages"
-          @goToPage="goToPage"
-        />
-        
-        <div class="gallery-footer">
-          <p>Credits: Jump on Studios</p>
-        </div>
-      </main>
+        <main class="prop-main">
+          <h1 class="gallery-title">Props Gallery</h1>
+          
+          <PropSearch v-model="searchQuery" />
+          
+          <PropControls
+            :paginatedPropsLength="paginatedProps.length"
+            :filteredPropsLength="filteredProps.length"
+            :searchQuery="searchQuery"
+            :selectedCategory="selectedCategory"
+            :selectedSubcategory="selectedSubcategory"
+            :itemsPerPage="itemsPerPage"
+            :columnsPerRow="columnsPerRow"
+            @update:itemsPerPage="itemsPerPage = $event"
+            @update:columnsPerRow="columnsPerRow = $event"
+          />
+          
+          <PropGrid 
+            v-if="paginatedProps.length > 0" 
+            :paginatedProps="paginatedProps"
+            :columnsPerRow="columnsPerRow"
+          />
+          <PropEmptyState 
+            v-else 
+            :searchQuery="searchQuery" 
+          />
+          
+          <PropPagination
+            v-if="totalPages > 1"
+            :currentPage="currentPage"
+            :totalPages="totalPages"
+            :visiblePages="visiblePages"
+            @goToPage="goToPage"
+          />
+        </main>
+      </div>
+      
+      <div class="gallery-footer">
+        <p>Credits: <a href="https://github.com/Jump-On-Studios/Documentation/blob/main/docs/.vitepress/theme/components/InteriorGallery.vue" target="_blank" rel="noopener noreferrer">Jump on Studios</a></p>
+      </div>
     </template>
   </div>
 </template>
@@ -85,7 +87,7 @@ import PropControls from './components/PropControls.vue';
 import PropGrid from './components/PropGrid.vue';
 import PropEmptyState from './components/PropEmptyState.vue';
 import PropPagination from './components/PropPagination.vue';
-import { PROPS_GALLERY, PAGINATION } from './constants';
+import { PROPS_GALLERY, PAGINATION, GRID_LAYOUT } from './constants';
 
 // Data (with lazy loading)
 const { propData, isLoading, error } = usePropData();
@@ -98,7 +100,7 @@ const selectedCategory = ref('all');
 const selectedSubcategory = ref('all');
 const searchQuery = ref('');
 const itemsPerPage = ref<number>(PAGINATION.DEFAULT_ITEMS_PER_PAGE);
-const columnsPerRow = ref<number>(5);
+const columnsPerRow = ref<number>(GRID_LAYOUT.DEFAULT_COLUMNS_PER_ROW);
 
 // Categories
 const { categories } = usePropCategories(propData);
@@ -131,6 +133,14 @@ function reloadPage() {
   max-width: 1600px;
   width: 100%;
   padding: 0 var(--space-4);
+}
+
+/* Gallery Content Container */
+.gallery-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  width: 100%;
 }
 
 /* Main Content */
@@ -241,9 +251,10 @@ function reloadPage() {
 
 /* Footer */
 .gallery-footer {
+  width: 100%;
   text-align: center;
-  padding: var(--space-12) var(--space-4) var(--space-4);
-  margin-top: var(--space-8);
+  padding: var(--space-8) var(--space-4) var(--space-4);
+  margin-top: 0;
   border-top: 1px solid var(--vp-c-divider);
 }
 
@@ -254,16 +265,28 @@ function reloadPage() {
   font-style: italic;
 }
 
-/* Tablets: Adjust title size */
+.gallery-footer a {
+  color: var(--vp-c-brand);
+  text-decoration: none;
+  font-weight: var(--font-medium);
+  transition: color var(--transition-base);
+}
+
+.gallery-footer a:hover {
+  color: var(--vp-c-brand-dark);
+  text-decoration: underline;
+}
+
+/* Tablets: Adjust title size (BREAKPOINTS.TABLET_MIN) */
 @media (min-width: 768px) {
   .gallery-title {
     font-size: var(--text-4xl);
   }
 }
 
-/* Desktop: Side-by-side layout */
+/* Desktop: Side-by-side layout (BREAKPOINTS.DESKTOP_MIN) */
 @media (min-width: 1024px) {
-  .prop-gallery-wrapper {
+  .gallery-content {
     flex-direction: row;
     gap: var(--space-8);
   }
@@ -273,7 +296,7 @@ function reloadPage() {
   }
 }
 
-/* Large Desktop: Maximum spacing */
+/* Large Desktop: Maximum spacing (BREAKPOINTS.LARGE_DESKTOP_MIN) */
 @media (min-width: 1200px) {
   .prop-gallery-wrapper {
     gap: var(--space-8);

@@ -42,7 +42,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { formatCategory } from '../utils/formatCategory';
-import { PAGINATION } from '../constants';
+import { PAGINATION, GRID_LAYOUT } from '../constants';
 import CustomSelect from './CustomSelect.vue';
 
 defineProps<{
@@ -60,11 +60,12 @@ defineEmits<{
   'update:columnsPerRow': [value: number];
 }>();
 
-const columnsOptions = computed(() => [
-  { value: 3, label: '3' },
-  { value: 4, label: '4' },
-  { value: 5, label: '5' }
-]);
+const columnsOptions = computed(() => 
+  GRID_LAYOUT.COLUMNS_OPTIONS.map(option => ({
+    value: option,
+    label: option.toString()
+  }))
+);
 
 const perPageOptions = computed(() => 
   PAGINATION.ITEMS_PER_PAGE_OPTIONS.map(option => ({
@@ -108,7 +109,7 @@ const perPageOptions = computed(() =>
   white-space: nowrap;
 }
 
-/* Tablets: Adjust layout */
+/* Tablets: Adjust layout (BREAKPOINTS.TABLET_MIN) */
 @media (min-width: 768px) {
   .results-info {
     font-size: var(--text-base);
@@ -119,7 +120,7 @@ const perPageOptions = computed(() =>
   }
 }
 
-/* Mobile: Stack vertically */
+/* Mobile: Stack vertically (BREAKPOINTS.MOBILE_MAX) */
 @media (max-width: 767px) {
   .controls-bar {
     flex-direction: column;

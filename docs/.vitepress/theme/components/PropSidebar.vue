@@ -343,7 +343,7 @@ function selectSubcategory(subcategory: string) {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
-/* Tablets: Adjust sidebar */
+/* Tablets: Adjust sidebar (BREAKPOINTS.TABLET_MIN to TABLET_MAX) */
 @media (min-width: 768px) and (max-width: 1023px) {
   .prop-sidebar {
     width: 100%;
@@ -358,7 +358,7 @@ function selectSubcategory(subcategory: string) {
   }
 }
 
-/* Below Desktop: Full width sidebar */
+/* Below Desktop: Full width sidebar (BREAKPOINTS.TABLET_MAX) */
 @media (max-width: 1023px) {
   .prop-sidebar {
     width: 100%;

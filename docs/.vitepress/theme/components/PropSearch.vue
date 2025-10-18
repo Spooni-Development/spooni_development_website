@@ -106,7 +106,7 @@ function onClear() {
   color: var(--vp-c-text-1);
 }
 
-/* Tablets: Slightly larger input */
+/* Tablets: Slightly larger input (BREAKPOINTS.TABLET_MIN) */
 @media (min-width: 768px) {
   .search-input {
     padding: var(--space-4) var(--space-12);
@@ -114,7 +114,7 @@ function onClear() {
   }
 }
 
-/* Mobile: Compact but accessible */
+/* Mobile: Compact but accessible (BREAKPOINTS.MOBILE_MAX) */
 @media (max-width: 767px) {
   .search-input {
     padding: var(--space-3) 2.5rem;

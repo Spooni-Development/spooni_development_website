@@ -52,7 +52,7 @@ onMounted(() => {
   margin-bottom: var(--space-8);
 }
 
-/* Small devices: 2 columns */
+/* Small devices: 2 columns (BREAKPOINTS.SMALL_DEVICES_MIN) */
 @media (min-width: 640px) {
   .gallery-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -60,7 +60,7 @@ onMounted(() => {
   }
 }
 
-/* Tablets: 3 columns */
+/* Tablets: 3 columns (BREAKPOINTS.TABLET_MIN) */
 @media (min-width: 768px) {
   .gallery-grid {
     grid-template-columns: repeat(3, 1fr);
@@ -68,7 +68,7 @@ onMounted(() => {
   }
 }
 
-/* Desktop: Use user-selected columns */
+/* Desktop: Use user-selected columns (BREAKPOINTS.DESKTOP_MIN) */
 @media (min-width: 1024px) {
   .gallery-grid {
     grid-template-columns: repeat(v-bind(columnsPerRow), 1fr);

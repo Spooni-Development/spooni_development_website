@@ -299,14 +299,6 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1317931784452706357/4ae6459909240608d2dccba41d939037.webp?size=128',
-            name: 'The Ravens Prophecy',
-            title: '📀 TIER II',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/QzrCQphAv8' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/icons/1358411622799900783/a_8dae6f7e56b5c22836ce2fecf32f0da3.webp?size=128',
             name: 'Bounty Bay',
             title: '📀 TIER II',
@@ -646,14 +638,6 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1357036506522583381/a_cbd91ec7350a4592f01c20f471e001e6.webp?size=128',
-            name: 'NOMAD ROLEPLAY',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/27T78WEyWh' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/icons/745430187365236738/13123d526f2ff33f61c8bf51716d80e4.png?size=128',
             name: 'neue Welt',
             title: '💿 TIER I',
@@ -726,14 +710,6 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.svg',        
-            name: 'Wasteland Stories',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/wasteland' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/icons/1179139330476875786/f8c5b621595b2693234c7d2bb0a893c9.webp?size=128',        
             name: '2Toxic',
             title: '💿 TIER I',
@@ -755,14 +731,6 @@ sidebar: false
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/yFugWXvGU4' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/icons/1065942477665751070/439e89f6581eb62e78aa3b3a9552484d.webp?size=128',
-            name: 'Yellowstone Branded RP',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/yb-rp' },
             ]
         },
     ]

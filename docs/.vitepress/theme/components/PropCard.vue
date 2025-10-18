@@ -220,21 +220,21 @@ function handleCopy() {
   100% { transform: scale(1); }
 }
 
-/* Tablets: slightly larger images */
+/* Tablets: slightly larger images (BREAKPOINTS.TABLET_MIN) */
 @media (min-width: 768px) {
   .image-container {
     height: 220px;
   }
 }
 
-/* Desktop: larger images */
+/* Desktop: larger images (BREAKPOINTS.DESKTOP_MIN) */
 @media (min-width: 1024px) {
   .image-container {
     height: 240px;
   }
 }
 
-/* Large Desktop: maximum image size */
+/* Large Desktop: maximum image size (BREAKPOINTS.LARGE_DESKTOP_MIN) */
 @media (min-width: 1200px) {
   .image-container {
     height: 260px;

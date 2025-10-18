@@ -37,7 +37,7 @@ sidebar: false
 
     const artist = [
         {
-            avatar: '/team/arthur.webp',
+            avatar: '/team/artist/arthur.webp',
             name: 'Arthur Mottergan',
             title: 'Lead 3D Artist',
             links: [
@@ -46,7 +46,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/mike.webp',
+            avatar: '/team/artist/mike.webp',
             name: 'Mike',
             title: '3D Artist',
             links: [
@@ -54,7 +54,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/howard.webp',
+            avatar: '/team/artist/howard.webp',
             name: 'Howard',
             title: '3D Artist',
             links: [
@@ -62,7 +62,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/coralstar.webp',
+            avatar: '/team/artist/coralstar.webp',
             name: 'CoralStar',
             title: 'Junior 3D Artist',
             links: [
@@ -70,7 +70,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/monokuma.webp',
+            avatar: '/team/artist/monokuma.webp',
             name: 'Monokuma',
             title: 'Junior 3D Artist',
             links: [
@@ -78,7 +78,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/karol-klaput.webp',
+            avatar: '/team/artist/karol-klaput.webp',
             name: 'Karol Klaput',
             title: 'Junior 3D Artist ',
             links: [
@@ -86,7 +86,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/konzi.webp',
+            avatar: '/team/artist/konzi.webp',
             name: 'Konzi',
             title: 'Junior 3D Artist',
             links: [
@@ -94,7 +94,7 @@ sidebar: false
             ]
         },
         {
-            avatar: '/team/winterfresh.webp',
+            avatar: '/team/artist/winterfresh.webp',
             name: 'W1nterFresh',
             title: 'Junior 3D Artist',
             links: [
