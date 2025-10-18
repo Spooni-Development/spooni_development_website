@@ -1,13 +1,59 @@
 ---
 layout: doc
-title: Docs
+title: Documentation
 ---
 
-# 👋 Welcome
-## 📚 SPOONI Documentation
+# 👋 Welcome to SPOONI Documentation
 
-We are pleased to present our new documentation for our mappings and scripts. Here you will find the most useful information about our mappings and scripts. 
+Welcome to the official SPOONI Development documentation. Here you'll find comprehensive guides, installation instructions, and configuration examples for all our mappings and scripts.
 
-We hope you enjoy the new documentation and find it helpful and useful.
+## 📚 What You'll Find Here
 
-Your SPOONI Team
+This documentation contains detailed information about:
+
+- **Scripts** - Browse all our RedM scripts with installation guides and configuration examples
+- **Mappings** - Explore our high-quality mappings organized by region
+- **Tutorials** - Step-by-step guides and video tutorials
+- **Support** - Get help when you need it
+
+Use the **sidebar navigation** to explore our products, or use the **search function** at the top to quickly find what you're looking for.
+
+## 🛠️ Quick Start
+
+Getting started with SPOONI products is easy:
+
+1. **Purchase** your desired product from our [Tebex Store](https://spooni-mapping.tebex.io/)
+2. **Download** the resource from the Cfx.re Portal
+3. **Install** by dragging it into your resources folder
+4. **Configure** using the included files
+5. **Restart** your server and enjoy!
+
+For detailed installation instructions, refer to the specific product documentation in the sidebar.
+
+## 🎮 Try Before You Buy
+
+Join our **Showcase Server** to test all our mappings and scripts in action:
+
+<a href="redm://connect/51.77.90.75:30120" class="button-buy">Connect Now</a>
+
+## 🆘 Need Help?
+
+If you encounter any issues or have questions:
+
+- **Discord Support** - Join our [Discord Server](https://discord.gg/spooni) and open a ticket
+- **Crash Codes** - Server crashing? Check our [RedM Crash Codes Guide](/crashes) for solutions
+- **Documentation** - Use the search or browse the sidebar for guides
+- **Interactive Map** - Explore our mappings on our [interactive map](https://spooni.de/rdr2/)
+
+## 🚀 Additional Resources
+
+- [Tebex Store](https://spooni-mapping.tebex.io/) - Browse and purchase products
+- [Props Database](/props) - View our custom props
+- [Server Service](/service) - Professional server setup assistance
+- [Our Team](/team) - Meet the developers
+
+---
+
+We hope you enjoy our products and find this documentation helpful. Thank you for choosing SPOONI Development!
+
+*Your SPOONI Team* 🧡
