@@ -16,9 +16,6 @@ hero:
     - theme: alt
       text: Map
       link: https://spooni.de/rdr2/
-    # - theme: alt
-    #   text: Props
-    #   link: https://spooni.de/props/
 features:
   - icon: ℹ️
     title: About us
@@ -60,7 +57,7 @@ import {
 
 const sponsors = [
   {
-    avatar: 'https://cdn.discordapp.com/icons/1317242352682663937/e821fa7ea65a8a9968d92f761a54142d.webp?size=128',
+    avatar: '/sponsor/fat-lady.webp',
     name: 'FAT LADY',
     title: 'RDR2 Roleplay',
     links: [
@@ -68,7 +65,7 @@ const sponsors = [
     ]
   },
   {
-      avatar: 'https://cdn.discordapp.com/icons/1414965986364489801/82bbec9e232846b4d80f3579d7d83fe4.png?size=128&quality=lossless',
+      avatar: '/sponsor/legends-rp.webp',
       name: 'Legends - RP',
       title: 'RDR2 Roleplay',
       links: [
@@ -84,7 +81,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1070353246121623594/1c6f3b5fe4b80955a8d43824b057d820.webp?size=128',
+    avatar: '/sponsor/tld.webp',
     name: 'The Last Days',
     title: 'RDR2 Survial Roleplay',
     links: [
@@ -92,7 +89,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1153427642297614398/a_deec25fe81c88ac8d5cd8e58539da396.webp?size=128',
+    avatar: '/sponsor/american-dreams.webp',
     name: 'American Dreams',
     title: 'RDR2 Roleplay',
     links: [
@@ -100,7 +97,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1262666167089369119/50a85eb02391cfc1f18a95c88d783a1d.png?size=128',
+    avatar: '/sponsor/project-babylon.webp',
     name: 'Projekt Babylon',
     title: 'RDR2 Roleplay',
     links: [
@@ -108,7 +105,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1143862512937336933/99dec736bccbd1b0902d8f613eec5075.png?size=128',
+    avatar: '/sponsor/golden-plains.webp',
     name: 'Golden Plains',
     title: 'RDR2 Roleplay',
     links: [
@@ -116,7 +113,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/1225905970035822734/d0e66f327e828cd9195710c87028869b.webp?size=128',
+    avatar: '/sponsor/gamblers-ghost.webp',
     name: 'Gamblers Ghost',
     title: 'RDR2 Roleplay',
     links: [
@@ -124,7 +121,7 @@ const sponsors = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/icons/939204524466393149/e84c689605cdfc7d3bf41b616539a836.png?size=128',
+    avatar: '/sponsor/mist-mountain.webp',
     name: 'Misty Mountain',
     title: 'RDR2 Roleplay',
     links: [
@@ -132,7 +129,7 @@ const sponsors = [
     ]
   },
   {
-      avatar: 'https://cdn.discordapp.com/icons/613827325225861130/d56c1f29da7ce059789f72d72b77c3cf.png?size=128&quality=lossless',
+      avatar: 'sponsor/la-hermandad-roleplay.webp',
       name: 'La Hermandad Roleplay',
       title: 'RDR2 Roleplay',
       links: [

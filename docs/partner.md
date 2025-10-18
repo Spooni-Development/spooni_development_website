@@ -14,7 +14,7 @@ sidebar: false
 
     const developer = [
         {
-            avatar: 'https://cdn.discordapp.com/icons/953724414028046356/cdf1bfa5b691ce5d0aad5d93086387d4.webp?size=128',
+            avatar: '/partner/dev/drshwaggins.webp',
             name: 'DrShwaggins Scripts',
             // title: '🔧' ,
             links: [
@@ -22,7 +22,7 @@ sidebar: false
             ]
         },    
         {
-            avatar: 'https://cdn.discordapp.com/icons/777290543406776341/a_8893fe3c222deef6054f729a541d2975.webp?size=128',
+            avatar: '/partner/dev/syn-scripts.webp',
             name: 'Syn Scripts',
             // title: '🔧' ,
             links: [
@@ -30,7 +30,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1021957724440899584/a_1d0f9cf6a58096b91548f4c164ce0917.webp?size=128',
+            avatar: '/partner/dev/bcc.webp',
             name: 'Bryce Canyon County',
             // title: '🔧' ,
             links: [
@@ -38,7 +38,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/907324006699499570/09592146e6269e1720f6322170c3d532.webp?size=128',
+            avatar: '/partner/dev/sirec.webp',
             name: 'SIREC STUDIO',
             // title: '🔧' ,
             links: [
@@ -46,7 +46,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/870659641879724104/14e8a8210a5ab84406eca3abaa3a09c4.webp?size=128',
+            avatar: '/partner/dev/gum.webp',
             name: 'Gum Scripts',
             // title: '🔧' ,
             links: [
@@ -54,7 +54,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/991835489160151171/fb1669ec949e09aeb9ed9da768a59e57.webp?size=128',
+            avatar: '/partner/dev/xakra.webp',
             name: 'Xakra Scripts',
             // title: '🔧' ,
             links: [
@@ -62,7 +62,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1106290207390703666/e07cb18ebe128b52ad66bb91144c5ba8.png?size=128',
+            avatar: '/partner/dev/fixitfy.webp',
             name: 'Fixitfy',
             // title: '🔧' ,
             links: [
@@ -70,7 +70,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1167625175676768276/aacf15af7a8e2e84427598cc00d33a32.webp?size=128',
+            avatar: '/partner/dev/dlabs.webp',
             name: 'D-Labs',
             // title: '🔧' ,
             links: [
@@ -78,7 +78,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/820144145040408586/3e3f061f13ded09919a78346465aae9e.webp?size=128',
+            avatar: '/partner/dev/hellcat.webp',
             name: 'Hellcat Development',
             // title: '🔧' ,
             links: [
@@ -86,7 +86,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1022133473508589609/67188236c70ac2e4afc6e17a64013a42.webp?size=128',
+            avatar: '/partner/dev/nss.webp',
             name: 'NIGHT SHIFT STUDIO',
             // title: '🔧' ,
             links: [
@@ -94,7 +94,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/919890110177230898/19f6a0b86b48079bcf9e51d85af415e1.webp?size=128',
+            avatar: '/partner/dev/mega.webp',
             name: 'Mega Development',
             // title: '🔧' ,
             links: [
@@ -102,7 +102,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/788825023565529108/12dfa8562af24318350f7b418e21818a.webp?size=128',
+            avatar: '/partner/dev/bulgar.webp',
             name: 'BulgaR Scripts',
             // title: '🔧' ,
             links: [
@@ -110,7 +110,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/942431188881141820/608d7380ff1102ad0390309bad6d6853.png?size=128',
+            avatar: '/partner/dev/sirevlc.webp',
             name: 'SireVLC',
             // title: '🔧' ,
             links: [
@@ -118,7 +118,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1137911244658065529/d2f22d99fd2a27142d39b0d1bda76851.webp?size=128',
+            avatar: '/partner/dev/jr.webp',
             name: 'JR Scripts',
             // title: '🔧' ,
             links: [
@@ -126,7 +126,7 @@ sidebar: false
             ]
         },    
         {
-            avatar: 'https://cdn.discordapp.com/icons/1118302504900370442/25e197dc3945d2d24a61886f600b8b52.webp?size=128',
+            avatar: '/partner/dev/lefru.webp',
             name: 'LeFruScripts',
             // title: '🔧' ,
             links: [
@@ -134,7 +134,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/716696767407718493/a_578e1b7e584cf62f67741baba33ee0d6.webp?size=128',
+            avatar: '/partner/dev/ziomark.webp',
             name: "ZioMark's HUB",
             // title: '🔧' ,
             links: [
@@ -142,7 +142,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1218685129279406111/8ed1addec867face1dfec9d629389fae.png?size=128',
+            avatar: '/partner/dev/murphy.webp',
             name: "Murphy's Workshop",
             // title: '🔧' ,
             links: [

@@ -14,7 +14,7 @@ sidebar: false
 
     const director = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/271688304674471937/e29d97d1eb733dbbb3040671d09e8be1.webp?size=128',
+            avatar: '/logo.svg',
             name: 'SPOONI',
             title: 'Founder & Director',
             links: [
@@ -26,7 +26,7 @@ sidebar: false
 
     const supervisor = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/478599137563115520/49f8783229956455cc764198834e711d.webp?size=128',
+            avatar: '/team/finn.webp',
             name: 'FINN',
             title: 'Lead Mapper',
             links: [
@@ -37,7 +37,7 @@ sidebar: false
 
     const artist = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/540860975218163724/d6f5541116792884ee7a3aeee462e450.webp?size=128',
+            avatar: '/team/arthur.webp',
             name: 'Arthur Mottergan',
             title: 'Lead 3D Artist',
             links: [
@@ -46,7 +46,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/158243778895937536/avatars/82f1f67162524a5ffd92b60f26cf7060.webp?size=128',
+            avatar: '/team/mike.webp',
             name: 'Mike',
             title: '3D Artist',
             links: [
@@ -54,7 +54,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/1033065913219555358/avatars/233a7bf22ccf99a8e989833be2ed6023.webp?size=128',
+            avatar: '/team/howard.webp',
             name: 'Howard',
             title: '3D Artist',
             links: [
@@ -62,7 +62,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/335141940561575936/9468f0a4ad4f257297952ed457e1e237.webp?size=128',
+            avatar: '/team/coralstar.webp',
             name: 'CoralStar',
             title: 'Junior 3D Artist',
             links: [
@@ -70,7 +70,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/432593791157927938/73b34763fe7045b8335c8cf5d6963940.webp?size=128',
+            avatar: '/team/monokuma.webp',
             name: 'Monokuma',
             title: 'Junior 3D Artist',
             links: [
@@ -78,7 +78,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/358249807640264706/c4daa0c880db1818d316a378b5b3b036.webp?size=128',
+            avatar: '/team/karol-klaput.webp',
             name: 'Karol Klaput',
             title: 'Junior 3D Artist ',
             links: [
@@ -86,7 +86,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/219478609461641216/df96c0febb41e7d46c0bb911e0edc443.png?size=128',
+            avatar: '/team/konzi.webp',
             name: 'Konzi',
             title: 'Junior 3D Artist',
             links: [
@@ -94,7 +94,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/265522080945012746/2ee492b946fa6c820d37400a7128a2fd.webp?size=128',
+            avatar: '/team/winterfresh.webp',
             name: 'W1nterFresh',
             title: 'Junior 3D Artist',
             links: [
