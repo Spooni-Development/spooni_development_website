@@ -95,7 +95,7 @@ function onClear() {
   padding: var(--space-2);
   display: flex;
   align-items: center;
-  border-radius: var(--radius-sm);
+  border-radius: var(--radius-lg);
   transition: all var(--transition-base) ease;
   min-width: var(--touch-target-min);
   min-height: var(--touch-target-min);

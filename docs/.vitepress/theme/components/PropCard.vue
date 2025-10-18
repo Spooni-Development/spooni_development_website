@@ -9,14 +9,46 @@
       />
     </div>
     <div class="prop-info">
-      <h4 :title="prop.id">{{ prop.id }}</h4>
-      <button 
-        @click="handleCopy" 
-        class="copy-button" 
-        :class="{ copied: copiedId === prop.id }"
-      >
-        {{ copiedId === prop.id ? 'Copied!' : 'Copy Name' }}
-      </button>
+      <div class="prop-name-container">
+        <h4 class="prop-name">{{ prop.id }}</h4>
+        <span class="prop-name-tooltip">{{ prop.id }}</span>
+        <button 
+          @click="handleCopy" 
+          class="copy-icon-button"
+          :class="{ copied: copiedId === prop.id }"
+          :title="copiedId === prop.id ? 'Copied!' : 'Copy to clipboard'"
+        >
+          <svg 
+            v-if="copiedId !== prop.id"
+            xmlns="http://www.w3.org/2000/svg" 
+            width="16" 
+            height="16" 
+            viewBox="0 0 24 24" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="2" 
+            stroke-linecap="round" 
+            stroke-linejoin="round"
+          >
+            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+          </svg>
+          <svg 
+            v-else
+            xmlns="http://www.w3.org/2000/svg" 
+            width="16" 
+            height="16" 
+            viewBox="0 0 24 24" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="2" 
+            stroke-linecap="round" 
+            stroke-linejoin="round"
+          >
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+        </button>
+      </div>
     </div>
   </div>
 </template>
@@ -71,8 +103,10 @@ function handleCopy() {
   height: auto;
   object-fit: contain;
   cursor: zoom-in;
-  transition: transform 0.2s ease, opacity 0.3s ease;
+  transition: all 0.2s ease;
   opacity: 0;
+  border: 2px solid transparent;
+  border-radius: var(--radius-lg);
 }
 
 .prop-image.loaded {
@@ -81,57 +115,108 @@ function handleCopy() {
 
 .image-container:hover .prop-image.loaded {
   transform: scale(1.05);
+  border-color: var(--vp-c-brand);
 }
 
 .prop-info {
   padding: var(--space-4);
   display: flex;
   flex-direction: column;
-  gap: var(--space-3);
 }
 
-.prop-info h4 {
+.prop-name-container {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: var(--vp-c-bg);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-lg);
+  transition: all var(--transition-base) ease;
+  position: relative;
+}
+
+.prop-name-container:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.prop-name {
   margin: 0;
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--vp-c-text-1);
-  word-break: break-word;
+  text-align: center;
+  flex: 1;
+  
+  /* Single line with ellipsis */
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  -webkit-box-orient: vertical;
+  min-width: 0;
 }
 
-.copy-button {
-  padding: var(--space-2) var(--space-4);
-  background: var(--vp-c-brand);
-  color: white;
-  border: none;
-  border-radius: var(--radius-md);
-  font-size: var(--text-sm);
-  font-weight: var(--font-medium);
-  cursor: pointer;
+/* Tooltip for full name */
+.prop-name-tooltip {
+  position: absolute;
+  bottom: calc(100% + var(--space-2));
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-lg);
+  font-size: 0.875rem;
+  font-weight: 600;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
   transition: all var(--transition-base) ease;
-  font-family: inherit;
-  min-height: var(--touch-target-min);
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  text-align: center;
 }
 
-.copy-button:hover {
+.prop-name-container:hover .prop-name-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(-4px);
+}
+
+.copy-icon-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-1);
+  background: var(--vp-c-brand);
+  border: none;
+  border-radius: var(--radius-lg);
+  cursor: pointer;
+  color: white;
+  transition: all var(--transition-base) ease;
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+}
+
+.copy-icon-button:hover {
   background: var(--vp-c-brand-dark, #d64d00);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: scale(1.1);
+  box-shadow: 0 2px 6px rgba(242, 92, 5, 0.4);
 }
 
-.copy-button.copied {
+.copy-icon-button:active {
+  transform: scale(0.95);
+}
+
+.copy-icon-button.copied {
   background: #10b981;
-  animation: pulse 0.3s ease-in-out;
+  color: white;
+  animation: iconPulse 0.3s ease-in-out;
 }
 
-@keyframes pulse {
+@keyframes iconPulse {
   0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
+  50% { transform: scale(1.2); }
   100% { transform: scale(1); }
 }
 

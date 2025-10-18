@@ -93,11 +93,36 @@ function selectSubcategory(subcategory: string) {
   overflow-x: hidden;
 }
 
+/* Custom Scrollbar Styling */
+.prop-sidebar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.prop-sidebar::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: var(--radius-lg);
+}
+
+.prop-sidebar::-webkit-scrollbar-thumb {
+  background: var(--vp-c-bg);
+  border-radius: var(--radius-lg);
+  transition: background var(--transition-base) ease;
+}
+
+.prop-sidebar::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-brand);
+}
+
+/* Firefox Scrollbar */
+.prop-sidebar {
+  scrollbar-width: thin;
+  scrollbar-color: var(--vp-c-bg) transparent;
+}
+
 .sidebar-content {
   background: var(--vp-c-bg-soft);
   border-radius: var(--radius-lg);
   padding: var(--space-6);
-  border: 1px solid var(--vp-c-divider);
 }
 
 .sidebar-title {
@@ -120,7 +145,7 @@ function selectSubcategory(subcategory: string) {
   align-items: center;
   padding: var(--space-3) var(--space-4);
   cursor: pointer;
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-lg);
   transition: all var(--transition-slow) ease;
   user-select: none;
   position: relative;
@@ -131,7 +156,7 @@ function selectSubcategory(subcategory: string) {
 .category-item {
   font-weight: 500;
   background: var(--vp-c-bg);
-  margin-bottom: 0.25rem;
+  margin-bottom: var(--space-2);
 }
 
 .category-item .category-name {
@@ -289,7 +314,7 @@ function selectSubcategory(subcategory: string) {
   bottom: 0;
   width: 4px;
   background: linear-gradient(180deg, var(--vp-c-brand) 0%, var(--vp-c-brand-dark, var(--vp-c-brand)) 100%);
-  border-radius: 2px;
+  border-radius: var(--radius-sm);
   box-shadow: 0 0 12px rgba(255, 119, 0, 0.4);
   animation: slideIn 0.3s ease-out;
   transition: all 0.3s ease;
@@ -307,15 +332,15 @@ function selectSubcategory(subcategory: string) {
 }
 
 .subcategory-item.active .subcategory-name {
-  color: var(--vp-c-brand);
+  color: white;
   font-weight: 600;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 .subcategory-item.active .subcategory-count {
-  background: var(--vp-c-brand);
+  background: rgba(255, 255, 255, 0.25);
   color: white;
   font-weight: 700;
-  box-shadow: 0 2px 4px rgba(255, 119, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 /* Tablets: Adjust sidebar */
