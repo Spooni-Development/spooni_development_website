@@ -26,7 +26,8 @@ To install spooni_valley_view_ranch:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[2145858972] = {2145858972,367033685,"p_doornbd39x",-1753.0980224609,497.4162902832,112.8330078125}`
 | Back Door                 | `[1902647454] = {1902647454,1650744725,"p_door33x",-1756.4709472656,509.58843994141,113.22439575195}`

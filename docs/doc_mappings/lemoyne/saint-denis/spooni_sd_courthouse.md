@@ -25,8 +25,8 @@ To install spooni_sd_courthouse:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
-
+## 2. For developers
+### Collision compatibility <Badge type="danger" text="IMPORTANT"/>
 1. Navigate to the folder where the mapping `spooni_sd_courthouse` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_sd_promenade` or `update_sd_spaldings`.
@@ -37,8 +37,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 
 *Note*: If you have installed all mappings, search for a folder named `update_all`. Copy the files from this folder and paste them into the `stream` folder of `spooni_sd_courthouse`, `spooni_sd_promenade` and `spooni_sd_spaldings`. Overwrite the existing files.
 
-## 3. For developers
-
+### Doorhashes
 | Exterior                  | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Doors               | `[4231642606] = {4231642606,1707793145,"p_doorbrafrench02rx",2595.3898925781,-1299.79296875,51.875}` <br> `[516162306] = {516162306,541633066,"p_doorbrafrench02lx",2595.9699707031,-1301.0300292969,51.875}`

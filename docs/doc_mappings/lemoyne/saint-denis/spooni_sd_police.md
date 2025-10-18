@@ -28,9 +28,7 @@ To install spooni_sd_police:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-
-<Badge type="warning" text="INFO: Some doorlocks have been overwritten. To avoid problems, we recommend entering our doorlocks at the top of the list in your doorlock script." />
-
+### Doorhashes <Badge type="warning" text="INFO: Some doorlocks have been overwritten. To avoid problems, we recommend entering our doorlocks at the top of the list in your doorlock script." />
 | Ground Floor              | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                      | `[783931317] = {783931317, 1816996393, "p_doornbd39a", 2516.144287109375, -1309.9276123046875, 47.95257186889648}` <br> `[1953797115] = {1953797115, 1816996393, "p_doornbd39a", 2516.14453125, -1307.724853515625, 47.95257186889648}`

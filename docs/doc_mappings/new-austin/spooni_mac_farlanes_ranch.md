@@ -26,6 +26,7 @@ To install spooni_mac_farlanes_ranch:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
+### Doorhashes
 | Main House                | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[-1990115575] = {-1990115575, -1819321039, "p_door13x", -2325.498046875, -2405.11181640625, 62.84763717651367}` <br> `[1163507447] = {1163507447, -1819321039, "p_door13x", -2323.67333984375, -2406.33740234375, 62.84763717651367}`

@@ -26,6 +26,7 @@ To install spooni_tum_trainstation:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Door                      | `Coming soon...`

@@ -26,7 +26,8 @@ To install spooni_rho_saloon_cellar:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Staircase Door            | `[717342088] = {717342088,447074149,"p_door34x", 1336.2689208984376,-1370.8538818359376,79.48350524902344}`
 | Entrance Door             | `[3452196377] = {3452196377,-1005172683,"p_door01x", 1333.4539794921876,-1377.079345703125,75.88999938964844}`

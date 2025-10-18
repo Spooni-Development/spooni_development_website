@@ -26,7 +26,8 @@ To install spooni_straw_gunsmith:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[391601143] = {391601143, -1957055091, "p_door_val_genstore", -1837.8399658203125, -418.2699890136719, 160.35000610351562}`
 | Back Door                 | `[936942845] = {936942845, -164490887, "p_door_val_genstore2", -1846.989990234375, -419.0299987792969, 160.36000061035156}`

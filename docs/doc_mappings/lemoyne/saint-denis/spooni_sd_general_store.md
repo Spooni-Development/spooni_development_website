@@ -25,8 +25,8 @@ To install spooni_sd_general_store:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
-
+## 2. For developers
+### Collision compatibility <Badge type="danger" text="IMPORTANT"/>
 1. Navigate to the folder where the mapping `spooni_sd_general_store` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_sd_bakery_florist`. 
@@ -35,7 +35,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 
-## 3. For developers
+### Doorhashes
 | Ground Floor              | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door (L)            | `[876582098] = {876582098,712336173,"door26",2584.360107421875,-1173.800048828125,52.68999862670898}`

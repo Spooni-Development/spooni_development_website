@@ -25,8 +25,8 @@ To install spooni_rho_church:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
-
+## 2. For developers
+### Collision compatibility <Badge type="danger" text="IMPORTANT"/>
 1. Navigate to the folder where the mapping `spooni_rho_church` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_rhodes_caravan`. 
@@ -35,8 +35,8 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 
-## 3. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[3655260718] = {3655260718, 1200826059, "p_door32x", 1289.8216552734375, -1231.6810302734375, 81.55536651611328}`
 | Side Door                 | `[2235314410] = {2235314410, 1200826059, "p_door32x", 1285.3818359375, -1222.86328125, 81.5477066040039}`

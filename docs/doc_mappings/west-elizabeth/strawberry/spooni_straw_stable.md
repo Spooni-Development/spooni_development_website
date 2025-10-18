@@ -26,7 +26,8 @@ To install spooni_straw_stable:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Door 1                    | `[4289671325] = {4289671325,1199741149,"p_door13x-k",-1824.0899658203,-614.65002441406,154.11001586914}`
 | Door 2                    | `[292869160] = {292869160,-198436444,"p_door02x",-1828.5699462891,-610.91998291016,154.08000183105}`

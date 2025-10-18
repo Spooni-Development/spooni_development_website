@@ -26,6 +26,7 @@ To install spooni_hobbit_house:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[716373713] = {716373713, 1502124512, "dis_grz_colony_buildingdoor", 746.21899414062, 1827.1379394531, 237.69999694824}`

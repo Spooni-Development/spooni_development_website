@@ -26,7 +26,8 @@ To install spooni_cumberland_crest:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1659475454] = {1659475454,367033685,"p_doornbd39x",-50.657939910889,862.34484863281,204.90971374512}`
 | Back Door                 | `[758721182] = {758721182,1650744725,"p_door33x",-48.570602416992,874.80194091797,205.30110168457}`

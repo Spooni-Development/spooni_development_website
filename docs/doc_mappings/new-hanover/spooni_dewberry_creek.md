@@ -25,8 +25,8 @@ To install spooni_dewberry_creek:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
-
+## 2. For developers
+### Collision compatibility <Badge type="danger" text="IMPORTANT"/>
 1. Navigate to the folder where the mapping `spooni_dewberry_creek` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_greenbank_mill`.
@@ -35,8 +35,8 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 
-## 3. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door L              | `[3647335724] = {3647335724, 1292448142, "p_door_sha_man_l", 1172.659912109375, -187.77796936035156, 99.59535217285156}`
 | Front Door R              | `[1801916712] = {1801916712, 1292448142, "p_door_sha_man_l", 1171.339599609375, -181.79727172851562, 99.5975570678711}`

@@ -26,7 +26,8 @@ To install spooni_arm_church:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[2443281519] = {2443281519, 1605264563, "coo_01_coot_01_door", -3327.536376953125, -2845.41064453125, -6.43667411804199}` <br> `[2139283498] = {2139283498, 1605264563, "coo_01_coot_01_door", -3330.320068359375, -2844.3720703125, -6.42750835418701}`
 | Kitchen Door              | `[3019131156] = {3019131156, -542955242, "p_door04x", -3327.382080078125, -2858.197509765625, -6.42508220672607}`

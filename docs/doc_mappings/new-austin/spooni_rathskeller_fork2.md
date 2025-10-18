@@ -26,7 +26,8 @@ To install spooni_rathskeller_fork2:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Office Door               | `[1895853187] = {1895853187,-542955242,"p_door04x", -5221.8232421875,-2121.105224609375,11.71014022827148}`
 | Barrack Door              | `[1536639409] = {1536639409,-542955242,"p_door04x", -5213.1611328125,-2112.471435546875,11.71014022827148}` <br> `[231745060] = {231745060,-542955242,"p_door04x", -5208.68505859375,-2107.99560546875,11.71014022827148}`

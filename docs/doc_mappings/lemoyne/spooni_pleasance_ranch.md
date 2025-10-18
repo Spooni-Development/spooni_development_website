@@ -26,7 +26,8 @@ To install spooni_pleasance_ranch:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1969218066] = {1969218066,1411208969,"p_door_nbxbank01x",1935.6275634766,-321.39370727539,43.171489715576}`
 | Back Door                 | `[1081188107] = {1081188107,1411208969,"p_door_nbxbank01x",1940.7615966797,-312.83975219727,43.171489715576}`

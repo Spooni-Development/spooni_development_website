@@ -26,7 +26,8 @@ To install spooni_fort_oasis:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Fight Club Door           | `[2085841611] = {2085841611,-198436444,"p_door02x",-5601.3837890625,-3815.4187011719,-24.902997970581}`
 | Tunnel Door               | `[1757560693] = {1757560693,-1899748000,"p_door45x",-5607.6870117188,-3755.0268554688,-24.108142852783}`

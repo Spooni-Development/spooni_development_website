@@ -25,8 +25,8 @@ To install spooni_sd_farming:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
-
+## 2. For developers
+### Collision compatibility <Badge type="danger" text="IMPORTANT"/>
 1. Navigate to the folder where the mapping `spooni_sd_farming` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_sd_hotel_licorne` or `update_spooni_sd_undertaker`. 
@@ -35,7 +35,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 
-## 3. For developers
+### Doorhashes
 | Main Shotgun House        | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[-1723691100] = {-1723691100,-1064561416,"door16",2646.27001953125,-972.239990234375,43.7599983215332}`

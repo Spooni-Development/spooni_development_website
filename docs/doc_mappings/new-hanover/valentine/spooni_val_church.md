@@ -26,7 +26,8 @@ To install spooni_val_church:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[-394337968] = {-394337968, 380144962, "church-door1", -231.899994, 797.729980, 123.684990}` <br> `[-1871204029] = {-1871204029, 380144962, "church-door1", -230.750000, 795.849976, 123.684990}`
 | Back Door                 | `[-8122538] = {-8122538, -1005172683, "p_door01x", -218.3699951171875, 804.4500122070312, 123.61157989501953}`

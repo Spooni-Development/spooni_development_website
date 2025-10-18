@@ -27,7 +27,8 @@ To install spooni_sd_night_club:
 
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
-## 2. Collision compatibility <Badge type="danger" text="IMPORTANT"/>
+## 2. For developers
+### Collision compatibility <Badge type="danger" text="IMPORTANT"/>
 1. Navigate to the folder where the mapping `spooni_sd_night_club` is installed.
 2. Search for a folder named `update`.
 3. Go to the respective folder `update_sd_jeweler`.
@@ -36,10 +37,7 @@ If you have any problems, you can always open a ticket in the [Spooni Discord](h
 6. Paste the copied files into the `stream` folder and overwrite existing files.
 7. Restart the server to apply the changes.
 
-## 3. For developers
-
-<Badge type="warning" text="INFO: Some doorlocks have been overwritten. To avoid problems, we recommend entering our doorlocks at the top of the list in your doorlock script." />
-
+### Doorhashes <Badge type="warning" text="INFO: Some doorlocks have been overwritten. To avoid problems, we recommend entering our doorlocks at the top of the list in your doorlock script." />
 | Groundfloor               | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1961682744] = {1961682744, -705727376, "p_doornbd31x", 2629.29541015625, -1220.293212890625, 52.39814376831055}` <br> `[1127154621] = {1127154621, -1480266885, "p_doornbd31rx", 2627.745361328125, -1221.854736328125, 52.39814376831055}`

@@ -26,7 +26,8 @@ To install spooni_fort_brennand:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Gate                | `[1652075036] = {1652075036,-699806412,"p_doorfortwallacel01x",2455.5,305.73001098633,69.629997253418}` <br> `[2094358229] = {2094358229,1808364636,"p_doorfortwallacer01x",2451.5100097656,306.0,69.629997253418}`
 | Back Gate                 | `[4033976548] = {4033976548,1808364636,"p_doorfortwallacer01x",2455.5539550781,275.8369140625,69.931770324707}` <br> `[1931091523] = {1931091523,-699806412,"p_doorfortwallacel01x",2451.6020507813,276.08676147461,69.86954498291}`

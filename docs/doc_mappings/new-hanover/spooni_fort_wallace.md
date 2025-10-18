@@ -26,7 +26,8 @@ To install spooni_fort_wallace:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Apartment Door            | `[51786389] = {51786389,-1800129672,"p_door36x",342.84326171875, 1504.602294921875, 180.89337158203125}`
 | Blacksmith                | `[3082853355] = {3082853355,-312814636,"p_door44x",344.55999755859375, 1477.5899658203125, 178.7100067138672}` <br> `[2352497887] = {2352497887,-312814636,"p_door44x",343.2799987792969, 1479.4000244140625, 178.7100067138672}`

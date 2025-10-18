@@ -26,6 +26,7 @@ To install spooni_sd_palmist:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
+### Doorhashes
 | Palmist                   | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Starcase Door             | `[201047443] = {201047443, -1527828275, "p_doorrhogensto02x", 2700.281982421875, -1227.4022216796875, 50.3454475402832}`

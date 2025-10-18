@@ -26,7 +26,8 @@ To install spooni_desert_edge_ranch:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[559241966] = {559241966,1411208969,"p_door_nbxbank01x",-2535.0883789062,-2884.0209960938,70.521446228027}`
 | Back Door                 | `[320061035] = {320061035,1411208969,"p_door_nbxbank01x",-2525.8586425781,-2880.234375,70.521446228027}`

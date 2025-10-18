@@ -26,6 +26,7 @@ To install spooni_ridgewood_farm:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
+### Doorhashes
 | House                     | Doorhashes
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1579405063] = {1579405063,-542955242,"p_door04x",-4791.14013671875,-2723.136962890625,-14.8360013961792}`

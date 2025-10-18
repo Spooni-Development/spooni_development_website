@@ -26,7 +26,8 @@ To install spooni_straw_woodworker:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1964132262] = {1964132262,2136683606,"p_doorcatjak_01x",-1813.6584472656,-424.51318359375,159.06127929688}` <br> `[383355702] = {383355702,2136683606,"p_doorcatjak_01x",-1815.7816162109,-423.94430541992,159.06127929688}`
 | Back Door                 | `[691613685] = {691613685,2136683606,"p_doorcatjak_01x",-1819.9754638672,-429.04046630859,159.02969360352}`

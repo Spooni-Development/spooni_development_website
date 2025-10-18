@@ -162,6 +162,7 @@ export default defineConfig({
             {text: "🔸Fort Wallace", link:'/doc_mappings/new-hanover/spooni_fort_wallace'},
             {text: "🔸Greenbank Mill", link:'/doc_mappings/new-hanover/spooni_greenbank_mill'},
             {text: "🔸Oil Field Worker Houses", link:'/doc_mappings/new-hanover/spooni_oil_worker_houses'},
+            {text: "🔸Riding Center", link:'/doc_mappings/new-hanover/spooni_riding_center'},
             {text: "🔸Tinkers Hill", link:'/doc_mappings/new-hanover/spooni_tinkers_hill'},
           ]},
 

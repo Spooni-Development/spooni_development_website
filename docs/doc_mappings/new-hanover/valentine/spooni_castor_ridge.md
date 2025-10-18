@@ -26,7 +26,8 @@ To install spooni_castor_ridge:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[870364238] = {870364238, 1946920872, "p_door51x", -444.7156982421875, 499.8472900390625, 97.93572235107422}`
 | Back Door                 | `[238512380] = {238512380, 1946920872, "p_door51x", -437.04205322265625, 494.2818908691406, 97.98567199707031}`

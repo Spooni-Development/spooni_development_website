@@ -26,7 +26,8 @@ To install spooni_straw_log_cabin:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Door                      | `[4120592215] = {4120592215,-2080420985,"p_door41x", -1776.4105224609376,-399.2889709472656,155.5186309814453}`
 | Door                      | `[319191597] = {319191597,-2080420985,"p_door41x", -1781.934326171875,-401.0455322265625,155.4981231689453}`

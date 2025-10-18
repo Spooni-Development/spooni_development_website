@@ -26,7 +26,8 @@ To install spooni_krieger_ranch:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Door                      | `[1806192593] = {1806192593,1650744725,"p_door33x",-1820.5300292969,-2042.6162109375,49.439094543457}`
 | Door                      | `[1945526381] = {1945526381,202254792,"p_door13x_beecher",-1823.7160644531,-2050.2600097656,49.433555603027}`

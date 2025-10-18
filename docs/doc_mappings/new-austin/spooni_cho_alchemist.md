@@ -26,6 +26,7 @@ To install spooni_cho_alchemist:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1655379180] = {1655379180, -542955242, "p_door04x", -5096.044921875, -2525.584228515625, -11.68275547027587}`

@@ -26,7 +26,8 @@ To install spooni_van_stable_house:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[3959354673] = {3959354673, 1292448142, "p_door_sha_man_l", 2943.67578125, 773.038330078125, 50.95846557617187}` <br> `[3479911434] = {3479911434, 1292448142, "p_door_sha_man_l", 2939.169677734375, 778.675537109375, 50.93168640136719}`
 | Back Door                 | `[3207895925] = {3207895925, 1292448142, "p_door_sha_man_l", 2934.48388671875, 772.8735961914062, 50.93931579589844}`

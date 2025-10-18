@@ -26,7 +26,8 @@ To install spooni_buckshot_bend:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[3024344821] = {3024344821, -101383214, "p_doornbd39bx", -1399.1103515625, -2167.573486328125, 43.64424133300781}`
 | Back Door                 | `[2717987440] = {2717987440, 1898488517, "p_doorstrawberry01x_new", -1411.5225830078125, -2165.60888671875, 44.03424072265625}`

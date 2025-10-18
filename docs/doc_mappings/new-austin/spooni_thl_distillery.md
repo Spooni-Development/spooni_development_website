@@ -26,7 +26,8 @@ To install spooni_thl_distillery:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door (L)            | `[-412389832] = {-412389832, -1896437095, "p_doorsgl02x", -1388.8494873046875, -2358.2900390625, 42.86999893188476}`
 | Front Door (R)            | `[-1143761143] = {-1143761143, -1896437095, "p_doorsgl02x", -1391.3299560546875, -2369.56005859375, 42.86999893188476}`

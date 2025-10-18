@@ -26,6 +26,7 @@ To install spooni_lone_mule_stead:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1064206560] = {1064206560,-1497029950,"p_door37x",-862.04400634766,-748.65698242188,58.869998931885}`

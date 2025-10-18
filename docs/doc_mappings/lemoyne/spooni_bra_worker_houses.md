@@ -26,7 +26,8 @@ To install spooni_bra_worker_houses:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | House Door 1              | `[248230396] = {248230396,-1899748000,"p_door45x", 895.2950439453125,-1866.922119140625,42.66883087158203}`
 | House Door 2              | `[8263009] = {8263009,-1899748000,"p_door45x", 882.8553466796875,-1898.339599609375,44.89102172851562}`

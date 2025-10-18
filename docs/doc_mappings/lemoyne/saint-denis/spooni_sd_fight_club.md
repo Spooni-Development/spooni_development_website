@@ -26,7 +26,8 @@ To install spooni_sd_fight_club:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[1958027319] = {1958027319,688852560,"door-boxing1",2298.300048828125,-1498.9200439453125,45.34999847412109}` <br> `[-817343136] = {-817343136,688852560,"door-boxing1",2300.75,-1499.1400146484375,45.34999847412109}`
 | Bridge Door               | `[-979811838] = {-979811838,-1005172683,"p_door01x",2325.39990234375,-1544.1099853515625,45.11000061035156}`

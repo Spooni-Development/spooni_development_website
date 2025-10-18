@@ -26,7 +26,8 @@ To install spooni_van_brothel_house:
 If you have any problems, you can always open a ticket in the [Spooni Discord](https://discord.gg/spooni).
 
 ## 2. For developers
-| Doors                     | Doorhashes
+### Doorhashes
+| Door                      | Hash
 |---------------------------|----------------------------------------------------------------------------------|
 | Front Door                | `[-1067546500] = {-1067546500,-1544314778,"dis_roa_brothel01door",2794.1599121094,854.71997070312,71.755073547363}` <br> `[1079248997] = {1079248997,-1544314778,"dis_roa_brothel01door",2793.1398925781,854.71997070312,71.755073547363}`
 | Back Door                 | `[2034968072] = {2034968072,-628686073,"p_door_tax_shack01x",2797.2719726562,848.93499755859,71.372001647949}`
