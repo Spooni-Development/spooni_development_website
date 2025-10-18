@@ -22,16 +22,21 @@ This is the official documentation website for **SPOONI Development** – a team
 ### 🔍 **Advanced Props Gallery**
 A fully-featured, searchable gallery of 15,000+ props with:
 - Real-time search and filtering by category/subcategory
-- Lazy-loaded images for optimal performance
+- Lazy-loaded images and dynamic JSON imports for optimal performance
 - Zoom functionality for detailed viewing
 - One-click copy-to-clipboard for prop names
 - Fully responsive design (mobile, tablet, desktop)
+- Efficient pagination and filtering system
 
 ### 📱 **Responsive Design**
 Works beautifully on all devices – from mobile phones to ultra-wide monitors. Dark mode included with smooth animations.
 
 ### ⚡ **Lightning Fast**
-Built with Vite, the site loads instantly. Static generation means no server processing – just pure speed.
+Built with Vite, the site loads instantly. Static generation means no server processing – just pure speed. Optimized with:
+- WebP image format for smaller file sizes
+- Custom font loading strategy
+- Code splitting and lazy loading
+- Efficient caching strategies
 
 ### 🎨 **Easy Content Management**
 All documentation is written in Markdown. No database, no complex backend – just create a `.md` file and you're done.
@@ -92,20 +97,54 @@ No server-side processing required – just upload the contents of `docs/.vitepr
 
 ## 🎨 Customization
 
-The site uses VitePress's theming system and can be easily customized:
+The site uses VitePress's theming system with a modular architecture:
 
-- **Colors**: Edit `docs/.vitepress/theme/style.css`
+- **Design System**: Edit design tokens in `docs/.vitepress/theme/styles/design-tokens.css`
+- **Colors & Variables**: Modify `docs/.vitepress/theme/styles/variables.css`
+- **Components**: Extend component styles in `docs/.vitepress/theme/styles/components.css`
 - **Navigation**: Configure `docs/.vitepress/config.mts`
-- **Components**: Add custom Vue components in `docs/.vitepress/theme/`
+- **Vue Components**: Add custom components in `docs/.vitepress/theme/components/`
+- **Utilities**: Helper functions available in `docs/.vitepress/theme/utils/`
+
+The modular structure follows industry best practices for maintainability and scalability.
+
+### Project Structure
+
+```
+docs/
+├── .vitepress/
+│   ├── config.mts              # Site configuration
+│   ├── theme/
+│   │   ├── components/         # Vue components (PropCard, PropGrid, etc.)
+│   │   ├── composables/        # Reusable composition functions
+│   │   ├── styles/             # Modular CSS architecture
+│   │   │   ├── design-tokens.css   # Design system tokens
+│   │   │   ├── variables.css       # VitePress theme variables
+│   │   │   ├── components.css      # Component-specific styles
+│   │   │   ├── utilities.css       # Utility classes
+│   │   │   └── overrides.css       # VitePress overrides
+│   │   ├── utils/              # Helper functions
+│   │   ├── fonts.css           # Custom font definitions
+│   │   ├── index.ts            # Theme entry point
+│   │   └── PropGallery.vue     # Main props gallery component
+│   └── dist/                   # Build output (git-ignored)
+├── doc_mappings/               # Mapping documentation
+├── doc_scripts/                # Script documentation
+└── public/                     # Static assets
+    ├── fonts/                  # Custom web fonts
+    └── *.webp                  # Optimized images
+```
 
 ## 💡 Why This Stack?
 
 **VitePress** combines the best of both worlds:
 - ✅ **Simple**: Write in Markdown, no complex setup
-- ✅ **Powerful**: Full Vue.js capabilities when needed
+- ✅ **Powerful**: Full Vue.js 3 capabilities with Composition API
 - ✅ **Fast**: Vite-powered builds and instant HMR
-- ✅ **SEO-friendly**: Static HTML generation
-- ✅ **Maintainable**: Clear structure, easy to update
+- ✅ **SEO-friendly**: Static HTML generation with SSR
+- ✅ **Maintainable**: Clear structure, modular architecture
+- ✅ **Modern**: Built-in TypeScript support, latest web standards
+- ✅ **Optimized**: Automatic code splitting, lazy loading, tree shaking
 
 Perfect for documentation that needs to be both professional and easy to maintain.
 

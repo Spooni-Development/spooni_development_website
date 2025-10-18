@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import './fonts.css'  // Self-hosted fonts (GDPR compliant)
 import './style.css'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 import Layout from './Layout.vue'

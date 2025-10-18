@@ -2,8 +2,12 @@
   "name": "spooni_docs",
   "author": "emotion06",
   "license": "GNU General Public License v3.0.",
+  "overrides": {
+    "vite": "^5.4.20",
+    "esbuild": "^0.25.0"
+  },
   "devDependencies": {
-    "vitepress": "^1.4.0",
+    "vitepress": "^1.6.4",
     "vitepress-plugin-tabs": "^0.5.0"
   },
   "scripts": {

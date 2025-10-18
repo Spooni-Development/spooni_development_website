@@ -1,7 +1,7 @@
 import {
   reactive,
   watch
-} from "./chunk-CZX7GLWV.js";
+} from "./chunk-JAPIL3UL.js";
 
 // node_modules/vitepress-plugin-tabs/src/client/index.ts
 import PluginTabs from "C:/Users/Anwender/Documents/GitHub/spooni_docs/node_modules/vitepress-plugin-tabs/src/client/PluginTabs.vue";

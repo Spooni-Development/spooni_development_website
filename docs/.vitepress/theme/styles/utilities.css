@@ -1,0 +1,26 @@
+/**
+ * Utility Styles
+ * Global utilities and base styles
+ */
+
+/* ========================================
+   Smooth Scrolling
+   ======================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* ========================================
+   Custom Scrollbar
+   ======================================== */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+

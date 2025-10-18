@@ -1,0 +1,58 @@
+/**
+ * VitePress Component Overrides
+ * Custom styling for VitePress built-in components
+ */
+
+/* ========================================
+   Layout Overrides
+   ======================================== */
+
+.content-container {
+  max-width: 100% !important;
+}
+
+.aside {
+  max-width: 300px !important;
+}
+
+.aside-container {
+  width: fit-content !important;
+}
+
+/* ========================================
+   Typography Overrides
+   ======================================== */
+
+/* Page titles in brand color */
+.vp-doc h1,
+h1 {
+  color: #f25c05 !important;
+}
+
+/* ========================================
+   Hero Section Overrides
+   ======================================== */
+
+/* Hero: "SPOONI" keeps gradient, "Development" in off-white */
+.VPHero .text {
+  color: #deded6 !important;
+  background: none !important;
+}
+
+/* Feature icons in hero section */
+.icon {
+  background-color: transparent !important;
+}
+
+/* ========================================
+   Tabs Plugin Overrides
+   ======================================== */
+
+/* iFrames inside tabs should stay at original size */
+.plugin-tabs--content iframe {
+  max-width: 560px !important;
+  width: 100% !important;
+  height: 315px !important;
+  aspect-ratio: auto !important;
+}
+

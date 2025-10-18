@@ -14,13 +14,13 @@ sidebar: false
 
     const server_service = [
         {
-           avatar: '/standard_service.png',
+           avatar: '/standard_service.webp',
             name: 'Standard',
             title: '50€',
             desc: '<b> - Setting up the FXServer <br> - Setting up the database <br> - Installing the framework </b>',
         },
         {
-           avatar: '/premium_service.png',
+           avatar: '/premium_service.webp',
             name: 'Premium',
             title: '100€',
             desc: '<b> - Standard package <br> - Custom request </b>',

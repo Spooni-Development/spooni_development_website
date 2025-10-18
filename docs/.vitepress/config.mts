@@ -12,10 +12,45 @@ export default defineConfig({
   description: "SPOONI Development",
   lastUpdated: true,
   cleanUrls: true,
+  
+  // Disable Google Fonts (GDPR compliant)
+  useWebFonts: false,
+  
   head: [
     [
       "link",
       { rel: "icon", sizes: "64x64", href: "/logo.svg", loading: "lazy" },
+    ],
+    // Preload critical fonts for better performance
+    [
+      "link",
+      { 
+        rel: "preload", 
+        href: "/fonts/space-grotesk/space-grotesk-v16-latin-regular.woff2", 
+        as: "font", 
+        type: "font/woff2", 
+        crossorigin: "" 
+      }
+    ],
+    [
+      "link",
+      { 
+        rel: "preload", 
+        href: "/fonts/space-grotesk/space-grotesk-v16-latin-700.woff2", 
+        as: "font", 
+        type: "font/woff2", 
+        crossorigin: "" 
+      }
+    ],
+    [
+      "link",
+      { 
+        rel: "preload", 
+        href: "/fonts/space-mono/space-mono-v13-latin-regular.woff2", 
+        as: "font", 
+        type: "font/woff2", 
+        crossorigin: "" 
+      }
     ],
   ],
   themeConfig: {
@@ -208,41 +243,41 @@ export default defineConfig({
               { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' }, 
               { text: "🎡 Ferris Wheel", link:'/doc_scripts/spooni/spooni_ferriswheel' },
               { text: "🏨 Hotel", link:'/doc_scripts/spooni/spooni_hotel' },
-              { text: "🗑️ Prop Deleter", link:'doc_scripts/spooni/spooni_prop_deleter' },
-              { text: "🧩 Prop Loader", link:'doc_scripts/spooni/spooni_prop_loader' },
-              { text: "🎭 Theater & Cinema", link:'doc_scripts/spooni/spooni_showtime' },
-              { text: "🚁 Zeppelin", link:'doc_scripts/spooni/spooni_zeppelin' },
+              { text: "🗑️ Prop Deleter", link:'/doc_scripts/spooni/spooni_prop_deleter' },
+              { text: "🧩 Prop Loader", link:'/doc_scripts/spooni/spooni_prop_loader' },
+              { text: "🎭 Theater & Cinema", link:'/doc_scripts/spooni/spooni_showtime' },
+              { text: "🚁 Zeppelin", link:'/doc_scripts/spooni/spooni_zeppelin' },
 
               // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
               { text: "Free Scripts", collapsed: true, items:[
                 { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
-                { text: "📍 Job Blips", link:'doc_scripts/spooni/spooni_job_blips' },
-                { text: "💻 Spooner", link:'doc_scripts/spooni/spooni_spooner' },
-                { text: "🌱 VegMod", link:'doc_scripts/spooni/spooni_vegmod' },
-                { text: "🛞 Vehicle Loader", link:'doc_scripts/spooni/spooni_vehicle_loader' },
+                { text: "📍 Job Blips", link:'/doc_scripts/spooni/spooni_job_blips' },
+                { text: "💻 Spooner", link:'/doc_scripts/spooni/spooni_spooner' },
+                { text: "🌱 VegMod", link:'/doc_scripts/spooni/spooni_vegmod' },
+                { text: "🛞 Vehicle Loader", link:'/doc_scripts/spooni/spooni_vehicle_loader' },
               ]},
             ]},
 
             { text: "Dietrich", collapsed: true, items:[
-              { text: "🤠 Character Background", link:'doc_scripts/dietrich/spooni_character_backgrounds' },
-              { text: "🗺️ Map Marker", link:'doc_scripts/dietrich/spooni_map_marker' },
-              { text: "👥 Ped Manager", link:'doc_scripts/dietrich/spooni_ped_manager' },
-              { text: "🧩 Prop Placer", link:'doc_scripts/dietrich/spooni_prop_placer' },
-              { text: "📈 Stockmarket", link:'doc_scripts/dietrich/spooni_stockmarket' },
-              { text: "🔫 Weapon Controller", link:'doc_scripts/dietrich/spooni_weapon_controller' },
-              { text: "🐎 Wildhorse", link:'doc_scripts/dietrich/spooni_wildhorse' },
+              { text: "🤠 Character Background", link:'/doc_scripts/dietrich/spooni_character_backgrounds' },
+              { text: "🗺️ Map Marker", link:'/doc_scripts/dietrich/spooni_map_marker' },
+              { text: "👥 Ped Manager", link:'/doc_scripts/dietrich/spooni_ped_manager' },
+              { text: "🧩 Prop Placer", link:'/doc_scripts/dietrich/spooni_prop_placer' },
+              { text: "📈 Stockmarket", link:'/doc_scripts/dietrich/spooni_stockmarket' },
+              { text: "🔫 Weapon Controller", link:'/doc_scripts/dietrich/spooni_weapon_controller' },
+              { text: "🐎 Wildhorse", link:'/doc_scripts/dietrich/spooni_wildhorse' },
             ]},
 
             { text: "DrShwaggins", collapsed: true, items:[
-              { text: "💵 Billing", link:'doc_scripts/drshwaggins/dl_advancedbilling' },
-              { text: "🏪 Stores", link:'doc_scripts/drshwaggins/dl_advancedstores' },
-              { text: "🎥 Cutscenes", link:'doc_scripts/drshwaggins/dl_cutscenes' },
-              { text: "💾 DB Backup", link:'doc_scripts/drshwaggins/dl_dbbackup' },
-              { text: "🍊 Farmroutes", link:'doc_scripts/drshwaggins/dl_farmroutes' },
-              { text: "🪓 Lumberjack", link:'doc_scripts/drshwaggins/dl_lumberjack' },
-              { text: "🧮 Society", link:'doc_scripts/drshwaggins/dl_society' },
-              { text: "📦 Storages", link:'doc_scripts/drshwaggins/dl_storages' },
-              { text: "⚔️ Whitelist", link:'doc_scripts/drshwaggins/dl_questionwhitelist' },
+              { text: "💵 Billing", link:'/doc_scripts/drshwaggins/dl_advancedbilling' },
+              { text: "🏪 Stores", link:'/doc_scripts/drshwaggins/dl_advancedstores' },
+              { text: "🎥 Cutscenes", link:'/doc_scripts/drshwaggins/dl_cutscenes' },
+              { text: "💾 DB Backup", link:'/doc_scripts/drshwaggins/dl_dbbackup' },
+              { text: "🍊 Farmroutes", link:'/doc_scripts/drshwaggins/dl_farmroutes' },
+              { text: "🪓 Lumberjack", link:'/doc_scripts/drshwaggins/dl_lumberjack' },
+              { text: "🧮 Society", link:'/doc_scripts/drshwaggins/dl_society' },
+              { text: "📦 Storages", link:'/doc_scripts/drshwaggins/dl_storages' },
+              { text: "⚔️ Whitelist", link:'/doc_scripts/drshwaggins/dl_questionwhitelist' },
             ]},
           ]
       },
@@ -252,4 +287,56 @@ export default defineConfig({
       copyright: '© 2022 - 2025 <a style="color: #f25c05;" href="https://discord.gg/spooni" target="_blank">SPOONI Development</a>',
     },   
   },
+
+  // Vite config for bundle optimization
+  vite: {
+    build: {
+      // Increase chunk size warning limit (VitePress docs can be large)
+      chunkSizeWarningLimit: 2000,
+      
+      rollupOptions: {
+        output: {
+          // Manual chunk splitting for large libraries
+          manualChunks(id) {
+            // Vue core in separate chunk
+            if (id.includes('node_modules/vue/') || id.includes('node_modules/@vue/')) {
+              return 'vue-vendor'
+            }
+            // Vue Router in separate chunk
+            if (id.includes('node_modules/vue-router')) {
+              return 'vue-router-vendor'
+            }
+            // VitePress in separate chunk
+            if (id.includes('node_modules/vitepress')) {
+              return 'vitepress-vendor'
+            }
+            // Medium-zoom in separate chunk
+            if (id.includes('node_modules/medium-zoom')) {
+              return 'medium-zoom-vendor'
+            }
+            // VitePress Tabs Plugin
+            if (id.includes('node_modules/vitepress-plugin-tabs')) {
+              return 'vitepress-tabs-vendor'
+            }
+            // All other node_modules
+            if (id.includes('node_modules')) {
+              return 'vendor'
+            }
+          }
+        }
+      }
+    },
+    
+    // Dependency optimization for build issues
+    optimizeDeps: {
+      exclude: [
+        'vitepress'
+      ]
+    },
+    
+    // SSR config for mark.js compatibility
+    ssr: {
+      noExternal: ['mark.js']
+    }
+  }
 })
