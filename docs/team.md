@@ -144,14 +144,6 @@ sidebar: false
 
     const mapper = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/331861578842636301/d6afea1b6c57dfbf6f4dbbea1d4315b0.webp?size=128',
-            name: 'Alina',
-            title: 'Mapper',
-            links: [
-                { icon: 'discord', link: 'https://discordapp.com/users/331861578842636301/' },
-            ]
-        },
-        {
             avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/20065ddc60918ce09dde24fcbd78f514.webp?size=128',
             name: 'Leesh',
             title: 'Mapper',
@@ -317,14 +309,6 @@ sidebar: false
             title: 'Mapper',
             links: [
                 { icon: 'discord', link: 'discord.com/users/237969728239435776' },
-            ]
-        },
-        {
-            avatar: 'https://cdn.discordapp.com/avatars/404260740275503105/103db2fe2c05c535c26c189eb5af533f.webp?size=128',
-            name: 'Sprudeli',
-            title: 'Mapper',
-            links: [
-                { icon: 'discord', link: 'discord.com/users/404260740275503105' },
             ]
         },
     ]
