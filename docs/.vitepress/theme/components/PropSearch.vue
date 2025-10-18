@@ -64,9 +64,9 @@ function onClear() {
 .search-input {
   width: 100%;
   padding: var(--space-3) var(--space-12);
-  border: 2px solid var(--vp-c-border);
+  border: none;
   border-radius: var(--radius-lg);
-  background: var(--vp-c-bg);
+  background: var(--vp-c-bg-alt);
   color: var(--vp-c-text-1);
   font-size: var(--text-base);
   font-family: inherit;
@@ -80,7 +80,6 @@ function onClear() {
 }
 
 .search-input:focus {
-  border-color: var(--vp-c-brand);
   box-shadow: 0 0 0 3px var(--vp-c-brand-soft);
 }
 

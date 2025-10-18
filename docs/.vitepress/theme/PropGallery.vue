@@ -41,12 +41,15 @@
           :selectedCategory="selectedCategory"
           :selectedSubcategory="selectedSubcategory"
           :itemsPerPage="itemsPerPage"
+          :columnsPerRow="columnsPerRow"
           @update:itemsPerPage="itemsPerPage = $event"
+          @update:columnsPerRow="columnsPerRow = $event"
         />
         
         <PropGrid 
           v-if="paginatedProps.length > 0" 
-          :paginatedProps="paginatedProps" 
+          :paginatedProps="paginatedProps"
+          :columnsPerRow="columnsPerRow"
         />
         <PropEmptyState 
           v-else 
@@ -95,6 +98,7 @@ const selectedCategory = ref('all');
 const selectedSubcategory = ref('all');
 const searchQuery = ref('');
 const itemsPerPage = ref<number>(PAGINATION.DEFAULT_ITEMS_PER_PAGE);
+const columnsPerRow = ref<number>(5);
 
 // Categories
 const { categories } = usePropCategories(propData);

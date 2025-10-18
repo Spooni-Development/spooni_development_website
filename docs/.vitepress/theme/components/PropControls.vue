@@ -17,29 +17,33 @@
       </span>
     </div>
 
-    <div class="per-page-selector">
-      <label for="per-page">Per page:</label>
-      <select 
-        id="per-page" 
-        :value="itemsPerPage" 
-        @change="onItemsPerPageChange"
-        class="per-page-select"
-      >
-        <option 
-          v-for="option in PAGINATION.ITEMS_PER_PAGE_OPTIONS" 
-          :key="option" 
-          :value="option"
-        >
-          {{ option }}
-        </option>
-      </select>
+    <div class="controls-right">
+      <div class="selector-wrapper">
+        <label>Columns:</label>
+        <CustomSelect 
+          :modelValue="columnsPerRow" 
+          :options="columnsOptions"
+          @update:modelValue="(value) => $emit('update:columnsPerRow', Number(value))"
+        />
+      </div>
+
+      <div class="selector-wrapper">
+        <label>Per page:</label>
+        <CustomSelect 
+          :modelValue="itemsPerPage" 
+          :options="perPageOptions"
+          @update:modelValue="(value) => $emit('update:itemsPerPage', Number(value))"
+        />
+      </div>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
+import { computed } from 'vue';
 import { formatCategory } from '../utils/formatCategory';
 import { PAGINATION } from '../constants';
+import CustomSelect from './CustomSelect.vue';
 
 defineProps<{
   paginatedPropsLength: number;
@@ -48,16 +52,26 @@ defineProps<{
   selectedCategory: string;
   selectedSubcategory: string;
   itemsPerPage: number;
+  columnsPerRow: number;
 }>();
 
-const emit = defineEmits<{
+defineEmits<{
   'update:itemsPerPage': [value: number];
+  'update:columnsPerRow': [value: number];
 }>();
 
-function onItemsPerPageChange(event: Event) {
-  const target = event.target as HTMLSelectElement;
-  emit('update:itemsPerPage', Number(target.value));
-}
+const columnsOptions = computed(() => [
+  { value: 3, label: '3' },
+  { value: 4, label: '4' },
+  { value: 5, label: '5' }
+]);
+
+const perPageOptions = computed(() => 
+  PAGINATION.ITEMS_PER_PAGE_OPTIONS.map(option => ({
+    value: option,
+    label: option.toString()
+  }))
+);
 </script>
 
 <style scoped>
@@ -75,7 +89,14 @@ function onItemsPerPageChange(event: Event) {
   font-size: var(--text-sm);
 }
 
-.per-page-selector {
+.controls-right {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.selector-wrapper {
   display: flex;
   align-items: center;
   gap: var(--space-2);
@@ -83,26 +104,8 @@ function onItemsPerPageChange(event: Event) {
   color: var(--vp-c-text-2);
 }
 
-.per-page-select {
-  padding: var(--space-2) var(--space-3);
-  border: 1px solid var(--vp-c-border);
-  border-radius: var(--radius-sm);
-  background: var(--vp-c-bg);
-  color: var(--vp-c-text-1);
-  font-size: var(--text-sm);
-  cursor: pointer;
-  transition: all var(--transition-base) ease;
-  min-height: var(--touch-target-min);
-}
-
-.per-page-select:hover {
-  border-color: var(--vp-c-brand);
-}
-
-.per-page-select:focus {
-  outline: none;
-  border-color: var(--vp-c-brand);
-  box-shadow: 0 0 0 2px var(--vp-c-brand-soft);
+.selector-wrapper label {
+  white-space: nowrap;
 }
 
 /* Tablets: Adjust layout */
@@ -111,7 +114,7 @@ function onItemsPerPageChange(event: Event) {
     font-size: var(--text-base);
   }
   
-  .per-page-selector {
+  .selector-wrapper {
     font-size: var(--text-base);
   }
 }

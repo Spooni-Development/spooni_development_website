@@ -18,6 +18,7 @@ import type { Prop } from '../composables/usePropData';
 
 const props = defineProps<{
   paginatedProps: Prop[];
+  columnsPerRow: number;
 }>();
 
 const { initLazyLoading } = useLazyLoading();
@@ -67,18 +68,10 @@ onMounted(() => {
   }
 }
 
-/* Desktop: 4 columns */
+/* Desktop: Use user-selected columns */
 @media (min-width: 1024px) {
   .gallery-grid {
-    grid-template-columns: repeat(4, 1fr);
-    gap: var(--space-5);
-  }
-}
-
-/* Large Desktop: 5 columns */
-@media (min-width: 1200px) {
-  .gallery-grid {
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(v-bind(columnsPerRow), 1fr);
     gap: var(--space-5);
   }
 }

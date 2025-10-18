@@ -148,7 +148,8 @@ function selectSubcategory(subcategory: string) {
 /* Main categories - hover state */
 .category-item:hover {
   background: var(--vp-c-brand);
-  transform: translateX(2px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .category-item:hover .category-name {
@@ -257,7 +258,8 @@ function selectSubcategory(subcategory: string) {
 /* Subcategories - hover state */
 .subcategory-item:hover {
   background: var(--vp-c-bg-soft);
-  transform: translateX(2px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .subcategory-item:hover .subcategory-name {

@@ -74,10 +74,10 @@ defineEmits<{
   min-width: var(--touch-target-min);
   height: var(--touch-target-min);
   padding: var(--space-2) var(--space-3);
-  border: 1px solid var(--vp-c-border);
-  background: var(--vp-c-bg);
+  border: none;
+  background: var(--vp-c-bg-alt);
   color: var(--vp-c-text-1);
-  border-radius: var(--radius-md);
+  border-radius: var(--radius-lg);
   cursor: pointer;
   font-size: var(--text-sm);
   font-weight: var(--font-medium);
@@ -87,14 +87,13 @@ defineEmits<{
 
 .pagination-button:hover:not(:disabled) {
   background: var(--vp-c-brand-soft);
-  border-color: var(--vp-c-brand);
   color: var(--vp-c-brand);
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .pagination-button.active {
   background: var(--vp-c-brand);
-  border-color: var(--vp-c-brand);
   color: white;
   cursor: default;
 }

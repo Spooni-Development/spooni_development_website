@@ -40,7 +40,7 @@ function handleCopy() {
 <style scoped>
 .gallery-item {
   background: var(--vp-c-bg-soft);
-  border-radius: 8px;
+  border-radius: var(--radius-lg);
   overflow: hidden;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   display: flex;
@@ -49,7 +49,7 @@ function handleCopy() {
 
 .gallery-item:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .image-container {
@@ -119,8 +119,9 @@ function handleCopy() {
 }
 
 .copy-button:hover {
-  background: var(--vp-c-brand-dark, #1a6f3a);
-  transform: translateY(-1px);
+  background: var(--vp-c-brand-dark, #d64d00);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .copy-button.copied {
