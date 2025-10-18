@@ -45,6 +45,31 @@ h1 {
 }
 
 /* ========================================
+   Features Section Overrides
+   ======================================== */
+
+/* Remove orange border on feature hover and apply PropGallery-style effect */
+.VPFeature,
+.vp-feature {
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  border: none !important;
+}
+
+.VPFeature:hover,
+.vp-feature:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  border: none !important;
+  border-color: transparent !important;
+}
+
+.VPFeature:hover .box,
+.vp-feature:hover .box {
+  border: none !important;
+  border-color: transparent !important;
+}
+
+/* ========================================
    Tabs Plugin Overrides
    ======================================== */
 

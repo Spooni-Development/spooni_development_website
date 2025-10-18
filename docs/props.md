@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Props
+title: Props Gallery
 sidebar: false
 ---
 <!-- # Props Gallery -->

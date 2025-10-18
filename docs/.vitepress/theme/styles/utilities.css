@@ -15,12 +15,29 @@ html {
    Custom Scrollbar
    ======================================== */
 
-* {
-  scrollbar-width: thin;
-  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+/* Webkit Scrollbar (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 8px;
 }
 
-::-webkit-scrollbar {
-  width: 12px;
+::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: var(--radius-lg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-bg);
+  border-radius: var(--radius-lg);
+  transition: background var(--transition-base) ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-brand);
+}
+
+/* Firefox Scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--vp-c-bg) transparent;
 }
 
