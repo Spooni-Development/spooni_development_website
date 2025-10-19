@@ -25,7 +25,7 @@ import {
 } from "./chunk-VIFIQHVX.js";
 
 // node_modules/vitepress-plugin-tabs/dist/client/browser/index.js
-import "C:/Users/Anwender/Documents/GitHub/spooni_docs/node_modules/vitepress-plugin-tabs/dist/client/browser/index.css";
+import "C:/Users/Anwender/Documents/GitHub/spooni_development_website/node_modules/vitepress-plugin-tabs/dist/client/browser/index.css";
 var useStabilizeScrollPosition = (targetEle) => {
   if (typeof document === "undefined") {
     const mock = (f) => async (...args) => f(...args);

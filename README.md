@@ -1,6 +1,6 @@
-# SPOONI Development Documentation
+# SPOONI Development Website
 
-> A modern, fast, and user-friendly documentation site for RedM mappings and scripts, built with VitePress.
+> The official website for SPOONI Development – A modern, comprehensive platform for RedM resources, documentation, community, and services, built with VitePress.
 
 [![VitePress](https://img.shields.io/badge/VitePress-1.4.0-646cff?style=flat-square&logo=vite)](https://vitepress.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3-4fc08d?style=flat-square&logo=vue.js)](https://vuejs.org/)
@@ -8,14 +8,16 @@
 
 ## 🎯 What is this?
 
-This is the official documentation website for **SPOONI Development** – a team specializing in high-quality RedM (Red Dead Redemption 2 Multiplayer) resources. The site serves as a central hub for:
+This is the official website for **SPOONI Development** – a team specializing in high-quality RedM (Red Dead Redemption 2 Multiplayer) resources. The site is a complete platform that serves as:
 
-- 📚 **Documentation** for 100+ mappings across all RDR2 regions
-- 🔧 **Script guides** from multiple developers (SPOONI, Dietrich, DrShwaggins)
-- 🎨 **Props gallery** with 15,000+ searchable game assets
-- 👥 **Team & partner information**
+- 📚 **Documentation** – Comprehensive guides for 100+ mappings across all RDR2 regions and detailed script documentation
+- 🎨 **Props Gallery** – Interactive gallery with 15,000+ searchable game assets
+- 👥 **Team Showcase** – Meet our developers, mappers, and artists
+- 🤝 **Partner Network** – Showcasing our community partners across multiple tiers
+- 🛠️ **Services** – Information about our development and mapping services
+- 📖 **Knowledge Base** – Detailed guides and tutorials for RedM development
 
-**Why VitePress?** It's lightning-fast, markdown-based, and makes maintaining documentation incredibly easy. No complex CMS needed – just write markdown files and deploy.
+**Why VitePress?** It's lightning-fast, markdown-based, and incredibly flexible. Perfect for building a modern web presence that combines documentation, galleries, and dynamic content – all without a complex CMS.
 
 ## ✨ Key Features
 
@@ -39,7 +41,7 @@ Built with Vite, the site loads instantly. Static generation means no server pro
 - Efficient caching strategies
 
 ### 🎨 **Easy Content Management**
-All documentation is written in Markdown. No database, no complex backend – just create a `.md` file and you're done.
+All content is written in Markdown – from documentation to team profiles and partner showcases. No database, no complex backend – just create a `.md` file and you're done.
 
 ### 🔎 **Built-in Search**
 Local search functionality lets users find any information instantly across all documentation pages.
@@ -128,10 +130,19 @@ docs/
 │   │   ├── index.ts            # Theme entry point
 │   │   └── PropGallery.vue     # Main props gallery component
 │   └── dist/                   # Build output (git-ignored)
-├── doc_mappings/               # Mapping documentation
-├── doc_scripts/                # Script documentation
+├── doc_mappings/               # Mapping documentation (100+ locations)
+├── doc_scripts/                # Script documentation (SPOONI, Dietrich, DrShwaggins)
+├── team.md                     # Team members showcase
+├── partner.md                  # Partner network (Tier 1, Tier 2, Dev)
+├── service.md                  # Services offered
+├── props.md                    # Props gallery page
+├── index.md                    # Homepage
 └── public/                     # Static assets
-    ├── fonts/                  # Custom web fonts
+    ├── fonts/                  # Custom web fonts (Space Grotesk, Space Mono)
+    ├── icons/                  # SVG icons
+    ├── team/                   # Team member images
+    ├── partner/                # Partner logos
+    ├── sponsor/                # Sponsor images
     └── *.webp                  # Optimized images
 ```
 
@@ -145,8 +156,9 @@ docs/
 - ✅ **Maintainable**: Clear structure, modular architecture
 - ✅ **Modern**: Built-in TypeScript support, latest web standards
 - ✅ **Optimized**: Automatic code splitting, lazy loading, tree shaking
+- ✅ **Flexible**: Perfect for both documentation and dynamic web content
 
-Perfect for documentation that needs to be both professional and easy to maintain.
+Ideal for creating a professional web presence that's easy to maintain and lightning-fast to load.
 
 ## 📜 License & Credits
 
