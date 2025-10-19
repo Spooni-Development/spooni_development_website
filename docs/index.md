@@ -1,6 +1,17 @@
 ---
 layout: home
 title: Home
+description: SPOONI Development offers premium RedM scripts and detailed mappings for Red Dead Redemption 2 roleplay servers. Professional quality MLOs, interactive scripts, and custom props for immersive Wild West experiences.
+head:
+  - - meta
+    - name: keywords
+      content: RedM, Red Dead Redemption 2, RDR2 roleplay, RedM scripts, RedM mappings, MLO, custom props, RedM resources, VORP, RSG, RPX, spooni development, RedM showcase server
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/
 
 hero: 
   name: SPOONI

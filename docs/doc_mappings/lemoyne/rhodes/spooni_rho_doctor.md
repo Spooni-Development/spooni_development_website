@@ -1,3 +1,18 @@
+---
+title: Rhodes Doctor
+description: SPOONI Rhodes Doctor MLO for RedM - Medical office interior with examination room. Healthcare facility for Rhodes roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Rhodes doctor, medical office MLO, Lemoyne doctor, Rhodes clinic, healthcare MLO, Rhodes mapping, RDR2 Rhodes
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/rhodes/spooni_rho_doctor
+---
+
 # 🏠 Rhodes Doctor
 Documentation relating to the spooni_rho_doctor.
 

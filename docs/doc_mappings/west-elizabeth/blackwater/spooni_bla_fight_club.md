@@ -1,3 +1,18 @@
+---
+title: Blackwater Fight Club
+description: SPOONI Blackwater Fight Club MLO for RedM - Underground fighting arena. Combat venue for Blackwater roleplay in Red Dead Redemption 2 West Elizabeth.
+head:
+  - - meta
+    - name: keywords
+      content: Blackwater fight club, West Elizabeth fight club MLO, underground arena, combat venue, Blackwater entertainment, RedM Blackwater, RDR2 West Elizabeth
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/blackwater/spooni_bla_fight_club
+---
+
 # 🏠 Blackwater Fight Club
 Documentation relating to the spooni_bla_fight_club.
 

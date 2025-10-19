@@ -1,3 +1,18 @@
+---
+title: Moonstone Pond
+description: SPOONI Moonstone Pond MLO for RedM - Scenic lakeside cabin in Ambarino with detailed interior. Peaceful retreat location for Red Dead Redemption 2 roleplay servers.
+head:
+  - - meta
+    - name: keywords
+      content: Moonstone Pond, Ambarino cabin, RedM lakeside home, mountain retreat, Ambarino MLO, RedM cabin, RDR2 scenic home
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/ambarino/spooni_moonstone_pond
+---
+
 # 🏠 Moonstone Pond
 Documentation relating to the spooni_moonstone_pond.
 

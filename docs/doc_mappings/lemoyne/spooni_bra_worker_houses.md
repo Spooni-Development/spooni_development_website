@@ -1,3 +1,18 @@
+---
+title: Braithwaite Worker Houses
+description: SPOONI Braithwaite Worker Houses MLO for RedM - Plantation worker residences with detailed interiors. Labor housing for Braithwaite Manor area roleplay in Red Dead Redemption 2 Lemoyne.
+head:
+  - - meta
+    - name: keywords
+      content: Braithwaite workers, worker houses MLO, Lemoyne plantation, Braithwaite Manor, labor housing, RedM worker homes, RDR2 Lemoyne
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/spooni_bra_worker_houses
+---
+
 # 🏠 Braithwaite Worker Houses
 Documentation relating to the spooni_bra_worker_houses.
 

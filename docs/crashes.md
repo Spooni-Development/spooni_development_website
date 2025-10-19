@@ -1,6 +1,17 @@
 ---
 layout: doc
 title: RedM Crash Codes
+description: Complete guide to RedM crash codes and solutions for Red Dead Redemption 2 servers. Troubleshooting FXServer errors, pool limits, file corruption, and common server crashes with detailed fixes.
+head:
+  - - meta
+    - name: keywords
+      content: RedM crash codes, FXServer errors, server crash, RedM troubleshooting, pool limits, YTYP error, YDR corruption, RedM debugging, RDR2 server fixes, object pool overflow
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/crashes
 ---
 
 # 🔧 RedM Crash Codes & Solutions

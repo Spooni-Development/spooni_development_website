@@ -1,3 +1,18 @@
+---
+title: St. Denis Promenade
+description: SPOONI St. Denis Promenade MLO for RedM - Waterfront boardwalk with shops and entertainment. Scenic public area for Saint Denis roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Saint Denis promenade, boardwalk MLO, Lemoyne waterfront, St Denis walkway, public area, RedM promenade, RDR2 Saint Denis
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_promenade
+---
+
 # 🏠 St. Denis Promenade
 Documentation relating to the spooni_sd_promenade.
 

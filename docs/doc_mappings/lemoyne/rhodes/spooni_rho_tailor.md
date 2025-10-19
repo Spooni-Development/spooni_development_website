@@ -1,3 +1,18 @@
+---
+title: Rhodes Tailor
+description: SPOONI Rhodes Tailor MLO for RedM - Clothing shop interior with workshop area. Fashion and tailoring business for Rhodes roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Rhodes tailor, clothing shop MLO, Lemoyne tailor, Rhodes fashion, tailor shop, Rhodes mapping, RDR2 Rhodes
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/rhodes/spooni_rho_tailor
+---
+
 # 🏠 Rhodes Tailor
 Documentation relating to the spooni_rho_tailor.
 

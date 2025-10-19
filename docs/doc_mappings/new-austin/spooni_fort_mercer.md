@@ -1,3 +1,18 @@
+---
+title: Fort Mercer
+description: SPOONI Fort Mercer MLO for RedM - Complete fort restoration with blacksmith, saloon, barracks, and underground areas. Premium New Austin mapping for Wild West roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Fort Mercer, RedM fort MLO, New Austin mapping, fort interior, Wild West fort, RDR2 fort restoration, outlaw hideout, RedM military base, New Austin MLO
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_fort_mercer
+---
+
 # 🏠 Fort Mercer
 Documentation relating to the spooni_fort_mercer.
 

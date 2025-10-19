@@ -1,3 +1,18 @@
+---
+title: Secret Cellar
+description: SPOONI Secret Cellar MLO for RedM - Hidden underground facility with secret rooms. Concealed location for mystery and criminal roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: secret cellar, hidden facility MLO, underground location, secret rooms, hidden cellar, RedM secrets, RDR2 hidden locations
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/other/spooni_secretcellar
+---
+
 # 🏠 Secret Cellar
 Documentation relating to the spooni_secretcellar.
 

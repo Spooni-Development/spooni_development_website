@@ -1,3 +1,18 @@
+---
+title: Manzanita Post
+description: SPOONI Manzanita Post MLO for RedM - Frontier trading post with general store. Supply depot for West Elizabeth roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Manzanita Post, West Elizabeth trading post MLO, frontier store, general store, supply depot, RedM Manzanita, RDR2 West Elizabeth
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/spooni_manzanita_post
+---
+
 # 🏠 Manzanita Post
 Documentation relating to the spooni_manzanita_post.
 

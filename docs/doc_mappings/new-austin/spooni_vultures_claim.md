@@ -1,3 +1,18 @@
+---
+title: Vultures Claim
+description: SPOONI Vulture's Claim MLO for RedM - Abandoned mining settlement with detailed interiors. Ghost town for New Austin exploration roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Vultures Claim, mining town MLO, New Austin ghost town, abandoned settlement, mining camp, RedM ghost town, RDR2 New Austin
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_vultures_claim
+---
+
 # 🏠 Vultures Claim
 Documentation relating to the spooni_vultures_claim.
 

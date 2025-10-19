@@ -1,3 +1,18 @@
+---
+title: Interactions
+description: SPOONI Interactions script for RedM - Free standalone script for interactive props with scenario animations. Enhanced version of the popular kibook script with improved features and vorp_menu integration.
+head:
+  - - meta
+    - name: keywords
+      content: RedM interactions, prop interactions, scenario animations, free RedM script, sit script, RedM animations, vorp_menu, standalone script, RDR2 interactions
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/spooni/spooni_interactions
+---
+
 # 🪑 Interactions
 Documentation relating to the spooni_interactions.
 

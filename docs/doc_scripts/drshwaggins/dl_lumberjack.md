@@ -1,3 +1,18 @@
+---
+title: Lumberjack Script
+description: Complete lumberjack job system for RedM by DrShwaggins. Chop trees, process lumber, and earn money with this immersive forestry job for Red Dead Redemption 2 servers.
+head:
+  - - meta
+    - name: keywords
+      content: RedM lumberjack, logging job, tree chopping, DrShwaggins, forestry job, RedM jobs, RDR2 lumberjack, wood harvesting
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_lumberjack
+---
+
 # 🪓 dl_lumberjack
 Documentation relating to the dl_lumberjack.
 

@@ -1,3 +1,18 @@
+---
+title: Rhodes Church
+description: SPOONI Rhodes Church MLO for RedM - Detailed church interior with office and rooms. Premium religious building for Rhodes roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Rhodes church, Lemoyne church MLO, RedM church, Rhodes interior, church roleplay, Rhodes mapping, RDR2 Rhodes
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/rhodes/spooni_rho_church
+---
+
 # 🏠 Rhodes Church
 Documentation relating to the spooni_rho_church.
 

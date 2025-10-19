@@ -9,9 +9,10 @@ export default defineConfig({
   },
   base: "/",
   title: "SPOONI Development",
-  description: "SPOONI Development",
+  description: "Professional RedM scripts and high-quality mappings for Red Dead Redemption 2 roleplay servers. Premium MLOs, immersive scripts, and custom props for your RDR2 community.",
   lastUpdated: true,
   cleanUrls: true,
+  lang: 'en-US',
   
   // Disable Google Fonts (GDPR compliant)
   useWebFonts: false,
@@ -22,7 +23,66 @@ export default defineConfig({
     ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
     ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-700.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
     ["link",{ rel: "preload", href: "/fonts/space-mono/space-mono-v13-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
+    
+    // SEO Meta Tags
+    ["meta", { name: "keywords", content: "RedM, Red Dead Redemption 2, RDR2, RedM scripts, RedM mappings, MLO, roleplay, FiveM, RedM mods, spooni, RedM resources, RDR2 roleplay, custom props, RedM development" }],
+    ["meta", { name: "author", content: "SPOONI Development" }],
+    ["meta", { name: "robots", content: "index, follow" }],
+    ["meta", { name: "viewport", content: "width=device-width, initial-scale=1.0" }],
+    
+    // Open Graph / Facebook
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:site_name", content: "SPOONI Development" }],
+    ["meta", { property: "og:locale", content: "en_US" }],
+    ["meta", { property: "og:image", content: "https://spooni.pages.dev/icons/logo.svg" }],
+    ["meta", { property: "og:image:width", content: "1200" }],
+    ["meta", { property: "og:image:height", content: "630" }],
+    
+    // Twitter Card
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:site", content: "@spooni.development" }],
+    ["meta", { name: "twitter:creator", content: "@spooni.development" }],
+    
+    // Canonical URL - will be overridden per page
+    ["link", { rel: "canonical", href: "https://spooni.pages.dev/" }],
   ],
+  
+  // Transform page data for dynamic meta tags
+  async transformPageData(pageData) {
+    const canonicalUrl = `https://spooni.pages.dev${pageData.relativePath.replace(/\.md$/, '.html').replace(/index\.html$/, '')}`
+    
+    // Set default meta if not provided
+    if (!pageData.frontmatter.head) pageData.frontmatter.head = []
+    
+    // Set page title and description dynamically
+    const pageTitle = pageData.frontmatter.title ? `${pageData.frontmatter.title} | SPOONI Development` : 'SPOONI Development - RedM Scripts & Mappings'
+    const pageDescription = pageData.frontmatter.description || pageData.description || 'Professional RedM scripts and high-quality mappings for Red Dead Redemption 2 roleplay servers.'
+    
+    // Determine keywords based on page path
+    let keywords = 'RedM, Red Dead Redemption 2, RDR2, RedM scripts, RedM mappings, MLO, roleplay'
+    if (pageData.relativePath.includes('doc_scripts')) {
+      keywords += ', RedM hotel script, RedM attractions, RedM theater, RedM zeppelin, RedM prop loader'
+    } else if (pageData.relativePath.includes('doc_mappings')) {
+      keywords += ', Saint Denis MLO, Valentine MLO, Blackwater MLO, Rhodes MLO, Annesburg MLO, custom buildings'
+    } else if (pageData.relativePath.includes('team')) {
+      keywords += ', SPOONI team, RedM developers, 3D artists, mappers'
+    } else if (pageData.relativePath.includes('partner')) {
+      keywords += ', RedM partners, RedM servers, roleplay communities'
+    }
+    
+    // Add or override meta tags
+    pageData.frontmatter.head.push(
+      ['meta', { property: 'og:title', content: pageTitle }],
+      ['meta', { property: 'og:description', content: pageDescription }],
+      ['meta', { property: 'og:url', content: canonicalUrl }],
+      ['meta', { name: 'twitter:title', content: pageTitle }],
+      ['meta', { name: 'twitter:description', content: pageDescription }],
+      ['meta', { name: 'description', content: pageDescription }],
+      ['meta', { name: 'keywords', content: keywords }],
+      ['link', { rel: 'canonical', href: canonicalUrl }]
+    )
+  },
+  
   themeConfig: {
     logo: "/icons/logo.svg",
     siteTitle: "SPOONI Development",
@@ -239,17 +299,18 @@ export default defineConfig({
               { text: "🐎 Wildhorse", link:'/doc_scripts/dietrich/spooni_wildhorse' },
             ]},
 
-            { text: "DrShwaggins", collapsed: true, items:[
-              { text: "💵 Billing", link:'/doc_scripts/drshwaggins/dl_advancedbilling' },
-              { text: "🏪 Stores", link:'/doc_scripts/drshwaggins/dl_advancedstores' },
-              { text: "🎥 Cutscenes", link:'/doc_scripts/drshwaggins/dl_cutscenes' },
-              { text: "💾 DB Backup", link:'/doc_scripts/drshwaggins/dl_dbbackup' },
-              { text: "🍊 Farmroutes", link:'/doc_scripts/drshwaggins/dl_farmroutes' },
-              { text: "🪓 Lumberjack", link:'/doc_scripts/drshwaggins/dl_lumberjack' },
-              { text: "🧮 Society", link:'/doc_scripts/drshwaggins/dl_society' },
-              { text: "📦 Storages", link:'/doc_scripts/drshwaggins/dl_storages' },
-              { text: "⚔️ Whitelist", link:'/doc_scripts/drshwaggins/dl_questionwhitelist' },
-            ]},
+            // DrShwaggins scripts hidden from navigation (files preserved in doc_scripts/drshwaggins/)
+            // { text: "DrShwaggins", collapsed: true, items:[
+            //   { text: "💵 Billing", link:'/doc_scripts/drshwaggins/dl_advancedbilling' },
+            //   { text: "🏪 Stores", link:'/doc_scripts/drshwaggins/dl_advancedstores' },
+            //   { text: "🎥 Cutscenes", link:'/doc_scripts/drshwaggins/dl_cutscenes' },
+            //   { text: "💾 DB Backup", link:'/doc_scripts/drshwaggins/dl_dbbackup' },
+            //   { text: "🍊 Farmroutes", link:'/doc_scripts/drshwaggins/dl_farmroutes' },
+            //   { text: "🪓 Lumberjack", link:'/doc_scripts/drshwaggins/dl_lumberjack' },
+            //   { text: "🧮 Society", link:'/doc_scripts/drshwaggins/dl_society' },
+            //   { text: "📦 Storages", link:'/doc_scripts/drshwaggins/dl_storages' },
+            //   { text: "⚔️ Whitelist", link:'/doc_scripts/drshwaggins/dl_questionwhitelist' },
+            // ]},
           ]
       },
     ],

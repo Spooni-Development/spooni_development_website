@@ -1,3 +1,18 @@
+---
+title: St. Denis Fight Club
+description: SPOONI St. Denis Fight Club MLO for RedM - Underground fighting arena with spectator area. Illicit combat venue for Saint Denis roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Saint Denis fight club, underground arena, Lemoyne fight club, combat venue, St Denis underground, RedM fight club, RDR2 boxing
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_fight_club
+---
+
 # 🏠 St. Denis Fight Club
 Documentation relating to the spooni_sd_fight_club.
 

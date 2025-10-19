@@ -1,3 +1,18 @@
+---
+title: St. Denis Ped Store
+description: SPOONI St. Denis Whisker in the Jar MLO for RedM - Cozy tavern with bar and rooms. Traditional drinking establishment for Saint Denis roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Saint Denis tavern, Whisker in the Jar, bar MLO, Lemoyne tavern, St Denis saloon, RedM bar, RDR2 Saint Denis, ped store
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_whisker_in_the_jar
+---
+
 # 🏠 St. Denis Ped Store 
 Documentation relating to the spooni_sd_whisker_in_the_jar.
 

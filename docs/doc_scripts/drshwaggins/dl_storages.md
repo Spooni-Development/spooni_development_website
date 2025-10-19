@@ -1,3 +1,18 @@
+---
+title: Storages Script
+description: Advanced storage and inventory system for RedM by DrShwaggins. Create custom storage locations and manage item containers for Red Dead Redemption 2 roleplay servers.
+head:
+  - - meta
+    - name: keywords
+      content: RedM storage, inventory system, storage containers, DrShwaggins, item storage, RedM inventory, RDR2 storage, warehouse management
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_storages
+---
+
 # 📦 dl_storages
 Documentation relating to the dl_storages.
 

@@ -2,6 +2,17 @@
 layout: page
 title: Team
 sidebar: false
+description: Meet the talented team behind SPOONI Development - experienced 3D artists, mappers, developers, and creators building premium RedM content for Red Dead Redemption 2 roleplay communities.
+head:
+  - - meta
+    - name: keywords
+      content: SPOONI team, RedM developers, 3D artists, RedM mappers, game developers, content creators, RDR2 modding team, SPOONI staff
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/team
 ---
 
 <script setup>

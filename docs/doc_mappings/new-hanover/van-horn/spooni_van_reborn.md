@@ -1,3 +1,18 @@
+---
+title: Van Horn Reborn
+description: SPOONI Van Horn Reborn MLO for RedM - Complete port town overhaul with detailed interiors. Comprehensive Van Horn expansion for New Hanover roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Van Horn Reborn, New Hanover port town MLO, Van Horn expansion, harbor town, Van Horn overhaul, RedM Van Horn, RDR2 New Hanover
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-hanover/van-horn/spooni_van_reborn
+---
+
 # 🏠 Van Horn Reborn
 Documentation relating to the spooni_van_reborn.
 

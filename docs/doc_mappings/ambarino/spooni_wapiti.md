@@ -1,3 +1,18 @@
+---
+title: Wapiti
+description: SPOONI Wapiti MLO for RedM - Enhanced Native American reservation with detailed interiors in Ambarino. Immersive tribal community for Red Dead Redemption 2 roleplay.
+head:
+  - - meta
+    - name: keywords
+      content: Wapiti, Ambarino MLO, Native American reservation, tribal village, RedM Wapiti, RDR2 Native American, Ambarino mapping
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/ambarino/spooni_wapiti
+---
+
 # 🏠 Wapiti
 Documentation relating to the spooni_wapiti.
 

@@ -1,3 +1,18 @@
+---
+title: Oil Field Worker Houses
+description: SPOONI Oil Worker Houses MLO for RedM - Industrial worker housing near oil fields. Labor accommodations for New Hanover oil industry roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: oil worker houses, New Hanover housing MLO, industrial workers, oil fields, labor housing, RedM worker homes, RDR2 New Hanover
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-hanover/spooni_oil_worker_houses
+---
+
 # 🏠 Oil Field Worker Houses
 Documentation relating to the spooni_oil_worker_houses.
 

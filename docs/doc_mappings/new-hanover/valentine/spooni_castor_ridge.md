@@ -1,3 +1,18 @@
+---
+title: Castor Ridge
+description: SPOONI Castor Ridge MLO for RedM - Ridge settlement near Valentine with detailed buildings. Highland community for Valentine area roleplay in Red Dead Redemption 2 New Hanover.
+head:
+  - - meta
+    - name: keywords
+      content: Castor Ridge, Valentine area MLO, New Hanover settlement, ridge community, Valentine surroundings, RedM Castor Ridge, RDR2 New Hanover
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-hanover/valentine/spooni_castor_ridge
+---
+
 # 🏠 Castor Ridge
 Documentation relating to the spooni_castor_ridge.
 

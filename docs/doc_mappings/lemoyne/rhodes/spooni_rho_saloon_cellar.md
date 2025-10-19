@@ -1,3 +1,18 @@
+---
+title: Rhodes Saloon Cellar
+description: SPOONI Rhodes Saloon Cellar MLO for RedM - Underground cellar expansion for Rhodes saloon. Hidden storage and meeting space for Red Dead Redemption 2 roleplay.
+head:
+  - - meta
+    - name: keywords
+      content: Rhodes saloon cellar, underground MLO, Lemoyne cellar, Rhodes saloon, hidden room, Rhodes mapping, RDR2 Rhodes
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/rhodes/spooni_rho_saloon_cellar
+---
+
 # 🏠 Rhodes Saloon Cellar
 Documentation relating to the spooni_rho_saloon_cellar.
 

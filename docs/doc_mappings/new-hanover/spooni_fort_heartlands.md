@@ -1,3 +1,18 @@
+---
+title: Fort Heartlands
+description: SPOONI Fort Heartlands MLO for RedM - Military outpost with complete facilities. Active fort for New Hanover military roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Fort Heartlands, New Hanover fort MLO, military outpost, army fort, Heartlands fort, RedM military base, RDR2 New Hanover
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-hanover/spooni_fort_heartlands
+---
+
 # 🏠 Fort Heartlands
 Documentation relating to the spooni_fort_heartlands.
 

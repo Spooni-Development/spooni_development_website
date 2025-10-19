@@ -1,3 +1,18 @@
+---
+title: Wild Horse Manager
+description: Comprehensive wild horse spawning and taming system for RedM by Dietrich Development. Capture, tame, and manage wild horses in your Red Dead Redemption 2 roleplay server.
+head:
+  - - meta
+    - name: keywords
+      content: RedM wild horse, horse taming, horse spawner, Dietrich Development, horse system, RedM horses, RDR2 horse management, wild horse script
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/dietrich/spooni_wildhorse
+---
+
 # 🐎 Wild Horse Manager
 Documentation relating to the spooni_wildhorse.
 

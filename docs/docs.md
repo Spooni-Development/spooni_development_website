@@ -1,6 +1,17 @@
 ---
 layout: doc
 title: Documentation
+description: Complete documentation for SPOONI Development products including installation guides, configuration tutorials, and script examples. Find comprehensive guides for RedM scripts, mappings, and MLO resources.
+head:
+  - - meta
+    - name: keywords
+      content: RedM documentation, RedM installation guide, RedM script tutorial, MLO setup, VORP setup, RSG setup, RedM configuration, SPOONI guides
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/docs
 ---
 
 # 👋 Welcome to SPOONI Documentation

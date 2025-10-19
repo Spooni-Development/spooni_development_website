@@ -1,3 +1,18 @@
+---
+title: St. Denis Spaldings
+description: SPOONI St. Denis Spaldings MLO for RedM - Historic mansion with luxurious interior. Grand estate for Saint Denis high society roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Saint Denis Spaldings, mansion MLO, Lemoyne mansion, luxury estate, St Denis manor, RedM mansion, RDR2 Saint Denis
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_spaldings
+---
+
 # 🏠 St. Denis Spaldings
 Documentation relating to the spooni_sd_spaldings.
 

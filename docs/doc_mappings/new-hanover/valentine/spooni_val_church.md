@@ -1,3 +1,18 @@
+---
+title: Valentine Church
+description: SPOONI Valentine Church MLO for RedM - Detailed church interior with office and back rooms. Premium religious building for Valentine roleplay servers in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Valentine church, RedM church MLO, New Hanover church, RDR2 church interior, religious building, Valentine MLO, church roleplay, Valentine mapping, RedM chapel
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-hanover/valentine/spooni_val_church
+---
+
 # 🏠 Valentine Church
 Documentation relating to the spooni_val_church.
 

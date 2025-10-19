@@ -1,3 +1,18 @@
+---
+title: Desert Edge Ranch
+description: SPOONI Desert Edge Ranch MLO for RedM - Working ranch on the desert frontier with barns and living quarters. Agricultural property for New Austin roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Desert Edge Ranch, New Austin ranch MLO, desert ranch, frontier farm, ranch buildings, RedM ranch, RDR2 New Austin
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_desert_edge_ranch
+---
+
 # 🏠 Desert Edge Ranch
 Documentation relating to the spooni_desert_edge_ranch.
 

@@ -1,3 +1,18 @@
+---
+title: Advanced Billing Script
+description: Advanced billing and invoice system for RedM by DrShwaggins. Manage payments, bills, and financial transactions for your Red Dead Redemption 2 roleplay server economy.
+head:
+  - - meta
+    - name: keywords
+      content: RedM billing, invoice system, payment management, DrShwaggins, economy script, RedM finances, RDR2 billing, transaction system
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_advancedbilling
+---
+
 # 💵 dl_advancedbilling
 Documentation relating to the dl_advancedbilling.
 

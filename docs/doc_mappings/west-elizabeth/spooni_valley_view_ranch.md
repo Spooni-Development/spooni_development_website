@@ -1,3 +1,18 @@
+---
+title: Valley View Ranch
+description: SPOONI Valley View Ranch MLO for RedM - Scenic ranch with valley views. Agricultural property for West Elizabeth roleplay in Red Dead Redemption 2.
+head:
+  - - meta
+    - name: keywords
+      content: Valley View Ranch, West Elizabeth ranch MLO, scenic ranch, valley property, agricultural land, RedM Valley View, RDR2 West Elizabeth
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/spooni_valley_view_ranch
+---
+
 # 🏠 Valley View Ranch
 Documentation relating to the spooni_valley_view_ranch.
 

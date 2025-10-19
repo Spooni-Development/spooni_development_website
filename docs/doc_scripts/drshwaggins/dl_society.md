@@ -1,3 +1,18 @@
+---
+title: Society Script
+description: Advanced company and society management for RedM by DrShwaggins. Create businesses, manage employees, and handle finances for Red Dead Redemption 2 roleplay servers.
+head:
+  - - meta
+    - name: keywords
+      content: RedM society, business management, company script, DrShwaggins, employee management, RedM economy, RDR2 businesses, society system
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_society
+---
+
 # 🧮 dl_society
 Documentation relating to the dl_society.
 

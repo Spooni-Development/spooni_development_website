@@ -1,3 +1,18 @@
+---
+title: Build My Home
+description: SPOONI Build My Home script for RedM - Comprehensive house building system with 21 building steps, furniture placement, and property transfer. Create custom homes anywhere on the map for VORP, RSG, and RPX frameworks.
+head:
+  - - meta
+    - name: keywords
+      content: RedM house building, build house script, RedM construction, property system, furniture placement, VORP housing, RSG housing, custom homes RDR2, RedM real estate
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/spooni/spooni_build_my_home
+---
+
 # 🏠 Build my Home
 Documentation relating to the spooni_build_my_home.
 

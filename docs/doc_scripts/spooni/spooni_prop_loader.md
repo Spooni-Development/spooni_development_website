@@ -1,3 +1,18 @@
+---
+title: Prop Loader Script
+description: SPOONI Prop Loader for RedM - Load and place custom props on your server map. Standalone tool for creating unique environments in Red Dead Redemption 2 roleplay.
+head:
+  - - meta
+    - name: keywords
+      content: RedM prop loader, custom props, prop placement, standalone tool, map editor, RedM props, object loader, RDR2 map customization, server decoration
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_scripts/spooni/spooni_prop_loader
+---
+
 # 🧩 Prop Loader
 Documentation relating to the spooni_prop_loader.
 

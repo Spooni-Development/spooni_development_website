@@ -1,3 +1,18 @@
+---
+title: Strawberry Bakery
+description: SPOONI Strawberry Bakery MLO for RedM - Detailed bakery shop interior. Bread and pastries business for Strawberry roleplay in Red Dead Redemption 2 West Elizabeth.
+head:
+  - - meta
+    - name: keywords
+      content: Strawberry bakery, West Elizabeth bakery MLO, Strawberry shops, bakery interior, Strawberry buildings, RedM Strawberry, RDR2 West Elizabeth
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/strawberry/spooni_straw_bakery
+---
+
 # 🏠 Strawberry Bakery
 Documentation relating to the spooni_straw_bakery.
 

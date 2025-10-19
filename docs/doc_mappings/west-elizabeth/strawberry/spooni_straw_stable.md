@@ -1,3 +1,18 @@
+---
+title: Strawberry Stable
+description: SPOONI Strawberry Stable MLO for RedM - Horse stables with detailed interior. Equestrian facility for Strawberry roleplay in Red Dead Redemption 2 West Elizabeth.
+head:
+  - - meta
+    - name: keywords
+      content: Strawberry stable, West Elizabeth stable MLO, Strawberry horses, horse stables, equestrian facility, RedM Strawberry, RDR2 West Elizabeth
+  - - meta
+    - property: og:image
+      content: https://spooni.pages.dev/icons/logo.svg
+  - - meta
+    - property: og:url
+      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/strawberry/spooni_straw_stable
+---
+
 # 🏠 Strawberry Stable
 Documentation relating to the spooni_straw_stable.
 
