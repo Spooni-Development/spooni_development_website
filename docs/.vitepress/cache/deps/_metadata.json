@@ -1,55 +1,55 @@
 {
-  "hash": "4e3bf8e3",
+  "hash": "3df67999",
   "configHash": "6031255e",
-  "lockfileHash": "6ee86892",
-  "browserHash": "0d335898",
+  "lockfileHash": "ea25b37a",
+  "browserHash": "eea1cde8",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "1f057a10",
+      "fileHash": "4ecd329a",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "f41224de",
+      "fileHash": "b3e08200",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "596a0d5a",
+      "fileHash": "0b6e868e",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "f0311b1d",
+      "fileHash": "bf8c2b6a",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "2b6f34c5",
+      "fileHash": "dadd8a31",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "1ec84be3",
+      "fileHash": "fa0cc315",
       "needsInterop": false
     },
     "vitepress-plugin-tabs/client": {
-      "src": "../../../../node_modules/vitepress-plugin-tabs/src/client/index.ts",
+      "src": "../../../../node_modules/vitepress-plugin-tabs/dist/client/browser/index.js",
       "file": "vitepress-plugin-tabs_client.js",
-      "fileHash": "528f8bf3",
+      "fileHash": "ebc3bdc3",
       "needsInterop": false
     },
     "medium-zoom": {
       "src": "../../../../node_modules/medium-zoom/dist/medium-zoom.esm.js",
       "file": "medium-zoom.js",
-      "fileHash": "a1a4efef",
+      "fileHash": "0ee09d55",
       "needsInterop": false
     }
   },

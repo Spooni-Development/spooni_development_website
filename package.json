@@ -15,7 +15,7 @@
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
+    "docs:build": "node scripts/generate-categories-metadata.js && vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "type-check": "vue-tsc --noEmit",
     "type-check:watch": "vue-tsc --noEmit --watch"

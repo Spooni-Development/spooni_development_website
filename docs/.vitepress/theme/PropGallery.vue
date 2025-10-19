@@ -25,7 +25,7 @@
           :categories="categories"
           :selectedCategory="selectedCategory"
           :selectedSubcategory="selectedSubcategory"
-          :totalPropsCount="propData.length"
+          :totalPropsCount="totalPropsCount"
           @update:selectedCategory="selectedCategory = $event"
           @update:selectedSubcategory="selectedSubcategory = $event"
         />
@@ -75,9 +75,9 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
 import { usePropData } from './composables/usePropData';
-import { usePropCategories } from './composables/usePropCategories';
+import { useCategoriesMetadata } from './composables/useCategoriesMetadata';
 import { usePropFilter } from './composables/usePropFilter';
 import { usePagination } from './composables/usePagination';
 
@@ -87,10 +87,7 @@ import PropControls from './components/PropControls.vue';
 import PropGrid from './components/PropGrid.vue';
 import PropEmptyState from './components/PropEmptyState.vue';
 import PropPagination from './components/PropPagination.vue';
-import { PROPS_GALLERY, PAGINATION, GRID_LAYOUT } from './constants';
-
-// Data (with lazy loading)
-const { propData, isLoading, error } = usePropData();
+import { PROPS_GALLERY, PAGINATION, GRID_LAYOUT, ANIMATION } from './constants';
 
 // Constants
 const totalPropsEstimate = PROPS_GALLERY.TOTAL_PROPS_ESTIMATE;
@@ -102,8 +99,11 @@ const searchQuery = ref('');
 const itemsPerPage = ref<number>(PAGINATION.DEFAULT_ITEMS_PER_PAGE);
 const columnsPerRow = ref<number>(GRID_LAYOUT.DEFAULT_COLUMNS_PER_ROW);
 
-// Categories
-const { categories } = usePropCategories(propData);
+// Data (with dynamic category loading)
+const { propData, isLoading, error } = usePropData(selectedCategory);
+
+// Categories (from metadata)
+const { categories, totalProps: totalPropsCount } = useCategoriesMetadata();
 
 // Filtering
 const { filteredProps } = usePropFilter(
@@ -116,6 +116,25 @@ const { filteredProps } = usePropFilter(
 // Pagination
 const { currentPage, totalPages, paginatedItems: paginatedProps, visiblePages, goToPage } = 
   usePagination(filteredProps, itemsPerPage);
+
+// Scroll to top of props list when category or subcategory changes
+watch([selectedCategory, selectedSubcategory], () => {
+  scrollToTop();
+});
+
+// Scroll to top function with smooth behavior
+function scrollToTop(): void {
+  if (typeof window === 'undefined') return;
+  
+  // Scroll the main window to the gallery title
+  const galleryTitle = document.querySelector('.gallery-title');
+  if (galleryTitle) {
+    galleryTitle.scrollIntoView({ 
+      behavior: ANIMATION.SMOOTH_SCROLL_BEHAVIOR as ScrollBehavior,
+      block: 'start'
+    });
+  }
+}
 
 // Error handling
 function reloadPage() {

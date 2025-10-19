@@ -1,0 +1,395 @@
+[
+  {
+    "id": "damage_model_metal_entry_01"
+  },
+  {
+    "id": "damage_model_metal_entry_02"
+  },
+  {
+    "id": "damage_model_metal_entry_03"
+  },
+  {
+    "id": "damage_model_metal_entry_04"
+  },
+  {
+    "id": "damage_model_metal_exit_01"
+  },
+  {
+    "id": "damage_model_metal_exit_02"
+  },
+  {
+    "id": "damage_model_metal_share_01"
+  },
+  {
+    "id": "damage_model_wood_01"
+  },
+  {
+    "id": "damage_model_wood_02"
+  },
+  {
+    "id": "damage_model_wood_09"
+  },
+  {
+    "id": "damage_model_wood_entry_01"
+  },
+  {
+    "id": "damage_model_wood_entry_02"
+  },
+  {
+    "id": "damage_model_wood_entry_03"
+  },
+  {
+    "id": "damage_model_wood_entry_04"
+  },
+  {
+    "id": "damage_model_wood_entry_05"
+  },
+  {
+    "id": "damage_model_wood_exit_01"
+  },
+  {
+    "id": "damage_model_wood_exit_02"
+  },
+  {
+    "id": "damage_model_wood_exit_03"
+  },
+  {
+    "id": "damage_model_wood_share_03"
+  },
+  {
+    "id": "damage_model_wood_share_04"
+  },
+  {
+    "id": "damage_model_wood_share_05"
+  },
+  {
+    "id": "damage_model_wood_share_06"
+  },
+  {
+    "id": "damage_model_wood_shotgun"
+  },
+  {
+    "id": "des_bar_win_end"
+  },
+  {
+    "id": "des_brt3_door_end"
+  },
+  {
+    "id": "des_crn1_barn_end"
+  },
+  {
+    "id": "des_dis_alchemist_06"
+  },
+  {
+    "id": "des_dis_alchemist_07"
+  },
+  {
+    "id": "des_em5_roofend"
+  },
+  {
+    "id": "des_em5_roofstart"
+  },
+  {
+    "id": "des_gua3_cannon_exp_ig_end"
+  },
+  {
+    "id": "des_mg_pokertable_end"
+  },
+  {
+    "id": "eag_eye_trck_bear_aa"
+  },
+  {
+    "id": "eag_eye_trck_bear_bb"
+  },
+  {
+    "id": "eag_eye_trck_bear_cb"
+  },
+  {
+    "id": "eag_eye_trck_bear_db"
+  },
+  {
+    "id": "eag_eye_trck_buck_aa"
+  },
+  {
+    "id": "eag_eye_trck_debris_aa"
+  },
+  {
+    "id": "eag_eye_trck_deer_aa"
+  },
+  {
+    "id": "eag_eye_trck_elk_aa"
+  },
+  {
+    "id": "eag_eye_trck_moose_aa"
+  },
+  {
+    "id": "eag_eye_trck_ram_aa"
+  },
+  {
+    "id": "lac_01_rubble_p_02"
+  },
+  {
+    "id": "mp001_p_rowboat_base02x"
+  },
+  {
+    "id": "mp001_p_veh_rowboatswamp_base01x"
+  },
+  {
+    "id": "mp006_p_jug_debris01x"
+  },
+  {
+    "id": "p_brokenbeerbottle01x"
+  },
+  {
+    "id": "p_brokenparts02x"
+  },
+  {
+    "id": "p_can04x"
+  },
+  {
+    "id": "p_can05x"
+  },
+  {
+    "id": "p_can06x"
+  },
+  {
+    "id": "p_canclean05x"
+  },
+  {
+    "id": "p_canclean06x"
+  },
+  {
+    "id": "p_canempty11x"
+  },
+  {
+    "id": "p_debris_nbd_docks_01"
+  },
+  {
+    "id": "p_debris_nbd_docks_01.ydr"
+  },
+  {
+    "id": "p_debris_nbd_docks_02"
+  },
+  {
+    "id": "p_debris_nbd_docks_02.ydr"
+  },
+  {
+    "id": "p_debris_nbd_docks_03"
+  },
+  {
+    "id": "p_debris_nbd_docks_03.ydr"
+  },
+  {
+    "id": "p_debrisboards01x"
+  },
+  {
+    "id": "p_debrisboards02x"
+  },
+  {
+    "id": "p_debrisboards03x"
+  },
+  {
+    "id": "p_debrisboardsstd01x"
+  },
+  {
+    "id": "p_debrisboardsstd02x"
+  },
+  {
+    "id": "p_debrisboardsstd03x"
+  },
+  {
+    "id": "p_debrispile01x"
+  },
+  {
+    "id": "p_debrispile02x"
+  },
+  {
+    "id": "p_debrispile03x"
+  },
+  {
+    "id": "p_debrispile04x"
+  },
+  {
+    "id": "p_debrispile05x"
+  },
+  {
+    "id": "p_debrispile06x"
+  },
+  {
+    "id": "p_debrispile07x"
+  },
+  {
+    "id": "p_debrispile08x"
+  },
+  {
+    "id": "p_debrispilestd01x"
+  },
+  {
+    "id": "p_debrispilestd02x"
+  },
+  {
+    "id": "p_debrispilestd03x"
+  },
+  {
+    "id": "p_debrispilestd04x"
+  },
+  {
+    "id": "p_debrispilestd05x"
+  },
+  {
+    "id": "p_debrispilestd06x"
+  },
+  {
+    "id": "p_debrispilestd07x"
+  },
+  {
+    "id": "p_debrispilestd08x"
+  },
+  {
+    "id": "p_dockdebris01x"
+  },
+  {
+    "id": "p_dockdebris01x_static"
+  },
+  {
+    "id": "p_dockdebris02x"
+  },
+  {
+    "id": "p_dockdebris02x_static"
+  },
+  {
+    "id": "p_dockdebris03x"
+  },
+  {
+    "id": "p_dockdebris04x"
+  },
+  {
+    "id": "p_dockdebris04x_static"
+  },
+  {
+    "id": "p_dockdebris04x_staticp_dockdebris04x_static"
+  },
+  {
+    "id": "p_dockdebris05x"
+  },
+  {
+    "id": "p_dockdebris06x"
+  },
+  {
+    "id": "p_dockdebris06x_static"
+  },
+  {
+    "id": "p_dockdebris07x"
+  },
+  {
+    "id": "p_dockdebris07x_static"
+  },
+  {
+    "id": "p_dockdebris08x"
+  },
+  {
+    "id": "p_dockdebris09x"
+  },
+  {
+    "id": "p_gen_bottle01x_bot"
+  },
+  {
+    "id": "p_gen_bottle01x_top"
+  },
+  {
+    "id": "p_gibpotclay01x"
+  },
+  {
+    "id": "p_gndblnd_cotton01x"
+  },
+  {
+    "id": "p_gndblnd_cotton02x"
+  },
+  {
+    "id": "p_gndblnd_cotton03x"
+  },
+  {
+    "id": "p_gndblnd_debris01x"
+  },
+  {
+    "id": "p_gndblnd_debris02x"
+  },
+  {
+    "id": "p_gndblnd_debris03x"
+  },
+  {
+    "id": "p_handcart_wreck_01a"
+  },
+  {
+    "id": "p_litternbx01x"
+  },
+  {
+    "id": "p_litternbx02x"
+  },
+  {
+    "id": "p_litternbx03x"
+  },
+  {
+    "id": "p_potclayshard01x"
+  },
+  {
+    "id": "p_potsbroken02"
+  },
+  {
+    "id": "p_potsbroken03"
+  },
+  {
+    "id": "p_potsbrokenstd02"
+  },
+  {
+    "id": "p_potsbrokenstd03"
+  },
+  {
+    "id": "p_raggroup01x"
+  },
+  {
+    "id": "p_van_man_chestdressing01x"
+  },
+  {
+    "id": "p_woodsliver01x"
+  },
+  {
+    "id": "proc_can04x"
+  },
+  {
+    "id": "proc_can05x"
+  },
+  {
+    "id": "proc_can06x"
+  },
+  {
+    "id": "proc_farmlitter_01"
+  },
+  {
+    "id": "proc_hoofprints_01"
+  },
+  {
+    "id": "proc_litter_01"
+  },
+  {
+    "id": "proc_litter_02"
+  },
+  {
+    "id": "prop_rub_plasbag01"
+  },
+  {
+    "id": "prop_rub_plasbag02"
+  },
+  {
+    "id": "s_misclockbox_loot_i"
+  },
+  {
+    "id": "s_privatearmoured_desdoors"
+  },
+  {
+    "id": "s_tree_stump_08_bc_d"
+  },
+  {
+    "id": "wood_shotgun_unused"
+  }
+]

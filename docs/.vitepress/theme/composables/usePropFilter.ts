@@ -26,15 +26,12 @@ export function usePropFilter(
       const matchesSearch = searchQuery.value === "" || 
         prop.id.toLowerCase().includes(searchTerm);
       
-      // Kategorie-Filter
-      const matchesCategory = selectedCategory.value === "all" || 
-        prop.category === selectedCategory.value;
-      
       // Subkategorie-Filter
       const matchesSubcategory = selectedSubcategory.value === "all" || 
         prop.subcategory === selectedSubcategory.value;
       
-      return matchesSearch && matchesCategory && matchesSubcategory;
+      // Kategorie-Filter entfernt - wird bereits durch dynamisches Laden der JSON-Datei gefiltert
+      return matchesSearch && matchesSubcategory;
     });
   });
 

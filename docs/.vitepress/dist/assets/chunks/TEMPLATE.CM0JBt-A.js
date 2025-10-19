@@ -1,0 +1,1 @@
+const e=[{id:"prop_beispiel_01",subcategory:"Subkategorie 1"},{id:"prop_beispiel_02",subcategory:"Subkategorie 2"}];export{e as default};

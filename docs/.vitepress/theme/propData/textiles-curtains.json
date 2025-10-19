@@ -1,0 +1,3454 @@
+[
+  {
+    "id": "des_bee_shack_04",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "fabric-0-flannel",
+    "subcategory": "various"
+  },
+  {
+    "id": "fabric-0-linen",
+    "subcategory": "various"
+  },
+  {
+    "id": "fabric-0-linen_black",
+    "subcategory": "various"
+  },
+  {
+    "id": "fabric-0-satin",
+    "subcategory": "various"
+  },
+  {
+    "id": "fabric-0-velvet",
+    "subcategory": "various"
+  },
+  {
+    "id": "mp001_p_cs_belt_fr1_018",
+    "subcategory": "belt"
+  },
+  {
+    "id": "mp001_p_cs_belt_mr1_018",
+    "subcategory": "belt"
+  },
+  {
+    "id": "mp001_p_gunvoutd3_hat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "mp001_p_mp_belt_mr1_018",
+    "subcategory": "belt"
+  },
+  {
+    "id": "mp001_p_mp_fishbag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp001_p_mp_fishbagblood02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp001_p_mp_hat_mr1_059",
+    "subcategory": "hat"
+  },
+  {
+    "id": "mp001_s_mp_clothesfolded02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "mp001_s_mp_clothingcorona01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "mp003_s_mp_moneybag_stack01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp003_s_mp_moneybag_stack02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp003_s_mp_moneybag02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp004_p_cs_jessicapurse01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp004_p_cs_jessicapurse02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp004_s_mp_securityfolded01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "mp005_p_cs_bandana01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "mp005_p_cs_bandana02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "mp005_p_cs_collectors01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp005_p_mp_bondsfolder01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp005_p_mp_trader_gen_bag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp005_p_mp_trader_gen_bag02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp005_s_posse_capotecoat_hang01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "mp005_s_posse_capotecoat_sew01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "mp005_s_posse_col_cloth01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_col_cloth02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_col_cloth03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_leatherbag_01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp005_s_posse_leatherbag_02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "mp005_s_posse_medtable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_medtable02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_medtable03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_medtable04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_table_bountyhunter02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_trad_blanket01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "mp005_s_posse_trader_cloth01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_trader_cloth02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_trader_cloth03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_trader_cloth04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_trader_cloth05x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp006_p_mshine_int_curtain01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "mp007_p_mp_oldmattress01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "mp007_p_nat_carpets01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "nbx_bank_curtain_sim",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "nbx_bank_curtain2_sim",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt05c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt06b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt07a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt07b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt08a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt09a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt09b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt10a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt10b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt11a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt11b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt12a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_abefrmint_curt13a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_amb_mattress04x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_ambblanketroll01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_ambbundle01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_ambcloth03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambclothdrape01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_ambclothdrape01x_static",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambclothhang01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_ambclothhang02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambclothpile01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_ambclothseat01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug04x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug05x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug06x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ambfloorrug07x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_ambfloorrug08x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_ambfloortarp01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_ambpack01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_ambpack02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_ambpack04x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_apronground01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_awning06_h",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_bag_leather_doctor",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_bag_voodoo01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_bag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_baghang01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_baghang02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_basketcloth01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_bedrollclosed_sml01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_bedrollclosed_sml02x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_bedrollclosed01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_bedrollclosed03x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_bedrollopen01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_bedrollopen03x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_bedundone_trelawny01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_bla_tailor_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_tailorint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_tailorint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_tailorint_curt02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_tailorint_curt03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_theater_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_theater_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_theater_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bla_theater_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_blajailint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_blajailint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_blajailint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_blajailint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_blanket07x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_blanket08x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_blanket10x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_blanketbox01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_blanketfolded01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_blanketground02x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_blanketground05x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_blankets01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_blanketsadle02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_bloodyhangrag02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_bloodytablerag01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_bloomershanging01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_blouseground01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_boot_leather_001",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_bootsconfed01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_bootsmarston01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_bra_int_drwdressing01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_bra_int_drwdressing02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_bra_mansion_curtain02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain03B",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain03c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain03d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_bra_mansion_curtain05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_butchdetails01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_butchdetails02x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_campropetie03x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_canvasrafter01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cat_hse_int_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cat_hse_int_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cat_hse_int_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cat_hse_int_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cat_hse_int_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cat_hse_int_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cat_hse_int_curt05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_che_cornerdest01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_che_cornerdest02x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_chemisehanging01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment04",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment05",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment06",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment07",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment08",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment10",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_garment11",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cl_gen_articlea",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cl_gen_articleb",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cl_gen_articlec",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cl_gen_articled",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cl_gen_articlee",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cl_gen_articlef",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconya01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconya01x_ren",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconyb01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconyc01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconyd01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconye01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothbalconyf01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_clothcurtain01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain02x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain03x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain04x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain05x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain06x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain07x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain08x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothcurtain09x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothdoors01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothdoors02x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_clothesfolded01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_clothesfolded02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_clothgroup01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_coffer02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_coffer02x_mp",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_colcabinint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_colcabinint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_coverboar01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_coverpronghorn01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_coverpronghorn02x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_craftedpillow01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_craftedrag01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_crahse_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_crahse_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_crahse_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_crahse_curt03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_crahse_curt04",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_crahse_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_crahse_curt05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cs_adl_jacket",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_adlblanket01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_adlblanket02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_arthurbandolier",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_arthurhat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_arthurpolicedressroll1x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_baganders01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_baglevin01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_bagstrauss01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_bandana01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_bandana02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_bandana03x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_barrag01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_bedrollclsd01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_cs_beggarhat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_belt01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_blanket01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_cs_boots01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_cs_boots01x_l",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_cs_boots01x_r",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_cs_camerabag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_charlesbelt01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_charlesbelt02x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_charleshat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_charlesshirt01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_clothstack01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_colmhat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_cratetntcover01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_cs_dressbox01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_driscollmouthgag01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_dusterarthur01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_dusterbill01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_dusterjacket01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_dusterlenny01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_dutchbelt01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_dutchhattux",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_fabriccut02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_flyinggoggle01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_goggles01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_handkerchief01bx",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_handkerchief01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_hat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_hectornecktie",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_hoseahat",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_jackhat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_javierbelt01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_johnbelt01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_lenny_bandana01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_leonsnieceveil_01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_madelineveil_01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_magiccurtain_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_magnifico_pouch",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_marston_vest01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_marston01_01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_marstonhat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_mattress01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_cs_mayorcurtains_01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cs_miltonandrewshat",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_moonshinerag01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_napkin01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_nblpolicehat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_pillow01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_cs_playerbelt01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_playerbelt02x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_playersatchel",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_policejacket01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_portfolio01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_portfolio02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_purse01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_rag01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_rag02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_rufusblanket01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_rug01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "p_cs_saddle_bag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_satchel01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_cs_seanhat01x01",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_seanmask01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_sock01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_cs_stolen03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_suitcase01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_suitcase02x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_suitcase03x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_suitcase04x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_suitcase05x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_suitcase05x_up",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_cs_suspender01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_cs_towel01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_towel02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_towel02x_trans",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_cs_unclehat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_cs_valjailblind_01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cs_valjailblind_02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_cs_valsal2_curtain01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtainmansion02x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtains_int_rag01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtains_noentryinterior",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtains_ragged01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtainslace01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtainslace02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtainslace02x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtainslace02x_static",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_curtainslace03x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt07a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt07b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt08a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_daifarm_int_curt08b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_depositbag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_din_hseint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_din_hseint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_din_hseint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_din_hseint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_din_hseint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_din_hseint_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_dis_hat_mr1_051",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_dis_prisonerescape01",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_dis_prisonerescape02",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_displaytux01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_doc_blankets01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_dowhseint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_dowhseint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_dowhseint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_dowhseint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_dowhseint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_dowhseint_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_fabricfolded01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_fabricfolded02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_fabricfolded03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_fabricroll05x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_fabricstack01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_flamboyanthat_01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_folded_gamblersshirt01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_folded_vest01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_foldedblanket01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_foldedblanket02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_foldedrug01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_foldedshirt_02",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_foldedundershirt01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_gangbandana01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_gangbed01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_gangblanket01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_gangcratecloth01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_gangfence03x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_gangodriscollmask01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_gangscarf01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_gen_boots01",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_gen_boots02",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_glovebox01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_gloves01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_group_n_grocery_pillow02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_grp_boot01x_car_sd",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_grp_box06x_car_sd",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_grp_w_tra_bclosed02x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_grp_w_tra_blankets01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_grp_w_tra_boots01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_grp_w_tra_shirt01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_grp_w_tra_tentrolled01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_gun_hangitem01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_gunsmithprops18x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_hanger01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_hangrag01",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_hanhseint_curt_01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_hat_036",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hat_band_000",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_001",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_002",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_003",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_004",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_006",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_007",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_008",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_009",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_010",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_011",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat_band_012",
+    "subcategory": "belt"
+  },
+  {
+    "id": "p_hat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hat02x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hat03x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatbowler01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatbox01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatbox03x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatbox04x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatconfed01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatconfed02x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatgroup01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatgroup02x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hatstand_vg01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_hattophat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_horseprops01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_huntingbag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_int_bandanaset01",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_int_camping06",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_ivorychunk01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_jacket01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_jacket02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_jacket03x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_jacket04x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_jacketsmokinghang01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_lacepillow01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_lacepillow02x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_lak_dock_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt04c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt07a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt07b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt08a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt09a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt09b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lak_dock_curt10a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_laundrypile01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_laundrypile01xb",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_laundrypile02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment02x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_linegarment04x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_linegarment05x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_linegarment06x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment07x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment08x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_linegarment09x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment10x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment12x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_linegarment13x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_lnn_shk_curt01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lnn_shk_curt02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lnn_shk_curt03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lnn_shk_curt04",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lnn_shk_curt05",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_lnnhouse_stash01",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_machouse01_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_machouse01_curt05",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_manaquin01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_manaquincorset01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_mannequinhead01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_mattress03x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_mattress04x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_mattress07x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_mattress08x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_mattresscombined01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_merkincloth01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_merkincloth02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_merkincloth04x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_napkins01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_new_bronte_cur03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_bronte_cur03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_bronte_cur03c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_bronte_cur03d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_magic_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_magic_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur03c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur06b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur06c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur06d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur07a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur07b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur08a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_man_gala_cur08b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_salint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_salint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_salint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_salint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_theater_curtain",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_thtr_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_new_thtr_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt01c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt01d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_newgamint_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_oldmattress01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_opensleeper_tre2_curt1x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_opensleeper_tre2_curt2x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_opensuitcase01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_orahseint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_orahseint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_orahseint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_orahseint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_orahseint_curt02c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_orahseint_curt02d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_overalls01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "p_paihseint_curt01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_paihseint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_paihseint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_paihseint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_paihseint_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_pickup_foodcloth01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_pillow01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow01x_sea",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow02x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow03x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow06x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow08x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow09x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow10x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow11x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillow12x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillowcouch01",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pilloweagle01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_pillowgroup01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_player_spurs023",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_privatelounge_curtain01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_prohseint_curt_01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_prohseint_curt_01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02e",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02f",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02g",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt02h",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_radhseint_curt06b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rag02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_rag03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_rag04x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_re_beartrapgroup01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_re_beartrapgroup02x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_re_bedrollopen01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_re_tentrolled01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_re_tentrolled02x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_re_tentrolled04x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_rho_saloon_curtain02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain02c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain06b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain07a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain07b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain08b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain08c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain09a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain09b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain09c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain10a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain10c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain11a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain11b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain11c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain11d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain12c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain12d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain13a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain13b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain13c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain14a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain14b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain14c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain15c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain16b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain16c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain17a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain17b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain17c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain17d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain18c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain18d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain19a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain19b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain19c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain20a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rho_saloon_curtain20c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoban_curtain01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoban_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoban_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhogen_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhogen_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhogen_curtain02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoshf_curtain01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoshf_curtain02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoshf_curtain03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoshf_curtain04",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoslu_curtain01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoslu_curtain02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoslu_curtain03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoslu_curtain03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoslu_curtain03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rhoslu_curtain04",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_robeprostitutehang02x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt03",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt05",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt06b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt07a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt07b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt08a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt08b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt09a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_rochseint_curt09b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sadiehat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_satchel01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_ser_grand_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_ser_grand_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_ser_grand_curtain03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_ser_grand_curtain03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain01c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain05b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain06b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_sha_mansion_curtain06c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_shadyprops06x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_shoe_female_01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_shoe_female_02x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_shoe_form_001",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_shoe01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_shoe02bx",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_shoe02x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_smokebomb01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "p_sto_female_shoes_01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_sto_female_shoes_02x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "p_sto_hatbox01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_sto_hatstand01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_str_mayor_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_suitcase01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_suitcase02x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_suitcase03x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_suitcasecombo01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_suitcaseset02x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_sunburncover01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_table06cloth01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableclothlace02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tailorgroup01",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_tailorgroup02",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_tailorgroup03",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_tailorgroup04",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_tailorgroup05",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_tailorgroup06",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_tailorgroup07",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_tarppilenbx01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_tarppilenbx02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_tarprollnbx01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_tarrollnbx01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_tentrolled02x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_tentrolled04x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "p_test_cl_articlea",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_threecardmonte01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_throwpillow_01x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow_02x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow_03x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow_04x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow_05x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow_06x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow_08x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_throwpillow07x",
+    "subcategory": "pillow"
+  },
+  {
+    "id": "p_tornclothobjets_01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_tornclothobjets_02x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_tornclothobjets_03x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_tornclothobjets_04x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_tornclothobjets_05x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_trolleygroup01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_trolleygroup02ax",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_trolleygroup02x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_trolleygroup03x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_trolleygroup04x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_trolleygroup05x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_trolleygroup08x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_val_peepcurtain01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_val_trnstn_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_val_trnstn_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valauctarp01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valba_curtain01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valdr_curtain01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valgen_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valgen_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valhot_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valhot_curtain01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valhot_curtain01c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valhot_curtain01d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valhot_curtain02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valhot_curtain03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valjailblind_01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valjailblind_02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valjailcurtain01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valjailcurtain02",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain01c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain01d",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain02c",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal_curtain03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal2_curt01",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal2_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal2_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal2_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsal2_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_valsheriff_hat",
+    "subcategory": "hat"
+  },
+  {
+    "id": "p_vansalint_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt01b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt02a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt02b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt03a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt03b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt04a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt04b",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt05a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt06a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt08a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt09a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_vansalint_curt10a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_veh_brakes01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_veh_coach02x_1",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "p_veh_flatcarcloth01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "p_veh_genmed01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_veh_germfam_wagon04x_01",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_veh_ls_soldier2_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_vethse_curt01a",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "p_wallet01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "proc_bedrollclosed01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "proc_bedrollopen01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "s_animatablegloves01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "s_balledragcloth01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_bandana01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_bedrollfurlined01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "s_bedrollopen01x",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "s_blankethang01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_blanketrolled01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_canvasbundle01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_canvasbundle02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_charactermtest",
+    "subcategory": "clother"
+  },
+  {
+    "id": "s_charlessmithshirt01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "s_chemise01x_anim",
+    "subcategory": "clother"
+  },
+  {
+    "id": "s_clotharthurcover01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_coathanger04x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "s_coatloot01x",
+    "subcategory": "clother"
+  },
+  {
+    "id": "s_cs_clothforrobot01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_cs_mrsadlerboots01x_l",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_cs_mrsadlerboots01x_r",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_cs_shamanbag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_cvan_tentroll01",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "s_cvan_tentroll02",
+    "subcategory": "bedroll and mattress"
+  },
+  {
+    "id": "s_dis_well_quilt_piece",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_dis_well_quilt_piece_fold",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_exotichat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_exotichat02x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_exotichat03x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_exotichat04x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_exotichat05x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_exotichat06x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_featherhat01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_fishcolectorsatchel01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_flgblack01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgblue01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flggreen01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgorange01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgpurple01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgred01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgtest01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgwhite01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_flgyellow01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_floor_platform01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "s_floor_platform02x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "s_guncase01",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_hat_miner01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_hat_scarecrow01x",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_hatband01x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "s_hatband02x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "s_hatband03x",
+    "subcategory": "belt"
+  },
+  {
+    "id": "s_hattophatgold01xtemp",
+    "subcategory": "hat"
+  },
+  {
+    "id": "s_herbalpouch01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_herbalpouch02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_hoseahuntingbag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_inv_coinpurse01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_jerkypaper01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_johnmarstonboots_01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_johnmarstonbootsl_01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_johnmarstonbootsr_01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_juggernauthelmet01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_juggernautoutfit",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_knapsack_static01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_knapsack01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_lootableriflechest",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "s_luggage01x_loot",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "s_luggagepile01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "s_maximammobox01x",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "s_misclockbox_loot_h",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_mp_foldmoneybag02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_mp_foldpostalbag01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_mp_moneybag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_mp_moneybag02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_mp_moneybag03x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_mp_postalbag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_parcelranchercloth01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_penelopebag01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_penelopepurse01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_pistolchest_loot",
+    "subcategory": "suitcase"
+  },
+  {
+    "id": "s_pu_coinpurse02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_pursefancy01x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_pursefancy02bx",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_pursefancy02x",
+    "subcategory": "bag"
+  },
+  {
+    "id": "s_rc_camprug01x",
+    "subcategory": "rug"
+  },
+  {
+    "id": "s_rugstand01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_sackcloth",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_shawl01x",
+    "subcategory": "textil"
+  },
+  {
+    "id": "s_shoeicide01x",
+    "subcategory": "shoes"
+  },
+  {
+    "id": "s_spur02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_theatercurtain01x",
+    "subcategory": "curtain"
+  },
+  {
+    "id": "s_whorewgnclth01x",
+    "subcategory": "textil"
+  }
+]

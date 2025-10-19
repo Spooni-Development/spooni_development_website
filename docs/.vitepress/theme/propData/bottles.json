@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "mp001_p_mp_jarmoonshine01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp005_p_mp_bottlebrandy01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_c",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_cb",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_cr",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_iw",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_ldg",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_otg",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_pg",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp005_s_awb_sw",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp006_p_mnshn_crate06x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp006_p_mnshn_crate12_01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp006_p_poisonempty01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp006_p_veh_moonshine2_01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp006_pg_rowboat_propset01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp006_s_cft_poisonbottle01",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp006_s_mnshn_product01x_full",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp006_s_mnshn_product02x_empty",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp006_s_mp_interact_jug",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp006_s_mp_interact_jug_norig",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp006_s_mp_interact_jug_pickup",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp007_p_vial_pheromones01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp007_s_inv_tonic_harriet01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp007_s_nat_tonic01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp007_s_nat_tonic01x_cork",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "mp007_s_nat_tonic01x_nocork",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "mp009_p_mp_flask01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_12moonshinecrate01",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_botmedgroup01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottle001x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle002x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle003x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle004x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle005x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle006x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle007x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle008x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle008x_big",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle009x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle010x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle011x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle012x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle013x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottle03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottleabsinthe01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer01a",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer01a_1",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer01a_2",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer01a_3",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebeer04x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebrandy01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlebrandy02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlecastor01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlechampagne01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlecognac01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottleconklin01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlecordial01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlecrate_cul",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate_hob",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate_mil",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate_sav",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate_sur",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate02x_dirty",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlecrate05x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_bottlefacewash01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlefat01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlejd_used01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlejd01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine04x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine05x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine06x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine07x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine08x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine09x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine10x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine13x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine14x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine15x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine16x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine21x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine23x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine24x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine25x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine26x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlemedicine27x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlenavyrum01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottleredmist01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlesherry01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottleslim01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlesnakeoil_cs01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlesnakeoil01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlesnakeoil02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlesnakeoil03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlesnakeoilcork_cs01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottletequila01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottletequila02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottletequilafull_cs01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottletequilafull02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottletoothpwdr01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlewine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlewine02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlewine03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bottlewine04x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_bramanprops09x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_canteen01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_canteen02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_cork01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_cork02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_cs_bottleslim01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_cs_canteen_hercule",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_cs_jug01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_cs_moonshine01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_diswiskeytreebottlewind01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_diswiskeytreebottlewind02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_diswiskeytreebottlewind03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_exoticprops02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_facewash01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_flask01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_flask01xb",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_flask02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_flask03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_flask04x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_flaskcombo01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_gen_bottletequila01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_glenswhisky01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_goochvanilla01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_gourdwater01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_bottlewine01x_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_bottlewine02x_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_bottlewine03x_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_bottlewine04x_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_bottlewine05x_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_gamble_bottlebeer01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_gamble_bottlecrate01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_gamble_bottlewine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_group_gamble_bottlewine02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_gamble_bottlewine03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_gamble_jar02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_gamble_jugwicker01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_n_grocery_bcrate02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_n_grocery_crate07x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_n_grocery_crate10",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_n_grocery_crate10x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_n_grocery_crate11x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_group_n_grocery_crate22x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_bot01x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_bottle03x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_bottle06x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_bottle07x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_bottle08x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_cellar01x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_lset01x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_lset02x_sal_sd",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props04x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props05x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props10x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props14x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props15x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props18x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props19x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_new_sal02_props20x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_w_tra_botset01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_w_tra_jug01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_w_tra_jug02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_grp_w_tra_jug03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_inv_shopbottlesmall01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jug01bx",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jug01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jug01x_a",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jug01x_b",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jug03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jugglass01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_jugwicker01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_mansionprops07x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_masonjar_empty01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_masonjar01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_masonjarmoonshine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_medicine_fty",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_medicine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_mission_br2_02",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_moonshinebtl01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_moonshinebtl02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_re_jug01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_re_jug02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_re_moonshinecampcart01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sal_botset01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sal_botset03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sal_botset04x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sal_botset05x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_saloonpropgroup01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_saloonpropgroup02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_saloonpropgroup03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_saloonpropgroup04x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_static_new_sal02_props02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_stdengenprops02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sto_basketdishes02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sto_goods32x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sto_goods38x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_sto_jug02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_strawbgroup01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_strawbgroup05x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_strawbgroup06x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_strawbgroup07x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_tequilacombo01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_tonic01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_tonic02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_veh_brt1_jump01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_veh_brt1_tomansion01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_vg_jar01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_vg_tin05x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_vialmedicine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_water01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "p_whiskeyempty01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "p_winebox01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "proc_bottle03x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "proc_bottlejd01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_agedpiraterum01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_beardtonic01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_bearhearttrinket01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_bfmoonshinebox01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_bottlemessage01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_bottlemessage02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_brandy_used01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_brandy01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_champbottle01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_champholder02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_cheaprum01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_cmbitters_crafted_tl",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_cmbitters_specia_tl",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_cmbitters_used_sl",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_cmbitters_used_tl",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_cmountainbitters_sl",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_cmountainbitters_tl",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craft_horsestimulant01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craft_horsestimulant02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craft_horsestimulant03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craft_horsestimulant04x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craft_horsestimulant05x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craft_horsestimulant06x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_craftedmedicine_01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craftedmedicine_02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_craftedsnakeoil_01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craftedsnakeoil_02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_craftedtonic_01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_craftedtonic_02x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_crafthorsestimulant_nocork",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_drinkshootmg01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_drinkshootmg02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_drinkshootmg03x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_dropperbottle01xa",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_flask01dressing",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_flask01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_ginsengelixir01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_interact_bottle",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_interact_jug",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_interact_jug_pickup",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_inv_antidote_fty01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_antidote01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_craftedhreviver01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_flask01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_inv_gin_used01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_gin01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_gin02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_horsemed_fty",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_horsemed01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_horsepills_fty",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_horsepills01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_horsereviver01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_medicine_fty",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_medicine_ftyhalf01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_medicine01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_medicinehalf01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_moonshine01x",
+    "subcategory": "bottle_various"
+  },
+  {
+    "id": "s_inv_piraterum01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_potenthreviver01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_rum01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_snakeoil_fty",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_snakeoil01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_snakeoilextrahalf01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_snakeoilhalf01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_supertonic01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_supertonichalf01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_tonic01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_tonichalf01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_usedhorsereviver01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_usedphreviver01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_usedrum01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_whiskey_used01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_whiskey01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_inv_whiskey02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_jug01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_jug02x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_rc_poisonedwater01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_sherry01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_usedpotentrestoret01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_valerianroot01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "s_whiskeyempty01x",
+    "subcategory": "bottle_single"
+  },
+  {
+    "id": "w_throw_poisonbottle01",
+    "subcategory": "bottle_single"
+  }
+]

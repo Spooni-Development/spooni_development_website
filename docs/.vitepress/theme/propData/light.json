@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "mp001_p_mp_finishlinefire01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "mp004_p_torchposttall01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "mp005_p_horselantern01",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "mp005_p_mp_candlegroup03x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "mp005_p_mp_candlegroup05x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "mp005_p_mp_moundbase3x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "mp005_p_mp_moundbase9x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "mp005_s_interact_detectorm01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "mp005_s_posse_trader_candle01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "mp006_p_mp_lampkerosene04x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "mp006_p_mp_oillamp01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "mp007_p_mp_deerantchandelier01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "mp007_p_nat_lamp30x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_bulkheadlight01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_bulkheadlight02x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_bulkheadlight03x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_bulkheadlight04x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_candelabra02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candelabra04x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candelabra05x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candelabra06x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candle_nofx01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candle01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candle02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candle04x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlebot01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candleboxnbx01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_candlegroup01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup03x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup04x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup05x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup06x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup07x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup08x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlegroup09x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlelamp01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlelampcombo01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlelampcombo02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle03x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle04x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle05x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle06x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle08x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle09x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlepuddle10x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlestand",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlestand02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlestick01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlestick02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_candlestick03x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_chandelier01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier07x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_chandelier09bx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier09x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier10x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier11ax",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier11x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier12bx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier12cx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier12x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier13ax",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier13x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier14ax",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier14x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier15x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier16ax",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier16x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier17x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier17x_dmg",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier17x_drt",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier18x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier19x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier22x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier24x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier25x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier28x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier29ax",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier29x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier30x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier31x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chandelier33x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chineselantern01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chineselantern02x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chineselantern03x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_chineselantern04x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_dblsconcelight01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_deerantchandelier01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_dislantern01x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_floorlamp01x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_gnomeoillamp01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_gnomeoillamp02ax",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_gnomeoillamp02x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_gnomeoillamp03x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_hanginglanternnbx01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_hanginglightnbx01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_kerosenetablelamp01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_kerosenewalllamp01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_kersosenelamp01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lamp03x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp04x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lamp05ax",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lamp05bx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp05cx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp05dx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp05x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp06x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp08x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp09x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp16x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp17bx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp17x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp18x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp19x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp20x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lamp21x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp22x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp23x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp24x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp25x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp26x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp26x_dmg",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp27x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp28x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp30x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamp31x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lamp32x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp33x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamp35x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lamp36x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lamp37x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampbar01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lampcandle02x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampcombine01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lampexterior01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior01x_dmg",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior02x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior03x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior04x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior04xdmg",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior05x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampexterior06x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lampexterior07x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampfactory02x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lampfactory03x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampfactory04x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampfactory05x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lampgroup01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lampgroup02x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lamphanging02x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging03x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging04x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging05bx",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging05x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging06x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging07x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging08x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging10x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging11x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging12x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging13x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging14x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphanging15x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamphangnbx01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lampkerosene01x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lampkerosene01xint",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lampkerosene03x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampkerosene04x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lampkerosene05x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lampkerosene06x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lampkerosene07x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lampmoroccan01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lamppost01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lampstanding01x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstanding02x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstanding03x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstanding04x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstanding05x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lampstanding06x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstanding07x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstanding09x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lampstreet01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lampstreetnbx02x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lamptelegraphpole01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall02x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall03x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall04redx",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall04x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall05x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall06x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall07x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall08x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall09x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall10x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall11x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall12x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall13x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lampwall14x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lantern_brass_001",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lantern04x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern04xint",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern04xlowfuel",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern05x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern05xhang",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern05xhang02",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern05xint",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern05xint02",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern07newx",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern07x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern07xint",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern08x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern09x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern09xhang",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern09xhangwind",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern09xint",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lantern09xmoths",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lanternbrass01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lanternbrass02x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lanterngroup01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lanternhang",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lanternhang01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lanternnbx01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lanternnotexplosive07x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lanternnotexplosive09x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lanternred05x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_lanternset01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lanternset02x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lanternstick09x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lght_rhosalbrt1x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_lgt_gaslampwall01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_light_sd_theater01x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_lightbulb01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lightcourtnbx01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightfancy01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_lighthouse01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lighthouse01x_shield",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lightind01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lightpolenbx01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightpolenbx02x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightpolenbx03x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightpolenbx04x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightpost01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightpostjksqnbx01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightpostnbx01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_lightwallnbx01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lightwallnbx01x.",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_lightwallnbx02x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_medlight01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_medlight02x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "p_mercurylamp01",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_minelamp01x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_moundbase3x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_moundbase9x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_napoleonlight01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_napoleonlight01x_dmg",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_nbdstreetlamp01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_oillamp01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_oillamp04x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_privatearmoured_detail1",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_sconcelight01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_showglobe01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_stageshelllight_long01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_stageshelllight_red01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_stageshelllight01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_steamerlight01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_sto_lampkero01x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "p_stovegasheater01x",
+    "subcategory": "desk lamp"
+  },
+  {
+    "id": "p_streetcarpolenbx03x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetcarpolenbx04x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetclock01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetlampnbx01x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetlightnbx01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_streetlightnbx02x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetlightnbx03x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_streetlightnbx05x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetlightnbx06x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetlightnbx07x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_streetlightnbx09x",
+    "subcategory": "lampstreet"
+  },
+  {
+    "id": "p_theatrelamp01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_torch_02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_torch01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_torchholder01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_torchpost01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_torchpostalwayson01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_train_lamp01x_l",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_train_lamp01x_r",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_veh_norpass_lights01x",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_veh_northpassenger01x_2",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_veh_northpassenger02x_1",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_veh_northpassenger03x_1",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_veh_trainrob4_08_lights",
+    "subcategory": "hanging lamp"
+  },
+  {
+    "id": "p_wallamp09x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx01x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx02x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx03x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx04x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx05x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx06x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_walllampnbx07x",
+    "subcategory": "wall lamp"
+  },
+  {
+    "id": "p_waxdrip01x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip02x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip03x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip04x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip05x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip07x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip08x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "p_waxdrip10x",
+    "subcategory": "candle"
+  },
+  {
+    "id": "s_horselantern01x",
+    "subcategory": "lamp standing"
+  },
+  {
+    "id": "s_interact_lantern01x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_interact_lantern02x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_interact_lantern03x",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_interact_lantern03x_pickup",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_interact_torch",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_interact_torch_crowd",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_movieprojection01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_veh_lantern_lf",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_veh_lantern_rf",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_veh_lantern01_lf",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_veh_lantern01_rf",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_veh_lantern02_lf",
+    "subcategory": "lantern"
+  },
+  {
+    "id": "s_veh_lantern02_rf",
+    "subcategory": "lantern"
+  }
+]

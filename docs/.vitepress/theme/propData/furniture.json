@@ -1,0 +1,3406 @@
+[
+  {
+    "id": "mp001_p_mp_endtable02x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "mp001_p_mp_strongbox01x_lrg",
+    "subcategory": "chest"
+  },
+  {
+    "id": "mp005_p_collectorwagon01_draw",
+    "subcategory": "various"
+  },
+  {
+    "id": "mp005_p_collectorwagon01_draw2",
+    "subcategory": "various"
+  },
+  {
+    "id": "mp005_p_mp_collectorbox01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "mp005_p_mp_filecabinet04x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "mp005_p_mp_tableplank04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp005_s_posse_col_chair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "mp005_s_posse_foldingchair_01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "mp005_s_posse_trad_chair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "mp006_p_mshine_int_door01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "mp007_p_bed_nat01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "mp007_p_mp_chairdesk01x",
+    "subcategory": "chairdesk"
+  },
+  {
+    "id": "mp007_p_mp_nat_deskshelf01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "mp007_p_mp_nat_filecabinet01x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "mp007_p_mp_naturalist_chest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "mp007_p_mp_naturalist_table01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp007_p_nat_chairfolding02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "mp007_p_nat_cupboard04x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "mp007_p_nat_table46x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp007_p_table_nat01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "mp009_p_mp_ammochest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "mp009_p_mp_chestornate01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "mp009_p_mp_chestornate01x_int",
+    "subcategory": "chest"
+  },
+  {
+    "id": "mp009_p_mp_stool01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "mp009_p_mp009_cratetable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_abe_cabinet01",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_adl_cabinet_l",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_adl_cabinet_r",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_adl_cabinet01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_ambfloorroll01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_armchair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_armoir02x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir02x_loot",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir03x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir04x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir04x_loot",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir05x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir05x_loot",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir06x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir07bx",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir07x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir07x_loot",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoir08x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoireregal01",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoiroffice66x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_armoiroffice66x.",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_artgallerygrp01",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_artgallerygrp02",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_awning66x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_baggage01x_cabinet_dr01",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_baggage01x_cabinet_dr02",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_baggage01x_tre_dr01",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_baggage01x_tre_dr02",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_bamboosidetable01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_barberchair01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_barberchair02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_barberchair03x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_barstool01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_barstoolset01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_bed_abigail3x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed02bx",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed02x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed03x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed04x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed05x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed08x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed09x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed10x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed12x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed13x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed14x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed15brassx",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed17x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed18x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed20bloodyx",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed20madex",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed20x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed21x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bed22x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedbunk03x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedking01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedking02x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedlog01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedmosquitonet01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedsleptin01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_bedsleptinold04x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_beechers_ladder01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_bench_log01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_log02x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_log03x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_log04x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_log05x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_log06x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_log07x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench_logsnow07x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench03x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench06x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench06x_dmg",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench08bx",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench09x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench11x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench15_mjr",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench15x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench16x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench17x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench18x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_bench20x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchannsaloon01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchbear01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchbroken02x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchch01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchch01x_dmg",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchironnbx01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchironnbx02x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchlong05x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchnbx01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchnbx02x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchnbx03x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_benchpiano02x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_bespoketable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_birthingchair01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_bistrochair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_bla_lumbdesk",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_bookcase01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_bookcase03x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_bookcase04x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_bookcase05x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_bookcasenb01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_boxlrgbirch01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgcotton01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgice01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgleather01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgmeat01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgstool01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgtool01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgwicker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxlrgwoven01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmedburied01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmedcharred01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmeddeposit01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmedmedical01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmedpaint01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmedsuitcase01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxmedwicker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxsmlbirch01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxsmlhealth01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxsmlleather01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_boxsmltackle01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_buffet01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_buffet02x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_buffet02x_static",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_buffet03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_bw_desk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_cabinet01x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_cabinet02x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_cabinet03x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_cabinet04x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cabinet05x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_cabinet06x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinet07x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_cabinet08x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinet09x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_cabinet11x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinet13x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_cabinet15x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_cabinetchina01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinetchina03x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinetchina04x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinetdoctor01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cabinetdoctor02x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_cabinetpostal01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_caboose01x_cupboard",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_caboose01x_drawers",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_caboose03x_cupboard",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_caboose03x_drawers",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cat_cabinet_l",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cat_cabinet_r",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cat_cabinet01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_chair_10x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair_barrel04b",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair_crate02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair_crate15x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair_cs05x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair_privatedining01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair02x_dmg",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair04x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair05x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair05x_sea",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair06x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair06x_dmg",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair07x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair09x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair11x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair12bx",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair12x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair13x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair14x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair15x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair16x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair17x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair18x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair19x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair20x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair21_leg01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair21x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair21x_fussar",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair22x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair23x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair24x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair25x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair26x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair27x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair30x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair31x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair34x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair37x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chair38x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairbroken01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy02",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy04x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy05x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy06x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy07x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy08x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy09x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy10x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy11x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy12x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy14x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy16x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy17x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy18x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy22x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfy23x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaircomfycombo01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairconvoround01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_chairdeck01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairdeckfolded01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairdesk01x",
+    "subcategory": "chairdesk"
+  },
+  {
+    "id": "p_chairdesk02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairdining01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairdining02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairdining03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chaireagle01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairfolding02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairhob01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairhob02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairironnbx01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairmed01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairmed02x",
+    "subcategory": "chairdesk"
+  },
+  {
+    "id": "p_chairnbx02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairoffice02x",
+    "subcategory": "chairdesk"
+  },
+  {
+    "id": "p_chairpokerfancy01x",
+    "subcategory": "chairdesk"
+  },
+  {
+    "id": "p_chairporch01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrocking02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrocking03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrocking04x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrocking05x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrocking06x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrustic01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrustic02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrustic03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrustic04x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrustic05x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairrusticsav01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairsalon01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairtall01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairvictorian01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairwhite01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairwicker01b_static",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairwicker01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairwicker02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chairwicker03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chamberpot_pot",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_chamberpot01x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_chamberpot02x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_chest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chest02x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_chest03x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestchair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_chestmedbin01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedburied01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedhunt01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedice01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedlivestock01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedlog01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedproduce01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedtrap01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedwicker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chestmedwilderness01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_chinacabinet01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_clothingcase01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_clothinghook01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coatrack01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coatrack02x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coatrack03x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coatrack04x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coatrackcombo01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coatstand01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_coffer01x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_commode01x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_commode02x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_commodini01x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_console02x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_cornercabinet01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cornercabinet02x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_cot01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_couch01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch02x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch03x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch05x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch06x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch08x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch09x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch10x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couch11x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_couchwicker01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_counterdoctor01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_countertravel01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_craftedtable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_cratetable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_cratetablemil01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_cs_ann_wrkr_bed01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_cs_bed20madex",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_cs_bedsleptinbed08x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_cs_footlocker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_cs_hammock01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_hammock02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_johnmarstontrunk",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_cs_marstonlocker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_cs_mtsaloontable",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_cs_pro_bed_unmade",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_cs_roc_hse_bed",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_cs_tablecoffee04x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_cupboard01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard02bx",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard02x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard03x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard04x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard05x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard06x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboard07x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboardcorner01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboardfac01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_cupboards_narrow",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cupboards_wide",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_desk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk03x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk04x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk07x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk08x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk09bx",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk09x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk10x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk13x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk14x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk15x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk17x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_desk18x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_diningchairs01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_dis_strongboxsm01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_displaycasenbx01x",
+    "subcategory": "displaycasen"
+  },
+  {
+    "id": "p_displaycasenbx02x",
+    "subcategory": "displaycasen"
+  },
+  {
+    "id": "p_doc_coatstandrack01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_drawermerchant01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_drawertrolley01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_drdesk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_dresser01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_dresser03x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser04x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser05x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser06x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser07x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser08x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser09x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser10x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser11x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dresser11x_static",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dressercombo01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_dressergroup01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_dresserval01x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_dressmirror01x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_drmedcabinet01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_dryingrack02x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_drysink01x",
+    "subcategory": "sink"
+  },
+  {
+    "id": "p_drysink03x",
+    "subcategory": "sink"
+  },
+  {
+    "id": "p_dumbwaiter01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_endtable01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_endtable02x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_endtable03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_filecabinet02x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet03x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet04bx",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet04x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet05x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet66x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet67x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet68x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinet69x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_filecabinetdoctor01x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_footlocker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_footlocker07x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_footlocker07x_loot",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_footlockeranim01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_gen_bedsleptin01x_tc01",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_gen_benchpiano01x_tc01",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_gen_chair06x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_gen_chair07x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_gen_chair08x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_gen_dresser01x_tc01",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_gen_stool01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_gen_stool03x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_gen_table01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_gen_table02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_gen_table03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_gen_table04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_gildedmirror01x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_gildedmirror03x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_group_chair05x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_group_man01x_longt_drink2",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_group_man01x_longt_f2",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_group_man01x_longtable",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_group_man01x_smltable",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_group_man01x_tableround",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_group_man1x_long_t_f1",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_grp_w_tra_sidetable01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_gun_hangitem02x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_guncabinet01x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_guncabinet02x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_guncase02x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_guncase03x",
+    "subcategory": "displaycasen"
+  },
+  {
+    "id": "p_guncase04x",
+    "subcategory": "displaycasen"
+  },
+  {
+    "id": "p_guncase05x",
+    "subcategory": "displaycasen"
+  },
+  {
+    "id": "p_guncase05x_large",
+    "subcategory": "displaycasen"
+  },
+  {
+    "id": "p_gunrack02x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_gunrack03x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_gunsmithprops16x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hallbench01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_halltree01x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_hammock01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_hathang01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hatstand01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hatstand01xng",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hatstandbear01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hatstandcombo01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hatstandset01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hng_toi",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_hookwall01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_hutch01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_hutch02x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_hutch03x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_hutch04x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_hutchwhite01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_icechestlrg01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_inlaidsecretary01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_itable03x",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_kitchencombo01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_kitchenhutch01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_ladder01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_ladder02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lakdok_lad_01",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lar_sng_drawer_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lar_sng_drawer_02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lar_sng_drawer_03x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_lar_sng_drawer_04x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_latchdesk01x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_lootablecrate01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_lootcabinet02x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "p_loveseat01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_loveseat02x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_mansionprops20x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_medicinechest01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_mirror02x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_mirror03x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_mirror04x",
+    "subcategory": "mirror"
+  },
+  {
+    "id": "p_moneybox_open01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_nbmbookshelves01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_nbmchinacabinet01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_nbmchinacabinet02x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_nbmchinahutch01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_nbmnightstand03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_new_rich_bench2x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_new_stonebench02x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_nightbedking01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_nightstand03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_nightstand04x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_nightstandsix01",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_nightstandwinter03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_norpass_up01x_seat01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_oldarmchair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_opensleeper_bed01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_opensleeper_furniture01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_opensleeper_seat01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_opensleeper_tre2_bed01",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_opensleeper_tre2_seat01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_outhouse_script_pee",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse_valb",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse01x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse01x.yft",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse02x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse03x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse04x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_outhouse05x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_pedestal01x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_pedestal02x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_pedestal03x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_pedestal03x_dmg",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_pedestalstand01x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_pianochair01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_plantstand01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_plateshelf01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_podium01x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_podium02x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_printer_board_001",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_privatelounge_chair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_privatelounge_table01x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_privatelounge_table02x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_rack01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_rockingchair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_rockingchair02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_rockingchair03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_sawbucktable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_sdtheater_chest01x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_seatbench01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_seatsnorpass01_x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_seatsnorpass02_x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_seatsnorpass03_x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_servingcart01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_settee_05x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_settee01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_settee02bx",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_settee02x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_settee03bx",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_settee03x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_settee04x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_sewing_dresser01x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "p_shelf02x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelf03x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelf06x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelf09x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelf10x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfcorner01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelflrg01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelflrg03x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfmail01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfornate01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfornate02x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfpostal01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwall01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwall02x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwall04x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwall05x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwall06x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwall07x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_shelfwine01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_sideboard01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_sidetable01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable01x_norpass01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable02x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable06x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_sidetable07x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable08bx",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable08x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable09x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable10x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable11x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_sidetable13x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable18x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable18x_privateobs",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable19x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable20x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetable20x_norpass01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_sidetablecombo01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_singlebrassbed01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "p_sink02x",
+    "subcategory": "sink"
+  },
+  {
+    "id": "p_sink03x",
+    "subcategory": "sink"
+  },
+  {
+    "id": "p_sink04x",
+    "subcategory": "sink"
+  },
+  {
+    "id": "p_sit_chairwicker01a",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_sit_chairwicker01b",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_sit_chairwicker01c",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_sit_chairwicker01d",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_sit_chairwicker01e",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_six_cabin_sng_drawer_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_six_cabin_sng_drawer_02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_sodafountain01x",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_sofa01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_sofa02x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_stableprops01xhighhooks",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_stableprops01xhooks",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_stableprops04x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_standfern01x",
+    "subcategory": "pedestall and podium"
+  },
+  {
+    "id": "p_standgroup01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_steamer_trunk_001",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_stepstool01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_sterilecabinet01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_stool013x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool02x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool03x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool04x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool05x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool06x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool07x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool08x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool09x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool10x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool11x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool12x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool13x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool14x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool15x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stool16x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stoolcomfy01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stoolcomfy02x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stoolfolding01bx",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stoolfolding01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_stoolwinter01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "p_strongbox_muddy_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongbox_rusted_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongbox_snow_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongbox_waterlogged_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongbox01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongbox01x_open",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongboxsm_muddy_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongboxsm_rusted_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongboxsm_waterlog_01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_strongboxsm01x001",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_supplywagon_step01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_tabfrag_01a",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table_cs34_sml",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table_privatedining01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table_saloon01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table_sd_theater01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table01x_norpass03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table05x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table06x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table10x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table11x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table12x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_table13x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table14x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table31_largex",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table31x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table31x_cover",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table32x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table34x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table38x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table39x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table40x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table40x_static",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table41x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table42_cs",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table42x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table43x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table43xb",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table45x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_table46x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table46x_cover",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table47x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table48x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table50x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table51x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table52x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table53x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_table55x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table56x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table57x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_table58x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableannsaloon01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablebedside01x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_tablebedside02x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_tablebooth01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablebra01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablebrass01x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablechop01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablechop02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablecoffee01x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablecoffee02x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablecoffee04x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablecoffee05x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablecoffee06a",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablecoffee06x",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tablecoffee07x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableconsole01x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole02x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole03bx",
+    "subcategory": "coffeetable"
+  },
+  {
+    "id": "p_tableconsole03x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole04x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole05bx",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole05x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole06x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tableconsole07x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tablecul01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tabledining03x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tabledining03xb",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tabledining04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tabledining05x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablegiltconsole01_static",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tablegiltconsole01x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_tablegiltwood01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablehob1x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableironnbx01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablemahogany01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablenbx02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableplank04x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablepoker02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableprep01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableprep02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablereccloth01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablerndcloth02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablerndnwhite01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablesav01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tableset01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablesix01",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablesnakeoil01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablesur01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablevoodoo01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablewinter01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_tablework02x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_tablework03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_tailor_int_door_01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_teacart01x",
+    "subcategory": "restaurant funiture"
+  },
+  {
+    "id": "p_theaterchair01b01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_theaterchair02a01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_theaterchair02b01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_theaterchair02c01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_threecardmonte01bx",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_toilet_01",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_toiletchair01x",
+    "subcategory": "toilet"
+  },
+  {
+    "id": "p_toolrack01x",
+    "subcategory": "hook"
+  },
+  {
+    "id": "p_traveltrunk01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_traveltrunk02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_traveltrunk02x_b",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trolleymaildesk_01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_troughtable01x",
+    "subcategory": "console"
+  },
+  {
+    "id": "p_trunk01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk02x_b",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk03x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk03x_b",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk04x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk05ax",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk05x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk06ax",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunk06x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunkcover02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunkset01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunkset02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunkvar01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_trunkvar01x_noloot",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_val_hotel_dbl_drawer_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_val_hotel_sng_drawer_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_valsal2_sng_drawer_01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_vanity01x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_vanity02x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_vanitydresserdesk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_vanslidingdoor01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "p_veh_pg_vl_craftsman01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_veh_pg_vl_farmer01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_victoriansofa01x",
+    "subcategory": "sofa"
+  },
+  {
+    "id": "p_walnuthutch01x",
+    "subcategory": "cupboard"
+  },
+  {
+    "id": "p_washstand02x",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_washstand02x_static",
+    "subcategory": "commode"
+  },
+  {
+    "id": "p_washstand03x",
+    "subcategory": "sidetable"
+  },
+  {
+    "id": "p_weddingchest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "p_windsorbench01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "p_windsorchair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_windsorchair02x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_windsorchair03x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_wnt4_drwdbl01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_woodbench02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_woodenchair01x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "p_woodendeskchair01x",
+    "subcategory": "chairdesk"
+  },
+  {
+    "id": "p_woodentablenbx_01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "p_workbenchdesk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "p_writingdesk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "s_abe_cabinet01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_armoir02x",
+    "subcategory": "armoir"
+  },
+  {
+    "id": "s_armoredcar02xladder01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_armoredcar02xladder02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_armoredcarladderinterior01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_armoredcarladders01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_armoredcarladders02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_arthurchest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_bedarthur01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "s_bench01x",
+    "subcategory": "bench"
+  },
+  {
+    "id": "s_bfchair04x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "s_bftable01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "s_caravancot01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "s_chair04x",
+    "subcategory": "chair"
+  },
+  {
+    "id": "s_clothingcasedoor01x",
+    "subcategory": "shelf"
+  },
+  {
+    "id": "s_craftedarthurchest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_craftedbed01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "s_cvan_chest01",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_cvan_chest02",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_cvan_table",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_desk01x",
+    "subcategory": "desk"
+  },
+  {
+    "id": "s_filecabinet02x",
+    "subcategory": "filecabinet"
+  },
+  {
+    "id": "s_footlocker01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlocker02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlocker03x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlocker04x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlocker05x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlocker06x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlockermud02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_footlockersnow03x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_hotbox01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootableammocase",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablebedchest",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablebigbluechest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablebigbluechest02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablebigbluechest03x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablebigmiscchest",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablebignarrowmiscchest",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablecampcase",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablecampcase_broken",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablecampcase_bx",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablecampcase_cx",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablecampcase_med",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablecampcase_sml",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootableluggage01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablemedcase",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablemedicinecrate",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablemiscchest",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_lootablemiscchest_wagon",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_miscchest_loot",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_nbd_bankdrawer01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_nbd_bankdrawer02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_nbd_bankdrawer03x",
+    "subcategory": "various"
+  },
+  {
+    "id": "s_pro_bunkbeds01x",
+    "subcategory": "bed"
+  },
+  {
+    "id": "s_re_rcboatbox01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_rustedchest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_stoolfoldingstatic01x",
+    "subcategory": "stool"
+  },
+  {
+    "id": "s_table02x",
+    "subcategory": "table"
+  },
+  {
+    "id": "s_tabledominoes01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "s_tablepierson01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "s_tablepokercaravan01x",
+    "subcategory": "table"
+  },
+  {
+    "id": "s_treasureheartlands02x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_trunkvanhorn01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "s_waterloggedchest01x",
+    "subcategory": "chest"
+  },
+  {
+    "id": "t_dresser10_groupa",
+    "subcategory": "commode"
+  },
+  {
+    "id": "t_dresser10_multi",
+    "subcategory": "commode"
+  }
+]

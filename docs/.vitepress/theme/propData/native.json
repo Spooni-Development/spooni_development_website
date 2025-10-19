@@ -1,0 +1,606 @@
+[
+  {
+    "id": "p_ambbed01x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_ambchair01x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_ambchair02x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_arrow01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_arrowbundle01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_arrowbundle02x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_arrowdisplay01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_arrowdisplay02x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_bamboostick01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_basketindian01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_basketindian02x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_basketindian03x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_bedindian01x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_bedindian02x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_bedindian04x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_bowdisplay01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_bowdisplay02x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_bowlna03x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_bowlna04x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_canoe01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_canoeconst01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_charmscreepy01x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_charmscreepy01x_a",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_charmscreepy01x_b",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_charmscreepy01x_small",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_cs_arrow01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_cs_arrow01x_broken",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_cs_arrow02x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_cs_indianpipebag01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_makeshiftstretcher01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_cs_owlfeathertrinket",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_disdreamcatcherwind01x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_disdreamcatcherwind02x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_disdreamcatcherwind03x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_disdreamcatcherwind04x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_disdreamcatcherwind05x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_graveindian01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_group_skull01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_grp_w_tra_barrelhalf01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_hangingbones01x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_indianartifact01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_indianartifact03x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "p_indianbackrest01x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_indianbedrollclosed01x",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "p_indiandream01x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_indiandream01x_a",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_indiandream02x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_indiandream03x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_indianfan01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_indianfan02x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_indianpipebag01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_indianrattle01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_indiansweetgrass01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_indiantipibag01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_ladlecampsav01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_peacepipe01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_peacepipe02x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian02x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian03x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian04x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian05x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian07x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian08x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_potteryindian10x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_prisoncage01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_prisoncage02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_skullpost01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_skullpost02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_skullpost03x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_spookynative01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative02x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative03x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative04x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative05x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative06x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative06x_a",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative07x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative08x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_spookynative09x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_spookynative10x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_spookynative10x_a",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "p_spookynative11x_a",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookynative12x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls02x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls02x_a",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls02x_b",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls03x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls04x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls05x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls06x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls07ax",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls07bx",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_spookyskulls08x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_staffindian01x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_staffindian03x",
+    "subcategory": "deco"
+  },
+  {
+    "id": "p_veh_savagearrows01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_asteroidchunktrinket",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_badgerclawtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_batwingtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_bobcatclaw01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_braithwaitecrest01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_bullgatortrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_cateyetrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_cateyetrinket01x_1",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_cft_arrow",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_cft_arrow_dynamite",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_cft_arrow_fire",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_cft_arrow_smallgame",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_charmsnecklace01x",
+    "subcategory": "dreamcatch"
+  },
+  {
+    "id": "s_chelonianmastertrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_cranefeathertrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_duckfeather01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_futuristictrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_ghostaligatortrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_giantboartrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_gilamonstertrinket",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_hawktalontrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_hawktalontrinket01x_1",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_heronfeathertrinket",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_inv_arrowammo01p",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_inv_arrowammo01x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_inv_arrowammo02x",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "s_javelinatusktrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_lionspawtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_littleegrettrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_loupelensdevice01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_ornategoldtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_pantherclawtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_poisonedbluegill01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_quasifuturisticrock01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_reddishegrettrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_snowyegrettrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_squirreltoothtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_tatankabuffalohorn01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_toadlegtrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_turtleshelltrinket01x",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_turtleshelltrinket01x_1",
+    "subcategory": "badge"
+  },
+  {
+    "id": "s_wap_rainsfalls",
+    "subcategory": "furniture"
+  },
+  {
+    "id": "w_bow_improved01_grip1",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_bow_improved01_grip3",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_bow_improved01_grip4",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_bow_improved01_grip5",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_mp_bowarrow_arrow_tracking",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_sp_bowarrow",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_sp_bowarrow_arrow",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_sp_bowarrow_arrow_smallgame",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_sp_bowarrow_charles",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_sp_bowarrow_dynamite",
+    "subcategory": "weapon"
+  },
+  {
+    "id": "w_sp_bowarrow_fire",
+    "subcategory": "weapon"
+  }
+]

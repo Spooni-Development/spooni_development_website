@@ -11,8 +11,8 @@
 export interface Prop {
   /** Unique identifier for the prop */
   id: string;
-  /** Main category the prop belongs to */
-  category: string;
+  /** Main category - deprecated: now determined by JSON filename */
+  category?: string;
   /** Optional subcategory for more specific classification */
   subcategory?: string;
 }

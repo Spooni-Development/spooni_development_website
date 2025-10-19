@@ -1,0 +1,462 @@
+[
+  {
+    "id": "mp004_p_cs_billstack01bx",
+    "subcategory": "money"
+  },
+  {
+    "id": "mp005_s_cn_1700_nyt",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1787_1c_apt",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1789_pctm",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1792_1866_5cnick",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1792_1870_qpd",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1792_qlp",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1794_1795_sd_fh",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1795_1797_5d_shetr",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1796_halfpen_ctn",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1797_1804_10d_lc",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1798_1804_sd_db",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1800_1805_s5c_dbhd",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1800_1888_5d_cb",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1800_1899_25c_sg",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp005_s_cn_1800_1899_gd_lo",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp006_s_coin_emote01x",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp007_p_mp_paperreceipt01x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "mp007_s_coinbite_emote01x",
+    "subcategory": "coin"
+  },
+  {
+    "id": "mp008_p_mp_valuables01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "mp008_p_mp_valuables02x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "mp008_s_loot_photostudio01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "mp008_s_safe_photostudio01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_bank_safe_med_l",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_bank_safe_r",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_bankcheckemboss01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_bankdeskgroup01x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "p_bankdeskgroup02x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "p_banksealpress01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_bellgroup01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_calculatorset01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_calculatorset03x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_coin01x",
+    "subcategory": "coin"
+  },
+  {
+    "id": "p_coin02x",
+    "subcategory": "coin"
+  },
+  {
+    "id": "p_coinstack01",
+    "subcategory": "coin"
+  },
+  {
+    "id": "p_coinstack02",
+    "subcategory": "coin"
+  },
+  {
+    "id": "p_cs_billsingle01bx",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_billsingle01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_billstack01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_billstack02x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_billstack03x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_check01x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "p_cs_coachroutes01x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "p_cs_dollarbill3stack01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_dollarbillstack01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_cs_railroadbond01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_depotgroup11x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_door_bla_bankvault",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_door_val_bankvault",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_door_val_bankvault02x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_foldedbills01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_foldedbillsmedium01bx",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_foldedbillsmedium01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_foldedbillssmall01bx",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_foldedbillssmall01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_foldedbillsxsmall01bx",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_foldedbillsxsmall01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_gen_documentfolder01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_goldstack01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_grp_a_tstation_books01x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "p_grp_a_tstation_crate07x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_moneybag01x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneybag02x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneybag04x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneybag05x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneybaggen02x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneysack01x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneysack02x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "p_moneystack01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_moneystack02x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_moneystack03x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_nbx_bank_desk02",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_papergroup08x",
+    "subcategory": "check and paper"
+  },
+  {
+    "id": "p_paperreceipt01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_paperreceipt02x",
+    "subcategory": "money"
+  },
+  {
+    "id": "p_sack04x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_safe_ser",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_safe01",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_safebla01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "p_safetydepositbox01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_shinycoin01x",
+    "subcategory": "coin"
+  },
+  {
+    "id": "p_stdenbankprops04x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_valuablesset02x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "p_worm_moneystack01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "s_door_val_bankvault",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_door_vault_nbx1",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_door_vault_nbx2",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_door_vault_nbx3",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_inv_coinsack01x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "s_inv_moneyclip01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "s_lootablemoneybox_b001",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "s_moneysackbig01x",
+    "subcategory": "moneybag"
+  },
+  {
+    "id": "s_pickup_bond01x",
+    "subcategory": "money"
+  },
+  {
+    "id": "s_safe01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_safe02x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_safe03x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_treasurecoins01x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "s_vault_lrg_l_val01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_lrg_r_val01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_lrg_r_val01x_high",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_med_l_val01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_med_r_val_bent01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_med_r_val_bent02x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_med_r_val01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_med_r_val01x_high",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_sml_l_val_bent01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_sml_l_val01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_sml_l_val01x_high",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_sml_r_val_bent01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_sml_r_val01x",
+    "subcategory": "safe"
+  },
+  {
+    "id": "s_vault_sml_r_val01x_high",
+    "subcategory": "safe"
+  },
+  {
+    "id": "safe_lrg_r_succeed_start",
+    "subcategory": "safe"
+  },
+  {
+    "id": "saint_denis_1x",
+    "subcategory": "diverse"
+  },
+  {
+    "id": "sl_start",
+    "subcategory": "safe"
+  },
+  {
+    "id": "sr_start",
+    "subcategory": "safe"
+  }
+]

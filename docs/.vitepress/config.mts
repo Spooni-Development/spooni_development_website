@@ -19,6 +19,9 @@ export default defineConfig({
   
   head: [
     ["link",{ rel: "icon", sizes: "64x64", href: "/icons/logo.svg", loading: "lazy" }],
+    // Preconnect to external domains for faster loading
+    ["link",{ rel: "preconnect", href: "https://spooni.de" }],
+    ["link",{ rel: "dns-prefetch", href: "https://spooni.de" }],
     // Preload critical fonts for better performance
     ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
     ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-700.woff2", as: "font", type: "font/woff2", crossorigin: "" }],

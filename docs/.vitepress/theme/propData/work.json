@@ -1,0 +1,4470 @@
+[
+  {
+    "id": "mp001_p_group_logs01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "mp001_p_group_logs02",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "mp001_p_jumphurdles01x",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_ac01skinpelt",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp001_p_mp_haybalecover01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "mp001_p_mp_haybalecover03x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "mp001_p_mp_jump_barrellong01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_barrelshort01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_blocklong01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_blocksmall01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_dock01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_fencelong01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_fenceshort01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_fenceshort02",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_haybalelong01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_haybaleshort01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_logshort01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_logshort02",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_jump_sackshort01",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "mp001_p_mp_pelt_xlarge_acbear01",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp001_p_mp_trap05x_lid",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp001_p_mp_trap05x_nolid",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp001_p_railroadtiepile01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "mp001_s_healthpack01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "mp001_s_horsearmourbox_left",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "mp001_s_hotchkiss_cannon_clip",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp001_s_mp_ammobox01a",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp004_p_mpcover_gunslinger01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "mp004_s_ammo_lemat_pistol",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp004_s_ammo_lemat_shotgun",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp004_s_gallowsstairs02x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "mp005_draped_hide01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_draped_hide02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_draped_hide03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_p_mp_bountyboard01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "mp005_p_mp_bountyboard02x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "mp005_p_mp_cover_h_ado",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "mp005_p_mp_cover_ss_tt",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp005_p_mp_hideframe02x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_p_wildanimalcage01",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp005_s_mp_tradegoods01x_dam",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_s_mp_tradegoods01x_norig",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_s_mp_tradegoodswrapped01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_s_posse_butcher01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_butcher02x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_butcher03x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_butcher04x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_fleshingboard01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods01bx",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods02bx",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods02x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods03bx",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods03x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods04bx",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_goods04x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_guncleaningkit_01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "mp005_s_posse_gunpowdertin_01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "mp005_s_posse_raccoonpelt01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp005_s_posse_trader_fireset01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "mp005_s_posse_turkeyplume01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "mp005_s_posse_weaponslocker01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "mp006_p_mp_inv_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp007_p_beartrapmp01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp007_p_buffhorn_torn01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "mp007_p_cs_nat_collectors01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "mp007_p_mp_ammoboxset01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "mp007_p_mp_jarspecimen02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "mp007_p_mp_microscope01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "mp007_p_mp_syringe01x_1",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "mp007_p_mp_tonicbox01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage02",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage02b",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage03",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage03b",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage04",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage04b",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage05",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage05b",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_mp_wildanimalcage06",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "mp007_p_nat_beartuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "mp007_p_nat_bottles01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "mp007_p_nat_box01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "mp007_p_nat_fancycage02x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp007_p_nat_microscopeslides01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bearlegend01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bearlegend02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bearlegend03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_beaverlegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_beaverlegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_beaverlegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bighornlegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bighornlegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bighornlegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_boarlegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_boarlegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_boarlegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bucklegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bucklegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_bucklegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_buffalolegend01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_buffalolegend02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_buffalolegend03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_cougarlegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_cougarlegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_cougarlegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_coyotelegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_coyotelegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_coyotelegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_elklegend01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_elklegend02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_elklegend03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_foxlegend01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_foxlegend02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_foxlegend03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_gatorlegend01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_gatorlegend02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_gatorlegend03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_mooselegend01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_mooselegend02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_mooselegend03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "mp007_p_nat_pelt_pantherlegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_pantherlegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_pantherlegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_wolflegend01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_wolflegend02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_pelt_wolflegend03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "mp007_p_nat_trap01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp007_p_nat_trap02x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp007_p_nat_trapcloth01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "mp007_s_ammo_elephant",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp007_s_inv_varmint_tranqammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp007_s_rif_elephantammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp008_s_maxim_casing01",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp008_s_maxim_casing02",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "mp009_p_mp_ammobigmiscchest02x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "mp009_p_mp_ammobigmiscchest03x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "mp009_p_mp_ammobigmiscchest04x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "mp009_p_revolver_cattleman_cut",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "mp009_s_interact_lanternskull01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "mp009_s_mp_medicinebox01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_alligato_tooth01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_alligatorpelt01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ambfloorflur02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ambfloorfur01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ambfloorfur02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ambfloorscrub01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_ambpelt01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_ambpelt02x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_ambpelt03x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_ambpeltstack01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_ambpeltstring01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_ambwoodpile01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_ambwoodstack01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_ammo_box_001",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_ammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_ammoboxhalf01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_ammoboxlancaster01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_ammoboxlancaster02x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_ammoboxset01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_apothecary01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_apothecary02x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_apothecaryjars01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_apothecaryjars02x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_apothecaryjars03x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_apothecaryjars04x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_bandage01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_bandage02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_bandage03x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_bandanaplayer01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_barber_propset04x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_barber_propset05x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_barber_propset10x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_barberbottles01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_barberbottles02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_barberbottles03x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_bat_lumber02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber04bx",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber04cx",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber04dx",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber04ex",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber04fx",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber04x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber05ax",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber05ax_stack_01a",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber05ax_stack_01b",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber05ax_stack_01c",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bat_lumber05x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_bearskin01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_beartrap01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_beartuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_bespokemoosexlpelt01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_bighorntufts01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_bisontuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_bobcattuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_boxlrgproduce01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_boxsmlammo01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_bucketpigfeed02x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_bucktufts01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_buffalohorn01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_buffalohorn02x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_buffalohorn03x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_bulletcasing01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_bulletcasingmulti01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_bulletcasingmulti02x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_cane01bx",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cane01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cardcheatholdout01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cartcabinet01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_cedar_log_01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cedar_log_03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cedar_log_04x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cedar_log_06x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cedar_log_07x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cedar_log_08x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cedar_log_09x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_ceilinghook01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_chainbalcony01axb_a",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_chainbalcony0axb_b",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_chainbalcony0axb_c",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_chairdoctor01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_chairdoctor02x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_chickencoopcart01x",
+    "subcategory": "ranch/chicken"
+  },
+  {
+    "id": "p_chickennest01x",
+    "subcategory": "ranch/chicken"
+  },
+  {
+    "id": "p_cordwood01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cordwood02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cordwood03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cougarscat01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_coyotescat01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_coyotetuftsfur_01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_craftedrool01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cratebottles01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_crategroup11x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup12x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup13x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup14x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup15x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_crategroup16x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup18x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_crategroup20x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup22x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crategroup23x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_cratemaxim02x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_cratemultiplayerammofull01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_cratemultiplayeritem01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_cratemultiplayerweapon01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crateset04x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_crateweapons01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crateweapons02x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crateweapons03x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crateweapons04x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crateweaponsbreak01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_crutchjoe01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_alligatorpelt_large",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_bandage01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_bandage02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_bandito_mine01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_bandito_shack01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_bear_fight01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_bearskin_xlarge_roll",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_bfloskin_xlarge_roll",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_blackbearskin_medlarge",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_blackbelle_bounty01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_blackwater_hunt01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_boardonwall01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_cs_bolt_strap",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_cs_bullet_r45",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_cs_bullgator_xlarge_roll",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_camp_return01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_carcasspig01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_cs_cedarlog01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cs_cedarlog02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cs_cedarlog03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cs_chain_gang01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_cowpelt2_xlarge",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_crocskin_medium_flat",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_crocskin_medium_roll",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_cyteskin_medium_flat",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_deer01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_cs_deerskin_medium_flat",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_deerskin01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_deerskin02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_dogcostumepiece01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_egretplumes01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_cs_electricchair01x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "p_cs_electrichelmet01x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "p_cs_elephant_strap",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_cs_gatlingbulletbelt",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_cs_grainbag01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_cs_gun_strap",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_cs_harness01x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_cs_horseharness01x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_cs_horsereins01x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_cs_horsereins02x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_cs_horseswitch01x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_cs_laramie_sleeping01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_lemoyne_raiders01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_log01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cs_molotov_cloth",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "p_cs_pelt_elklegendary",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_large",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_pelt_medium",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_pelt_medium_og",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_pelt_medlarge",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_pelt_wolf",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_ws_alligator",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_alligator",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_bear",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_bearlegendary",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_buffalo",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_elk",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_tbuffalo",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_pelt_xlarge_wbuffalo",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_poster2horfold",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_prostheticleg_01bx",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_prostheticleg_01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_rabbit01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_cs_rabbit02x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_cs_rabbitfeetless",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_rabbithead01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_cs_rabbitskin_flat",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_rcridethelightning",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_rhodes_rancher01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_rifle_strap",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_cs_saddle01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_cs_saddle02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_cs_saddle03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_cs_saddlebundle01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_cs_saintdenis_saloon01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_shack_escape01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_shackleleg01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shackleleg02x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shackleleg03x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shackleleg04x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shackleleg05x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shacklewrist01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shacklewrist02x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shadbmnt_shkl01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_cs_shotgun_bullet",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_cs_skinner_brother01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_skinner_search01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_snakeoil_salesman01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_stethascope01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_stolen02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_stolen05x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_stolen06x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_cs_straightjacket",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "p_cs_strawberry_duel01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_syringe01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_syringe02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_cs_tourniquetstick01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_cs_wanted_bounty_2fold",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_wanted_bounty01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_wanted_dead01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_wantedalive01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_wantedalive01x_copy",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_wantedalive01x_sct",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_warmedal01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "p_cs_wife_and_lover01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_cs_wolfpelt_large",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_cs_woodpile01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_deerhanging01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_deerhanging02x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_deerhanging03x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_deertuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_depositboxset01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_depotgroup01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_depotgroup02x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_depotgroup03x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_depotgroup07x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_depotgroup08x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_deputybadge01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "p_doc_botset01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset02x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset03x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset04x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset05x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset06x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset07x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset08x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset09x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset10x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset11x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset12x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset13x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset14x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset15x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset16x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset17x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset18x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset19x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_doc_botset20x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_botset21x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_firstaidkit01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_doc_stack01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_doc_syringeset01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_docgroup02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_docgroup05x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_docgroup06x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_docgroup07x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_docgroup08x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_docgroup09x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_docgroup10x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_docgroup11x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_docgroup12x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_docgroup13x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_doctool01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_dressform01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_dressinglbsmed01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_dressinglcmpackage01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_drmedscale02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_drmedscale03x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_drsupplycart01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_dryingmeat01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_eaglependant01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "p_elktuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_examtbledoctor01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_exoticprops01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_eyeserum01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_feedbag01bx",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_feedbag01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_feedtrough01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_feedtroughsml01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_fleshingboard01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_fleshingknife01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_floorboard01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_foundjoist01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_foxpelt01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_foxscat01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_foxtuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_gangwood01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_gndblnd_hay01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_gndblnd_hay02x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_gndblnd_hay03x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_grainbag01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_group_gamble_package01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_group_logpile01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_group_lumberpile01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_group_vallogs01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_grp_a_tstation_crate01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_crate02x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_crate04x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_crate06x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_letters01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package02x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package03x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package04x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package05x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package06x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_a_tstation_package08x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_grp_ann_gsmith01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith02x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith03x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith04x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith05x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith06x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith07x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_ann_gsmith08x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_botphotosd_01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_grp_botphotosd_02x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_grp_botphotosd_03x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_grp_feedbag01x_car_sd",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_grp_harness01x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness01xcar_bla",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness02x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness02xcar_bla",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness03x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness03xcar_bla",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness04x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness04xcar_bla",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness05x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness05xcar_bla",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness06x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness07x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_harness08x_car_sd",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_grp_rho_gsmith07x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_grp_sdlstand01x_car_sd",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_grp_w_tra_bclosed01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_grp_w_tra_crate11x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_grp_w_tra_horsesaddle01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_grp_w_tra_wedgestick01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_gun_crateset02x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gun_crateset03x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gun_crateset04x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gun_display01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_gun_gunset01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gun_packages01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_gunbarrelset01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_guncase01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gundisplay01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gundisplay02x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunoilgroup01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunoilgroup02x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunpart01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunpart02x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunpart03x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunpowder01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_gunrack04x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_gunsmithprops01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_gunsmithprops03x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops04x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops05x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops06x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops08x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops10x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops12x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops13x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops15x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops17x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_gunsmithprops19x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_gunsmithprops21x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunsmithprops22x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunsmithprops23x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_gunsmithprops27x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_gunsmithprops29x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_handcuffs01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_handcuffs02x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "p_handfulofhay",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_handplow01x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_hanging_badger01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_hanging_coyote01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_hanging_fox01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_hangracklrg01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_hangrackmed01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_hangrackmix01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_hangracksml01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_harness01x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_harness02x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_harness04x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "p_haybale01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybale03x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybale03x_anim",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybale04x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalebloody01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalecover01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalecover02x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalecover03x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalescorched01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalesit01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalestack01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalestack02x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haybalestack03x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haycartcover01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haycartcover02x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypile_wag01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypile01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypile02x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypile03x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypile04x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypilepitchfork01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_haypilewheelbarrel01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_hide01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_hide02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_hidedisplay01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay03x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay05x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay06x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay07x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay09x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedisplay10x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hidedraped02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_hideframe01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_hideframe02x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_hidepile01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_hidepile02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_hidewolf01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_hitchingpost01x",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "p_hitchingpost01x_dmg",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "p_hitchingpost04x",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "p_hitchingpost05x",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "p_hitchpostbla01x",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "p_horseflies",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_horsehitchnbd01x",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "p_horsesaddle01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_horsesaddlepart01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_horseshoe01x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_hotchkisscrate01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_ihide02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ihide03x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ihide04x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ihide05x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ihide06x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_ihide10x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_int_alligatorcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_bearcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_cougarcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_deercallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_duckcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_elkcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_hunting01_herb",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_hunting01_herb02",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_moosecallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_panthercallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_int_wolfcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_jail01x",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "p_jail02x",
+    "subcategory": "sheriff/jail"
+  },
+  {
+    "id": "p_jumphurdles01x",
+    "subcategory": "ranch/jumphurdles"
+  },
+  {
+    "id": "p_kindling02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_kindlingpile01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_letterbundle_01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_letterset01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_lgrymoosexlpelt01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_loghalf01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_loghalf02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_logpile_snow01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_logstack01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber06x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber07x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber08x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber09_cmb",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber09_piece01ax",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber09_piece01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber09_piece02a",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber09_piece02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber09x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber11x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber13x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber13x_stack_01a",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber13x_stack_01b",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber15x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber16x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber17x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber18bx",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber18x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber19x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumber20x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumbercart01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumbercart02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_lumbercart03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_mail_shelf01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_mailbags01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_mailbox01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_mailcatcherbag01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_medbed01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "p_medirrigator01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_medsyringe01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_medwheelchair01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_microscope01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_microscopecase01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_molotov01x",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "p_molotovcrate01x",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "p_molotovempty01x",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "p_moosetuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_mortarpestle01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_mp_cover_h_spc",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_mp_cover_ss_tt",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_mp_feedbaghang01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_package08x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_package09",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_package10",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_packagecombo01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_packageset08x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_paperset01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_peltbeaver01x",
+    "subcategory": "hunter/workspace"
+  },
+  {
+    "id": "p_pistol_semiauto_cs01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_pistolgroup_01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_poopwheelbarrow02x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_pos_wanted01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_pos_wantedalive01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_pos_wanteddead01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_postaltrolley01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_powderhorn01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_powderhornset01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_preybunny01x",
+    "subcategory": "hunter/animals"
+  },
+  {
+    "id": "p_pronghorntuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_quiver01x",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "p_rabbittufts01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_rc_creolenogooddeed01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_rc_exconfederates1_01x",
+    "subcategory": "gunsmith/box"
+  },
+  {
+    "id": "p_revolver_cattleman01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_revolver_trelawny",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_riflegroup_01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_riflerack01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_riflewin01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_saddlestand01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_saddlestand02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_saddlestand03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "p_scale_valgen01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_scapel01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_scarecrow_06",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_scarecrow01x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_scarecrow03x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_scarecrow04x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_scarecrow05x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_scoutfiregcover01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_scoutfiregcover02x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_shellshotgun01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "p_shopbottlesmall01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_shoppeltbuffalo01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_shoppeltwolf01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "p_shoprabbitfoot01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "p_si_wanted_javier01x",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "p_skunkpelt01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_stableprops01x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_stableprops03x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "p_static_cedar_log",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_static_cedar_log01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_static_cedar_log02",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_static_woodpile01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_stethascope01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_sto_goods19x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_sto_goods20x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_sto_hide01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_sto_microscope01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_strawbundle01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_sword01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "p_syringe01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_syringecase01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_throw_molotov01",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "p_trap03x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_trap04x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_trap05x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_trapperbackpack01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "p_uniqletterbundle01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "p_veh_cattlecar01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "p_veh_logwagon01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_veh_lumber01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_veh_lumber02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_veh_lumber03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_vehload_lumber01",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_vg_jar05x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_vg_jar06x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "p_walkingstick01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_watertrough01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_watertrough01x_new",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_watertrough02x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_watertrough03x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_watertroughsml01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "p_wedgestick01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_wedgestick02x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "p_whistle01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "p_windmill_med_01",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmill_med_02",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmill_med_02b",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmill_sm_01",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmill_top",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmill01x",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmill01x_new",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_windmillwheel02x",
+    "subcategory": "ranch/windmill"
+  },
+  {
+    "id": "p_wolfskin01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "p_wolftuftsfur01x",
+    "subcategory": "hunter/fur"
+  },
+  {
+    "id": "p_woodholder01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpiece01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpiece01x_sml",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpiece02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpiece04x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpiece05x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpile01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpile02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpile05x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpile06x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodpilechopped01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodplank01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodplank02x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "p_woodplank03x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "s_alligatorcall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_alligatorcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_ammo_22wrf",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_45mm",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_9mm",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_grenade",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_hotkiss_cannon",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_repeater",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_rifle",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_ammo_shotgun",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_antiquerevolver01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "s_badgedeputy01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "s_badgepinkerton01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "s_badgepolice01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "s_badgesherif01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "s_badgeusmarshal01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "s_bearcall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_bearcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_beartrapanimated01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "s_boarlegendarytuskprop",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_boartusk01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_boartuskprop",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_boobytrap01x",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "s_boobytrap01xb",
+    "subcategory": "hunter/trap"
+  },
+  {
+    "id": "s_breachcannonshell",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_45mm",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_9mm",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_9mm_exit",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_9mmsnub",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_leadball",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_rifle",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_sgpellet",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_bullet_standard",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_cft_molotov01",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "s_cft_molotov02",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "s_confedtarget",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "s_cougarcall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_cougarcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_cratejunk01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "s_cs_hidewolf01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "s_cs_hidewolf01x_sm",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "s_cs_knifeangel01x",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "s_cvan_hideroll01",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "s_cvan_hideroll02",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "s_deercall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_deercallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_deerpelttestani01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "s_deputystartrinket01x",
+    "subcategory": "sheriff/badge"
+  },
+  {
+    "id": "s_doctortable01x",
+    "subcategory": "doctor/furniture"
+  },
+  {
+    "id": "s_duckcall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_duckcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_electricchair01x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_elkcall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_elkcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_flowertweezers01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_furcoverscrate01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "s_furhorseblanket01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "s_furhorseblanket02x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "s_gallowlever01x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_gallowsstairs_03x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_gallowsstairs01x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_gallowsstairs02x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_gallowsstairs05x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_gatling_mag",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_gatlinggunmagazine",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_giantrabbittrinket01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_glassdropper01xa",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_grndcovercbr01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "s_grndcovercow01x",
+    "subcategory": "hunter/skin"
+  },
+  {
+    "id": "s_gunoil01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_gunsmithchain01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "s_haybale01x",
+    "subcategory": "ranch/hay"
+  },
+  {
+    "id": "s_healthboost01x",
+    "subcategory": "doctor/medicine"
+  },
+  {
+    "id": "s_healthpack01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_herbalpouch03x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_herbalpouch04x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_hitchpo02x",
+    "subcategory": "ranch/hitchingpost"
+  },
+  {
+    "id": "s_horsetack01x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "s_horsetack02x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "s_horsetack03x",
+    "subcategory": "ranch/harmes"
+  },
+  {
+    "id": "s_horsnack_haycube01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "s_hotchkiss_cannon_clip",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_hotchkisscannon_clip",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_immunitybooster01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_inv_baitherb01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_inv_baitmeat01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_inv_goldtooth01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_inv_highvlcty_pstammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_highvlcty_revammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_highvlcty_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_hivlcty_snprammo01x001",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_horsestim",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_inv_pistolammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_pothorsestim",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_inv_repeat_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_repeater_revammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_repeathv_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_repeatused_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_repeatxs_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_revolverammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_shotgunammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_silvertooth01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_inv_slug_shotgunammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_trinket_rabtft01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_inv_used_pistolammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_used_revammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_used_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_used_shotgunammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_varmint_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_xpres_pstammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_xpres_revammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_xpres_rifleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_inv_xpres_sniperammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_knifemap01",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "s_knifemap02",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "s_knifemap03",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "s_knifemap04",
+    "subcategory": "sheriff/wanted"
+  },
+  {
+    "id": "s_leatherfeedbucket01x",
+    "subcategory": "ranch/feed"
+  },
+  {
+    "id": "s_mayorswifepackage01x",
+    "subcategory": "mail"
+  },
+  {
+    "id": "s_medicinebox01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_moosecall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_moosecallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_mortarpestle01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_noosestand01x",
+    "subcategory": "sheriff/gallow, electric"
+  },
+  {
+    "id": "s_oldhorseshoe01x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "s_oldrifle01x",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "s_oxenhorntrinket01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_oxhorn01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_panthercall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_panthercallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_pipette01x",
+    "subcategory": "doctor/doctor items"
+  },
+  {
+    "id": "s_pst_mauserammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_pst_semiautoammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_pst_volammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_pst_volammo02x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_raccoonclaw01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_rep_henryammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_rev_schofieldammo02x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_rif_boltammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_rif_carbinammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_rif_lanammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_rif_sprngammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_saddlewinter01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter02_01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter02_02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter02_03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter03_01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter03_02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter04_01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter04_02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter04_03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter05_01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter05_02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter05_03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter07_01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter07_02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter07_03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter10_01x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter10_02x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter10_03x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter10_04x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter10_05x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_saddlewinter10_06x",
+    "subcategory": "ranch/saddle"
+  },
+  {
+    "id": "s_scarecrow02x",
+    "subcategory": "ranch/various"
+  },
+  {
+    "id": "s_seatingwolfhead01x",
+    "subcategory": "hunter/skin roll"
+  },
+  {
+    "id": "s_sh_doubleammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_sh_pumpammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_sh_sawdammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_sh_semiammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shackle01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "s_shackle02x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "s_shacklel01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "s_shackler01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "s_sharkteeth_01x",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_sharkteeth_01x_1",
+    "subcategory": "hunter/various"
+  },
+  {
+    "id": "s_shell_22wrf",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_45mm",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_9mm",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_grenade",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_rifle",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_sg",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_sg_mod1",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_sg_mod2",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_shell_sg_mod3",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_sniper_carcanoammo01x",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "s_stockade01x",
+    "subcategory": "sheriff/shack"
+  },
+  {
+    "id": "s_wolfcall01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_wolfcallbox01x",
+    "subcategory": "hunter/call"
+  },
+  {
+    "id": "s_woodsling01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "s_woodslingfull01x",
+    "subcategory": "lumber"
+  },
+  {
+    "id": "w_dis_pis_mauser01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_pis_semiauto01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_pis_volcanic01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_pistol_derringer01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rep_carbine01_1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rep_henry01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rep_pumpaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rep_winchester01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rev_cattleman01_2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rev_doubleaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rev_lemat01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rev_schofield01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_blunderbuss01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_boltaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_buffalo01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_carcano01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_elephant01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_rollingblock01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_rif_springfield01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_sho_doublebarrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_sho_pumpaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_sho_repeating01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_sho_sawed01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_dis_sho_semiauto01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_leftshoulder_strap01",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "w_melee_brassknuckles01",
+    "subcategory": "gunsmith/various"
+  },
+  {
+    "id": "w_melee_brokensword01",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_knife02",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_knife03",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_knife06",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_knife17",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_knife18",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_knife19",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_machete03",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_melee_machete04",
+    "subcategory": "gunsmith/knife"
+  },
+  {
+    "id": "w_pistol_m189902",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_m189902_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_m189902_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_m189902_clip1",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "w_pistol_m189902_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_m189902_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_mauser01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_mauser01_barrel1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_mauser01_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_mauser01_clip",
+    "subcategory": "gunsmith/ammo"
+  },
+  {
+    "id": "w_pistol_mauser01_clip2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_mauser01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_mauser01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_semiauto01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_semiauto01_barrel1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_semiauto01_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_semiauto01_clip",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_semiauto01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_semiauto01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_volcanic01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_volcanic01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_volcanic01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_volcanic01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_volcanic01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_pistol_volcanic03_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_carbine01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_carbine01_clip1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_carbine01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_carbine01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_cloth_strap01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_evans01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_evans01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_evans01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_evans03_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_henry01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_henry01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_henry01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_pumpaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_pumpaction01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_pumpaction01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_pumpaction02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_pumpaction02_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_strap01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_winchester01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_winchester01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_repeater_winchester01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_cattleman01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_cattleman01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_cattleman01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_cattleman01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_doubleaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_doubleaction01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_doubleaction01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_doubleaction01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_doubleaction02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_doubleaction02_grip01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_lemat01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_lemat01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_lemat01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_lemat01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_lemat02_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_lemat02_grip1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy02_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_navy02_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_revolver_schofield05_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_boltaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_boltaction01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_boltaction01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_boltaction03_grip1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_carcano01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_carcano01_clip",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_carcano01_clip2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_carcano01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_carcano01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_cs_strap01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_elephant01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_elephant01_barrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_elephant01_barrel02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_elephant01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_elephant01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_rollingblock01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_rollingblock01_grip4",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_rollingblock01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_rollingblock01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_scope02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_scope03",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_scope04",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_scopeinner01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_springfield01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_springfield01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_rifle_springfield01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_doublebarrel01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_doublebarrel01_barrel1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_doublebarrel01_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_doublebarrel01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_doublebarrel03_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_pumpaction01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_pumpaction01_barrel1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_pumpaction01_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_pumpaction01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_repeating01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_repeating01_barrel1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_repeating01_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_repeating01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_sawed01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_sawed01_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_sawed01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_sawed03_sight1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_semiauto01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_semiauto01_barrel1",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_semiauto01_barrel2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_shotgun_semiauto01_sight2",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_sight_rear01",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_sight_rear02",
+    "subcategory": "gunsmith/weapon"
+  },
+  {
+    "id": "w_throw_molotov01",
+    "subcategory": "gunsmith/molotov"
+  },
+  {
+    "id": "w_throw_molotov02",
+    "subcategory": "gunsmith/molotov"
+  }
+]

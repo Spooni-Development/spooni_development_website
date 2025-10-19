@@ -1,0 +1,164 @@
+[
+  {
+    "id": "mp001_p_cs_dynamite01x"
+  },
+  {
+    "id": "mp001_p_mp_cratetnt03x"
+  },
+  {
+    "id": "mp001_p_mp_dynamite01x_noexp"
+  },
+  {
+    "id": "mp001_p_mp_tntsticknoexp01x"
+  },
+  {
+    "id": "mp001_s_tntsticksnoexp01x"
+  },
+  {
+    "id": "mp003_s_mp_moneybag02x_dynamite"
+  },
+  {
+    "id": "mp006_p_mnshn_tntnoexp01x"
+  },
+  {
+    "id": "mp006_p_mnshn_tntnoexp02x"
+  },
+  {
+    "id": "p_bombswitchopen01x"
+  },
+  {
+    "id": "p_cratetnt01x"
+  },
+  {
+    "id": "p_cratetnt01xa"
+  },
+  {
+    "id": "p_cratetnt02x"
+  },
+  {
+    "id": "p_cratetnt02xa"
+  },
+  {
+    "id": "p_cratetnt03x"
+  },
+  {
+    "id": "p_cs_cratetnt01x"
+  },
+  {
+    "id": "p_cs_cratetnt02x"
+  },
+  {
+    "id": "p_cs_detonator01x"
+  },
+  {
+    "id": "p_cs_traincratetnt01x"
+  },
+  {
+    "id": "p_cs_traincratetnt02x"
+  },
+  {
+    "id": "p_detonator01x"
+  },
+  {
+    "id": "p_detonator02x"
+  },
+  {
+    "id": "p_dynamite01x"
+  },
+  {
+    "id": "p_dynamite02x"
+  },
+  {
+    "id": "p_dynamite03x"
+  },
+  {
+    "id": "p_dynamite04x"
+  },
+  {
+    "id": "p_dynamitecrate01x"
+  },
+  {
+    "id": "p_dynamitecrate02x"
+  },
+  {
+    "id": "p_gun_crateset01x"
+  },
+  {
+    "id": "p_minimine01x"
+  },
+  {
+    "id": "p_opensleeper_cratestnt01x"
+  },
+  {
+    "id": "p_opensleeper_cratetnt01x"
+  },
+  {
+    "id": "p_powderkeg01x"
+  },
+  {
+    "id": "p_powderkeg02x"
+  },
+  {
+    "id": "p_stick_dynamite01x"
+  },
+  {
+    "id": "p_stickydymt_bundle"
+  },
+  {
+    "id": "p_stickydymt_single"
+  },
+  {
+    "id": "p_tnt_trainrobbery_01x"
+  },
+  {
+    "id": "p_tnt01x"
+  },
+  {
+    "id": "p_tntarmswagon01x"
+  },
+  {
+    "id": "p_tntwagon01x"
+  },
+  {
+    "id": "p_tntwagon02x"
+  },
+  {
+    "id": "p_tntwagon02x_r"
+  },
+  {
+    "id": "p_veh_cratetnt02x"
+  },
+  {
+    "id": "s_cs_detonator02x"
+  },
+  {
+    "id": "s_cs_fusedynamite02x"
+  },
+  {
+    "id": "s_dynamitehusk01x"
+  },
+  {
+    "id": "s_dynamitelootbox01x"
+  },
+  {
+    "id": "s_dynamitewick01x"
+  },
+  {
+    "id": "s_firework01x"
+  },
+  {
+    "id": "w_stick_dynamite01"
+  },
+  {
+    "id": "w_throw_dynamite01"
+  },
+  {
+    "id": "w_throw_dynamite02"
+  },
+  {
+    "id": "w_throw_dynamite03"
+  },
+  {
+    "id": "w_throw_dynamite04"
+  }
+]

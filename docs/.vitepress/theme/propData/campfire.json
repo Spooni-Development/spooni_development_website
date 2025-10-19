@@ -1,0 +1,100 @@
+[
+  {
+    "id": "_test_campfire_interact_base",
+    "subcategory": "fireplace"
+  },
+  {
+    "id": "_test_campfire_interact_log",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "_test_campfire_interact_log_a",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "_test_campfire_interact_log_b",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "mp001_p_mp_campfire03x",
+    "subcategory": "fireplace"
+  },
+  {
+    "id": "mp001_p_mp_finishline_bonfire01x",
+    "subcategory": "fire sign"
+  },
+  {
+    "id": "mp001_p_mp_finishline_bonfire02x",
+    "subcategory": "fire sign"
+  },
+  {
+    "id": "mp001_p_mp_kettle03_fire01x",
+    "subcategory": "fireplace"
+  },
+  {
+    "id": "mp001_s_racecheckpoint01x",
+    "subcategory": "fireplace"
+  },
+  {
+    "id": "mp001_s_racefinish01x",
+    "subcategory": "fireplace"
+  },
+  {
+    "id": "mp001_s_splitfirelog01x",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "mp001_s_splitfirelog01x_nofire",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "mp001_s_splitfirelog02x",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "mp001_s_splitfirelog02x_nofire",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "mp005_s_posse_trader_fireset02x",
+    "subcategory": "fireplace"
+  },
+  {
+    "id": "p_ambcache01x"
+  },
+  {
+    "id": "p_campfirecook02x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_campfiredirt01x",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "p_campfiredirtsml01x",
+    "subcategory": "various"
+  },
+  {
+    "id": "p_group_cookfire01",
+    "subcategory": "cookfire"
+  },
+  {
+    "id": "p_woodentrap01x"
+  },
+  {
+    "id": "s_splitfirelog01x",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "s_splitfirelog01x_nofire",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "s_splitfirelog02x",
+    "subcategory": "firelog"
+  },
+  {
+    "id": "s_splitfirelog02x_nofire",
+    "subcategory": "firelog"
+  }
+]
