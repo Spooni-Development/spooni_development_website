@@ -14,7 +14,7 @@ import PropCard from './PropCard.vue';
 import { useLazyLoading } from '../composables/useLazyLoading';
 import { useImageZoom } from '../composables/useImageZoom';
 import { IMAGE_LOADING } from '../constants';
-import type { Prop } from '../composables/usePropData';
+import type { Prop } from '../types';
 
 const props = defineProps<{
   paginatedProps: Prop[];

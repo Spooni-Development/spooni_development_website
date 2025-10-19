@@ -1,16 +1,6 @@
 ---
 title: St. Denis Night Club
 description: SPOONI St. Denis Night Club MLO for RedM - Upscale entertainment venue with bar and stage. Nightlife establishment for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis night club, entertainment venue, Lemoyne nightclub, St Denis nightlife, cabaret, RedM night club, RDR2 entertainment
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_night_club
 ---
 
 # 🏠 St. Denis Night Club

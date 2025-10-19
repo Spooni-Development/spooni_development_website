@@ -1,16 +1,6 @@
 ---
 title: Blackwater Wisdom Manor
 description: SPOONI Blackwater Wisdom Manor MLO for RedM - Luxury mansion with elegant interior. Grand estate for Blackwater high society roleplay in Red Dead Redemption 2 West Elizabeth.
-head:
-  - - meta
-    - name: keywords
-      content: Blackwater Wisdom Manor, West Elizabeth mansion MLO, luxury estate, grand manor, Blackwater mansion, RedM Blackwater, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/blackwater/spooni_bla_wisdom_manor
 ---
 
 # 🏠 Blackwater Wisdom Manor

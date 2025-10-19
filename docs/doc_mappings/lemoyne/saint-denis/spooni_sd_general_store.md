@@ -1,16 +1,6 @@
 ---
 title: St. Denis General Store
 description: SPOONI St. Denis General Store MLO for RedM - Comprehensive shop with multiple departments and storage. Main general store for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis general store, shop MLO, Lemoyne store, St Denis merchant, general goods, RedM store, RDR2 shopping
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_general_store
 ---
 
 # 🏠 St. Denis General Store

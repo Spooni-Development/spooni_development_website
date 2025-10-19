@@ -10,9 +10,6 @@ head:
   - - meta
     - property: og:image
       content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/partner
 ---
 
 <style scoped>

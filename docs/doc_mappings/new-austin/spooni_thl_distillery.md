@@ -1,16 +1,6 @@
 ---
 title: Thieves' Landing Distillery
 description: SPOONI Thieves' Landing Distillery MLO for RedM - Illicit alcohol production facility. Criminal operation for New Austin outlaw roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Thieves Landing distillery, moonshine MLO, New Austin distillery, illicit alcohol, outlaw business, RedM distillery, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_thl_distillery
 ---
 
 # 🏠 Thieves' Landing Distillery

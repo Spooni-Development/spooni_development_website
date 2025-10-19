@@ -1,16 +1,6 @@
 ---
 title: Caliga Hall
 description: SPOONI Caliga Hall MLO for RedM - Abandoned plantation mansion with detailed interior. Historic estate for Lemoyne roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Caliga Hall, plantation mansion MLO, Lemoyne mansion, abandoned estate, historic building, RedM Caliga Hall, RDR2 Lemoyne
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/spooni_caliga_hall
 ---
 
 # 🏠 Caliga Hall

@@ -1,16 +1,6 @@
 ---
 title: St. Denis Jeweler
 description: SPOONI St. Denis Jeweler MLO for RedM - Elegant jewelry shop with vault and display cases. Luxury goods store for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis jeweler, jewelry shop MLO, Lemoyne jeweler, St Denis luxury, jewelry store, RedM jeweler, RDR2 Saint Denis
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_jeweler
 ---
 
 # 🏠 St. Denis Jeweler

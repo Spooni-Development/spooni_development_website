@@ -1,16 +1,6 @@
 ---
 title: Guarma
 description: SPOONI Guarma MLO for RedM - Caribbean island location with tropical buildings. Exotic destination for special roleplay events in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Guarma, Caribbean island MLO, tropical location, exotic destination, Guarma buildings, RedM Guarma, RDR2 special locations
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/other/spooni_guarma
 ---
 
 # 🏝️ Guarma <Badge type="danger" text="NOT FOR SALE" />

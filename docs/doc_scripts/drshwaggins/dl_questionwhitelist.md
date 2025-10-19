@@ -1,16 +1,6 @@
 ---
 title: Question Whitelist Script
 description: Interactive whitelist application system for RedM by DrShwaggins. Screen new players with custom questions for your Red Dead Redemption 2 roleplay community.
-head:
-  - - meta
-    - name: keywords
-      content: RedM whitelist, application system, player screening, DrShwaggins, whitelist questions, RedM applications, RDR2 whitelist, community management
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_questionwhitelist
 ---
 
 # ⚔️ dl_questionwhitelist

@@ -1,16 +1,6 @@
 ---
 title: Lodges West Pack
 description: SPOONI Lodges West Pack MLO for RedM - Collection of western lodges and cabins. Multiple wilderness properties for Red Dead Redemption 2 roleplay servers.
-head:
-  - - meta
-    - name: keywords
-      content: lodges west pack, cabin pack MLO, wilderness lodges, multiple cabins, lodge collection, RedM lodges, RDR2 cabin pack
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/other/spooni_lodges_west_pack
 ---
 
 # 🏘️ Lodges West Pack

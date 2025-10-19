@@ -10,9 +10,6 @@ head:
   - - meta
     - property: og:image
       content: https://spooni.pages.dev/iceline.webp
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/service
 ---
 
 <script setup>
@@ -121,15 +118,17 @@ import { ref } from 'vue'
     padding: 10px 0;
     color: var(--vp-c-text-2);
     display: flex;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .price-features li::before {
-    content: '✓';
-    color: var(--vp-c-brand-1);
-    font-weight: 700;
-    margin-right: 10px;
-    font-size: 1.2em;
+    content: '';
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    margin-right: 12px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2310b981' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'%3E%3C/polyline%3E%3C/svg%3E") no-repeat center;
+    background-size: contain;
     flex-shrink: 0;
 }
 
@@ -450,7 +449,10 @@ import { ref } from 'vue'
 <div class="price-amount">100€</div>
 <div class="price-period">One-time payment</div>
 <ul class="price-features">
-<li>Everything from&nbsp;<strong>Standard</strong></li>
+<li>Setting up the FXServer</li>
+<li>Setting up the database</li>
+<li>Installing the framework</li>
+<li>Basic configuration</li>
 <li>Custom request implementation</li>
 <li>Advanced optimization</li>
 <li>Post-setup assistance</li>

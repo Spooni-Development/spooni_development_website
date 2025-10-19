@@ -1,16 +1,6 @@
 ---
 title: Van Horn Brothel House
 description: SPOONI Van Horn Brothel House MLO for RedM - Adult entertainment establishment with detailed interior. Red-light district building for Van Horn roleplay in Red Dead Redemption 2 New Hanover.
-head:
-  - - meta
-    - name: keywords
-      content: Van Horn brothel, New Hanover brothel MLO, adult entertainment, Van Horn buildings, red light district, RedM Van Horn, RDR2 New Hanover
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-hanover/van-horn/spooni_van_brothel_house
 ---
 
 # 🏠 Van Horn Brothel House

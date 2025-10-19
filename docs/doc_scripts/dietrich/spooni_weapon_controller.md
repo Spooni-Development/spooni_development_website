@@ -1,16 +1,6 @@
 ---
 title: Weapon Controller Script
 description: Dynamic weapon management system for RedM by Dietrich Development. Control weapon behavior, damage, and configurations for your Red Dead Redemption 2 roleplay server.
-head:
-  - - meta
-    - name: keywords
-      content: RedM weapon controller, weapon management, gun script, Dietrich Development, weapon system, RedM weapons, RDR2 firearms, weapon configuration
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/dietrich/spooni_weapon_controller
 ---
 
 # 🔫 Dynamic Weapon Controller

@@ -57,9 +57,9 @@
 
 <script setup lang="ts">
 import { formatCategory } from '../utils/formatCategory';
-import type { Category } from '../composables/usePropCategories';
+import type { Category } from '../types';
 
-const props = defineProps<{
+defineProps<{
   categories: Category[];
   selectedCategory: string;
   selectedSubcategory: string;

@@ -1,16 +1,6 @@
 ---
 title: Zeppelin Script
 description: SPOONI Zeppelin for RedM - Interactive airship transportation system with flight controls and passenger management. Aerial travel for VORP, RSG, RPX, and RedEM frameworks.
-head:
-  - - meta
-    - name: keywords
-      content: RedM zeppelin, airship script, aerial transport, RedM flight system, VORP zeppelin, RSG zeppelin, RedEM airship, RDR2 aircraft, RedM vehicle
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/spooni/spooni_zeppelin
 ---
 
 # 🚁 Zeppelin

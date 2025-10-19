@@ -1,16 +1,6 @@
 ---
 title: Blackwater Reborn 1
 description: SPOONI Blackwater Reborn MLO for RedM - Complete town overhaul with detailed interiors. Comprehensive Blackwater expansion for West Elizabeth roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Blackwater Reborn, West Elizabeth town MLO, Blackwater expansion, town overhaul, Blackwater interiors, RedM Blackwater, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/blackwater/spooni_bla_reborn
 ---
 
 # 🏠 Blackwater Reborn 1

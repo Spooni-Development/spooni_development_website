@@ -1,16 +1,6 @@
 ---
 title: St. Denis Doctor
 description: SPOONI St. Denis Doctor MLO for RedM - Medical practice with examination rooms and surgery. Healthcare facility for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis doctor, medical office MLO, Lemoyne doctor, St Denis healthcare, medical practice, RedM doctor, RDR2 clinic
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_doctor
 ---
 
 # 🏠 St. Denis Doctor

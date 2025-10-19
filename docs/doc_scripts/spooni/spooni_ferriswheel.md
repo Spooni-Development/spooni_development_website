@@ -1,16 +1,6 @@
 ---
 title: Ferris Wheel Script
 description: SPOONI Ferris Wheel for RedM - Interactive Ferris wheel with 4-player gondolas and scenic views. Standalone entertainment script for Red Dead Redemption 2 roleplay servers.
-head:
-  - - meta
-    - name: keywords
-      content: RedM ferris wheel, carnival ride, RedM entertainment, fairground attraction, standalone script, RDR2 ferris wheel, RedM rides, amusement ride
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/spooni/spooni_ferriswheel
 ---
 
 # 🎡 Ferris Wheel

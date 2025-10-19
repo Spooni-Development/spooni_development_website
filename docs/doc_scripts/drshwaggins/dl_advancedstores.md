@@ -1,16 +1,6 @@
 ---
 title: Advanced Stores Script
 description: Advanced store management system for RedM by DrShwaggins. Create customizable shops with inventory, pricing, and transaction systems for Red Dead Redemption 2 servers.
-head:
-  - - meta
-    - name: keywords
-      content: RedM stores, shop system, inventory management, DrShwaggins, store script, RedM shops, RDR2 merchants, shop management
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_advancedstores
 ---
 
 # 🏪 dl_advancedstores

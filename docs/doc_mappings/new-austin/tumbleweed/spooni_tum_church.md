@@ -1,16 +1,6 @@
 ---
 title: Tumbleweed Church
 description: SPOONI Tumbleweed Church MLO for RedM - Desert ghost town church with detailed interior. Abandoned religious building for Tumbleweed roleplay in Red Dead Redemption 2 New Austin.
-head:
-  - - meta
-    - name: keywords
-      content: Tumbleweed church, New Austin church MLO, ghost town church, Tumbleweed buildings, abandoned church, RedM Tumbleweed, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/tumbleweed/spooni_tum_church
 ---
 
 # 🏠 Tumbleweed Church

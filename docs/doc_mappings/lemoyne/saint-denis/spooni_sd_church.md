@@ -1,16 +1,6 @@
 ---
 title: St. Denis Church
 description: SPOONI St. Denis Church MLO for RedM - Grand cathedral interior with offices and back rooms. Majestic religious building for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis church, cathedral MLO, Lemoyne church, grand cathedral, St Denis religious building, RedM church, RDR2 Saint Denis
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_church
 ---
 
 # 🏠 St. Denis Church

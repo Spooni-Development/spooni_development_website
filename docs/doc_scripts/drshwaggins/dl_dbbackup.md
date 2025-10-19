@@ -1,16 +1,6 @@
 ---
 title: Database Backup Script
 description: Automated database backup system for RedM by DrShwaggins. Secure your server data with scheduled backups for your Red Dead Redemption 2 roleplay server.
-head:
-  - - meta
-    - name: keywords
-      content: RedM database backup, server backup, data security, DrShwaggins, automated backup, RedM data protection, RDR2 server backup, MySQL backup
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_dbbackup
 ---
 
 # 💾 dl_dbbackup

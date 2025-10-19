@@ -1,16 +1,6 @@
 ---
 title: Krieger Ranch
 description: SPOONI Krieger Ranch MLO for RedM - Working ranch with barns and buildings. Agricultural property for West Elizabeth roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Krieger Ranch, West Elizabeth ranch MLO, working ranch, agricultural property, ranch buildings, RedM Krieger, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/spooni_krieger_ranch
 ---
 
 # 🏠 Krieger Ranch

@@ -1,16 +1,6 @@
 ---
 title: St. Denis Courthouse
 description: SPOONI St. Denis Courthouse MLO for RedM - Complete courthouse with courtroom, offices, and jail cells. Justice system building for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis courthouse, courtroom MLO, Lemoyne law, St Denis justice, courthouse interior, RedM courthouse, RDR2 legal system
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_courthouse
 ---
 
 # 🏠 St. Denis Courthouse

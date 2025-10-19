@@ -1,16 +1,6 @@
 ---
 title: Riding Center
 description: SPOONI Riding Center MLO for RedM - Equestrian facility with stables and training areas. Horse center for New Hanover horse roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: riding center, New Hanover stables MLO, equestrian facility, horse training, stables, RedM riding center, RDR2 New Hanover
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-hanover/spooni_riding_center
 ---
 
 # 🏠 Riding Center

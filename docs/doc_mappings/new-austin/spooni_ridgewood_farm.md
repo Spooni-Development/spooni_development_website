@@ -1,16 +1,6 @@
 ---
 title: Ridgewood Farm
 description: SPOONI Ridgewood Farm MLO for RedM - Agricultural property with barns and farmhouse. Working farm for New Austin farming roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Ridgewood Farm, New Austin farm MLO, agricultural property, frontier farm, farmhouse, RedM farm, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_ridgewood_farm
 ---
 
 # 🏠 Ridgewood Farm

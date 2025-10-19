@@ -1,16 +1,6 @@
 ---
 title: Map Marker Script
 description: Advanced map marker system for RedM by Dietrich Development. Create custom waypoints and markers for your Red Dead Redemption 2 roleplay server.
-head:
-  - - meta
-    - name: keywords
-      content: RedM map marker, waypoints, custom markers, Dietrich Development, map system, RedM navigation, RDR2 map markers
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/dietrich/spooni_map_marker
 ---
 
 # 🗺️ Map Marker

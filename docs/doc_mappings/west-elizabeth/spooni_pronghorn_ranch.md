@@ -1,16 +1,6 @@
 ---
 title: Pronghorn Ranch
 description: SPOONI Pronghorn Ranch MLO for RedM - Large working ranch with multiple buildings. Major agricultural property for West Elizabeth roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Pronghorn Ranch, West Elizabeth ranch MLO, large ranch, working ranch, agricultural estate, RedM Pronghorn, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/spooni_pronghorn_ranch
 ---
 
 # 🏠 Pronghorn Ranch

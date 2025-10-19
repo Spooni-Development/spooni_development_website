@@ -1,16 +1,6 @@
 ---
 title: MacFarlane's Ranch
 description: SPOONI MacFarlane's Ranch MLO for RedM - Iconic ranch with detailed buildings and interiors. Historic New Austin property for frontier roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: MacFarlane Ranch, New Austin ranch MLO, historic ranch, frontier property, MacFarlane's, RedM ranch, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_mac_farlanes_ranch
 ---
 
 # 🏠 Mac Farlane's Ranch

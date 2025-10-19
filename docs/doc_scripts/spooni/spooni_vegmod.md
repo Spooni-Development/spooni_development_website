@@ -1,16 +1,6 @@
 ---
 title: VegMod Script
 description: SPOONI VegMod for RedM - Free vegetation modifier to customize and remove grass, bushes, and trees. Standalone tool for optimizing your Red Dead Redemption 2 server environment.
-head:
-  - - meta
-    - name: keywords
-      content: RedM vegmod, vegetation modifier, remove grass, tree removal, free script, map optimization, RedM performance, RDR2 vegetation, server optimization
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/spooni/spooni_vegmod
 ---
 
 # 🌱 VegMod

@@ -1,16 +1,6 @@
 ---
 title: St. Denis Villa 1
 description: SPOONI St. Denis Villa 1 MLO for RedM - Elegant residential villa with detailed interior. Luxury home for Saint Denis wealthy residents roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis villa, luxury home MLO, Lemoyne villa, St Denis residence, mansion interior, RedM villa, RDR2 Saint Denis
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_1
 ---
 
 # 🏠 St. Denis Villa 1

@@ -1,16 +1,6 @@
 ---
 title: Prop Placer Script
 description: Advanced prop placement tool for RedM by Dietrich Development. Place and manage custom objects with precision for your Red Dead Redemption 2 server.
-head:
-  - - meta
-    - name: keywords
-      content: RedM prop placer, object placement, Dietrich Development, map editor, prop tool, RDR2 props, custom objects
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/dietrich/spooni_prop_placer
 ---
 
 # 🧩 Prop Placer

@@ -1,16 +1,6 @@
 ---
 title: St. Denis Palmist & Watchmaker
 description: SPOONI St. Denis Palmist & Watchmaker MLO for RedM - Mystical fortune teller and clockmaker shop. Dual occult and craftsmanship business for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis palmist, watchmaker MLO, Lemoyne mystic, St Denis occult, fortune telling, clockmaker, RedM palmist, RDR2 Saint Denis
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_palmist
 ---
 
 # 🏠 St. Denis Palmist & Watchmaker

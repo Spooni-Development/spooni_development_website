@@ -1,16 +1,6 @@
 ---
 title: Blackwater Casino Ship
 description: SPOONI Blackwater Casino Ship MLO for RedM - Floating casino with gaming tables. Riverboat gambling venue for Blackwater roleplay in Red Dead Redemption 2 West Elizabeth.
-head:
-  - - meta
-    - name: keywords
-      content: Blackwater casino, casino ship MLO, West Elizabeth casino, riverboat gambling, floating casino, RedM Blackwater, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/blackwater/spooni_bla_casino_ship
 ---
 
 # 🏠 Blackwater Casino Ship

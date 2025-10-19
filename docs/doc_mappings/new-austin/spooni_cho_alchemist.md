@@ -1,16 +1,6 @@
 ---
 title: Cholla Springs Alchemist
 description: SPOONI Cholla Springs Alchemist MLO for RedM - Mysterious alchemy shop with laboratory. Occult business for New Austin roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Cholla Springs alchemist, alchemy shop MLO, New Austin occult, laboratory, potion shop, RedM alchemist, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_cho_alchemist
 ---
 
 # 🏠 Cholla Springs Alchemist

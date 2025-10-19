@@ -1,16 +1,6 @@
 ---
 title: Cutscenes Script
 description: Create cinematic cutscenes and camera sequences for RedM by DrShwaggins. Add immersive storytelling and custom cinematics to your Red Dead Redemption 2 roleplay server.
-head:
-  - - meta
-    - name: keywords
-      content: RedM cutscenes, cinematic camera, story sequences, DrShwaggins, RedM cinematics, RDR2 cutscenes, camera system, immersive storytelling
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_cutscenes
 ---
 
 # 🎥 dl_cutscenes

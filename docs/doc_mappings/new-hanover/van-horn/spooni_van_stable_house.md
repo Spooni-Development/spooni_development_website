@@ -1,16 +1,6 @@
 ---
 title: Van Horn Stable House
 description: SPOONI Van Horn Stable House MLO for RedM - Stables with living quarters. Horse facility for Van Horn roleplay in Red Dead Redemption 2 New Hanover.
-head:
-  - - meta
-    - name: keywords
-      content: Van Horn stable, New Hanover stables MLO, Van Horn horses, stable house, Van Horn buildings, RedM Van Horn, RDR2 New Hanover
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-hanover/van-horn/spooni_van_stable_house
 ---
 
 # 🏠 Van Horn Stable House

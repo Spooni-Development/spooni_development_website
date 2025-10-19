@@ -1,16 +1,6 @@
 ---
 title: Annesburg Reborn 1
 description: SPOONI Annesburg Reborn MLO for RedM - Complete mining town overhaul with detailed interiors. Comprehensive Annesburg expansion for New Hanover roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Annesburg Reborn, New Hanover mining town MLO, Annesburg expansion, mining community, Annesburg overhaul, RedM Annesburg, RDR2 New Hanover
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-hanover/annesburg/spooni_ann_reborn
 ---
 
 # 🏠 Annesburg Reborn 1

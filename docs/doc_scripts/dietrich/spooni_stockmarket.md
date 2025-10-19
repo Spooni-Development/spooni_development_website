@@ -1,16 +1,6 @@
 ---
 title: Stockmarket Script
 description: Dynamic stock market trading system for RedM by Dietrich Development. Buy and sell shares, track market trends, and manage investments in your Red Dead Redemption 2 roleplay economy.
-head:
-  - - meta
-    - name: keywords
-      content: RedM stockmarket, trading system, economy script, Dietrich Development, stock trading, RedM investments, RDR2 economy, market simulation
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/dietrich/spooni_stockmarket
 ---
 
 # 📈 Stockmarket

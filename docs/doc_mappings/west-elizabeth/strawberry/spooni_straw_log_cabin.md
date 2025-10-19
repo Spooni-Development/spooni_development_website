@@ -1,16 +1,6 @@
 ---
 title: Strawberry Log Cabin
 description: SPOONI Strawberry Log Cabin MLO for RedM - Rustic cabin with detailed interior. Mountain home for Strawberry area roleplay in Red Dead Redemption 2 West Elizabeth.
-head:
-  - - meta
-    - name: keywords
-      content: Strawberry log cabin, West Elizabeth cabin MLO, rustic cabin, mountain home, Strawberry buildings, RedM Strawberry, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/strawberry/spooni_straw_log_cabin
 ---
 
 # 🏠 Strawberry Log Cabin

@@ -1,16 +1,6 @@
 ---
 title: Rathskeller Fork
 description: SPOONI Rathskeller Fork MLO for RedM - Riverside settlement with buildings. Small New Austin community for frontier roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Rathskeller Fork, New Austin settlement MLO, riverside community, frontier town, desert settlement, RedM Rathskeller, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/spooni_rathskeller_fork2
 ---
 
 # 🏠  Rathskeller Fork

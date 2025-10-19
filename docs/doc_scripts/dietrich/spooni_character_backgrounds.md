@@ -1,16 +1,6 @@
 ---
 title: Character Backgrounds
 description: Immersive character background selection system for RedM by Dietrich Development. Create unique character stories and origins for your Red Dead Redemption 2 roleplay server.
-head:
-  - - meta
-    - name: keywords
-      content: RedM character backgrounds, character creation, roleplay backstory, Dietrich Development, character origins, RedM customization, RDR2 character system
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/dietrich/spooni_character_backgrounds
 ---
 
 # 🤠 Immersive Character Background Selection

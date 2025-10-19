@@ -1,16 +1,6 @@
 ---
 title: Windmill Ridge
 description: SPOONI Windmill Ridge MLO for RedM - Ridge property with windmill. Scenic homestead for West Elizabeth roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Windmill Ridge, West Elizabeth homestead MLO, windmill property, ridge homestead, scenic property, RedM Windmill Ridge, RDR2 West Elizabeth
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/west-elizabeth/spooni_windmill_ridge
 ---
 
 # 🏠 Windmill Ridge

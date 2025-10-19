@@ -1,16 +1,6 @@
 ---
 title: Farm Routes Script
 description: Farming delivery route system for RedM by DrShwaggins. Create agriculture jobs with harvest and delivery mechanics for Red Dead Redemption 2 roleplay servers.
-head:
-  - - meta
-    - name: keywords
-      content: RedM farming, delivery routes, agriculture job, DrShwaggins, farm script, RedM jobs, RDR2 farming, harvest system
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_scripts/drshwaggins/dl_farmroutes
 ---
 
 # 🍊 dl_farmroutes

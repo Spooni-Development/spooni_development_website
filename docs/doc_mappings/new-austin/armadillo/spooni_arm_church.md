@@ -1,16 +1,6 @@
 ---
 title: Armadillo Church
 description: SPOONI Armadillo Church MLO for RedM - Desert town church with detailed interior. Religious building for Armadillo roleplay in Red Dead Redemption 2 New Austin.
-head:
-  - - meta
-    - name: keywords
-      content: Armadillo church, New Austin church MLO, desert church, Armadillo buildings, religious building, RedM Armadillo, RDR2 New Austin
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/new-austin/armadillo/spooni_arm_church
 ---
 
 # 🏠 Armadillo Church

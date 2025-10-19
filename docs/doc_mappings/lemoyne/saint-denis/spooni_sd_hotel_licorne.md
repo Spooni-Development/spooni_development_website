@@ -1,16 +1,6 @@
 ---
 title: St. Denis Hotel La Licorne
 description: SPOONI St. Denis Hotel Licorne MLO for RedM - Luxury hotel with detailed rooms and lobby. Premium accommodation for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis hotel, Hotel Licorne, luxury accommodation, Lemoyne hotel, St Denis lodging, RedM hotel, RDR2 Saint Denis
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_hotel_licorne
 ---
 
 # 🏠 St. Denis Hotel La Licorne

@@ -1,16 +1,6 @@
 ---
 title: St. Denis the Lap of Luxury
 description: SPOONI St. Denis Villas 2, 3 & 4 MLO for RedM - Three elegant residential villas with unique interiors. Multiple luxury homes for Saint Denis roleplay in Red Dead Redemption 2.
-head:
-  - - meta
-    - name: keywords
-      content: Saint Denis villas, luxury homes MLO, Lemoyne villas, St Denis residences, mansion pack, RedM villas, RDR2 Saint Denis, lap of luxury
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
-  - - meta
-    - property: og:url
-      content: https://spooni.pages.dev/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_2_3_4
 ---
 
 # 🏠 St. Denis the Lap of Luxury 
