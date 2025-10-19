@@ -17,14 +17,14 @@ export default defineConfig({
   useWebFonts: false,
   
   head: [
-    ["link",{ rel: "icon", sizes: "64x64", href: "/logo.svg", loading: "lazy" }],
+    ["link",{ rel: "icon", sizes: "64x64", href: "/icons/logo.svg", loading: "lazy" }],
     // Preload critical fonts for better performance
     ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
     ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-700.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
     ["link",{ rel: "preload", href: "/fonts/space-mono/space-mono-v13-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
   ],
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "/icons/logo.svg",
     siteTitle: "SPOONI Development",
     outline: {
       level: 'deep',

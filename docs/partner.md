@@ -16,7 +16,6 @@ sidebar: false
         {
             avatar: '/partner/dev/drshwaggins.webp',
             name: 'DrShwaggins Scripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/m8SmDPWcu3' },
             ]
@@ -24,7 +23,6 @@ sidebar: false
         {
             avatar: '/partner/dev/syn-scripts.webp',
             name: 'Syn Scripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/synscripts' },
             ]
@@ -32,7 +30,6 @@ sidebar: false
         {
             avatar: '/partner/dev/bcc.webp',
             name: 'Bryce Canyon County',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/GuwS7Y7PA3' },
             ]
@@ -40,7 +37,6 @@ sidebar: false
         {
             avatar: '/partner/dev/sirec.webp',
             name: 'SIREC STUDIO',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/hrWUHjjXwn' },
             ]
@@ -48,7 +44,6 @@ sidebar: false
         {
             avatar: '/partner/dev/gum.webp',
             name: 'Gum Scripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/8ZzQqGSngH' },
             ]
@@ -56,7 +51,6 @@ sidebar: false
         {
             avatar: '/partner/dev/xakra.webp',
             name: 'Xakra Scripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/aRK4g7KNQr' },
             ]
@@ -64,7 +58,6 @@ sidebar: false
         {
             avatar: '/partner/dev/fixitfy.webp',
             name: 'Fixitfy',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/M6ag2JBzDH' },
             ]
@@ -72,7 +65,6 @@ sidebar: false
         {
             avatar: '/partner/dev/dlabs.webp',
             name: 'D-Labs',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/btGP4gucKZ' },
             ]
@@ -80,7 +72,6 @@ sidebar: false
         {
             avatar: '/partner/dev/hellcat.webp',
             name: 'Hellcat Development',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/GGm6b3ChFX' },
             ]
@@ -88,7 +79,6 @@ sidebar: false
         {
             avatar: '/partner/dev/nss.webp',
             name: 'NIGHT SHIFT STUDIO',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/n26dFYTNCa' },
             ]
@@ -96,7 +86,6 @@ sidebar: false
         {
             avatar: '/partner/dev/mega.webp',
             name: 'Mega Development',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/kfFE3JrySd' },
             ]
@@ -104,7 +93,6 @@ sidebar: false
         {
             avatar: '/partner/dev/bulgar.webp',
             name: 'BulgaR Scripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/7Ac56XKYRY' },
             ]
@@ -112,7 +100,6 @@ sidebar: false
         {
             avatar: '/partner/dev/sirevlc.webp',
             name: 'SireVLC',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/2zEQY8RaFb' },
             ]
@@ -120,7 +107,6 @@ sidebar: false
         {
             avatar: '/partner/dev/jr.webp',
             name: 'JR Scripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/njZVvWYmpE' },
             ]
@@ -128,7 +114,6 @@ sidebar: false
         {
             avatar: '/partner/dev/lefru.webp',
             name: 'LeFruScripts',
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/nqcA4JJ2dC' },
             ]
@@ -136,7 +121,6 @@ sidebar: false
         {
             avatar: '/partner/dev/ziomark.webp',
             name: "ZioMark's HUB",
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/ziomark' },
             ]
@@ -144,7 +128,6 @@ sidebar: false
         {
             avatar: '/partner/dev/murphy.webp',
             name: "Murphy's Workshop",
-            // title: '🔧' ,
             links: [
                 { icon: 'discord', link: 'https://discord.gg/9Xm4qfAT8F' },
             ]
@@ -155,7 +138,7 @@ sidebar: false
 
         // TIER II
         {
-            avatar: 'https://cdn.discordapp.com/icons/921617122055049216/a_abd162f2c3887cf8264912c8c1803d78.webp?size=128',
+            avatar: '/partner/tier2/syn-county.webp',
             name: 'Syn County',
             title: '📀 TIER II',
             links: [
@@ -163,7 +146,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/894324037419958292/a_09b712c49286d2b491b75f0ece5c60b6.webp?size=128',
+            avatar: '/partner/tier2/goldrush-roleplay.webp',
             name: 'GoldRush Roleplay',
             title: '📀 TIER II',
             links: [
@@ -171,7 +154,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1026351824946593803/b43d93f1c865c9717a9b9379ed3c4938.webp?size=128',        
+            avatar: '/partner/tier2/oeste-roleplay.webp',        
             name: 'Oeste  Roleplay',
             title: '📀 TIER II',
             links: [
@@ -179,7 +162,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1013107968545406986/14d10c341e23f8cb21680d0454acb4c1.webp?size=128',
+            avatar: '/partner/tier2/yellowstone-rp.webp',
             name: 'Yellowstone RP',
             title: '📀 TIER II',
             links: [
@@ -187,7 +170,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/942431188881141820/608d7380ff1102ad0390309bad6d6853.png?size=128',
+            avatar: '/partner/tier2/forgotten-trails.webp',
             name: 'Forgotten Trails',
             title: '📀 TIER II',
             links: [
@@ -195,7 +178,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1143877766547259422/39efb06a10bdec0fa2f6a50000389162.webp?size=128',
+            avatar: '/partner/tier2/high-noon.webp',
             name: 'High Noon',
             title: '📀 TIER II',
             links: [
@@ -203,7 +186,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1073213859541823590/a_89fca066570539923c535bf2bc48d497.webp?size=128',
+            avatar: '/partner/tier2/wild-frontier-roleplay.webp',
             name: 'Wild Frontier Roleplay',
             title: '📀 TIER II',
             links: [
@@ -211,7 +194,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/737446331920023628/ec9a0ca8dc56d473a796c9bd0d915dda.webp?size=128',
+            avatar: '/partner/tier2/gilded-rp.webp',
             name: 'Gilded RP',
             title: '📀 TIER II',
             links: [
@@ -219,7 +202,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1316932126725111818/879c52475c5b7a0c4a95e2655e90feca.png?size=128',
+            avatar: '/partner/tier2/wild-west-roleplay.webp',
             name: 'Wild West Roleplay',
             title: '📀 TIER II', 
             links: [
@@ -227,7 +210,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/953054569959669781/9a31adf386ddc1fbf5dee5a3bf17d64c.png?size=128',
+            avatar: '/partner/tier2/western-wegends.webp',
             name: 'Western Legends',
             title: '📀 TIER II',
             links: [
@@ -235,7 +218,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/889136267516870717/a_eb4a4e98bdf420d7d006e8bd78d667e9.webp?size=128',
+            avatar: '/partner/tier2/der-wilde-westen.webp',
             name: 'Der Wilde Westen',
             title: '📀 TIER II',
             links: [
@@ -243,7 +226,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/712678812428664862/5d587c76906b6c54b6d5964ac1d6e1c3.webp?size=128',
+            avatar: '/partner/tier2/wildfin.webp',
             name: 'WILDFIN',
             title: '📀 TIER II',
             links: [
@@ -251,7 +234,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1051237554533445692/ea9ae82bb95d547f5d1ceb367c015a03.png?size=128',
+            avatar: '/partner/tier2/lucky-valley.webp',
             name: 'Lucky Valley',
             title: '📀 TIER II',
             links: [
@@ -259,7 +242,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/846851814547783690/6ecb01d8146b0f7655daa9d18c632ca3.webp?size=128',
+            avatar: '/partner/tier2/redwest-liferp.webp',
             name: 'REDWest LifeRP',
             title: '📀 TIER II',
             links: [
@@ -267,7 +250,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/589982489607667712/a566df669393a4d4eb106d17ebac1e0b.png?size=128',
+            avatar: '/partner/tier2/ranch-roleplay.webp',
             name: 'Ranch Roleplay',
             title: '📀 TIER II',
             links: [
@@ -275,7 +258,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1182659001645797447/7c77568a5062d109e6b278d1f5aecbc7.png?size=128',
+            avatar: '/partner/tier2/arizona-rp.webp',
             name: 'Arizona RP',
             title: '📀 TIER II',
             links: [
@@ -283,7 +266,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1265811755549069372/339dbc48382be9bcf0a0342de6201c01.png?size=128',
+            avatar: '/partner/tier2/bayang-sinilangan-rp.webp',
             name: 'BAYANG SINILANGAN RP',
             title: '📀 TIER II',
             links: [
@@ -291,7 +274,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/790331820042223616/95b6baa1a19e69aef592b19c078cdba8.webp?size=128',
+            avatar: '/partner/tier2/red-river.webp',
             name: 'RED RIVER',
             title: '📀 TIER II',
             links: [
@@ -299,7 +282,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1358411622799900783/a_8dae6f7e56b5c22836ce2fecf32f0da3.webp?size=128',
+            avatar: '/partner/tier2/bounty-bay.webp',
             name: 'Bounty Bay',
             title: '📀 TIER II',
             links: [
@@ -307,7 +290,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1123352191751704606/861afcc739b079b515fd37196a9e8931.webp?size=128',
+            avatar: '/partner/tier2/sundown-rising.webp',
             name: 'Sundown Rising',
             title: '📀 TIER II',
             links: [
@@ -315,7 +298,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1145304254886707200/4f2eeea4c193953106b531e7f8691541.webp?size=128',
+            avatar: '/partner/tier2/high-stakes-roleplay.webp',
             name: 'High Stakes Roleplay',
             title: '📀 TIER II',
             links: [
@@ -323,7 +306,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/926153128561246218/236ae10cb12b3e58e7b880e42c463c43.webp?size=128',
+            avatar: '/partner/tier2/farwest-quebec.webp',
             name: 'FarWest Québec',
             title: '📀 TIER II',
             links: [
@@ -331,7 +314,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1231614178171814008/a_ce254b829e5f350927276d41685f5834.webp?size=128',
+            avatar: '/partner/tier2/red-west.webp',
             name: 'Red West',
             title: '📀 TIER II',
             links: [
@@ -339,7 +322,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1165843121058361354/cde5be147092446e31eb6d3f3b1e086e.webp?size=128',
+            avatar: '/partner/tier2/secret-society-county.webp',
             name: 'Secret Society County',
             title: '📀 TIER II',
             links: [
@@ -347,7 +330,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1045017560913035284/585d856460f99795fc9833fc9e0e4060.webp?size=128',
+            avatar: '/partner/tier2/frontier-stories.webp',
             name: 'Frontier Stories',
             title: '📀 TIER II',
             links: [
@@ -355,7 +338,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1139609447480688733/8bd546417dd6a3f0d7d3539c222d2ecd.png?size=128',
+            avatar: '/partner/tier2/legendary-roleplay.webp',
             name: 'Legendary Roleplay',
             title: '📀 TIER II',
             links: [
@@ -363,23 +346,23 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1261049461103398943/a_53b39feb3beadec4d041c0bd0a02e74e.webp?size=128',
+            avatar: '/partner/tier2/whiskey-rend-rp.webp',
             name: 'Whiskey Bend RP',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/sYXzRuUB6y' },
             ]
         },
-            {
-            avatar: 'https://cdn.discordapp.com/icons/1352718864580083752/2d3f204cb5a81d91c30fe597c9c832ba.webp?size=128',
+        {
+            avatar: '/partner/tier2/last-train-county.webp',
             name: 'Last Train County',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/8nNggdmg8J' },
             ]
         },
-            {
-            avatar: 'https://cdn.discordapp.com/icons/1189279090851725442/8469a9d4b1930c209b49f6b04a169030.webp?size=128',
+        {
+            avatar: '/partner/tier2/gunsmoke-trails-rp.webp',
             name: 'GunSmoke Trails RP',
             title: '📀 TIER II',
             links: [
@@ -388,15 +371,15 @@ sidebar: false
         },
 
         {
-            avatar: 'https://cdn.discordapp.com/icons/1308329282602274856/ef25d9234f28582cf715df2c018ee0ba.webp?size=128',
+            avatar: '/partner/tier2/vengeful-county.webp',
             name: 'Vengeful County',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/5wdyC4frRf' },
             ]
         },
-                {
-            avatar: 'https://cdn.discordapp.com/icons/1299654221750210560/796c9533bcf54a2d3ab0980ce8079c4c.webp?size=128',
+        {
+            avatar: '/partner/tier2/dusty-trails-roleplay.webp',
             name: 'Dusty Trails Roleplay',
             title: '📀 TIER II',
             links: [
@@ -406,7 +389,7 @@ sidebar: false
 
         // TIER I
         {
-            avatar: 'https://cdn.discordapp.com/icons/1357036506522583381/a_cbd91ec7350a4592f01c20f471e001e6.webp?size=128',
+            avatar: '/partner/tier1/nomad-roleplay.webp',
             name: 'NOMAD ROLEPLAY',
             title: '💿 TIER I',
             links: [
@@ -414,15 +397,15 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1206360727758307348/8dedd210d7df0a322e207ca143aa1425.webp?size=128',
+            avatar: '/partner/tier1/outlaws-roleplay.webp',
             name: 'Outlaws Roleplay',
             title: '💿 TIER I',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/' },
+                { icon: 'discord', link: 'https://discord.gg/outlawsrp' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/877929107416039514/a_ce0069930fc48fb49ef9c764b86b6df7.webp?size=128',
+            avatar: '/partner/tier1/texas-roleplay.webp',
             name: 'Texas Roleplay',
             title: '💿 TIER I',
             links: [
@@ -430,7 +413,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1315778409535766648/39c8427b6a61ffc53922354530a1213c.webp?size=128',
+            avatar: 'icons/user.svg',
             name: 'Redwood County RP',
             title: '💿 TIER I', 
             links: [
@@ -438,7 +421,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1326256355824242748/612960524e4f1a460e2f81e952992981.webp?size=128',
+            avatar: '/partner/tier1/untamed-roleplay.webp',
             name: 'Untamed Roleplay',
             title: '💿 TIER I', 
             links: [
@@ -446,7 +429,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1275435887781478411/11d4883dcf621b9cdcd83de271b2a042.webp?size=128',
+            avatar: '/partner/tier1/homeland-roleplay.webp',
             name: 'HOMELAND - ROLEPLAY',
             title: '💿 TIER I',
             links: [
@@ -454,7 +437,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.svg',
+            avatar: 'icons/user.svg',
             name: '1889 Roleplay',
             title: '💿 TIER I',
             links: [
@@ -462,7 +445,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1108094279131344986/025ad839e7230e218117514eb7ea6247.webp?size=128',
+            avatar: '/partner/tier1/dust-dreams.webp',
             name: 'Dust Dreams',
             title: '💿 TIER I',
             links: [
@@ -470,7 +453,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1281752229421912155/8b2c2dca608f37003c7f7b097c1b3ec8.webp?size=128',
+            avatar: '/partner/tier1/promised-land-reborn.webp',
             name: 'Promised Land Reborn',
             title: '💿 TIER I',
             links: [
@@ -478,7 +461,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1208456421855731752/3f5f6a210a0c0d2d4871896273d9dbe4.png?size=128',
+            avatar: 'icons/user.svg',
             name: 'Bloodlines Roleplay', 
             title: '💿 TIER I',
             links: [
@@ -486,7 +469,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1237280019135594528/cb83837332a8b92c2102df177551c53e.webp?size=128',
+            avatar: '/partner/tier1/aces-&-eights-rp.webp',
             name: 'Aces & Eights RP',
             title: '💿 TIER I',
             links: [
@@ -494,7 +477,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/759068924833824829/a4af0c5705da5d1a5afe1bb4a6b84120.webp?size=128',
+            avatar: '/partner/tier1/rodeo-roleplay.webp',
             name: 'Rodeo Roleplay',
             title: '💿 TIER I',
             links: [
@@ -502,7 +485,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1211215512705441833/317c75dac17619cc04695409a96347e3.webp?size=128',
+            avatar: '/partner/tier1/beyond-the-rift.webp',
             name: 'Beyond the Rift',
             title: '💿 TIER I',
             links: [
@@ -510,7 +493,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1288552504648400967/c244fd0c71feb43b8caac4695878337e.webp?size=128',
+            avatar: '/partner/tier1/starr-hawke-rp.webp',
             name: 'Starr Hawke RP',
             title: '💿 TIER I',
             links: [
@@ -518,7 +501,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1299969838743031818/2ee8c18e890836b5bde15beda244ae9d.webp?size=128',
+            avatar: '/partner/tier1/state-of-new-heaven-1890.webp',
             name: 'State of New Heaven 1890',
             title: '💿 TIER I',
             links: [
@@ -526,7 +509,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/402330838072688640/addf19be48e8ce18ba46c8cd8a3cbed7.webp?size=128',
+            avatar: '/partner/tier1/legacy-roleplay-and-gaming.webp',
             name: 'Legacy Roleplay and Gaming',
             title: '💿 TIER I',
             links: [
@@ -534,15 +517,15 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1116011983486062692/4b444f3c925f52f448d343d60ad1536f.png?size=128',
-            name: 'Ashen Frontier', // vorher Our Lands
+            avatar: '/partner/tier1/ashen-frontier.webp',
+            name: 'Ashen Frontier',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.com/invite/a78YUPzcrt' },
             ]
         },   
         {
-            avatar: 'https://cdn.discordapp.com/icons/1146917669564592329/0bc2431e6a85f25593894b2006dfb816.webp?size=128',
+            avatar: '/partner/tier1/westlands-rp.webp',
             name: 'Westlands RP',
             title: '💿 TIER I',
             links: [
@@ -550,7 +533,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1408781893939368051/acbb0c47c85d24ff61e141ba5618eb82.png?size=128',
+            avatar: '/partner/tier1/blackhorn-rp.webp',
             name: 'BLACKTHORN RP',
             title: '💿 TIER I',
             links: [
@@ -558,7 +541,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1292246904880758856/a_344a57923cd2b884f38215e50e3d1ec1.png?size=128',
+            avatar: '/partner/tier1/ghost-town-roleplay.webp',
             name: 'Ghost Town Roleplay',
             title: '💿 TIER I',
             links: [
@@ -566,7 +549,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1412536959729139722/a_535282b15eddef50cbb2b13ba8f2df9e.png?size=128',
+            avatar: '/partner/tier1/cochise-rounty-rp.webp',
             name: 'Cochise County RP',
             title: '💿 TIER I',
             links: [
@@ -574,7 +557,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/719905780282818651/b09ce90e83f122ee9e5a21d01ef04ac5.png?size=128',
+            avatar: '/partner/tier1/ley-salvaje.webp',
             name: 'Ley Salvaje',
             title: '💿 TIER I',
             links: [
@@ -582,7 +565,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1404446901188956280/a_31f1b67e1258c0c1957825d0f4152da4.png?size=128',
+            avatar: '/partner/tier1/hangmans-honeys.webp',
             name: 'Hangmans Honeys',
             title: '💿 TIER I',
             links: [
@@ -590,7 +573,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1366453347665711216/a_2f9befc733fc2c987019d20a644fa105.png?size=128',
+            avatar: '/partner/tier1/stagecoach-rp.webp',
             name: 'Stagecoach RP',
             title: '💿 TIER I',
             links: [
@@ -598,7 +581,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1366943320361930773/c3bf51b4fea1f06a22dc7bd399b20a8d.png?size=128',
+            avatar: '/partner/tier1/rapid-falls-roleplay.webp',
             name: 'Rapid Falls Roleplay',
             title: '💿 TIER I',
             links: [
@@ -606,7 +589,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1173352823010885662/bc22fd63e589525f91b2f6178ea957e8.png?size=128',
+            avatar: '/partner/tier1/omnia-1900.webp',
             name: 'OMNIA 1900',
             title: '💿 TIER I',
             links: [
@@ -614,15 +597,15 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1366429080500699146/3ab0266506e51a0ef5c046305bf4b178.png?size=128',
+            avatar: '/partner/tier1/red-country.webp',
             name: 'Red Country',
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/8MhhfQGvBX' },
             ]
         },
-            {
-            avatar: 'https://cdn.discordapp.com/icons/1346962658611429416/9558913f9074e6a2386714c802df71e6.png?size=128',
+        {
+            avatar: '/partner/tier1/hot-colts-roleplay.webp',
             name: 'Hot Colts Roleplay',
             title: '💿 TIER I',
             links: [
@@ -630,7 +613,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.svg',
+            avatar: '/partner/tier1/california-roleplay.webp',
             name: 'California Roleplay',
             title: '💿 TIER I',
             links: [
@@ -638,7 +621,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/745430187365236738/13123d526f2ff33f61c8bf51716d80e4.png?size=128',
+            avatar: '/partner/tier1/neue-welt.webp',
             name: 'neue Welt',
             title: '💿 TIER I',
             links: [
@@ -646,7 +629,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1108133857385005098/34b038937e508a2d9e58762222cccf70.png?size=128',
+            avatar: '/partner/tier1/red-reckoning.webp',
             name: 'Red Reckoning',
             title: '💿 TIER I',
             links: [
@@ -654,7 +637,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1329876806165201009/154941c15861fd5b1d27abf4f29854ff.png?size=128',
+            avatar: '/partner/tier1/crimson-spire-rp.webp',
             name: 'Crimson Spire RP',
             title: '💿 TIER I',
             links: [
@@ -662,7 +645,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1335367683201568860/e27db7735b56e5ce0f08628aa9bebbc1.png?size=128',
+            avatar: '/partner/tier1/scarlet-horizon.webp',
             name: 'Scarlet Horizon',
             title: '💿 TIER I',
             links: [
@@ -670,7 +653,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1239277223568216134/cac0b1920bd968479ae73d7618da03f0.png?size=128',
+            avatar: '/partner/tier1/wild-wands.webp',
             name: 'Wild Lands',
             title: '💿 TIER I',
             links: [
@@ -678,7 +661,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1157445260700569680/88784189308648d044358e06eceb1c5c.png?size=128',
+            avatar: '/partner/tier1/deadwood-county.webp',
             name: 'Deadwood County',
             title: '💿 TIER I',
             links: [
@@ -686,7 +669,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1368213758723494048/a_5229e2bb95fb8c1ec40346d6df67f3c7.png?size=128',
+            avatar: '/partner/tier1/oldlife.webp',
             name: 'Oldlife',
             title: '💿 TIER I',
             links: [
@@ -694,7 +677,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/921617122055049216/a_abd162f2c3887cf8264912c8c1803d78.webp?size=128',
+            avatar: '/partner/tier1/nightblood-roleplay.webp',
             name: 'NIGHTBLOOD ROLEPLAY',
             title: '💿 TIER I',
             links: [
@@ -702,7 +685,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1116885691809407007/431f673fda689a3d7f7dc7d853a174c7.webp?size=128',
+            avatar: '/partner/tier1/western-dreams.webp',
             name: 'Western Dreams',
             title: '💿 TIER I',
             links: [
@@ -710,7 +693,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1179139330476875786/f8c5b621595b2693234c7d2bb0a893c9.webp?size=128',        
+            avatar: '/partner/tier1/2toxic.webp',        
             name: '2Toxic',
             title: '💿 TIER I',
             links: [
@@ -718,7 +701,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/796376952600526898/a_82a45ff03eab80010e81811add573d6c.webp?size=128',
+            avatar: '/partner/tier1/homebrand-roleplay.webp',
             name: 'Homebrand Roleplay',
             title: '💿 TIER I',
             links: [
@@ -726,7 +709,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1243301682637705278/06e85774270bb50ba7721cf72d181c72.webp?size=128',
+            avatar: '/partner/tier1/moonstone-roleplay.webp',
             name: 'Moonstone Roleplay',
             title: '💿 TIER I',
             links: [
@@ -741,32 +724,41 @@ sidebar: false
     <!-- Developer -->
     <VPTeamPageSection>
         <template #title>Developer</template>
-        <template #members><VPTeamMembers size="small" :members="developer"/></template>
+        <template #members><VPTeamMembers size="small" :members="developer" /></template>
     </VPTeamPageSection>
     <!-- Roleplay Server -->
     <VPTeamPageSection>
         <template #title>Roleplay Server</template>
-        <template #members><VPTeamMembers size="small" :members="server"/></template>
-    </VPTeamPageSection>
-    <!-- Info -->
-    <VPTeamPageSection>
-        <template #title>Info</template>
-        <template #lead>
-            <div style="display: flex; justify-content: center; gap: 200px;">
-                <div style="text-align: left; flex-shrink: 0; white-space: normal;">
-                    <h1><strong>📀 TIER II:</strong></h1>
-                    <ul>
-                        <li>- Beta access for specific scripts and mappings</li>
-                        <li>- Advertisement for your RP server</li>
-                    </ul>
-                </div>
-                <div style="text-align: left; flex-shrink: 0; white-space: normal;">
-                    <h1><strong>💿 TIER I:</strong></h1>
-                    <ul>
-                        <li>- Advertisement for your RP server</li>
-                    </ul>
-                </div>
-            </div>
-        </template>
+        <template #members><VPTeamMembers size="small" :members="server" /></template>
     </VPTeamPageSection>
 </VPTeamPage>
+
+<div style="max-width: 900px; margin: 60px auto 40px; padding: 0 20px;">
+    <h2 style="text-align: center; font-size: 2em; font-weight: 600; margin-bottom: 30px;">Partnership Tiers</h2>
+    <table style="width: 100%; border-collapse: collapse; font-size: 1.05em;">
+        <thead>
+            <tr style="border-bottom: 2px solid var(--vp-c-divider);">
+                <th style="text-align: left; padding: 16px 12px; font-weight: 600;">Feature</th>
+                <th style="text-align: center; padding: 16px 12px; color: var(--vp-c-brand-1); font-weight: 600;">💿 TIER I</th>
+                <th style="text-align: center; padding: 16px 12px; color: var(--vp-c-brand-1); font-weight: 600;">📀 TIER II</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="border-bottom: 1px solid var(--vp-c-divider);">
+                <td style="padding: 12px;">Server Advertisement</td>
+                <td style="text-align: center; padding: 12px;">✅</td>
+                <td style="text-align: center; padding: 12px;">✅</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--vp-c-divider);">
+                <td style="padding: 12px;">Beta Access (Scripts & Mappings)</td>
+                <td style="text-align: center; padding: 12px;">—</td>
+                <td style="text-align: center; padding: 12px;">✅</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--vp-c-divider);">
+                <td style="padding: 12px;">Early Access to New Features</td>
+                <td style="text-align: center; padding: 12px;">—</td>
+                <td style="text-align: center; padding: 12px;">✅</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

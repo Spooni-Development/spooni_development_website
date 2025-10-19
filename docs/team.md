@@ -14,7 +14,7 @@ sidebar: false
 
     const director = [
         {
-            avatar: '/logo.svg',
+            avatar: '/icons/logo.svg',
             name: 'SPOONI',
             title: 'Founder & Director',
             links: [
@@ -80,9 +80,9 @@ sidebar: false
         {
             avatar: '/team/artist/karol-klaput.webp',
             name: 'Karol Klaput',
-            title: 'Junior 3D Artist ',
+            title: 'Junior 3D Artist',
             links: [
-                { icon: 'discord', link: 'discord.com/users/358249807640264706' },
+                { icon: 'discord', link: 'https://discord.com/users/358249807640264706' },
             ]
         },
         {
@@ -90,7 +90,7 @@ sidebar: false
             name: 'Konzi',
             title: 'Junior 3D Artist',
             links: [
-                { icon: 'discord', link: 'discord.com/users/219478609461641216' },
+                { icon: 'discord', link: 'https://discord.com/users/219478609461641216' },
             ]
         },
         {
@@ -98,7 +98,7 @@ sidebar: false
             name: 'W1nterFresh',
             title: 'Junior 3D Artist',
             links: [
-                { icon: 'discord', link: 'discord.com/users/265522080945012746' },
+                { icon: 'discord', link: 'https://discord.com/users/265522080945012746' },
             ]
         },
     ]
@@ -132,7 +132,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'user.svg',
+            avatar: 'icons/user.svg',
             name: 'LeFruJohn',
             title: 'Developer',
             links: [
@@ -144,7 +144,7 @@ sidebar: false
 
     const mapper = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/355024108301582349/20065ddc60918ce09dde24fcbd78f514.webp?size=128',
+            avatar: '/team/mapper/leesh.webp',
             name: 'Leesh',
             title: 'Mapper',
             links: [
@@ -152,7 +152,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/198670591820038144/avatars/a_2b108327e02c43bf09ee9989a0de1985.webp?size=128',
+            avatar: '/team/mapper/dotster.webp',
             name: 'Dotster',
             title: 'Mapper',
             links: [
@@ -160,7 +160,7 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/648954858505764866/4bafcbfb98719a1a2e8f9a3ebacfe8ba.webp?size=128',
+            avatar: '/team/mapper/blossom.webp',
             name: 'Blossom',
             title: 'Mapper',
             links: [
@@ -168,7 +168,7 @@ sidebar: false
             ]
         },      
         {
-            avatar: 'https://cdn.discordapp.com/avatars/884021556404166676/33cf2028ab3836ee70260fdda0652ae0.webp?size=128',
+            avatar: '/team/mapper/amnesia69.webp',
             name: 'amnesia69',
             title: 'Mapper',
             links: [
@@ -176,7 +176,7 @@ sidebar: false
             ]
         }, 
         {
-            avatar: 'https://cdn.discordapp.com/avatars/73468826716471296/c98aedfca12cbd93af96ae2bd6ee4ea6.png?size=128',
+            avatar: '/team/mapper/lucy.webp',
             name: 'Lucy',
             title: 'Mapper',
             links: [
@@ -184,7 +184,7 @@ sidebar: false
             ]
         },   
         {
-            avatar: 'https://cdn.discordapp.com/avatars/746266875058716702/c3c28a4ca78da1981b6958400450ddfb.png?size=128',
+            avatar: '/team/mapper/bunny.webp',
             name: '𝓑𝓾𝓷𝓷𝔂',
             title: 'Mapper',
             links: [
@@ -192,7 +192,7 @@ sidebar: false
             ]
         }, 
         {
-            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/263565721106120704/avatars/e1a87a71143eacafbe35f2918c7a96fd.webp?size=128',
+            avatar: '/team/mapper/sundragoness.webp',
             name: 'SunDragoness',
             title: 'Mapper',
             links: [
@@ -200,7 +200,7 @@ sidebar: false
             ]
         }, 
         {
-            avatar: 'https://cdn.discordapp.com/avatars/106866103539523584/6cd71e36c650add6a34dbb74fda19a8c.webp?size=128',
+            avatar: '/team/mapper/brirae.webp',
             name: 'Birae',
             title: 'Mapper',
             links: [
@@ -208,125 +208,124 @@ sidebar: false
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/768581098921787412/f3ead454fa9073a2fae0674b6cfb0fa1.webp?size=128',
+            avatar: '/team/mapper/xopotsiexo.webp',
             name: 'xopotsiexo',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/768581098921787412' },
+                { icon: 'discord', link: 'https://discord.com/users/768581098921787412' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/guilds/1029127873249935441/users/232058260809711617/avatars/1de171a57bca420d7907a17905ae0f57.webp?size=128',
+            avatar: '/team/mapper/fae.webp',
             name: 'Fae',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/232058260809711617' },
+                { icon: 'discord', link: 'https://discord.com/users/232058260809711617' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/816093413190664215/1217eb756d5fa5900debb6069ccbfe0a.webp?size=128',
+            avatar: '/team/mapper/dutch.webp',
             name: 'Dutch',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/816093413190664215' },
+                { icon: 'discord', link: 'https://discord.com/users/816093413190664215' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/623218499501686825/1891ce8f92c6e93c99103a83d6eca6e3.webp?size=128',
+            avatar: '/team/mapper/ben.webp',
             name: 'Ben',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/623218499501686825' },
+                { icon: 'discord', link: 'https://discord.com/users/623218499501686825' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/522488409139314699/062b09b5e7ff7a768c5bfa343b038b5b.webp?size=128',
+            avatar: '/team/mapper/cherri.webp',
             name: 'Cherri',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/522488409139314699' },
+                { icon: 'discord', link: 'https://discord.com/users/522488409139314699' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/299984478762434561/8fdeb725ffd187ce6ef0fc6f87f6fdaa.webp?size=128',
+            avatar: '/team/mapper/d2dfe.webp',
             name: 'D2Dfe',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/299984478762434561' },
+                { icon: 'discord', link: 'https://discord.com/users/299984478762434561' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/514809975734927361/3ed968bb68d981591aa5b47df1584ea5.webp?size=128',
+            avatar: '/team/mapper/heikki.webp',
             name: '𝐇𝐄𝐈𝐊𝐊𝐈',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/514809975734927361' },
+                { icon: 'discord', link: 'https://discord.com/users/514809975734927361' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/287651757142835200/5b83b90bd0b4ea6a39d6415e498484ea.webp?size=128',
+            avatar: '/team/mapper/kate.webp',
             name: 'Kate',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/287651757142835200' },
+                { icon: 'discord', link: 'https://discord.com/users/287651757142835200' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/125306329152618496/459744a853cf256c5bd6d3be5f7c929c.webp?size=128',
+            avatar: '/team/mapper/katsuru.webp',
             name: 'Katsuru',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/125306329152618496' },
+                { icon: 'discord', link: 'https://discord.com/users/125306329152618496' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/576507448865718293/4c2975e5e6a2a4dfd7a869b7b6e3237b.webp?size=128',
+            avatar: '/team/mapper/konrad.webp',
             name: 'Konrad',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/576507448865718293' },
+                { icon: 'discord', link: 'https://discord.com/users/576507448865718293' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/205782927508897792/53fb35c92b2103a3b207b1bc8f2f07de.webp?size=128',
+            avatar: '/team/mapper/missghouls.webp',
             name: 'MissGhouls',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/205782927508897792' },
+                { icon: 'discord', link: 'https://discord.com/users/205782927508897792' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/726473544522924032/9c661c5bf954502b46fd92f8863a5a8d.webp?size=128',
+            avatar: '/team/mapper/muvvabear.webp',
             name: 'Muvvabear',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/726473544522924032' },
+                { icon: 'discord', link: 'https://discord.com/users/726473544522924032' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/avatars/237969728239435776/05bc190368586b6c3b1d23dd45efa9ab.webp?size=80',
+            avatar: '/team/mapper/céline.webp',
             name: 'Ohozelot | Céline',
             title: 'Mapper',
             links: [
-                { icon: 'discord', link: 'discord.com/users/237969728239435776' },
+                { icon: 'discord', link: 'https://discord.com/users/237969728239435776' },
             ]
         },
     ]
 
     const socialmedia = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/1086682188587729037/07e9a1764304e488c646060d0aa560ea.webp?size=128',
+            avatar: '/team/mapper/sunny.webp',
             name: 'Sunny',
             title: 'Social Media',
             links: [
-                { icon: 'discord', link: 'discord.com/users/1086682188587729037' },
+                { icon: 'discord', link: 'https://discord.com/users/1086682188587729037' },
             ]
         },
     ]
 </script>
 
 <VPTeamPage>
-    <!--  -->
     <VPTeamPageTitle><template #title>Our Team</template></VPTeamPageTitle>
     <!-- Director -->
     <VPTeamPageSection>
