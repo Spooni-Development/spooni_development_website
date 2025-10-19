@@ -59,8 +59,8 @@ Local search functionality lets users find any information instantly across all 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Spooni-Development/spooni-development-website.git
-cd spooni-development-website
+git clone https://github.com/Spooni-Development/spooni_development_website.git
+cd spooni_development_website
 
 # Install dependencies
 npm install
