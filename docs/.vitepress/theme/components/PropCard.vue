@@ -56,7 +56,7 @@
 <script setup lang="ts">
 import { useCopyToClipboard } from '../composables/useCopyToClipboard';
 import { PROPS_GALLERY } from '../constants';
-import type { Prop } from '../composables/usePropData';
+import type { Prop } from '../types';
 
 const props = defineProps<{
   prop: Prop;
@@ -64,8 +64,8 @@ const props = defineProps<{
 
 const { copiedId, copyToClipboard } = useCopyToClipboard();
 
-function handleCopy() {
-  copyToClipboard(props.prop.id);
+function handleCopy(): void {
+  void copyToClipboard(props.prop.id);
 }
 </script>
 

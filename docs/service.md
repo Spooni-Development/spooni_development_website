@@ -41,10 +41,9 @@ import { ref } from 'vue'
 
 .price-card {
     background: var(--vp-c-bg-soft);
-    border: 2px solid var(--vp-c-divider);
+    border: none;
     border-radius: 12px;
     padding: 35px 25px;
-    transition: all 0.3s ease;
     position: relative;
     flex: 0 1 400px;
     max-width: 450px;
@@ -54,15 +53,7 @@ import { ref } from 'vue'
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
 }
 
-.price-card:hover {
-    transform: translateY(-5px);
-    border-color: var(--vp-c-brand-1);
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
-}
-
 .price-card.featured {
-    border-color: var(--vp-c-brand-1);
-    border-width: 3px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
 }
 
@@ -211,17 +202,10 @@ import { ref } from 'vue'
     max-width: 700px;
     margin: 0 auto;
     background: var(--vp-c-bg-soft);
-    border: 2px solid var(--vp-c-divider);
+    border: none;
     border-radius: 12px;
     padding: 40px 30px;
-    transition: all 0.3s ease;
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
-}
-
-.provider-box:hover {
-    border-color: var(--vp-c-brand-1);
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
-    transform: translateY(-3px);
 }
 
 .provider-logo-img {
@@ -273,11 +257,10 @@ import { ref } from 'vue'
 .provider-btn.secondary {
     background: var(--vp-c-bg-alt);
     color: var(--vp-c-text-1);
-    border: 2px solid var(--vp-c-divider);
+    border: none;
 }
 
 .provider-btn.secondary:hover {
-    border-color: var(--vp-c-brand-1);
     transform: translateY(-2px);
 }
 

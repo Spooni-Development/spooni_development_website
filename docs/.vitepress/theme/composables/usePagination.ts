@@ -1,5 +1,6 @@
 import { ref, computed, watch, type Ref, type ComputedRef } from "vue";
 import { PAGINATION, ANIMATION } from "../constants";
+import type { PageIndicator, ScrollBehaviorOption } from '../types';
 
 /**
  * Pagination composable
@@ -15,26 +16,26 @@ export function usePagination<T>(
   currentPage: Ref<number>;
   totalPages: ComputedRef<number>;
   paginatedItems: ComputedRef<T[]>;
-  visiblePages: ComputedRef<(number | string)[]>;
+  visiblePages: ComputedRef<PageIndicator[]>;
   goToPage: (page: number) => void;
 } {
-  const currentPage = ref(1);
+  const currentPage = ref<number>(1);
 
   // Calculate total number of pages
-  const totalPages = computed(() => {
+  const totalPages = computed((): number => {
     return Math.ceil(items.value.length / itemsPerPage.value);
   });
 
   // Calculate items for current page
-  const paginatedItems = computed(() => {
+  const paginatedItems = computed((): T[] => {
     const start = (currentPage.value - 1) * itemsPerPage.value;
     const end = start + itemsPerPage.value;
     return items.value.slice(start, end);
   });
 
   // Calculate visible page numbers for pagination
-  const visiblePages = computed(() => {
-    const pages: (number | string)[] = [];
+  const visiblePages = computed((): PageIndicator[] => {
+    const pages: PageIndicator[] = [];
     const total = totalPages.value;
     const current = currentPage.value;
     
@@ -71,25 +72,28 @@ export function usePagination<T>(
   });
 
   // Navigate to a specific page
-  function goToPage(page: number) {
+  function goToPage(page: number): void {
     if (page < 1 || page > totalPages.value) return;
     currentPage.value = page;
     
     // Scroll to top
     if (typeof window !== 'undefined') {
-      window.scrollTo({ top: 0, behavior: ANIMATION.SMOOTH_SCROLL_BEHAVIOR as ScrollBehavior });
+      window.scrollTo({ 
+        top: 0, 
+        behavior: ANIMATION.SMOOTH_SCROLL_BEHAVIOR as ScrollBehaviorOption as ScrollBehavior 
+      });
     }
   }
 
   // Reset page when items-per-page changes
-  watch(itemsPerPage, () => {
+  watch(itemsPerPage, (): void => {
     currentPage.value = 1;
   });
 
   // Reset page if it's outside valid range
   watch(
-    () => items.value.length,
-    () => {
+    (): number => items.value.length,
+    (): void => {
       if (currentPage.value > totalPages.value) {
         currentPage.value = Math.max(1, totalPages.value);
       }

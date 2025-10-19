@@ -1,44 +1,59 @@
 /**
  * Custom Component Styles
  * Reusable component classes for the SPOONI Development site
+ * 
+ * All values use Design Tokens for consistency and maintainability.
  */
 
 /* ========================================
    Button Components
    ======================================== */
 
-.button-buy,
-.button-map {
+/* Higher specificity to override VitePress link styles */
+a.button-buy,
+a.button-map,
+.vp-doc a.button-buy,
+.vp-doc a.button-map {
   display: inline-block;
   padding: 0.3em 0.9em;
   border-radius: var(--radius-lg);
-  text-decoration: none !important;
-  font-weight: 600;
-  font-size: 1em;
-  transition: all 0.2s;
-  margin: 0.5em;
+  text-decoration: none;
+  font-weight: var(--font-semibold);
+  font-size: var(--text-base);
+  transition: all var(--transition-base);
+  margin: var(--space-2);
   border: none;
   cursor: pointer;
 }
 
-.button-buy {
+a.button-buy,
+.vp-doc a.button-buy {
   background: #f25c05;
-  color: #fff !important;
+  color: #fff;
 }
 
-.button-buy:hover {
+a.button-buy:hover,
+.vp-doc a.button-buy:hover {
   background: var(--vp-c-brand-2);
   transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+  color: #fff;
+  text-decoration: none;
 }
 
-.button-map {
+a.button-map,
+.vp-doc a.button-map {
   background: #414853;
-  color: #fff !important;
+  color: #fff;
 }
 
-.button-map:hover {
+a.button-map:hover,
+.vp-doc a.button-map:hover {
   background: #535d6b;
   transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+  color: #fff;
+  text-decoration: none;
 }
 
 /* ========================================
@@ -61,11 +76,11 @@
 }
 
 .scroll-arrow {
-  width: 48px;
-  height: 48px;
-  color: var(--vp-c-brand-1, #f25c05);
+  width: var(--touch-target-comfortable);
+  height: var(--touch-target-comfortable);
+  color: var(--vp-c-brand-1);
   animation: bounce-arrow 2s ease-in-out infinite;
-  transition: color var(--transition-base) var(--transition-ease-out);
+  transition: color var(--transition-base) ease-out;
 }
 
 /* Smooth bounce animation */
@@ -74,13 +89,13 @@
     transform: translateY(0);
   }
   50% {
-    transform: translateY(8px);
+    transform: translateY(var(--space-2));
   }
 }
 
 /* Subtle hover effect - only color change */
 .scroll-arrow-link:hover .scroll-arrow {
-  color: var(--vp-c-brand-2, #ff6b1a);
+  color: var(--vp-c-brand-2);
 }
 
 /* Remove focus outline */
@@ -120,7 +135,7 @@
   height: 0;
   overflow: hidden;
   max-width: 100%;
-  background: #000;
+  background: var(--vp-c-bg-elv, #000);
   border-radius: var(--radius-lg);
 }
 
@@ -156,4 +171,3 @@ iframe {
     max-width: 800px;
   }
 }
-

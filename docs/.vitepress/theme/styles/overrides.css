@@ -26,7 +26,7 @@
 /* Page titles in brand color */
 .vp-doc h1,
 h1 {
-  color: #f25c05 !important;
+  color: var(--vp-c-brand-1) !important;
 }
 
 /* ========================================
@@ -38,12 +38,6 @@ h1 {
   color: #deded6 !important;
   background: none !important;
 }
-
-/* Hero action buttons - match PropGallery style */
-/* .VPHero .actions .action,
-.VPHero .VPButton {
-  border-radius: var(--radius-lg) !important;
-} */
 
 /* Feature icons in hero section */
 .icon {
@@ -85,14 +79,14 @@ html:not(.dark) .VPFeatures img[src*="/icons/"] {
 /* Remove orange border on feature hover and apply PropGallery-style effect */
 .VPFeature,
 .vp-feature {
-  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+  transition: transform var(--transition-base) ease, box-shadow var(--transition-base) ease !important;
   border: none !important;
 }
 
 .VPFeature:hover,
 .vp-feature:hover {
   transform: translateY(-2px) !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  box-shadow: var(--shadow-md) !important;
   border: none !important;
   border-color: transparent !important;
 }
@@ -109,7 +103,7 @@ a.link.VPFeature .link-text {
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
-  margin-top: 16px !important;
+  margin-top: var(--space-4) !important;
   padding: var(--space-3) var(--space-6) !important;
   color: var(--vp-c-text-1) !important;
   background-color: var(--vp-c-default-soft) !important;
@@ -120,7 +114,7 @@ a.link.VPFeature .link-text {
   min-height: var(--touch-target-min) !important;
   font-weight: var(--font-medium) !important;
   font-size: var(--text-base) !important;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+  box-shadow: var(--shadow-sm) !important;
 }
 
 a.VPFeature:hover .link-text,
@@ -134,7 +128,7 @@ a.link.VPFeature:hover .link-text {
 a.VPFeature:active .link-text,
 a.link.VPFeature:active .link-text {
   transform: translateY(0) !important;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) !important;
+  box-shadow: var(--shadow-sm) !important;
 }
 
 /* Style the text inside */
@@ -178,4 +172,3 @@ a.link.VPFeature .link-text .link-text-icon {
   height: 315px !important;
   aspect-ratio: auto !important;
 }
-

@@ -1,15 +1,10 @@
 import { computed, type ComputedRef, type Ref, unref } from "vue";
-import type { Prop } from "./usePropData";
+import type { Prop, Category, Subcategory } from '../types';
 
-export interface Subcategory {
+interface CategoryInternal {
   name: string;
   count: number;
-}
-
-export interface Category {
-  name: string;
-  count: number;
-  subcategories: Subcategory[];
+  subcategories: Map<string, { name: string; count: number }>;
 }
 
 /**
@@ -22,16 +17,12 @@ export interface Category {
 export function usePropCategories(propData: Prop[] | Ref<Prop[]>): {
   categories: ComputedRef<Category[]>;
 } {
-  const categories = computed(() => {
-    const categoryMap = new Map<string, {
-      name: string;
-      count: number;
-      subcategories: Map<string, { name: string; count: number }>;
-    }>();
+  const categories = computed((): Category[] => {
+    const categoryMap = new Map<string, CategoryInternal>();
     
     const data = unref(propData);
     
-    data.forEach(prop => {
+    data.forEach((prop: Prop): void => {
       if (!categoryMap.has(prop.category)) {
         categoryMap.set(prop.category, {
           name: prop.category,
@@ -40,7 +31,9 @@ export function usePropCategories(propData: Prop[] | Ref<Prop[]>): {
         });
       }
       
-      const category = categoryMap.get(prop.category)!;
+      const category = categoryMap.get(prop.category);
+      if (!category) return; // Type guard
+      
       category.count++;
       
       if (prop.subcategory) {
@@ -50,19 +43,23 @@ export function usePropCategories(propData: Prop[] | Ref<Prop[]>): {
             count: 0,
           });
         }
-        category.subcategories.get(prop.subcategory)!.count++;
+        const subcategory = category.subcategories.get(prop.subcategory);
+        if (subcategory) {
+          subcategory.count++;
+        }
       }
     });
     
     // Konvertiere zu Array und sortiere
     return Array.from(categoryMap.values())
-      .map(cat => ({
-        ...cat,
-        subcategories: Array.from(cat.subcategories.values()).sort((a, b) => 
+      .map((cat: CategoryInternal): Category => ({
+        name: cat.name,
+        count: cat.count,
+        subcategories: Array.from(cat.subcategories.values()).sort((a: Subcategory, b: Subcategory): number => 
           a.name.localeCompare(b.name)
         ),
       }))
-      .sort((a, b) => {
+      .sort((a: Category, b: Category): number => {
         // Priorisiere "Spooni Props" Kategorie
         if (a.name === "Spooni Props") return -1;
         if (b.name === "Spooni Props") return 1;

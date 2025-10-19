@@ -4,6 +4,79 @@ title: Partner
 sidebar: false
 ---
 
+<style scoped>
+/* Partnership Tiers Table Styling */
+.partnership-tiers-wrapper {
+  max-width: 900px;
+  margin: 60px auto 40px;
+  padding: 0 20px;
+}
+
+.partnership-tiers-title {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.partnership-tiers-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1.05em;
+}
+
+.partnership-tiers-table thead tr {
+  border-bottom: 2px solid var(--vp-c-divider);
+}
+
+.partnership-tiers-table th {
+  padding: 16px 12px;
+  font-weight: 600;
+}
+
+.partnership-tiers-table th:first-child {
+  text-align: left;
+}
+
+.partnership-tiers-table th:not(:first-child) {
+  text-align: center;
+  color: var(--vp-c-brand-1);
+}
+
+.partnership-tiers-table tbody tr {
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.partnership-tiers-table td {
+  padding: 12px;
+}
+
+.partnership-tiers-table td:not(:first-child) {
+  text-align: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .partnership-tiers-wrapper {
+    padding: 0 15px;
+    margin: 40px auto 30px;
+  }
+  
+  .partnership-tiers-title {
+    font-size: 1.5em;
+  }
+  
+  .partnership-tiers-table {
+    font-size: 0.9em;
+  }
+  
+  .partnership-tiers-table th,
+  .partnership-tiers-table td {
+    padding: 8px 6px;
+  }
+}
+</style>
+
 <script setup>
     import {
     VPTeamPage, 
@@ -733,31 +806,31 @@ sidebar: false
     </VPTeamPageSection>
 </VPTeamPage>
 
-<div style="max-width: 900px; margin: 60px auto 40px; padding: 0 20px;">
-    <h2 style="text-align: center; font-size: 2em; font-weight: 600; margin-bottom: 30px;">Partnership Tiers</h2>
-    <table style="width: 100%; border-collapse: collapse; font-size: 1.05em;">
+<div class="partnership-tiers-wrapper">
+    <h2 class="partnership-tiers-title">Partnership Tiers</h2>
+    <table class="partnership-tiers-table">
         <thead>
-            <tr style="border-bottom: 2px solid var(--vp-c-divider);">
-                <th style="text-align: left; padding: 16px 12px; font-weight: 600;">Feature</th>
-                <th style="text-align: center; padding: 16px 12px; color: var(--vp-c-brand-1); font-weight: 600;">💿 TIER I</th>
-                <th style="text-align: center; padding: 16px 12px; color: var(--vp-c-brand-1); font-weight: 600;">📀 TIER II</th>
+            <tr>
+                <th>Feature</th>
+                <th>💿 TIER I</th>
+                <th>📀 TIER II</th>
             </tr>
         </thead>
         <tbody>
-            <tr style="border-bottom: 1px solid var(--vp-c-divider);">
-                <td style="padding: 12px;">Server Advertisement</td>
-                <td style="text-align: center; padding: 12px;">✅</td>
-                <td style="text-align: center; padding: 12px;">✅</td>
+            <tr>
+                <td>Server Advertisement</td>
+                <td>✅</td>
+                <td>✅</td>
             </tr>
-            <tr style="border-bottom: 1px solid var(--vp-c-divider);">
-                <td style="padding: 12px;">Beta Access (Scripts & Mappings)</td>
-                <td style="text-align: center; padding: 12px;">—</td>
-                <td style="text-align: center; padding: 12px;">✅</td>
+            <tr>
+                <td>Beta Access (Scripts & Mappings)</td>
+                <td>—</td>
+                <td>✅</td>
             </tr>
-            <tr style="border-bottom: 1px solid var(--vp-c-divider);">
-                <td style="padding: 12px;">Early Access to New Features</td>
-                <td style="text-align: center; padding: 12px;">—</td>
-                <td style="text-align: center; padding: 12px;">✅</td>
+            <tr>
+                <td>Early Access to New Features</td>
+                <td>—</td>
+                <td>✅</td>
             </tr>
         </tbody>
     </table>

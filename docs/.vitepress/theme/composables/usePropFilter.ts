@@ -1,5 +1,5 @@
 import { computed, type Ref, type ComputedRef, unref } from "vue";
-import type { Prop } from "./usePropData";
+import type { Prop } from '../types';
 
 /**
  * Composable für Filter-Logik (Suche, Kategorie, Subkategorie)
@@ -18,9 +18,9 @@ export function usePropFilter(
 ): {
   filteredProps: ComputedRef<Prop[]>;
 } {
-  const filteredProps = computed(() => {
+  const filteredProps = computed((): Prop[] => {
     const data = unref(propData);
-    return data.filter(prop => {
+    return data.filter((prop: Prop): boolean => {
       // Such-Filter
       const searchTerm = searchQuery.value.toLowerCase().trim();
       const matchesSearch = searchQuery.value === "" || 

@@ -1,6 +1,9 @@
 /**
  * CSS Custom Properties / Design Tokens
  * VitePress theme variable overrides for SPOONI Development
+ * 
+ * These variables integrate with VitePress's default theming system
+ * and provide SPOONI-specific customizations.
  */
 
 :root {
@@ -19,20 +22,20 @@
   --vp-layout-max-width: 95%;
 
   /* ========================================
-     Brand Colors
+     Brand Colors (SPOONI Orange #f25c05)
      ======================================== */
   --vp-c-brand-1: #f25c05;
-  --vp-c-brand-2: #f25c05;
-  --vp-c-brand-3: #f25c05;
-  --vp-c-brand-soft: #f25c05;
+  --vp-c-brand-2: #ff6b1a;
+  --vp-c-brand-3: #d64d00;
+  --vp-c-brand-soft: rgba(242, 92, 5, 0.14);
 
   /* ========================================
-     Default Colors
+     Default/Neutral Colors
      ======================================== */
-  --vp-c-default-1: #f25c05;
-  --vp-c-default-2: #f25c05;
-  --vp-c-default-3: #f25c05;
-  --vp-c-default-soft: #f25c05;
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-soft: var(--vp-c-gray-soft);
 
   /* ========================================
      Semantic Colors
@@ -57,12 +60,6 @@
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
 
-  /* Default / Gray */
-  --vp-c-default-1: var(--vp-c-gray-1);
-  --vp-c-default-2: var(--vp-c-gray-2);
-  --vp-c-default-3: var(--vp-c-gray-3);
-  --vp-c-default-soft: var(--vp-c-gray-soft);
-
   /* ========================================
      Component Variables - Button
      ======================================== */
@@ -82,7 +79,7 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #f25c05 %,
+    #f25c05 30%,
     #c84585
   );
   --vp-home-hero-name-background: linear-gradient(120deg, #f25c05 30%, #c84585);
@@ -125,4 +122,3 @@
     --vp-home-hero-image-filter: blur(72px);
   }
 }
-

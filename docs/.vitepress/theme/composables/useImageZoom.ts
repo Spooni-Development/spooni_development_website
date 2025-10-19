@@ -15,17 +15,18 @@ export function useImageZoom(): {
 } {
   let zoomInstance: Zoom | null = null;
 
-  function initializeZoom() {
+  function initializeZoom(): void {
     if (typeof window === 'undefined') return;
     
-    nextTick(() => {
-      import("medium-zoom").then(({ default: mediumZoom }) => {
+    void nextTick((): void => {
+      void import("medium-zoom").then(({ default: mediumZoom }): void => {
         // Detach previous instance
         if (zoomInstance) {
           try {
             zoomInstance.detach();
           } catch (e) {
-            // Ignore errors
+            // Ignore errors - instance might already be detached
+            console.debug("Failed to detach zoom instance:", e);
           }
         }
         
@@ -39,22 +40,25 @@ export function useImageZoom(): {
             scrollOffset: IMAGE_LOADING.ZOOM_SCROLL_OFFSET,
           });
         }
+      }).catch((error: unknown): void => {
+        console.error("Failed to load medium-zoom:", error);
       });
     });
   }
 
-  function cleanup() {
+  function cleanup(): void {
     if (zoomInstance) {
       try {
         zoomInstance.detach();
       } catch (e) {
-        // Ignore errors
+        // Ignore errors - instance might already be detached
+        console.debug("Failed to cleanup zoom instance:", e);
       }
       zoomInstance = null;
     }
   }
 
-  onUnmounted(() => {
+  onUnmounted((): void => {
     cleanup();
   });
 

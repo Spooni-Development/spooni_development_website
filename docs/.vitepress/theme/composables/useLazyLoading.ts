@@ -12,7 +12,7 @@ export function useLazyLoading(): {
 } {
   let imageObserver: IntersectionObserver | null = null;
 
-  function initLazyLoading() {
+  function initLazyLoading(): void {
     if (typeof window === 'undefined') return;
     
     // Disconnect previous observer
@@ -21,8 +21,8 @@ export function useLazyLoading(): {
     }
     
     // Create new observer
-    imageObserver = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
+    imageObserver = new IntersectionObserver((entries: IntersectionObserverEntry[]): void => {
+      entries.forEach((entry: IntersectionObserverEntry): void => {
         if (entry.isIntersecting) {
           const img = entry.target as HTMLImageElement;
           const src = img.getAttribute('data-src');
@@ -39,21 +39,21 @@ export function useLazyLoading(): {
     });
     
     // Observe all lazy images
-    nextTick(() => {
-      document.querySelectorAll('.lazy-image').forEach(img => {
+    void nextTick((): void => {
+      document.querySelectorAll('.lazy-image').forEach((img: Element): void => {
         imageObserver?.observe(img);
       });
     });
   }
 
-  function cleanup() {
+  function cleanup(): void {
     if (imageObserver) {
       imageObserver.disconnect();
       imageObserver = null;
     }
   }
 
-  onUnmounted(() => {
+  onUnmounted((): void => {
     cleanup();
   });
 
