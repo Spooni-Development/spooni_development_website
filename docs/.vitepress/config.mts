@@ -37,9 +37,9 @@ export default defineConfig({
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:site_name", content: "SPOONI Development" }],
     ["meta", { property: "og:locale", content: "en_US" }],
-    ["meta", { property: "og:image", content: "https://spooni.pages.dev/spooni.webp" }],
+    ["meta", { property: "og:image", content: "https://spooni.pages.dev/spooni-og.png" }],
     ["meta", { property: "og:image:width", content: "1200" }],
-    ["meta", { property: "og:image:height", content: "630" }],
+    ["meta", { property: "og:image:height", content: "1200" }],
     
     // Twitter Card
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
@@ -173,6 +173,7 @@ export default defineConfig({
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},
             {text: "🔸Bra Worker Houses", link:'/doc_mappings/lemoyne/spooni_bra_worker_houses'},
+            {text: "🔸Bluewater Ranch Attic", link:'/doc_mappings/lemoyne/spooni_bulewater_ranch_attic'},
             {text: "🔸Caliga Hall", link:'/doc_mappings/lemoyne/spooni_caliga_hall'},
             {text: "🔸Hagen Orchards", link:'/doc_mappings/lemoyne/spooni_hagen_orchards'},
             {text: "🔸Pleasance Ranch", link:'/doc_mappings/lemoyne/spooni_pleasance_ranch'},
