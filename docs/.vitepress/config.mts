@@ -37,12 +37,9 @@ export default defineConfig({
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:site_name", content: "SPOONI Development" }],
     ["meta", { property: "og:locale", content: "en_US" }],
-    ["meta", { property: "og:image", content: "https://spooni.pages.dev/spooni-og.png" }],
-    ["meta", { property: "og:image:width", content: "1200" }],
-    ["meta", { property: "og:image:height", content: "1200" }],
     
     // Twitter Card
-    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:card", content: "summary" }],
     ["meta", { name: "twitter:site", content: "@spooni.development" }],
     ["meta", { name: "twitter:creator", content: "@spooni.development" }],
     
