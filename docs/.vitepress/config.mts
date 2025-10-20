@@ -284,9 +284,10 @@ export default defineConfig({
 
               // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
               { text: "Free Scripts", collapsed: true, items:[
+                { text: "💻 HUD", link:'/doc_scripts/spooni/spooni_hud' },
                 { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
                 { text: "📍 Job Blips", link:'/doc_scripts/spooni/spooni_job_blips' },
-                { text: "💻 Spooner", link:'/doc_scripts/spooni/spooni_spooner' },
+                { text: "🧰 Spooner", link:'/doc_scripts/spooni/spooni_spooner' },
                 { text: "🌱 VegMod", link:'/doc_scripts/spooni/spooni_vegmod' },
                 { text: "🛞 Vehicle Loader", link:'/doc_scripts/spooni/spooni_vehicle_loader' },
               ]},

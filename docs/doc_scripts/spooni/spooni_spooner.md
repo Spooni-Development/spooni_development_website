@@ -3,7 +3,7 @@ title: Spooner Tool
 description: SPOONI Spooner for RedM - Free in-game map editor for spawning and placing props. Standalone tool for creative map building in Red Dead Redemption 2 servers.
 ---
 
-# 💻 Spooner
+# 🧰 Spooner
 Documentation relating to the spooni_spooner.
 
 :::tabs
