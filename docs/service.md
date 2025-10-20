@@ -7,9 +7,6 @@ head:
   - - meta
     - name: keywords
       content: RedM server setup, FXServer installation, RedM hosting, database setup, VORP installation, RSG setup, server configuration, RedM optimization, Iceline Hosting
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/iceline.webp
 ---
 
 <script setup>

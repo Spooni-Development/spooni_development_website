@@ -6,9 +6,6 @@ head:
   - - meta
     - name: keywords
       content: RedM documentation, RedM installation guide, RedM script tutorial, MLO setup, VORP setup, RSG setup, RedM configuration, SPOONI guides
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/spooni-og.png
 ---
 
 # 👋 Welcome to SPOONI Documentation

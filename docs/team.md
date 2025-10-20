@@ -7,9 +7,6 @@ head:
   - - meta
     - name: keywords
       content: SPOONI team, RedM developers, 3D artists, RedM mappers, game developers, content creators, RDR2 modding team, SPOONI staff
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/spooni-og.png
 ---
 
 <script setup>

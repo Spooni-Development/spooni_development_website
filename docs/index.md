@@ -6,9 +6,6 @@ head:
   - - meta
     - name: keywords
       content: RedM, Red Dead Redemption 2, RDR2 roleplay, RedM scripts, RedM mappings, MLO, custom props, RedM resources, VORP, RSG, RPX, spooni development, RedM showcase server
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/spooni-og.png
 
 hero: 
   name: SPOONI

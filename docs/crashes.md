@@ -6,9 +6,6 @@ head:
   - - meta
     - name: keywords
       content: RedM crash codes, FXServer errors, server crash, RedM troubleshooting, pool limits, YTYP error, YDR corruption, RedM debugging, RDR2 server fixes, object pool overflow
-  - - meta
-    - property: og:image
-      content: https://spooni.pages.dev/spooni-og.png
 ---
 
 # 🔧 RedM Crash Codes & Solutions
