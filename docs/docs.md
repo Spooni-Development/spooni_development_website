@@ -8,7 +8,7 @@ head:
       content: RedM documentation, RedM installation guide, RedM script tutorial, MLO setup, VORP setup, RSG setup, RedM configuration, SPOONI guides
   - - meta
     - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
+      content: https://spooni.pages.dev/spooni.webp
 ---
 
 # 👋 Welcome to SPOONI Documentation

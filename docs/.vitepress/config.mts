@@ -18,7 +18,7 @@ export default defineConfig({
   useWebFonts: false,
   
   head: [
-    ["link",{ rel: "icon", sizes: "64x64", href: "/icons/logo.svg", loading: "lazy" }],
+    ["link",{ rel: "icon", sizes: "64x64", href: "/spooni.webp", loading: "lazy" }],
     // Preconnect to external domains for faster loading
     ["link",{ rel: "preconnect", href: "https://spooni.de" }],
     ["link",{ rel: "dns-prefetch", href: "https://spooni.de" }],
@@ -37,7 +37,7 @@ export default defineConfig({
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:site_name", content: "SPOONI Development" }],
     ["meta", { property: "og:locale", content: "en_US" }],
-    ["meta", { property: "og:image", content: "https://spooni.pages.dev/icons/logo.svg" }],
+    ["meta", { property: "og:image", content: "https://spooni.pages.dev/spooni.webp" }],
     ["meta", { property: "og:image:width", content: "1200" }],
     ["meta", { property: "og:image:height", content: "630" }],
     
@@ -87,7 +87,7 @@ export default defineConfig({
   },
   
   themeConfig: {
-    logo: "/icons/logo.svg",
+    logo: "/spooni.webp",
     siteTitle: "SPOONI Development",
     outline: {
       level: 'deep',

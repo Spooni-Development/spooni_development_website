@@ -9,7 +9,7 @@ head:
       content: RedM partners, RedM roleplay servers, RDR2 communities, RedM developers, partnership program, RedM server listing, Wild West roleplay, RedM collaboration
   - - meta
     - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
+      content: https://spooni.pages.dev/spooni.webp
 ---
 
 <style scoped>

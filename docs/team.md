@@ -9,7 +9,7 @@ head:
       content: SPOONI team, RedM developers, 3D artists, RedM mappers, game developers, content creators, RDR2 modding team, SPOONI staff
   - - meta
     - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
+      content: https://spooni.pages.dev/spooni.webp
 ---
 
 <script setup>
@@ -22,7 +22,7 @@ head:
 
     const director = [
         {
-            avatar: '/icons/logo.svg',
+            avatar: '/spooni.webp',
             name: 'SPOONI',
             title: 'Founder & Director',
             links: [

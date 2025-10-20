@@ -9,7 +9,7 @@ head:
       content: RedM props, RDR2 custom props, 3D models, game assets, custom furniture, RedM objects, MLO props, decorative items, interactive props, SPOONI props database
   - - meta
     - property: og:image
-      content: https://spooni.pages.dev/icons/logo.svg
+      content: https://spooni.pages.dev/spooni.webp
 ---
 
 <PropGallery />
