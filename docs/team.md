@@ -119,9 +119,25 @@ head:
             ]
         },
         {
+            avatar: '/team/dev/byte.webp',
+            name: 'Byte',
+            title: 'Developer',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/1070139913770635335/' },
+            ]
+        },
+        {
+            avatar: '/team/dev/drshwaggins.webp',
+            name: 'DrShwaggins',
+            title: 'External Developer',
+            links: [
+                { icon: 'discord', link: 'https://discordapp.com/users/352854698660724738/' },
+            ]
+        },
+        {
             avatar: 'https://avatars.githubusercontent.com/u/102512250?v=4',
             name: 'Dietrich',
-            title: 'Developer',
+            title: 'External Developer',
             links: [
                 { icon: 'github', link: 'https://github.com/Dietrich-io' },
                 { icon: 'discord', link: 'https://discordapp.com/users/188354110100209665/' },
@@ -130,19 +146,10 @@ head:
         {
             avatar: 'https://avatars.githubusercontent.com/u/10331752?v=4',
             name: 'Roschy',
-            title: 'Developer',
+            title: 'External Developer',
             links: [
                 { icon: 'github', link: 'https://github.com/JulianLegler' },
                 { icon: 'discord', link: 'https://discordapp.com/users/221575559526875136/' },
-            ]
-        },
-        {
-            avatar: 'icons/user.svg',
-            name: 'LeFruJohn',
-            title: 'Developer',
-            links: [
-                { icon: 'github', link: 'https://github.com/LeFruJohn0' },
-                { icon: 'discord', link: 'https://discordapp.com/users/893217081900802101/' },
             ]
         },
     ]

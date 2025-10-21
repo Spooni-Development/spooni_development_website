@@ -1,67 +1,61 @@
 {
-  "hash": "3da30cd8",
+  "hash": "afb13a3d",
   "configHash": "d82730ef",
-  "lockfileHash": "69d3e662",
-  "browserHash": "41b91d65",
+  "lockfileHash": "55dab5b8",
+  "browserHash": "1b781639",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "c009e39f",
+      "fileHash": "29a378a8",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "99230faf",
+      "fileHash": "78e37083",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "2d71c2d6",
+      "fileHash": "0b1406d7",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "d2d53c56",
+      "fileHash": "fbcd1721",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "fbf7882a",
+      "fileHash": "a3bcd07d",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "1b611420",
+      "fileHash": "1d7a9d4c",
       "needsInterop": false
     },
     "vitepress-plugin-tabs/client": {
       "src": "../../../../node_modules/vitepress-plugin-tabs/dist/client/browser/index.js",
       "file": "vitepress-plugin-tabs_client.js",
-      "fileHash": "88c1839a",
-      "needsInterop": false
-    },
-    "medium-zoom": {
-      "src": "../../../../node_modules/medium-zoom/dist/medium-zoom.esm.js",
-      "file": "medium-zoom.js",
-      "fileHash": "16d2a736",
+      "fileHash": "93dd0fc7",
       "needsInterop": false
     },
     "fuse.js": {
       "src": "../../../../node_modules/fuse.js/dist/fuse.mjs",
       "file": "fuse__js.js",
-      "fileHash": "4d307543",
+      "fileHash": "0bc32a98",
       "needsInterop": false
     },
-    "@tanstack/vue-virtual": {
-      "src": "../../../../node_modules/@tanstack/vue-virtual/dist/esm/index.js",
-      "file": "@tanstack_vue-virtual.js",
-      "fileHash": "18daae1b",
+    "medium-zoom": {
+      "src": "../../../../node_modules/medium-zoom/dist/medium-zoom.esm.js",
+      "file": "medium-zoom.js",
+      "fileHash": "e23707ed",
       "needsInterop": false
     }
   },
