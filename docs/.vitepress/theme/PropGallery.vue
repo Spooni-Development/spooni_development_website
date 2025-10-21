@@ -26,6 +26,7 @@
           :selectedCategory="selectedCategory"
           :selectedSubcategory="selectedSubcategory"
           :totalPropsCount="totalPropsCount"
+          :favoritesCount="favoritesCount"
           @update:selectedCategory="selectedCategory = $event"
           @update:selectedSubcategory="selectedSubcategory = $event"
         />
@@ -34,6 +35,11 @@
           <h1 class="gallery-title">Props Gallery</h1>
           
           <PropSearch v-model="searchQuery" />
+          
+          <FavoritesManager 
+            :favoritesCount="favoritesCount"
+            :showAlways="selectedCategory === 'favorites'"
+          />
           
           <PropControls
             :paginatedPropsLength="paginatedProps.length"
@@ -75,11 +81,12 @@
 </template>
 
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, computed, provide } from 'vue';
 import { usePropData } from './composables/usePropData';
 import { useCategoriesMetadata } from './composables/useCategoriesMetadata';
 import { usePropFilter } from './composables/usePropFilter';
 import { usePagination } from './composables/usePagination';
+import { useFavorites } from './composables/useFavorites';
 
 import PropSidebar from './components/PropSidebar.vue';
 import PropSearch from './components/PropSearch.vue';
@@ -87,6 +94,7 @@ import PropControls from './components/PropControls.vue';
 import PropGrid from './components/PropGrid.vue';
 import PropEmptyState from './components/PropEmptyState.vue';
 import PropPagination from './components/PropPagination.vue';
+import FavoritesManager from './components/FavoritesManager.vue';
 import { PROPS_GALLERY, PAGINATION, GRID_LAYOUT, ANIMATION } from './constants';
 
 // Constants
@@ -99,15 +107,38 @@ const searchQuery = ref('');
 const itemsPerPage = ref<number>(PAGINATION.DEFAULT_ITEMS_PER_PAGE);
 const columnsPerRow = ref<number>(GRID_LAYOUT.DEFAULT_COLUMNS_PER_ROW);
 
+const { 
+  favoritesCount, 
+  isFavorite, 
+  toggleFavorite, 
+  getFavoriteProps,
+  clearFavorites
+} = useFavorites();
+
+// Provide favorites functions to child components
+provide('isFavorite', isFavorite);
+provide('toggleFavorite', toggleFavorite);
+provide('clearFavorites', clearFavorites);
+
 // Data (with dynamic category loading)
 const { propData, isLoading, error } = usePropData(selectedCategory);
 
 // Categories (from metadata)
 const { categories, totalProps: totalPropsCount } = useCategoriesMetadata();
 
-// Filtering
+// Computed property for displaying props based on selected category
+const displayProps = computed(() => {
+  if (selectedCategory.value === 'favorites') {
+    // For favorites, filter all loaded props to show only favorites
+    // usePropData automatically loads 'all' category when 'favorites' is selected
+    return getFavoriteProps(propData.value);
+  }
+  return propData.value;
+});
+
+// Filtering (use displayProps instead of propData for favorites support)
 const { filteredProps } = usePropFilter(
-  propData,
+  displayProps,
   searchQuery,
   selectedCategory,
   selectedSubcategory

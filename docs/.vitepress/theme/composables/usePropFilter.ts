@@ -1,38 +1,64 @@
 import { computed, type Ref, type ComputedRef, unref } from "vue";
+import Fuse from 'fuse.js';
 import type { Prop } from '../types';
 
 /**
- * Composable für Filter-Logik (Suche, Kategorie, Subkategorie)
+ * Fuse.js configuration for optimal fuzzy search
+ */
+const fuseOptions = {
+  keys: ['id'],
+  threshold: 0.4,
+  distance: 100,
+  minMatchCharLength: 2,
+  ignoreLocation: true,
+  useExtendedSearch: false,
+  findAllMatches: false,
+  includeScore: true,
+  shouldSort: true,
+};
+
+/**
+ * Composable for prop filtering with fuzzy search support
  * 
- * @param propData - Array von Props (kann ein Ref sein)
- * @param searchQuery - Ref mit Suchtext
- * @param selectedCategory - Ref mit ausgewählter Kategorie
- * @param selectedSubcategory - Ref mit ausgewählter Subkategorie
- * @returns Computed-Property mit gefilterten Props
+ * Uses Fuse.js for error-tolerant search:
+ * - Finds props even with typos
+ * - Partial matching (e.g. "barel" finds "barrel")
+ * - Results sorted by relevance
  */
 export function usePropFilter(
   propData: Prop[] | Ref<Prop[]>,
   searchQuery: Ref<string>,
-  selectedCategory: Ref<string>,
+  _selectedCategory: Ref<string>,
   selectedSubcategory: Ref<string>
 ): {
   filteredProps: ComputedRef<Prop[]>;
 } {
   const filteredProps = computed((): Prop[] => {
     const data = unref(propData);
-    return data.filter((prop: Prop): boolean => {
-      // Such-Filter
-      const searchTerm = searchQuery.value.toLowerCase().trim();
-      const matchesSearch = searchQuery.value === "" || 
-        prop.id.toLowerCase().includes(searchTerm);
-      
-      // Subkategorie-Filter
-      const matchesSubcategory = selectedSubcategory.value === "all" || 
+    
+    const subcategoryFiltered = data.filter((prop: Prop): boolean => {
+      return selectedSubcategory.value === "all" || 
         prop.subcategory === selectedSubcategory.value;
-      
-      // Kategorie-Filter entfernt - wird bereits durch dynamisches Laden der JSON-Datei gefiltert
-      return matchesSearch && matchesSubcategory;
     });
+    
+    const searchTerm = searchQuery.value.trim();
+    if (searchTerm === "") {
+      return subcategoryFiltered;
+    }
+    
+    // Use simple string search for very short queries (performance)
+    if (searchTerm.length <= 2) {
+      const lowerSearch = searchTerm.toLowerCase();
+      return subcategoryFiltered.filter((prop: Prop): boolean => 
+        prop.id.toLowerCase().includes(lowerSearch)
+      );
+    }
+    
+    // Use fuzzy search for 3+ characters
+    const fuse = new Fuse(subcategoryFiltered, fuseOptions);
+    const results = fuse.search(searchTerm);
+    
+    return results.map(result => result.item);
   });
 
   return {

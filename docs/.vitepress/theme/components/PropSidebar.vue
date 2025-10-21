@@ -21,6 +21,21 @@
         <span class="category-count">{{ totalPropsCount }}</span>
       </div>
 
+      <!-- Favorites Category -->
+      <div 
+        class="category-item favorites-category" 
+        :class="{ active: selectedCategory === 'favorites' }"
+        @click="selectCategory('favorites')"
+      >
+        <span class="category-name">
+          <svg class="favorites-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+          </svg>
+          Favorites
+        </span>
+        <span class="category-count favorites-count">{{ favoritesCount }}</span>
+      </div>
+
       <!-- Categories -->
       <div v-for="category in categories" :key="category.name" class="category-group">
         <div 
@@ -29,9 +44,6 @@
           @click="selectCategory(category.name)"
         >
           <span class="category-name">
-            <svg v-if="category.name === 'Spooni Props'" class="spooni-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
-            </svg>
             {{ formatCategory(category.name) }}
           </span>
           <span class="category-count">{{ category.count }}</span>
@@ -64,6 +76,7 @@ defineProps<{
   selectedCategory: string;
   selectedSubcategory: string;
   totalPropsCount: number;
+  favoritesCount: number;
 }>();
 
 const emit = defineEmits<{
@@ -228,18 +241,47 @@ function selectSubcategory(subcategory: string) {
   transform: scale(1.1);
 }
 
-/* Spooni Props Icon */
-.spooni-icon {
+/* Favorites Category */
+.favorites-category {
+  /* Same style as other categories */
+}
+
+/* Favorites Icon */
+.favorites-icon {
   flex-shrink: 0;
-  color: #FFD700;
-  filter: drop-shadow(0 1px 2px rgba(255, 215, 0, 0.3));
+  color: #fbbf24;
+  filter: drop-shadow(0 1px 3px rgba(251, 191, 36, 0.4));
   transition: all 0.25s ease;
 }
 
-.category-item:hover .spooni-icon,
-.category-item.active .spooni-icon {
+.favorites-category:hover .favorites-icon,
+.favorites-category.active .favorites-icon {
   color: white;
   filter: drop-shadow(0 2px 4px rgba(255, 255, 255, 0.5));
+  animation: starRotate 0.6s ease-in-out;
+}
+
+@keyframes starRotate {
+  0% { transform: rotate(0deg) scale(1); }
+  50% { transform: rotate(180deg) scale(1.2); }
+  100% { transform: rotate(360deg) scale(1); }
+}
+
+/* Favorites Count Badge */
+.favorites-count {
+  background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%);
+  color: white;
+  font-weight: 700;
+}
+
+.favorites-category:hover .favorites-count,
+.favorites-category.active .favorites-count {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Empty Favorites State */
+.favorites-category .favorites-count:empty::after {
+  content: '0';
 }
 
 .category-count,

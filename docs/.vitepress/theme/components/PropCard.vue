@@ -7,6 +7,28 @@
         class="prop-image lazy-image" 
         loading="lazy"
       />
+      <!-- Favorite Button (Top Right) -->
+      <button 
+        @click="handleToggleFavorite" 
+        class="favorite-button"
+        :class="{ favorited: isFavorite(prop.id) }"
+        :title="isFavorite(prop.id) ? 'Remove from favorites' : 'Add to favorites'"
+        :aria-label="isFavorite(prop.id) ? 'Remove from favorites' : 'Add to favorites'"
+      >
+        <svg 
+          xmlns="http://www.w3.org/2000/svg" 
+          width="20" 
+          height="20" 
+          viewBox="0 0 24 24" 
+          :fill="isFavorite(prop.id) ? 'currentColor' : 'none'"
+          stroke="currentColor" 
+          stroke-width="2" 
+          stroke-linecap="round" 
+          stroke-linejoin="round"
+        >
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+        </svg>
+      </button>
     </div>
     <div class="prop-info">
       <div class="prop-name-container">
@@ -54,6 +76,7 @@
 </template>
 
 <script setup lang="ts">
+import { inject } from 'vue';
 import { useCopyToClipboard } from '../composables/useCopyToClipboard';
 import { PROPS_GALLERY } from '../constants';
 import type { Prop } from '../types';
@@ -64,8 +87,17 @@ const props = defineProps<{
 
 const { copiedId, copyToClipboard } = useCopyToClipboard();
 
+// Inject favorites functions from parent (PropGallery)
+const isFavorite = inject<(propId: string) => boolean>('isFavorite', () => false);
+const toggleFavorite = inject<(propId: string) => void>('toggleFavorite', () => {});
+
 function handleCopy(): void {
   void copyToClipboard(props.prop.id);
+}
+
+function handleToggleFavorite(event: Event): void {
+  event.stopPropagation();
+  toggleFavorite(props.prop.id);
 }
 </script>
 
@@ -94,6 +126,7 @@ function handleCopy(): void {
   overflow: hidden;
   padding: var(--space-4);
   box-sizing: border-box;
+  position: relative;
 }
 
 .prop-image {
@@ -218,6 +251,93 @@ function handleCopy(): void {
   0% { transform: scale(1); }
   50% { transform: scale(1.2); }
   100% { transform: scale(1); }
+}
+
+/* Favorite Button */
+.favorite-button {
+  position: absolute;
+  top: var(--space-2);
+  right: var(--space-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  color: #9ca3af;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 10;
+  opacity: 0;
+  transform: scale(0.8);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode adjustments */
+.dark .favorite-button {
+  background: rgba(30, 30, 30, 0.9);
+  color: #9ca3af;
+}
+
+/* Show on hover */
+.image-container:hover .favorite-button {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* Always show when favorited */
+.favorite-button.favorited {
+  opacity: 1;
+  transform: scale(1);
+  color: #fbbf24;
+  background: rgba(255, 255, 255, 0.95);
+}
+
+.dark .favorite-button.favorited {
+  background: rgba(30, 30, 30, 0.95);
+  color: #fbbf24;
+}
+
+/* Hover effect */
+.favorite-button:hover {
+  transform: scale(1.15);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Favorited hover effect */
+.favorite-button.favorited:hover {
+  color: #f59e0b;
+  transform: scale(1.15);
+}
+
+/* Active/Click effect */
+.favorite-button:active {
+  transform: scale(0.95);
+}
+
+/* Pulse animation when favoriting */
+.favorite-button.favorited svg {
+  animation: favoritePulse 0.4s ease-in-out;
+}
+
+@keyframes favoritePulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+  100% { transform: scale(1); }
+}
+
+/* Mobile: Always show favorite button */
+@media (max-width: 767px) {
+  .favorite-button {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  
+  .favorite-button.favorited {
+    opacity: 1;
+  }
 }
 
 /* Tablets: slightly larger images (BREAKPOINTS.TABLET_MIN) */
