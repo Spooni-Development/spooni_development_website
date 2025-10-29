@@ -242,7 +242,6 @@ Issues with world data and environmental systems.
 - Review server logs for additional context
 - Join the [SPOONI Discord](https://discord.gg/spooni) for community support
 :::
-
 ## 🆘 Additional Help
 
 If you continue experiencing crashes after trying these solutions:

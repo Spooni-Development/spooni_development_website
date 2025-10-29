@@ -240,6 +240,38 @@ head:
             ]
         },
         {
+            avatar: 'https://cdn.discordapp.com/icons/1404921397293355090/e212d9bd0c1b1e35a577530bbb230562.webp?size=128&quality=lossless',
+            name: 'LoneStar Roleplay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/fTyzcgMD2E' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1308314913202241537/de805cb2bc95bb0eef96ffbd6192aa93.webp?size=128&quality=lossless',
+            name: 'Dirty South Roleplay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/RJhRAQb8wK' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1075306420339228742/67c1dfc736eb31cfe1f5df793f2974ad.webp?size=128&quality=lossless',
+            name: 'Highwater RP',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/highwaterroleplay' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/985257469280407632/dc750845088510b51c14a27bc2c1b8c7.webp?size=128&quality=lossless',
+            name: 'Nexus Roleplay',
+            title: '📀 TIER II',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/RJhRAQb8wK' },
+            ]
+        },
+        {
             avatar: '/partner/tier2/yellowstone-rp.webp',
             name: 'Yellowstone RP',
             title: '📀 TIER II',
@@ -496,6 +528,22 @@ head:
             title: '💿 TIER I', 
             links: [
                 { icon: 'discord', link: 'https://discord.gg/tMfxKdYFCv' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/1370309626234404954/a986c76ea2c4b0fe3d3dbe1006d71c6f.webp?size=128&quality=lossless',
+            name: 'Endless Horizons 1900',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/SeK2vxAwHu' },
+            ]
+        },
+        {
+            avatar: 'https://cdn.discordapp.com/icons/662693038530887702/705cdd07bea9332cb7995dce2760536d.webp?size=128&quality=lossless',
+            name: 'Silly Donkey',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/UGgED7WPAn' },
             ]
         },
         {
@@ -812,29 +860,53 @@ head:
 </VPTeamPage>
 
 <div class="partnership-tiers-wrapper">
-    <h2 class="partnership-tiers-title">Partnership Tiers</h2>
+    <h2 class="partnership-tiers-title">Partner Program</h2>
     <table class="partnership-tiers-table">
         <thead>
             <tr>
-                <th>Feature</th>
+                <th></th>
                 <th>💿 TIER I</th>
                 <th>📀 TIER II</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Server Advertisement</td>
+                <td colspan="3" style="font-weight: 700; font-size: 1.1em; padding: 16px 12px 12px;">Requirements</td>
+            </tr>
+            <tr>
+                <td>Discord Members</td>
+                <td>Min. 500</td>
+                <td>Min. 1,500</td>
+            </tr>
+            <tr>
+                <td>Store Products</td>
+                <td>Min. 50%</td>
+                <td>Min. 80%</td>
+            </tr>
+            <tr style="border-bottom: none;">
+                <td colspan="3" style="text-align: center; font-style: italic; font-size: 0.9em; color: var(--vp-c-text-2); padding: 12px;">Or purchase a large bundle</td>
+            </tr>
+            <tr>
+                <td colspan="3" style="font-weight: 700; font-size: 1.1em; padding: 24px 12px 12px;">Benefits</td>
+            </tr>
+            <tr>
+                <td>Early Access for Certain Mappings</td>
+                <td>1 week early</td>
+                <td>2 weeks early</td>
+            </tr>
+            <tr>
+                <td>Discord Role</td>
+                <td>TIER I Role</td>
+                <td>TIER II Role</td>
+            </tr>
+            <tr>
+                <td>Official Partner Listing</td>
                 <td>✅</td>
                 <td>✅</td>
             </tr>
             <tr>
-                <td>Beta Access (Scripts & Mappings)</td>
-                <td>—</td>
+                <td>Discord Server Promotion</td>
                 <td>✅</td>
-            </tr>
-            <tr>
-                <td>Early Access to New Features</td>
-                <td>—</td>
                 <td>✅</td>
             </tr>
         </tbody>
