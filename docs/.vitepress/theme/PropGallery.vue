@@ -1,13 +1,12 @@
 <template>
   <div class="prop-gallery-wrapper">
     <!-- Loading State -->
-    <div v-if="isLoading" class="loading-container">
-      <div class="loading-content">
-        <div class="spinner"></div>
-        <h2>Loading Props...</h2>
-        <p>Loading {{ totalPropsEstimate }}+ props from the gallery</p>
-      </div>
-    </div>
+    <LoadingSpinner 
+      v-if="isLoading" 
+      :message="`Loading ${totalPropsEstimate}+ props from the gallery`"
+      size="large"
+      fullscreen
+    />
     
     <!-- Error State -->
     <div v-else-if="error" class="error-container">
@@ -95,6 +94,7 @@ import PropGrid from './components/PropGrid.vue';
 import PropEmptyState from './components/PropEmptyState.vue';
 import PropPagination from './components/PropPagination.vue';
 import FavoritesManager from './components/FavoritesManager.vue';
+import LoadingSpinner from './components/LoadingSpinner.vue';
 import { PROPS_GALLERY, PAGINATION, GRID_LAYOUT, ANIMATION } from './constants';
 
 // Constants
@@ -206,48 +206,6 @@ function reloadPage() {
   margin: 0 0 var(--space-10) 0; /* Increased from space-6 (24px) to space-10 (40px) */
   text-align: center;
   letter-spacing: -0.02em;
-}
-
-/* Loading State */
-.loading-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 60vh;
-  width: 100%;
-}
-
-.loading-content {
-  text-align: center;
-  padding: var(--space-8);
-}
-
-.loading-content h2 {
-  font-size: var(--text-2xl);
-  font-weight: var(--font-semibold);
-  color: var(--vp-c-text-1);
-  margin: var(--space-6) 0 var(--space-2) 0;
-}
-
-.loading-content p {
-  font-size: var(--text-base);
-  color: var(--vp-c-text-2);
-  margin: 0;
-}
-
-/* Spinner Animation */
-.spinner {
-  margin: 0 auto;
-  width: 50px;
-  height: 50px;
-  border: 4px solid var(--vp-c-divider);
-  border-top-color: var(--vp-c-brand-1);
-  border-radius: 50%;
-  animation: spin 0.8s linear infinite;
-}
-
-@keyframes spin {
-  to { transform: rotate(360deg); }
 }
 
 /* Error State */

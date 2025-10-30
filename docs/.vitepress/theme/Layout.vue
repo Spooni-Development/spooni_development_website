@@ -3,6 +3,8 @@ import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { nextTick, provide } from 'vue'
 import { useLazyImages } from './composables/useLazyImages'
+import Breadcrumbs from './components/Breadcrumbs.vue'
+import ScrollToTop from './components/ScrollToTop.vue'
 
 const { isDark } = useData()
 
@@ -45,7 +47,12 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 </script>
 
 <template>
-  <DefaultTheme.Layout />
+  <DefaultTheme.Layout>
+    <template #doc-before>
+      <Breadcrumbs />
+    </template>
+  </DefaultTheme.Layout>
+  <ScrollToTop />
 </template>
 
 <style>

@@ -23,6 +23,9 @@ export function usePropCategories(propData: Prop[] | Ref<Prop[]>): {
     const data = unref(propData);
     
     data.forEach((prop: Prop): void => {
+      // Skip props without category
+      if (!prop.category) return;
+      
       if (!categoryMap.has(prop.category)) {
         categoryMap.set(prop.category, {
           name: prop.category,

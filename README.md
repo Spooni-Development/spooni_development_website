@@ -2,8 +2,9 @@
 
 > The official website for SPOONI Development – A modern, comprehensive platform for RedM resources, documentation, community, and services, built with VitePress.
 
-[![VitePress](https://img.shields.io/badge/VitePress-1.4.0-646cff?style=flat-square&logo=vite)](https://vitepress.dev/)
+[![VitePress](https://img.shields.io/badge/VitePress-1.6.4-646cff?style=flat-square&logo=vite)](https://vitepress.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3-4fc08d?style=flat-square&logo=vue.js)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-GPL--3.0-orange?style=flat-square)](./LICENSE)
 
 ## 🎯 What is this?
@@ -12,10 +13,11 @@ This is the official website for **SPOONI Development** – a team specializing 
 
 - 📚 **Documentation** – Comprehensive guides for 100+ mappings across all RDR2 regions and detailed script documentation
 - 🎨 **Props Gallery** – Interactive gallery with 15,000+ searchable game assets
+- 🌐 **Live Status** – Real-time server status monitoring for all SPOONI servers and external services
 - 👥 **Team Showcase** – Meet our developers, mappers, and artists
 - 🤝 **Partner Network** – Showcasing our community partners across multiple tiers
 - 🛠️ **Services** – Information about our development and mapping services
-- 📖 **Knowledge Base** – Detailed guides and tutorials for RedM development
+- 📖 **Knowledge Base** – Detailed guides, crash codes, and tutorials for RedM development
 
 **Why VitePress?** It's lightning-fast, markdown-based, and incredibly flexible. Perfect for building a modern web presence that combines documentation, galleries, and dynamic content – all without a complex CMS.
 
@@ -30,15 +32,32 @@ A fully-featured, searchable gallery of 15,000+ props with:
 - Fully responsive design (mobile, tablet, desktop)
 - Efficient pagination and filtering system
 
+### 🌐 **Live Server Status Page**
+Real-time monitoring of all SPOONI servers with:
+- Live RedM/FiveM server status checks
+- Player count and max players display
+- Multiple API endpoint fallbacks for reliability
+- External service status (CFX Services, Discord)
+- Component-level status tracking with incidents
+- Beautiful, responsive status cards
+
+### 🧭 **Enhanced Navigation**
+Modern navigation features for better UX:
+- Breadcrumb navigation for hierarchical content
+- Scroll-to-top button for long pages
+- Smart routing and page transitions
+- Optimized image lazy loading throughout the site
+
 ### 📱 **Responsive Design**
 Works beautifully on all devices – from mobile phones to ultra-wide monitors. Dark mode included with smooth animations.
 
 ### ⚡ **Lightning Fast**
 Built with Vite, the site loads instantly. Static generation means no server processing – just pure speed. Optimized with:
 - WebP image format for smaller file sizes
-- Custom font loading strategy
+- Preloaded critical fonts (Space Grotesk, Space Mono)
 - Code splitting and lazy loading
 - Efficient caching strategies
+- Optimized bundle sizes
 
 ### 🎨 **Easy Content Management**
 All content is written in Markdown – from documentation to team profiles and partner showcases. No database, no complex backend – just create a `.md` file and you're done.
@@ -50,6 +69,8 @@ Local search functionality lets users find any information instantly across all 
 - Tabbed content for organized information
 - Custom Vue components for rich interactivity
 - Embedded videos and media support
+- Live server status indicators
+- Dynamic loading states
 
 ## 🚀 Quick Start
 
@@ -117,8 +138,18 @@ docs/
 ├── .vitepress/
 │   ├── config.mts              # Site configuration
 │   ├── theme/
-│   │   ├── components/         # Vue components (PropCard, PropGrid, etc.)
+│   │   ├── components/         # Vue components
+│   │   │   ├── Breadcrumbs.vue     # Navigation breadcrumbs
+│   │   │   ├── ScrollToTop.vue     # Scroll-to-top button
+│   │   │   ├── ServerStatus.vue    # Live server status widget
+│   │   │   ├── LoadingSpinner.vue  # Standardized loading state
+│   │   │   ├── PropCard.vue        # Props gallery card
+│   │   │   ├── PropGrid.vue        # Props gallery grid
+│   │   │   └── ... (more components)
 │   │   ├── composables/        # Reusable composition functions
+│   │   │   ├── useLazyImages.ts    # Image lazy loading
+│   │   │   ├── usePropData.ts      # Props data management
+│   │   │   └── ... (more composables)
 │   │   ├── styles/             # Modular CSS architecture
 │   │   │   ├── design-tokens.css   # Design system tokens
 │   │   │   ├── variables.css       # VitePress theme variables
@@ -128,6 +159,7 @@ docs/
 │   │   ├── utils/              # Helper functions
 │   │   ├── fonts.css           # Custom font definitions
 │   │   ├── index.ts            # Theme entry point
+│   │   ├── Layout.vue          # Custom layout with enhancements
 │   │   └── PropGallery.vue     # Main props gallery component
 │   └── dist/                   # Build output (git-ignored)
 ├── doc_mappings/               # Mapping documentation (100+ locations)
@@ -136,6 +168,9 @@ docs/
 ├── partner.md                  # Partner network (Tier 1, Tier 2, Dev)
 ├── service.md                  # Services offered
 ├── props.md                    # Props gallery page
+├── status.md                   # Live server & service status page
+├── crashes.md                  # RedM crash codes reference
+├── docs.md                     # Documentation overview
 ├── index.md                    # Homepage
 └── public/                     # Static assets
     ├── fonts/                  # Custom web fonts (Space Grotesk, Space Mono)
@@ -170,11 +205,13 @@ This project is licensed under the **GNU General Public License v3.0** – see t
 - **Organization**: [SPOONI Development](https://github.com/Spooni-Development)
 
 ### Built with
-- [VitePress](https://vitepress.dev/) – Vue-powered static site generator
-- [Vue.js 3](https://vuejs.org/) – JavaScript framework
-- [Vite](https://vitejs.dev/) – Build tool
+- [VitePress 1.6.4](https://vitepress.dev/) – Vue-powered static site generator
+- [Vue.js 3](https://vuejs.org/) – JavaScript framework with Composition API
+- [TypeScript 5.7](https://www.typescriptlang.org/) – Type-safe development
+- [Vite](https://vitejs.dev/) – Next-generation build tool
 - [vitepress-plugin-tabs](https://www.npmjs.com/package/vitepress-plugin-tabs) – Tab functionality
-- [medium-zoom](https://github.com/francoischalifour/medium-zoom) – Image zoom
+- [medium-zoom](https://github.com/francoischalifour/medium-zoom) – Image zoom functionality
+- [Fuse.js](https://fusejs.io/) – Fuzzy search library
 
 ### Special Thanks
 - **[Jump on Studios](https://www.jumpon-studios.com/)** – For the initial idea and code foundation of the Props Gallery component, as well as introducing us to the tabs plugin

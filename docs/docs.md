@@ -54,6 +54,7 @@ If you encounter any issues or have questions:
 
 - [Tebex Store](https://spooni-mapping.tebex.io/) - Browse and purchase products
 - [Props Database](/props) - View our custom props
+- [Server Status](/status) - Live server & service status
 - [Server Service](/service) - Professional server setup assistance
 - [Our Team](/team) - Meet the developers
 
