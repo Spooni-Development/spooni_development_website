@@ -40,7 +40,6 @@ export function usePropData(selectedCategory: Ref<string>): {
       }
     } catch (e) {
       error.value = e instanceof Error ? e : new Error(String(e));
-      console.error(`Failed to load prop data for category "${category}":`, e);
       propData.value = [];
     } finally {
       isLoading.value = false;

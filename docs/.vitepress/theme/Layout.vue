@@ -2,8 +2,12 @@
 import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { nextTick, provide } from 'vue'
+import { useLazyImages } from './composables/useLazyImages'
 
 const { isDark } = useData()
+
+// Enable lazy loading for all images (especially partner/team logos)
+useLazyImages()
 
 const enableTransitions = () =>
   'startViewTransition' in document &&

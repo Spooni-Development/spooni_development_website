@@ -8,35 +8,35 @@ head:
       content: RedM crash codes, FXServer errors, server crash, RedM troubleshooting, pool limits, YTYP error, YDR corruption, RedM debugging, RDR2 server fixes, object pool overflow
 ---
 
-# 🔧 RedM Crash Codes & Solutions
+# RedM Crash Codes
 
 This comprehensive guide helps you identify and resolve common RedM crashes. Understanding these error codes can save you hours of debugging.
 
-## 📋 Quick Reference
+## Quick Reference
 
 | Crash Code | Category | Description |
 |------------|----------|-------------|
-| `0x496AC5DF:961` | 📊 Pool Limits | Object pool overflow (3000 objects limit) |
-| `0x9952DB5E:212` | 📊 Pool Limits | YTYP error or object pool full (990 YDR max) |
-| `0x2914FEF:439` | 📊 Pool Limits | Pool allocation error (too many files) |
-| `RDR2_b1491.exe!sub_140E89DBC (0x4d4)` | 📊 Pool Limits | ItemSet pool limit exceeded (400 max) |
-| `0x6263F616:223` | 📊 Pool Limits | MLO portal limit exceeded |
-| `0x5C385C12:2130` | 📁 File Corruption | Corrupted YDR file |
-| `0x9B8D153B:581` | 📁 File Corruption | Corrupt YTYP file (particle effect) |
-| `RDR2_b1491.exe!sub_142E835C0 (0xe)` | 📁 File Corruption | Damaged texture file (YTD) |
-| `RDR2_b1491.exe!sub_142B925B0 (0x72)` | 📁 File Corruption | Damaged YTYP file |
-| `RDR2_b1491.exe!._ZN4rage14fwMapDataStore13FinishLoadingENS_13strLocalIndexERNS_22fwPsoStoreLoadInstanceE (0x68)` | 📁 File Corruption | Damaged YMAP file |
-| `0x1F045E58:441` | ⚙️ Configuration | File added without restart or broken YDR |
-| `0x840C4442:762` | ⚙️ Configuration | Incompatible mod loaded |
-| `RDR2_b1491.exe!sub_140E35DF0 (0x1e1)` | ⚙️ Configuration | Inconsistent object information |
-| `RDR2_b1491.exe!sub_142597CD4 (0x7e)` | ⚙️ Configuration | Empty YMAP file loaded |
-| `RDR2_b1491.exe!?Entities_Create@fwMapDataContents@rage@@S?_PPAVfwMapData@rage@@PAVfwMapDataContents@Entities_Create@@H@Z (0x10a)` | ⚙️ Configuration | Too many door extensions |
-| `ERR_GFX_STATE` | 🎨 Graphics | Graphics driver issue or GPU overheating |
-| `RDR2_b1491.exe!sub_142B27784 (0x4a, 0x3f)` | 🌍 Environment | Faulty time cycle |
-| `RDR2_b1491.exe!sub_142B8E35C (0x1d3)` | 🌍 Environment | YBN artifact issue (Blender 3) |
-| `0x16634BF9:435` | ❓ Unknown | No specific information available |
+| `0x496AC5DF:961` | Pool Limits | Object pool overflow (3000 objects limit) |
+| `0x9952DB5E:212` | Pool Limits | YTYP error or object pool full (990 YDR max) |
+| `0x2914FEF:439` | Pool Limits | Pool allocation error (too many files) |
+| `RDR2_b1491.exe!sub_140E89DBC (0x4d4)` | Pool Limits | ItemSet pool limit exceeded (400 max) |
+| `0x6263F616:223` | Pool Limits | MLO portal limit exceeded |
+| `0x5C385C12:2130` | File Corruption | Corrupted YDR file |
+| `0x9B8D153B:581` | File Corruption | Corrupt YTYP file (particle effect) |
+| `RDR2_b1491.exe!sub_142E835C0 (0xe)` | File Corruption | Damaged texture file (YTD) |
+| `RDR2_b1491.exe!sub_142B925B0 (0x72)` | File Corruption | Damaged YTYP file |
+| `RDR2_b1491.exe!._ZN4rage14fwMapDataStore13FinishLoadingENS_13strLocalIndexERNS_22fwPsoStoreLoadInstanceE (0x68)` | File Corruption | Damaged YMAP file |
+| `0x1F045E58:441` | Configuration | File added without restart or broken YDR |
+| `0x840C4442:762` | Configuration | Incompatible mod loaded |
+| `RDR2_b1491.exe!sub_140E35DF0 (0x1e1)` | Configuration | Inconsistent object information |
+| `RDR2_b1491.exe!sub_142597CD4 (0x7e)` | Configuration | Empty YMAP file loaded |
+| `RDR2_b1491.exe!?Entities_Create@fwMapDataContents@rage@@S?_PPAVfwMapData@rage@@PAVfwMapDataContents@Entities_Create@@H@Z (0x10a)` | Configuration | Too many door extensions |
+| `ERR_GFX_STATE` | Graphics | Graphics driver issue or GPU overheating |
+| `RDR2_b1491.exe!sub_142B27784 (0x4a, 0x3f)` | Environment | Faulty time cycle |
+| `RDR2_b1491.exe!sub_142B8E35C (0x1d3)` | Environment | YBN artifact issue (Blender 3) |
+| `0x16634BF9:435` | Unknown | No specific information available |
 
-## 📊 Pool & Resource Limits
+## Pool & Resource Limits
 
 These crashes occur when you exceed RedM's built-in resource limits.
 
@@ -94,7 +94,7 @@ These crashes occur when you exceed RedM's built-in resource limits.
 - Optimize portal placement in existing MLOs
 :::
 
-## 📁 File Corruption Errors
+## File Corruption Errors
 
 These crashes are caused by corrupted or malformed files.
 
@@ -143,7 +143,7 @@ These crashes are caused by corrupted or malformed files.
 - Re-export the YMAP from CodeWalker
 :::
 
-## ⚙️ Configuration & Loading Errors
+## Configuration & Loading Errors
 
 Issues related to server configuration and resource loading.
 
@@ -192,7 +192,7 @@ Issues related to server configuration and resource loading.
 - Use alternative methods for door management
 :::
 
-## 🎨 Rendering & Graphics Errors
+## Rendering & Graphics Errors
 
 Crashes related to graphics and rendering issues.
 
@@ -207,7 +207,7 @@ Crashes related to graphics and rendering issues.
 - Clean dust from GPU fans
 :::
 
-## 🌍 World & Environment Errors
+## World & Environment Errors
 
 Issues with world data and environmental systems.
 
@@ -232,7 +232,7 @@ Issues with world data and environmental systems.
 - Recreate collision files with proper settings
 :::
 
-## ❓ Unknown / Unresolved Errors
+## Unknown / Unresolved Errors
 
 :::details 0x16634BF9:435 - Unknown Error
 **Problem:** No specific information available for this crash code.
@@ -242,7 +242,7 @@ Issues with world data and environmental systems.
 - Review server logs for additional context
 - Join the [SPOONI Discord](https://discord.gg/spooni) for community support
 :::
-## 🆘 Additional Help
+## Additional Help
 
 If you continue experiencing crashes after trying these solutions:
 

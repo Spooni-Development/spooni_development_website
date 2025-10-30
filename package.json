@@ -29,10 +29,6 @@
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
   },
-  "overrides": {
-    "vite": "^5.4.20",
-    "esbuild": "^0.25.0"
-  },
   "devDependencies": {
     "sharp": "^0.34.4",
     "typescript": "^5.7.0",
@@ -48,7 +44,6 @@
     "type-check:watch": "vue-tsc --noEmit --watch"
   },
   "dependencies": {
-    "@algolia/requester-node-http": "^5.15.0",
     "fuse.js": "^7.1.0",
     "medium-zoom": "^1.1.0"
   }

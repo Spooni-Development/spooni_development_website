@@ -19,9 +19,35 @@ head:
 
 .partnership-tiers-title {
   text-align: center;
-  font-size: 2em;
+  font-size: 32px;
   font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 40px;
   margin-bottom: 30px;
+  color: var(--vp-c-brand-1);
+  position: relative;
+}
+
+.partnership-tiers-title .header-anchor {
+  display: inline-block;
+  margin-right: 0.3em;
+  font-size: 0.85em;
+  opacity: 0;
+  transition: opacity 0.25s;
+  text-decoration: none;
+  color: var(--vp-c-brand-1);
+}
+
+.partnership-tiers-title span {
+  display: inline-block;
+}
+
+.partnership-tiers-title .header-anchor:before {
+  content: "#";
+}
+
+.partnership-tiers-title:hover .header-anchor {
+  opacity: 1;
 }
 
 .partnership-tiers-table {
@@ -60,6 +86,28 @@ head:
   text-align: center;
 }
 
+.partnership-tiers-table .section-header {
+  font-weight: 700;
+  font-size: 1.1em;
+  padding: 16px 12px 12px;
+}
+
+.partnership-tiers-table .section-header.benefits {
+  padding-top: 24px;
+}
+
+.partnership-tiers-table .bundle-note {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9em;
+  color: var(--vp-c-text-2);
+  padding: 12px;
+}
+
+.partnership-tiers-table .bundle-note-row {
+  border-bottom: none;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .partnership-tiers-wrapper {
@@ -68,7 +116,14 @@ head:
   }
   
   .partnership-tiers-title {
-    font-size: 1.5em;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 24px;
+  }
+
+  .partnership-tiers-title .header-anchor {
+    margin-right: 0.2em;
+    font-size: 0.8em;
   }
   
   .partnership-tiers-table {
@@ -78,6 +133,42 @@ head:
   .partnership-tiers-table th,
   .partnership-tiers-table td {
     padding: 8px 6px;
+  }
+
+  .partnership-tiers-table .section-header {
+    font-size: 1em;
+    padding: 12px 6px 8px;
+  }
+
+  .partnership-tiers-table .section-header.benefits {
+    padding-top: 20px;
+  }
+
+  .partnership-tiers-table .bundle-note {
+    font-size: 0.85em;
+    padding: 10px 6px;
+  }
+}
+
+/* Small mobile devices */
+@media (max-width: 480px) {
+  .partnership-tiers-wrapper {
+    margin: 30px auto 20px;
+  }
+
+  .partnership-tiers-title {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 20px;
+  }
+
+  .partnership-tiers-table {
+    font-size: 0.8em;
+  }
+
+  .partnership-tiers-table th,
+  .partnership-tiers-table td {
+    padding: 6px 4px;
   }
 }
 </style>
@@ -860,7 +951,10 @@ head:
 </VPTeamPage>
 
 <div class="partnership-tiers-wrapper">
-    <h2 class="partnership-tiers-title">Partner Program</h2>
+    <h2 id="partner-program" class="partnership-tiers-title">
+        <a class="header-anchor" href="#partner-program" aria-label="Permalink to &quot;Partner Program&quot;"></a>
+        <span>Partner Program</span>
+    </h2>
     <table class="partnership-tiers-table">
         <thead>
             <tr>
@@ -871,7 +965,7 @@ head:
         </thead>
         <tbody>
             <tr>
-                <td colspan="3" style="font-weight: 700; font-size: 1.1em; padding: 16px 12px 12px;">Requirements</td>
+                <td colspan="3" class="section-header">Requirements</td>
             </tr>
             <tr>
                 <td>Discord Members</td>
@@ -883,11 +977,11 @@ head:
                 <td>Min. 50%</td>
                 <td>Min. 80%</td>
             </tr>
-            <tr style="border-bottom: none;">
-                <td colspan="3" style="text-align: center; font-style: italic; font-size: 0.9em; color: var(--vp-c-text-2); padding: 12px;">Or purchase a large bundle</td>
+            <tr class="bundle-note-row">
+                <td colspan="3" class="bundle-note">Or purchase a large bundle</td>
             </tr>
             <tr>
-                <td colspan="3" style="font-weight: 700; font-size: 1.1em; padding: 24px 12px 12px;">Benefits</td>
+                <td colspan="3" class="section-header benefits">Benefits</td>
             </tr>
             <tr>
                 <td>Early Access for Certain Mappings</td>

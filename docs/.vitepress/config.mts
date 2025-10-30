@@ -23,9 +23,10 @@ export default defineConfig({
     ["link",{ rel: "preconnect", href: "https://spooni.de" }],
     ["link",{ rel: "dns-prefetch", href: "https://spooni.de" }],
     // Preload critical fonts for better performance
-    ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
-    ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v16-latin-700.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
-    ["link",{ rel: "preload", href: "/fonts/space-mono/space-mono-v13-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
+    ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v22-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
+    ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v22-latin-500.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
+    ["link",{ rel: "preload", href: "/fonts/space-grotesk/space-grotesk-v22-latin-700.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
+    ["link",{ rel: "preload", href: "/fonts/space-mono/space-mono-v17-latin-regular.woff2", as: "font", type: "font/woff2", crossorigin: "" }],
     
     // SEO Meta Tags
     ["meta", { name: "keywords", content: "RedM, Red Dead Redemption 2, RDR2, RedM scripts, RedM mappings, MLO, roleplay, FiveM, RedM mods, spooni, RedM resources, RDR2 roleplay, custom props, RedM development" }],

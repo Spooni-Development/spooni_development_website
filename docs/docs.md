@@ -8,11 +8,11 @@ head:
       content: RedM documentation, RedM installation guide, RedM script tutorial, MLO setup, VORP setup, RSG setup, RedM configuration, SPOONI guides
 ---
 
-# 👋 Welcome to SPOONI Documentation
+# Welcome to SPOONI Documentation
 
 Welcome to the official SPOONI Development documentation. Here you'll find comprehensive guides, installation instructions, and configuration examples for all our mappings and scripts.
 
-## 📚 What You'll Find Here
+## What You'll Find Here
 
 This documentation contains detailed information about:
 
@@ -23,7 +23,7 @@ This documentation contains detailed information about:
 
 Use the **sidebar navigation** to explore our products, or use the **search function** at the top to quickly find what you're looking for.
 
-## 🛠️ Quick Start
+## Quick Start
 
 Getting started with SPOONI products is easy:
 
@@ -35,13 +35,13 @@ Getting started with SPOONI products is easy:
 
 For detailed installation instructions, refer to the specific product documentation in the sidebar.
 
-## 🎮 Try Before You Buy
+## Try Before You Buy
 
 Join our **Showcase Server** to test all our mappings and scripts in action:
 
 <a href="redm://connect/51.77.90.75:30120" class="button-buy">Connect Now</a>
 
-## 🆘 Need Help?
+## Need Help?
 
 If you encounter any issues or have questions:
 
@@ -50,7 +50,7 @@ If you encounter any issues or have questions:
 - **Documentation** - Use the search or browse the sidebar for guides
 - **Interactive Map** - Explore our mappings on our [interactive map](https://spooni.de/rdr2/)
 
-## 🚀 Additional Resources
+## Additional Resources
 
 - [Tebex Store](https://spooni-mapping.tebex.io/) - Browse and purchase products
 - [Props Database](/props) - View our custom props
