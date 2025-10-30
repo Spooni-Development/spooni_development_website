@@ -197,22 +197,10 @@ function getStatusIcon(status) {
   text-transform: capitalize;
 }
 
-.status-badge span:first-child {
-  display: inline-block;
-  width: 18px;
-  height: 18px;
-  flex-shrink: 0;
-}
-
 .status-operational {
   background: rgba(16, 185, 129, 0.15);
   color: #10b981;
   border: none;
-}
-
-.status-operational span:first-child {
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2310b981' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'%3E%3C/polyline%3E%3C/svg%3E") no-repeat center;
-  background-size: contain;
 }
 
 .status-degraded {
@@ -337,15 +325,6 @@ function getStatusIcon(status) {
   white-space: nowrap;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-}
-
-.component-status::before {
-  content: '';
-  display: inline-block;
-  width: 14px;
-  height: 14px;
-  flex-shrink: 0;
 }
 
 .component-status.operational {
@@ -354,10 +333,6 @@ function getStatusIcon(status) {
   border: none;
 }
 
-.component-status.operational::before {
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2310b981' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'%3E%3C/polyline%3E%3C/svg%3E") no-repeat center;
-  background-size: contain;
-}
 
 .component-status.degraded {
   background: rgba(245, 158, 11, 0.15);
@@ -519,7 +494,7 @@ function getStatusIcon(status) {
 <div class="status-grid">
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">Showcase Server</h3>
+<h3 class="status-card-title">Showcase</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
@@ -529,7 +504,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">Spooni Dev</h3>
+<h3 class="status-card-title">Development</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
@@ -539,7 +514,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">Spooni Mapping</h3>
+<h3 class="status-card-title">Mapping</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
@@ -549,7 +524,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">Spooni Mapping 2</h3>
+<h3 class="status-card-title">Mapping 2</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
@@ -559,7 +534,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">Spooni RSG</h3>
+<h3 class="status-card-title">RSG</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
@@ -569,7 +544,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">Spooni FiveM</h3>
+<h3 class="status-card-title">FiveM</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
@@ -587,11 +562,9 @@ function getStatusIcon(status) {
 <div class="status-card-header">
 <h3 class="status-card-title">CFX Services</h3>
 <div v-if="!isLoadingExternal" class="status-badge" :class="getStatusClass(cfxStatus.status)">
-<span>{{ getStatusIcon(cfxStatus.status) }}</span>
 <span>{{ cfxStatus.status === 'operational' || cfxStatus.status === 'none' ? 'Operational' : cfxStatus.status.replace('_', ' ') }}</span>
 </div>
 <div v-else class="status-badge status-unknown">
-<span>...</span>
 <span>Checking</span>
 </div>
 </div>
@@ -623,11 +596,9 @@ function getStatusIcon(status) {
 <div class="status-card-header">
 <h3 class="status-card-title">Discord</h3>
 <div v-if="!isLoadingExternal" class="status-badge" :class="getStatusClass(discordStatus.status)">
-<span>{{ getStatusIcon(discordStatus.status) }}</span>
 <span>{{ discordStatus.status === 'operational' || discordStatus.status === 'none' ? 'Operational' : discordStatus.status.replace('_', ' ') }}</span>
 </div>
 <div v-else class="status-badge status-unknown">
-<span>...</span>
 <span>Checking</span>
 </div>
 </div>
