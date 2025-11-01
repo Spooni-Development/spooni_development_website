@@ -127,6 +127,7 @@ export default defineConfig({
           { text: "Ambarino", collapsed: true, items:[
             {text: "🔸Hobbit House", link:'/doc_mappings/ambarino/spooni_hobbit_house'},
             {text: "🔸Moonstone Pond", link:'/doc_mappings/ambarino/spooni_moonstone_pond'},
+            {text: "🔸Nordheim", link:'/doc_mappings/ambarino/spooni_nordheim'},
             {text: "🔸Wapiti", link:'/doc_mappings/ambarino/spooni_wapiti'},
           ]},
 
@@ -257,7 +258,6 @@ export default defineConfig({
             {text: "🔸Guarma", link:'/doc_mappings/other/spooni_guarma'},
             {text: "🔸Lodges East Pack", link:'/doc_mappings/other/spooni_lodges_east_pack'},
             {text: "🔸Lodges West Pack", link:'/doc_mappings/other/spooni_lodges_west_pack'},
-            {text: "🔸Nordheim", link:'/doc_mappings/other/spooni_nordheim'},
             {text: "🔸Railroad", link:'/doc_mappings/other/spooni_railroad'},
             {text: "🔸Secret Cellar", link:'/doc_mappings/other/spooni_secretcellar'},
           ]},
