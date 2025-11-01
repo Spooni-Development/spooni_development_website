@@ -257,6 +257,7 @@ export default defineConfig({
             {text: "🔸Guarma", link:'/doc_mappings/other/spooni_guarma'},
             {text: "🔸Lodges East Pack", link:'/doc_mappings/other/spooni_lodges_east_pack'},
             {text: "🔸Lodges West Pack", link:'/doc_mappings/other/spooni_lodges_west_pack'},
+            {text: "🔸Nordheim", link:'/doc_mappings/other/spooni_nordheim'},
             {text: "🔸Railroad", link:'/doc_mappings/other/spooni_railroad'},
             {text: "🔸Secret Cellar", link:'/doc_mappings/other/spooni_secretcellar'},
           ]},

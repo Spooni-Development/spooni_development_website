@@ -632,4 +632,3 @@ function getStatusIcon(status) {
 <p>Status checks update automatically every 60 seconds for servers and 5 minutes for external services.</p>
 </div>
 </div>
-
