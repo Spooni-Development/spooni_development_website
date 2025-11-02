@@ -347,6 +347,10 @@ export default defineConfig({
             if (id.includes('node_modules/medium-zoom')) {
               return 'medium-zoom-vendor'
             }
+            // Fuse.js in separate chunk
+            if (id.includes('node_modules/fuse.js')) {
+              return 'fuse-vendor'
+            }
             // VitePress Tabs Plugin
             if (id.includes('node_modules/vitepress-plugin-tabs')) {
               return 'vitepress-tabs-vendor'
