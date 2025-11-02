@@ -35,7 +35,7 @@ h1 {
 
 /* Hero: "SPOONI" keeps gradient, "Development" in off-white */
 .VPHero .text {
-  color: #deded6 !important;
+  color: var(--vp-c-text-1) !important;
   background: none !important;
 }
 
@@ -81,7 +81,7 @@ h1 {
   background-color: transparent !important;
 }
 
-/* Feature icons color - matches "Development" text in hero (#deded6) in dark mode */
+/* Feature icons color - Dark Mode: #dfdfd6 */
 .VPFeature .vp-icon img,
 .VPFeature .icon img,
 .VPFeature img[src*="/icons/"],
@@ -90,12 +90,12 @@ h1 {
 .vp-feature img[src*="/icons/"],
 .VPFeatures .vp-icon img,
 .VPFeatures img[src*="/icons/"] {
-  /* Convert black to #deded6 (off-white) for dark mode */
-  filter: brightness(0) saturate(100%) invert(93%) sepia(5%) saturate(234%) hue-rotate(360deg) brightness(97%) contrast(88%) !important;
-  opacity: 0.95 !important;
+  /* Convert black to #dfdfd6 (RGB: 223, 223, 214) for dark mode */
+  filter: brightness(0) saturate(100%) invert(87.5%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(109%) contrast(87%) !important;
+  opacity: 1 !important;
 }
 
-/* Light mode: darker icons (#2c3e50) for better contrast */
+/* Feature icons color - Light Mode: #3c3c43 */
 html:not(.dark) .VPFeature .vp-icon img,
 html:not(.dark) .VPFeature .icon img,
 html:not(.dark) .VPFeature img[src*="/icons/"],
@@ -104,8 +104,8 @@ html:not(.dark) .vp-feature .icon img,
 html:not(.dark) .vp-feature img[src*="/icons/"],
 html:not(.dark) .VPFeatures .vp-icon img,
 html:not(.dark) .VPFeatures img[src*="/icons/"] {
-  /* Convert to dark gray #2c3e50 for light mode */
-  filter: brightness(0) saturate(100%) invert(21%) sepia(14%) saturate(1017%) hue-rotate(162deg) brightness(96%) contrast(93%) !important;
+  /* Convert black to #3c3c43 (RGB: 60, 60, 67) for light mode */
+  filter: brightness(0) saturate(100%) invert(23.5%) sepia(3%) saturate(0%) hue-rotate(240deg) brightness(94%) contrast(88%) !important;
   opacity: 1 !important;
 }
 
