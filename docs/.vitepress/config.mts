@@ -13,10 +13,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   lang: 'en-US',
-  
-  // Disable Google Fonts (GDPR compliant)
   useWebFonts: false,
-  
   head: [
     ["link",{ rel: "icon", sizes: "64x64", href: "/spooni.webp", loading: "lazy" }],
     // Preconnect to external domains for faster loading
@@ -45,12 +42,12 @@ export default defineConfig({
     ["meta", { name: "twitter:creator", content: "@spooni.development" }],
     
     // Canonical URL - will be overridden per page
-    ["link", { rel: "canonical", href: "https://spooni.pages.dev/" }],
+    ["link", { rel: "canonical", href: "https://spooni.de/" }],
   ],
   
   // Transform page data for dynamic meta tags
   async transformPageData(pageData) {
-    const canonicalUrl = `https://spooni.pages.dev${pageData.relativePath.replace(/\.md$/, '.html').replace(/index\.html$/, '')}`
+    const canonicalUrl = `https://spooni.de${pageData.relativePath.replace(/\.md$/, '.html').replace(/index\.html$/, '')}`
     
     // Set default meta if not provided
     if (!pageData.frontmatter.head) pageData.frontmatter.head = []
@@ -149,7 +146,6 @@ export default defineConfig({
               {text: "🔸Doctor", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_doctor'},
               {text: "🔸Farming", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_farming'},
               {text: "🔸Fight Club", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_fight_club'},
-              // {text: "🔸Furniture", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_furniture'},
               {text: "🔸General Store", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_general_store'},
               {text: "🔸Hotel La Licorne", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_hotel_licorne'},
               {text: "🔸Jeweler", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_jeweler'},
@@ -157,14 +153,11 @@ export default defineConfig({
               {text: "🔸Palmist & Watchmaker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_palmist'},
               {text: "🔸Police", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_police'},
               {text: "🔸Promenade", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_promenade'},
-              // {text: "🔸Slums", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_slums'},
               {text: "🔸Spaldings", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_spaldings'},
               {text: "🔸Train Station", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_trainstation'},
               {text: "🔸Undertaker", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_undertaker'},
               {text: "🔸Villa 1", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_1'},
               {text: "🔸Villa 2, 3 & 4", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_2_3_4'},
-              // {text: "🔸Villa 5", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_villa_5'},
-              // {text: "🔸Warehouse", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_warehouse'},
               {text: "🔸Ped Store", link:'/doc_mappings/lemoyne/saint-denis/spooni_sd_whisker_in_the_jar'},
             ]},
             {text: "🔸Bra Storage House", link:'/doc_mappings/lemoyne/spooni_bra_storage_house'},
@@ -269,7 +262,6 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: "Spooni", collapsed: false, items:[
-              // { text: "💀 Blackmarket", link:'/doc_scripts/spooni/spooni_blackmarket' },
               { text: "🎠 Attractions", link:'/doc_scripts/spooni/spooni_attractions' }, 
               { text: "🏠 Build my Home", link:'/doc_scripts/spooni/spooni_build_my_home' }, 
               { text: "🎡 Ferris Wheel", link:'/doc_scripts/spooni/spooni_ferriswheel' },
@@ -278,8 +270,6 @@ export default defineConfig({
               { text: "🧩 Prop Loader", link:'/doc_scripts/spooni/spooni_prop_loader' },
               { text: "🎭 Theater & Cinema", link:'/doc_scripts/spooni/spooni_showtime' },
               { text: "🚁 Zeppelin", link:'/doc_scripts/spooni/spooni_zeppelin' },
-
-              // { text: "🎄 Xmas", link:'/doc_scripts/spooni/spooni_xmas' },
               { text: "Free Scripts", collapsed: true, items:[
                 { text: "💻 HUD", link:'/doc_scripts/spooni/spooni_hud' },
                 { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
@@ -299,19 +289,6 @@ export default defineConfig({
               { text: "🔫 Weapon Controller", link:'/doc_scripts/dietrich/spooni_weapon_controller' },
               { text: "🐎 Wildhorse", link:'/doc_scripts/dietrich/spooni_wildhorse' },
             ]},
-
-            // DrShwaggins scripts hidden from navigation (files preserved in doc_scripts/drshwaggins/)
-            // { text: "DrShwaggins", collapsed: true, items:[
-            //   { text: "💵 Billing", link:'/doc_scripts/drshwaggins/dl_advancedbilling' },
-            //   { text: "🏪 Stores", link:'/doc_scripts/drshwaggins/dl_advancedstores' },
-            //   { text: "🎥 Cutscenes", link:'/doc_scripts/drshwaggins/dl_cutscenes' },
-            //   { text: "💾 DB Backup", link:'/doc_scripts/drshwaggins/dl_dbbackup' },
-            //   { text: "🍊 Farmroutes", link:'/doc_scripts/drshwaggins/dl_farmroutes' },
-            //   { text: "🪓 Lumberjack", link:'/doc_scripts/drshwaggins/dl_lumberjack' },
-            //   { text: "🧮 Society", link:'/doc_scripts/drshwaggins/dl_society' },
-            //   { text: "📦 Storages", link:'/doc_scripts/drshwaggins/dl_storages' },
-            //   { text: "⚔️ Whitelist", link:'/doc_scripts/drshwaggins/dl_questionwhitelist' },
-            // ]},
           ]
       },
     ],

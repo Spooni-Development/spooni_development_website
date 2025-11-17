@@ -152,6 +152,14 @@ head:
                 { icon: 'discord', link: 'https://discordapp.com/users/221575559526875136/' },
             ]
         },
+        {
+            avatar: '/icons/user.svg',
+            name: 'LeFruJohn',
+            title: 'External Developer',
+            links: [
+                { icon: 'discord', link: 'https://discord.com/users/893217081900802101' },
+            ]
+        },
     ]
 
     const mapper = [

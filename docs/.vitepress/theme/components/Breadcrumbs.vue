@@ -2,21 +2,19 @@
   <nav v-if="breadcrumbs.length > 1" class="breadcrumbs" aria-label="Breadcrumb">
     <ol class="breadcrumb-list">
       <li v-for="(crumb, index) in breadcrumbs" :key="index" class="breadcrumb-item">
-        <a 
-          v-if="index < breadcrumbs.length - 1" 
-          :href="crumb.link" 
-          class="breadcrumb-link"
-          :class="{ 'is-home': index === 0 }"
-        >
-          <svg v-if="index === 0" class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
-            <polyline points="9 22 9 12 15 12 15 22"></polyline>
-          </svg>
-          <span v-else>{{ crumb.text }}</span>
-        </a>
-        <span v-else class="breadcrumb-current" aria-current="page">
-          {{ crumb.text }}
-        </span>
+        <template v-if="crumb.link">
+          <a :href="crumb.link" class="breadcrumb-link" :class="{ 'is-home': index === 0 }">
+            <svg v-if="index === 0" class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+              <polyline points="9 22 9 12 15 12 15 22"></polyline>
+            </svg>
+            <span v-else>{{ crumb.text }}</span>
+          </a>
+        </template>
+        <template v-else>
+          <span v-if="index < breadcrumbs.length - 1" class="breadcrumb-text">{{ crumb.text }}</span>
+          <span v-else class="breadcrumb-current" aria-current="page">{{ crumb.text }}</span>
+        </template>
         <svg v-if="index < breadcrumbs.length - 1" class="breadcrumb-separator" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <polyline points="9 18 15 12 9 6"></polyline>
         </svg>
@@ -31,7 +29,7 @@ import { useData } from 'vitepress';
 
 interface Breadcrumb {
   text: string;
-  link: string;
+  link?: string;
 }
 
 const { page, theme } = useData();
@@ -60,14 +58,18 @@ const breadcrumbs = computed<Breadcrumb[]>(() => {
       .join(' ');
     
     // Try to find better title from sidebar
+    let existsInSidebar = false;
     if (theme.value.sidebar) {
       const title = findTitleInSidebar(currentPath, theme.value.sidebar);
-      if (title) text = title;
+      if (title) {
+        text = title;
+        existsInSidebar = true;
+      }
     }
-    
+
     crumbs.push({
       text,
-      link: isLast ? '' : `/${currentPath}`
+      link: !isLast && existsInSidebar ? `/${currentPath}` : undefined
     });
   });
 
@@ -127,12 +129,36 @@ function findTitleInSidebar(path: string, sidebar: any): string | null {
 }
 
 .breadcrumb-link:hover {
-  color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-bg-soft);
+  color: inherit;
+  background-color: transparent;
+  transform: none;
 }
 
-.breadcrumb-link.is-home:hover {
-  transform: translateY(-1px);
+.breadcrumb-text {
+  color: var(--vp-c-text-2);
+  white-space: nowrap;
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-sm);
+  cursor: default;
+}
+
+.breadcrumb-text:hover {
+  color: inherit;
+  background-color: transparent;
+  transform: none;
+}
+
+.breadcrumb-text {
+  transition: all var(--transition-base);
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+}
+
+.breadcrumb-item:hover .breadcrumb-text {
+  color: inherit;
+  background-color: transparent;
+  transform: none;
 }
 
 .home-icon {

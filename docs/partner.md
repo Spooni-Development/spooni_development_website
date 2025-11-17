@@ -670,6 +670,30 @@ head:
             ]
         },
         {
+            avatar: '/partner/tier1/silent-falls.webp',
+            name: 'Silent Falls',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/7XGx6AVWdm' },
+            ]
+        },
+        {
+            avatar: '/partner/tier1/west-born.web',
+            name: 'West Born',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/Ss3uSHFF5Y' },
+            ]
+        },
+        {
+            avatar: '/partner/tier1/forsaken-frontier.webp',
+            name: 'Forsaken Frontier',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/WcSpun2AQc' },
+            ]
+        },
+        {
             avatar: '/partner/tier1/promised-land-reborn.webp',
             name: 'Promised Land Reborn',
             title: '💿 TIER I',
