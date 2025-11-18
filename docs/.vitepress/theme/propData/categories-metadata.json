@@ -1,9 +1,9 @@
 {
-  "totalProps": 14835,
+  "totalProps": 14867,
   "categories": [
     {
       "name": "Spooni Props",
-      "count": 258,
+      "count": 290,
       "subcategories": [
         {
           "name": "spooni bauteile",
@@ -56,6 +56,10 @@
         {
           "name": "spooni ship",
           "count": 2
+        },
+        {
+          "name": "spooni xmas",
+          "count": 32
         }
       ]
     },

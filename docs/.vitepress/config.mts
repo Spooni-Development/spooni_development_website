@@ -42,12 +42,12 @@ export default defineConfig({
     ["meta", { name: "twitter:creator", content: "@spooni.development" }],
     
     // Canonical URL - will be overridden per page
-    ["link", { rel: "canonical", href: "https://spooni.de/" }],
+    ["link", { rel: "canonical", href: "https://spooni.pages.dev/" }],
   ],
   
   // Transform page data for dynamic meta tags
   async transformPageData(pageData) {
-    const canonicalUrl = `https://spooni.de${pageData.relativePath.replace(/\.md$/, '.html').replace(/index\.html$/, '')}`
+    const canonicalUrl = `https://spooni.pages.dev${pageData.relativePath.replace(/\.md$/, '.html').replace(/index\.html$/, '')}`
     
     // Set default meta if not provided
     if (!pageData.frontmatter.head) pageData.frontmatter.head = []

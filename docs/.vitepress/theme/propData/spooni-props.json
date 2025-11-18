@@ -1030,5 +1030,133 @@
   {
     "id": "zaun1-1",
     "subcategory": "spooni bauteile"
+  },
+  {
+    "id": "rad_int_blanket01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_blanket02",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_curtain_rod",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_armoire",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_corner",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_fireplace",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_living",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_rags",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_room01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_room02",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_room03",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_rugs1",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_floor_rugs2",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_frames01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_kitchen_cloth",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_living_beams",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_living_bottles",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_living_cabinet",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_living_details01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_living_details02",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room01_decals002",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room01_decals03",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room01_detail01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room01_detail02",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_bottles01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_decals01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_floordetails02",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_frames01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_walldetals01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_webs01",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "rad_int_room03_webs02",
+    "subcategory": "spooni xmas"
+  },
+  {
+    "id": "spooni_xmastree01x",
+    "subcategory": "spooni xmas"
   }
 ]
