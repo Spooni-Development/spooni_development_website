@@ -1,4 +1,4 @@
-import { watch, ref, type Ref } from 'vue';
+import { watch, ref, onMounted, onUnmounted, type Ref } from 'vue';
 import type { Category } from '../types';
 
 interface UsePropDeepLinkOptions {
@@ -17,15 +17,23 @@ export function usePropDeepLink({
   selectedCategory,
   selectedSubcategory
 }: UsePropDeepLinkOptions): void {
-  const hasAppliedInitialState = ref(false);
+  const pendingCategory = ref<string>('all');
+  const pendingSubcategory = ref<string>('all');
+  const isMounted = ref(false);
 
-  function parseFromUrl(): void {
+  function readQueryFromUrl(): void {
     if (typeof window === 'undefined') return;
-    if (!categories.value.length) return;
 
     const url = new URL(window.location.href);
-    const catParam = url.searchParams.get('cat') ?? 'all';
-    const subParam = url.searchParams.get('sub') ?? 'all';
+    pendingCategory.value = url.searchParams.get('cat') ?? 'all';
+    pendingSubcategory.value = url.searchParams.get('sub') ?? 'all';
+  }
+
+  function applyPendingQuery(): void {
+    if (!categories.value.length) return;
+
+    const catParam = pendingCategory.value;
+    const subParam = pendingSubcategory.value;
 
     const isFavorites = catParam === 'favorites';
     const isValidCategory =
@@ -69,24 +77,36 @@ export function usePropDeepLink({
   watch(
     categories,
     () => {
-      if (hasAppliedInitialState.value) return;
-      parseFromUrl();
-      hasAppliedInitialState.value = true;
+      applyPendingQuery();
     },
     { immediate: true }
   );
 
   watch(
+    [pendingCategory, pendingSubcategory],
+    () => {
+      applyPendingQuery();
+    }
+  );
+
+  watch(
     [selectedCategory, selectedSubcategory],
     () => {
-      if (!hasAppliedInitialState.value) {
-        parseFromUrl();
-        hasAppliedInitialState.value = true;
-      }
       syncToUrl();
     },
     { flush: 'post' }
   );
+
+  onMounted(() => {
+    isMounted.value = true;
+    readQueryFromUrl();
+    window.addEventListener('popstate', readQueryFromUrl);
+  });
+
+  onUnmounted(() => {
+    if (!isMounted.value || typeof window === 'undefined') return;
+    window.removeEventListener('popstate', readQueryFromUrl);
+  });
 }
 
 
