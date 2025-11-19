@@ -37,28 +37,28 @@
       </div>
 
       <!-- Categories -->
-      <div v-for="category in categories" :key="category.name" class="category-group">
+      <div v-for="category in categories" :key="category.slug" class="category-group">
         <div 
           class="category-item" 
-          :class="{ active: selectedCategory === category.name && selectedSubcategory === 'all' }"
-          @click="selectCategory(category.name)"
+          :class="{ active: selectedCategory === category.slug && selectedSubcategory === 'all' }"
+          @click="selectCategory(category.slug)"
         >
           <span class="category-name">
-            {{ formatCategory(category.name) }}
+            {{ category.label }}
           </span>
           <span class="category-count">{{ category.count }}</span>
         </div>
 
         <!-- Subcategories -->
-        <div v-if="category.subcategories.length > 0 && selectedCategory === category.name" class="subcategory-list">
+        <div v-if="category.subcategories.length > 0 && selectedCategory === category.slug" class="subcategory-list">
           <div 
             v-for="sub in category.subcategories" 
-            :key="sub.name"
+            :key="sub.slug"
             class="subcategory-item"
-            :class="{ active: selectedSubcategory === sub.name }"
-            @click.stop="selectSubcategory(sub.name)"
+            :class="{ active: selectedSubcategory === sub.slug }"
+            @click.stop="selectSubcategory(sub.slug)"
           >
-            <span class="subcategory-name">{{ formatCategory(sub.name) }}</span>
+            <span class="subcategory-name">{{ sub.label }}</span>
             <span class="subcategory-count">{{ sub.count }}</span>
           </div>
         </div>
@@ -68,7 +68,6 @@
 </template>
 
 <script setup lang="ts">
-import { formatCategory } from '../utils/formatCategory';
 import type { Category } from '../types';
 
 defineProps<{
@@ -239,11 +238,6 @@ function selectSubcategory(subcategory: string) {
 .category-item:hover .all-props-icon,
 .category-item.active .all-props-icon {
   transform: scale(1.1);
-}
-
-/* Favorites Category */
-.favorites-category {
-  /* Same style as other categories */
 }
 
 /* Favorites Icon */

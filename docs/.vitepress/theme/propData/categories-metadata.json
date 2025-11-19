@@ -2,1249 +2,1547 @@
   "totalProps": 14867,
   "categories": [
     {
-      "name": "Spooni Props",
+      "slug": "spooni-props",
+      "label": "Spooni Props",
       "count": 290,
       "subcategories": [
         {
-          "name": "bauteile",
+          "slug": "bauteile",
+          "label": "Bauteile",
           "count": 49
         },
         {
-          "name": "buildings",
+          "slug": "buildings",
+          "label": "Buildings",
           "count": 62
         },
         {
-          "name": "carpets",
+          "slug": "carpets",
+          "label": "Carpets",
           "count": 10
         },
         {
-          "name": "curtain",
+          "slug": "curtain",
+          "label": "Curtain",
           "count": 6
         },
         {
-          "name": "doors",
+          "slug": "doors",
+          "label": "Doors",
           "count": 23
         },
         {
-          "name": "fireplace",
+          "slug": "fireplace",
+          "label": "Fireplace",
           "count": 6
         },
         {
-          "name": "furniture",
+          "slug": "furniture",
+          "label": "Furniture",
           "count": 61
         },
         {
-          "name": "pavillion",
+          "slug": "pavillion",
+          "label": "Pavillion",
           "count": 8
         },
         {
-          "name": "pictures",
+          "slug": "pictures",
+          "label": "Pictures",
           "count": 10
         },
         {
-          "name": "pod",
+          "slug": "pod",
+          "label": "Pod",
           "count": 3
         },
         {
-          "name": "propset",
+          "slug": "propset",
+          "label": "Propset",
           "count": 12
         },
         {
-          "name": "shield",
+          "slug": "shield",
+          "label": "Shield",
           "count": 6
         },
         {
-          "name": "ship",
+          "slug": "ship",
+          "label": "Ship",
           "count": 2
         },
         {
-          "name": "xmas",
+          "slug": "xmas",
+          "label": "Xmas",
           "count": 32
         }
       ]
     },
     {
-      "name": "Bank",
+      "slug": "bank",
+      "label": "Bank",
       "count": 115,
       "subcategories": [
         {
-          "name": "check and paper",
+          "slug": "check-and-paper",
+          "label": "Check And Paper",
           "count": 7
         },
         {
-          "name": "coin",
+          "slug": "coin",
+          "label": "Coin",
           "count": 22
         },
         {
-          "name": "diverse",
+          "slug": "diverse",
+          "label": "Diverse",
           "count": 20
         },
         {
-          "name": "money",
+          "slug": "money",
+          "label": "Money",
           "count": 24
         },
         {
-          "name": "moneybag",
+          "slug": "moneybag",
+          "label": "Moneybag",
           "count": 9
         },
         {
-          "name": "safe",
+          "slug": "safe",
+          "label": "Safe",
           "count": 33
         }
       ]
     },
     {
-      "name": "Barrel Sets Boxes",
+      "slug": "barrel-sets-boxes",
+      "label": "Barrel Sets Boxes",
       "count": 1018,
       "subcategories": [
         {
-          "name": "barrel",
+          "slug": "barrel",
+          "label": "Barrel",
           "count": 154
         },
         {
-          "name": "boxes",
+          "slug": "boxes",
+          "label": "Boxes",
           "count": 229
         },
         {
-          "name": "sack",
+          "slug": "sack",
+          "label": "Sack",
           "count": 46
         },
         {
-          "name": "sets",
+          "slug": "sets",
+          "label": "Sets",
           "count": 589
         }
       ]
     },
     {
-      "name": "Body Parts",
+      "slug": "body-parts",
+      "label": "Body Parts",
       "count": 294,
       "subcategories": [
         {
-          "name": "animal head",
+          "slug": "animal-head",
+          "label": "Animal Head",
           "count": 54
         },
         {
-          "name": "animal remains",
+          "slug": "animal-remains",
+          "label": "Animal Remains",
           "count": 12
         },
         {
-          "name": "animal skin",
+          "slug": "animal-skin",
+          "label": "Animal Skin",
           "count": 22
         },
         {
-          "name": "animal skull",
+          "slug": "animal-skull",
+          "label": "Animal Skull",
           "count": 97
         },
         {
-          "name": "blood",
+          "slug": "blood",
+          "label": "Blood",
           "count": 6
         },
         {
-          "name": "human remains",
+          "slug": "human-remains",
+          "label": "Human Remains",
           "count": 103
         }
       ]
     },
     {
-      "name": "Bottles",
+      "slug": "bottles",
+      "label": "Bottles",
       "count": 312,
       "subcategories": [
         {
-          "name": "bottle_single",
+          "slug": "bottle-single",
+          "label": "Bottle Single",
           "count": 190
         },
         {
-          "name": "bottle_various",
+          "slug": "bottle-various",
+          "label": "Bottle Various",
           "count": 122
         }
       ]
     },
     {
-      "name": "Campfire",
+      "slug": "campfire",
+      "label": "Campfire",
       "count": 25,
       "subcategories": [
         {
-          "name": "cookfire",
+          "slug": "cookfire",
+          "label": "Cookfire",
           "count": 1
         },
         {
-          "name": "fire sign",
+          "slug": "fire-sign",
+          "label": "Fire Sign",
           "count": 2
         },
         {
-          "name": "firelog",
+          "slug": "firelog",
+          "label": "Firelog",
           "count": 12
         },
         {
-          "name": "fireplace",
+          "slug": "fireplace",
+          "label": "Fireplace",
           "count": 6
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 2
         }
       ]
     },
     {
-      "name": "Deco",
+      "slug": "deco",
+      "label": "Deco",
       "count": 1685,
       "subcategories": [
         {
-          "name": "archelogy",
+          "slug": "archelogy",
+          "label": "Archelogy",
           "count": 39
         },
         {
-          "name": "asign",
+          "slug": "asign",
+          "label": "Asign",
           "count": 7
         },
         {
-          "name": "birdcage",
+          "slug": "birdcage",
+          "label": "Birdcage",
           "count": 6
         },
         {
-          "name": "book",
+          "slug": "book",
+          "label": "Book",
           "count": 98
         },
         {
-          "name": "books",
+          "slug": "books",
+          "label": "Books",
           "count": 37
         },
         {
-          "name": "books various",
+          "slug": "books-various",
+          "label": "Books Various",
           "count": 12
         },
         {
-          "name": "buisnesscard",
+          "slug": "buisnesscard",
+          "label": "Buisnesscard",
           "count": 7
         },
         {
-          "name": "camera",
+          "slug": "camera",
+          "label": "Camera",
           "count": 23
         },
         {
-          "name": "casket",
+          "slug": "casket",
+          "label": "Casket",
           "count": 72
         },
         {
-          "name": "children",
+          "slug": "children",
+          "label": "Children",
           "count": 23
         },
         {
-          "name": "cigarcard",
+          "slug": "cigarcard",
+          "label": "Cigarcard",
           "count": 144
         },
         {
-          "name": "clipboard",
+          "slug": "clipboard",
+          "label": "Clipboard",
           "count": 16
         },
         {
-          "name": "clock",
+          "slug": "clock",
+          "label": "Clock",
           "count": 25
         },
         {
-          "name": "cosmetics table deco",
+          "slug": "cosmetics-table-deco",
+          "label": "Cosmetics Table Deco",
           "count": 32
         },
         {
-          "name": "desk deco",
+          "slug": "desk-deco",
+          "label": "Desk Deco",
           "count": 94
         },
         {
-          "name": "divider",
+          "slug": "divider",
+          "label": "Divider",
           "count": 5
         },
         {
-          "name": "fan",
+          "slug": "fan",
+          "label": "Fan",
           "count": 6
         },
         {
-          "name": "fireplace",
+          "slug": "fireplace",
+          "label": "Fireplace",
           "count": 43
         },
         {
-          "name": "fountain",
+          "slug": "fountain",
+          "label": "Fountain",
           "count": 5
         },
         {
-          "name": "frame",
+          "slug": "frame",
+          "label": "Frame",
           "count": 31
         },
         {
-          "name": "gold",
+          "slug": "gold",
+          "label": "Gold",
           "count": 10
         },
         {
-          "name": "jewelry and gems",
+          "slug": "jewelry-and-gems",
+          "label": "Jewelry And Gems",
           "count": 87
         },
         {
-          "name": "keys",
+          "slug": "keys",
+          "label": "Keys",
           "count": 9
         },
         {
-          "name": "lock",
+          "slug": "lock",
+          "label": "Lock",
           "count": 26
         },
         {
-          "name": "map",
+          "slug": "map",
+          "label": "Map",
           "count": 45
         },
         {
-          "name": "music",
+          "slug": "music",
+          "label": "Music",
           "count": 33
         },
         {
-          "name": "newpaper",
+          "slug": "newpaper",
+          "label": "Newpaper",
           "count": 79
         },
         {
-          "name": "paint",
+          "slug": "paint",
+          "label": "Paint",
           "count": 65
         },
         {
-          "name": "papers",
+          "slug": "papers",
+          "label": "Papers",
           "count": 118
         },
         {
-          "name": "photo",
+          "slug": "photo",
+          "label": "Photo",
           "count": 49
         },
         {
-          "name": "plant",
+          "slug": "plant",
+          "label": "Plant",
           "count": 91
         },
         {
-          "name": "planter",
+          "slug": "planter",
+          "label": "Planter",
           "count": 24
         },
         {
-          "name": "poster",
+          "slug": "poster",
+          "label": "Poster",
           "count": 53
         },
         {
-          "name": "school",
+          "slug": "school",
+          "label": "School",
           "count": 3
         },
         {
-          "name": "statues",
+          "slug": "statues",
+          "label": "Statues",
           "count": 43
         },
         {
-          "name": "stuffed animals",
+          "slug": "stuffed-animals",
+          "label": "Stuffed Animals",
           "count": 50
         },
         {
-          "name": "typewriter",
+          "slug": "typewriter",
+          "label": "Typewriter",
           "count": 3
         },
         {
-          "name": "umbrella",
+          "slug": "umbrella",
+          "label": "Umbrella",
           "count": 13
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 70
         },
         {
-          "name": "vase",
+          "slug": "vase",
+          "label": "Vase",
           "count": 9
         },
         {
-          "name": "wall painting",
+          "slug": "wall-painting",
+          "label": "Wall Painting",
           "count": 72
         },
         {
-          "name": "x-mas",
+          "slug": "x-mas",
+          "label": "X Mas",
           "count": 8
         }
       ]
     },
     {
-      "name": "Drawer Decoration",
+      "slug": "drawer-decoration",
+      "label": "Drawer Decoration",
       "count": 110,
       "subcategories": []
     },
     {
-      "name": "Fabric",
+      "slug": "fabric",
+      "label": "Fabric",
       "count": 263,
       "subcategories": [
         {
-          "name": "coal",
+          "slug": "coal",
+          "label": "Coal",
           "count": 16
         },
         {
-          "name": "cottanbale",
+          "slug": "cottanbale",
+          "label": "Cottanbale",
           "count": 28
         },
         {
-          "name": "electronics",
+          "slug": "electronics",
+          "label": "Electronics",
           "count": 75
         },
         {
-          "name": "maschines",
+          "slug": "maschines",
+          "label": "Maschines",
           "count": 41
         },
         {
-          "name": "train",
+          "slug": "train",
+          "label": "Train",
           "count": 53
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 26
         },
         {
-          "name": "watertown",
+          "slug": "watertown",
+          "label": "Watertown",
           "count": 24
         }
       ]
     },
     {
-      "name": "Fishing",
+      "slug": "fishing",
+      "label": "Fishing",
       "count": 75,
       "subcategories": []
     },
     {
-      "name": "Fort",
+      "slug": "fort",
+      "label": "Fort",
       "count": 59,
       "subcategories": []
     },
     {
-      "name": "Furniture",
+      "slug": "furniture",
+      "label": "Furniture",
       "count": 851,
       "subcategories": [
         {
-          "name": "armoir",
+          "slug": "armoir",
+          "label": "Armoir",
           "count": 24
         },
         {
-          "name": "bed",
+          "slug": "bed",
+          "label": "Bed",
           "count": 48
         },
         {
-          "name": "bench",
+          "slug": "bench",
+          "label": "Bench",
           "count": 38
         },
         {
-          "name": "chair",
+          "slug": "chair",
+          "label": "Chair",
           "count": 121
         },
         {
-          "name": "chairdesk",
+          "slug": "chairdesk",
+          "label": "Chairdesk",
           "count": 6
         },
         {
-          "name": "chest",
+          "slug": "chest",
+          "label": "Chest",
           "count": 116
         },
         {
-          "name": "coffeetable",
+          "slug": "coffeetable",
+          "label": "Coffeetable",
           "count": 12
         },
         {
-          "name": "commode",
+          "slug": "commode",
+          "label": "Commode",
           "count": 24
         },
         {
-          "name": "console",
+          "slug": "console",
+          "label": "Console",
           "count": 14
         },
         {
-          "name": "cupboard",
+          "slug": "cupboard",
+          "label": "Cupboard",
           "count": 34
         },
         {
-          "name": "desk",
+          "slug": "desk",
+          "label": "Desk",
           "count": 24
         },
         {
-          "name": "displaycasen",
+          "slug": "displaycasen",
+          "label": "Displaycasen",
           "count": 6
         },
         {
-          "name": "filecabinet",
+          "slug": "filecabinet",
+          "label": "Filecabinet",
           "count": 16
         },
         {
-          "name": "hook",
+          "slug": "hook",
+          "label": "Hook",
           "count": 25
         },
         {
-          "name": "mirror",
+          "slug": "mirror",
+          "label": "Mirror",
           "count": 7
         },
         {
-          "name": "pedestall and podium",
+          "slug": "pedestall-and-podium",
+          "label": "Pedestall And Podium",
           "count": 8
         },
         {
-          "name": "restaurant funiture",
+          "slug": "restaurant-funiture",
+          "label": "Restaurant Funiture",
           "count": 9
         },
         {
-          "name": "shelf",
+          "slug": "shelf",
+          "label": "Shelf",
           "count": 37
         },
         {
-          "name": "sidetable",
+          "slug": "sidetable",
+          "label": "Sidetable",
           "count": 46
         },
         {
-          "name": "sink",
+          "slug": "sink",
+          "label": "Sink",
           "count": 5
         },
         {
-          "name": "sofa",
+          "slug": "sofa",
+          "label": "Sofa",
           "count": 29
         },
         {
-          "name": "stool",
+          "slug": "stool",
+          "label": "Stool",
           "count": 31
         },
         {
-          "name": "table",
+          "slug": "table",
+          "label": "Table",
           "count": 94
         },
         {
-          "name": "toilet",
+          "slug": "toilet",
+          "label": "Toilet",
           "count": 14
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 63
         }
       ]
     },
     {
-      "name": "Games",
+      "slug": "games",
+      "label": "Games",
       "count": 1069,
       "subcategories": [
         {
-          "name": "cards",
+          "slug": "cards",
+          "label": "Cards",
           "count": 670
         },
         {
-          "name": "chest",
+          "slug": "chest",
+          "label": "Chest",
           "count": 15
         },
         {
-          "name": "chip",
+          "slug": "chip",
+          "label": "Chip",
           "count": 158
         },
         {
-          "name": "domino",
+          "slug": "domino",
+          "label": "Domino",
           "count": 206
         },
         {
-          "name": "table",
+          "slug": "table",
+          "label": "Table",
           "count": 14
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 6
         }
       ]
     },
     {
-      "name": "Ingredients",
+      "slug": "ingredients",
+      "label": "Ingredients",
       "count": 480,
       "subcategories": [
         {
-          "name": "bread",
+          "slug": "bread",
+          "label": "Bread",
           "count": 37
         },
         {
-          "name": "candy",
+          "slug": "candy",
+          "label": "Candy",
           "count": 27
         },
         {
-          "name": "cheese",
+          "slug": "cheese",
+          "label": "Cheese",
           "count": 12
         },
         {
-          "name": "chicken and duck",
+          "slug": "chicken-and-duck",
+          "label": "Chicken And Duck",
           "count": 20
         },
         {
-          "name": "eggs",
+          "slug": "eggs",
+          "label": "Eggs",
           "count": 15
         },
         {
-          "name": "fish",
+          "slug": "fish",
+          "label": "Fish",
           "count": 38
         },
         {
-          "name": "fruits",
+          "slug": "fruits",
+          "label": "Fruits",
           "count": 55
         },
         {
-          "name": "meat",
+          "slug": "meat",
+          "label": "Meat",
           "count": 92
         },
         {
-          "name": "sausage",
+          "slug": "sausage",
+          "label": "Sausage",
           "count": 34
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 25
         },
         {
-          "name": "vegetables",
+          "slug": "vegetables",
+          "label": "Vegetables",
           "count": 125
         }
       ]
     },
     {
-      "name": "Item Store",
+      "slug": "item-store",
+      "label": "Item Store",
       "count": 374,
       "subcategories": [
         {
-          "name": "cigarette",
+          "slug": "cigarette",
+          "label": "Cigarette",
           "count": 49
         },
         {
-          "name": "display",
+          "slug": "display",
+          "label": "Display",
           "count": 80
         },
         {
-          "name": "funiture",
+          "slug": "funiture",
+          "label": "Funiture",
           "count": 11
         },
         {
-          "name": "multiple",
+          "slug": "multiple",
+          "label": "Multiple",
           "count": 85
         },
         {
-          "name": "register",
+          "slug": "register",
+          "label": "Register",
           "count": 7
         },
         {
-          "name": "single",
+          "slug": "single",
+          "label": "Single",
           "count": 104
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 38
         }
       ]
     },
     {
-      "name": "Kitchen",
+      "slug": "kitchen",
+      "label": "Kitchen",
       "count": 390,
       "subcategories": [
         {
-          "name": "basket",
+          "slug": "basket",
+          "label": "Basket",
           "count": 27
         },
         {
-          "name": "board",
+          "slug": "board",
+          "label": "Board",
           "count": 8
         },
         {
-          "name": "boiler",
+          "slug": "boiler",
+          "label": "Boiler",
           "count": 10
         },
         {
-          "name": "buttercup and milkcan",
+          "slug": "buttercup-and-milkcan",
+          "label": "Buttercup And Milkcan",
           "count": 7
         },
         {
-          "name": "eat",
+          "slug": "eat",
+          "label": "Eat",
           "count": 85
         },
         {
-          "name": "kitchen knife",
+          "slug": "kitchen-knife",
+          "label": "Kitchen Knife",
           "count": 17
         },
         {
-          "name": "kitchen untensils",
+          "slug": "kitchen-untensils",
+          "label": "Kitchen Untensils",
           "count": 48
         },
         {
-          "name": "pan",
+          "slug": "pan",
+          "label": "Pan",
           "count": 27
         },
         {
-          "name": "pot",
+          "slug": "pot",
+          "label": "Pot",
           "count": 33
         },
         {
-          "name": "sacks",
+          "slug": "sacks",
+          "label": "Sacks",
           "count": 54
         },
         {
-          "name": "scale",
+          "slug": "scale",
+          "label": "Scale",
           "count": 5
         },
         {
-          "name": "stove",
+          "slug": "stove",
+          "label": "Stove",
           "count": 13
         },
         {
-          "name": "tableware dirt",
+          "slug": "tableware-dirt",
+          "label": "Tableware Dirt",
           "count": 4
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 52
         }
       ]
     },
     {
-      "name": "Light",
+      "slug": "light",
+      "label": "Light",
       "count": 325,
       "subcategories": [
         {
-          "name": "candle",
+          "slug": "candle",
+          "label": "Candle",
           "count": 50
         },
         {
-          "name": "desk lamp",
+          "slug": "desk-lamp",
+          "label": "Desk Lamp",
           "count": 33
         },
         {
-          "name": "hanging lamp",
+          "slug": "hanging-lamp",
+          "label": "Hanging Lamp",
           "count": 86
         },
         {
-          "name": "lamp standing",
+          "slug": "lamp-standing",
+          "label": "Lamp Standing",
           "count": 16
         },
         {
-          "name": "lampstreet",
+          "slug": "lampstreet",
+          "label": "Lampstreet",
           "count": 23
         },
         {
-          "name": "lantern",
+          "slug": "lantern",
+          "label": "Lantern",
           "count": 38
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 17
         },
         {
-          "name": "wall lamp",
+          "slug": "wall-lamp",
+          "label": "Wall Lamp",
           "count": 62
         }
       ]
     },
     {
-      "name": "Moonshine",
+      "slug": "moonshine",
+      "label": "Moonshine",
       "count": 20,
       "subcategories": []
     },
     {
-      "name": "Native",
+      "slug": "native",
+      "label": "Native",
       "count": 151,
       "subcategories": [
         {
-          "name": "badge",
+          "slug": "badge",
+          "label": "Badge",
           "count": 33
         },
         {
-          "name": "deco",
+          "slug": "deco",
+          "label": "Deco",
           "count": 44
         },
         {
-          "name": "dreamcatch",
+          "slug": "dreamcatch",
+          "label": "Dreamcatch",
           "count": 19
         },
         {
-          "name": "furniture",
+          "slug": "furniture",
+          "label": "Furniture",
           "count": 9
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 13
         },
         {
-          "name": "weapon",
+          "slug": "weapon",
+          "label": "Weapon",
           "count": 33
         }
       ]
     },
     {
-      "name": "Nature",
+      "slug": "nature",
+      "label": "Nature",
       "count": 1569,
       "subcategories": [
         {
-          "name": "branch",
+          "slug": "branch",
+          "label": "Branch",
           "count": 44
         },
         {
-          "name": "dirtpile",
+          "slug": "dirtpile",
+          "label": "Dirtpile",
           "count": 29
         },
         {
-          "name": "farm plant",
+          "slug": "farm-plant",
+          "label": "Farm Plant",
           "count": 59
         },
         {
-          "name": "feather",
+          "slug": "feather",
+          "label": "Feather",
           "count": 31
         },
         {
-          "name": "ice",
+          "slug": "ice",
+          "label": "Ice",
           "count": 125
         },
         {
-          "name": "nest",
+          "slug": "nest",
+          "label": "Nest",
           "count": 9
         },
         {
-          "name": "plant",
+          "slug": "plant",
+          "label": "Plant",
           "count": 424
         },
         {
-          "name": "poop",
+          "slug": "poop",
+          "label": "Poop",
           "count": 37
         },
         {
-          "name": "stick",
+          "slug": "stick",
+          "label": "Stick",
           "count": 45
         },
         {
-          "name": "stone",
+          "slug": "stone",
+          "label": "Stone",
           "count": 543
         },
         {
-          "name": "tobaco",
+          "slug": "tobaco",
+          "label": "Tobaco",
           "count": 6
         },
         {
-          "name": "traces",
+          "slug": "traces",
+          "label": "Traces",
           "count": 15
         },
         {
-          "name": "tree",
+          "slug": "tree",
+          "label": "Tree",
           "count": 192
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 10
         }
       ]
     },
     {
-      "name": "Parts",
+      "slug": "parts",
+      "label": "Parts",
       "count": 1499,
       "subcategories": [
         {
-          "name": "arc",
+          "slug": "arc",
+          "label": "Arc",
           "count": 26
         },
         {
-          "name": "boards & bricks",
+          "slug": "boards-bricks",
+          "label": "Boards & Bricks",
           "count": 180
         },
         {
-          "name": "bridge",
+          "slug": "bridge",
+          "label": "Bridge",
           "count": 12
         },
         {
-          "name": "construction",
+          "slug": "construction",
+          "label": "Construction",
           "count": 76
         },
         {
-          "name": "door",
+          "slug": "door",
+          "label": "Door",
           "count": 445
         },
         {
-          "name": "fence",
+          "slug": "fence",
+          "label": "Fence",
           "count": 359
         },
         {
-          "name": "railing",
+          "slug": "railing",
+          "label": "Railing",
           "count": 183
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 61
         },
         {
-          "name": "window",
+          "slug": "window",
+          "label": "Window",
           "count": 157
         }
       ]
     },
     {
-      "name": "Port",
+      "slug": "port",
+      "label": "Port",
       "count": 34,
       "subcategories": []
     },
     {
-      "name": "Religion",
+      "slug": "religion",
+      "label": "Religion",
       "count": 215,
       "subcategories": [
         {
-          "name": "bell",
+          "slug": "bell",
+          "label": "Bell",
           "count": 12
         },
         {
-          "name": "coffin",
+          "slug": "coffin",
+          "label": "Coffin",
           "count": 16
         },
         {
-          "name": "cross",
+          "slug": "cross",
+          "label": "Cross",
           "count": 9
         },
         {
-          "name": "grave",
+          "slug": "grave",
+          "label": "Grave",
           "count": 16
         },
         {
-          "name": "gravestone",
+          "slug": "gravestone",
+          "label": "Gravestone",
           "count": 156
         },
         {
-          "name": "witches",
+          "slug": "witches",
+          "label": "Witches",
           "count": 6
         }
       ]
     },
     {
-      "name": "Signs Flags",
+      "slug": "signs-flags",
+      "label": "Signs Flags",
       "count": 368,
       "subcategories": [
         {
-          "name": "city sign",
+          "slug": "city-sign",
+          "label": "City Sign",
           "count": 8
         },
         {
-          "name": "flag hanging",
+          "slug": "flag-hanging",
+          "label": "Flag Hanging",
           "count": 42
         },
         {
-          "name": "flag standing",
+          "slug": "flag-standing",
+          "label": "Flag Standing",
           "count": 25
         },
         {
-          "name": "sandwitchboard",
+          "slug": "sandwitchboard",
+          "label": "Sandwitchboard",
           "count": 35
         },
         {
-          "name": "shield",
+          "slug": "shield",
+          "label": "Shield",
           "count": 18
         },
         {
-          "name": "signpost",
+          "slug": "signpost",
+          "label": "Signpost",
           "count": 102
         },
         {
-          "name": "store shield",
+          "slug": "store-shield",
+          "label": "Store Shield",
           "count": 62
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 11
         },
         {
-          "name": "various shield",
+          "slug": "various-shield",
+          "label": "Various Shield",
           "count": 37
         },
         {
-          "name": "window shield",
+          "slug": "window-shield",
+          "label": "Window Shield",
           "count": 28
         }
       ]
     },
     {
-      "name": "Tableware",
+      "slug": "tableware",
+      "label": "Tableware",
       "count": 259,
       "subcategories": [
         {
-          "name": "bowl",
+          "slug": "bowl",
+          "label": "Bowl",
           "count": 21
         },
         {
-          "name": "cup",
+          "slug": "cup",
+          "label": "Cup",
           "count": 19
         },
         {
-          "name": "cutlery",
+          "slug": "cutlery",
+          "label": "Cutlery",
           "count": 18
         },
         {
-          "name": "glass",
+          "slug": "glass",
+          "label": "Glass",
           "count": 51
         },
         {
-          "name": "groce",
+          "slug": "groce",
+          "label": "Groce",
           "count": 3
         },
         {
-          "name": "jar",
+          "slug": "jar",
+          "label": "Jar",
           "count": 13
         },
         {
-          "name": "mug",
+          "slug": "mug",
+          "label": "Mug",
           "count": 10
         },
         {
-          "name": "pitcher",
+          "slug": "pitcher",
+          "label": "Pitcher",
           "count": 10
         },
         {
-          "name": "plate",
+          "slug": "plate",
+          "label": "Plate",
           "count": 44
         },
         {
-          "name": "tray",
+          "slug": "tray",
+          "label": "Tray",
           "count": 13
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 57
         }
       ]
     },
     {
-      "name": "Tent",
+      "slug": "tent",
+      "label": "Tent",
       "count": 252,
       "subcategories": []
     },
     {
-      "name": "Textiles Curtains",
+      "slug": "textiles-curtains",
+      "label": "Textiles Curtains",
       "count": 863,
       "subcategories": [
         {
-          "name": "bag",
+          "slug": "bag",
+          "label": "Bag",
           "count": 63
         },
         {
-          "name": "bedroll and mattress",
+          "slug": "bedroll-and-mattress",
+          "label": "Bedroll And Mattress",
           "count": 39
         },
         {
-          "name": "belt",
+          "slug": "belt",
+          "label": "Belt",
           "count": 28
         },
         {
-          "name": "clother",
+          "slug": "clother",
+          "label": "Clother",
           "count": 81
         },
         {
-          "name": "curtain",
+          "slug": "curtain",
+          "label": "Curtain",
           "count": 349
         },
         {
-          "name": "hat",
+          "slug": "hat",
+          "label": "Hat",
           "count": 52
         },
         {
-          "name": "pillow",
+          "slug": "pillow",
+          "label": "Pillow",
           "count": 26
         },
         {
-          "name": "rug",
+          "slug": "rug",
+          "label": "Rug",
           "count": 14
         },
         {
-          "name": "shoes",
+          "slug": "shoes",
+          "label": "Shoes",
           "count": 27
         },
         {
-          "name": "suitcase",
+          "slug": "suitcase",
+          "label": "Suitcase",
           "count": 28
         },
         {
-          "name": "table",
+          "slug": "table",
+          "label": "Table",
           "count": 18
         },
         {
-          "name": "textil",
+          "slug": "textil",
+          "label": "Textil",
           "count": 108
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 30
         }
       ]
     },
     {
-      "name": "Tnt",
+      "slug": "tnt",
+      "label": "Tnt",
       "count": 54,
       "subcategories": []
     },
     {
-      "name": "Tools",
+      "slug": "tools",
+      "label": "Tools",
       "count": 433,
       "subcategories": [
         {
-          "name": "bucket",
+          "slug": "bucket",
+          "label": "Bucket",
           "count": 27
         },
         {
-          "name": "rope",
+          "slug": "rope",
+          "label": "Rope",
           "count": 94
         },
         {
-          "name": "target",
+          "slug": "target",
+          "label": "Target",
           "count": 18
         },
         {
-          "name": "various",
+          "slug": "various",
+          "label": "Various",
           "count": 71
         },
         {
-          "name": "work tools",
+          "slug": "work-tools",
+          "label": "Work Tools",
           "count": 209
         },
         {
-          "name": "workbench",
+          "slug": "workbench",
+          "label": "Workbench",
           "count": 14
         }
       ]
     },
     {
-      "name": "Trash",
+      "slug": "trash",
+      "label": "Trash",
       "count": 131,
       "subcategories": []
     },
     {
-      "name": "Wagon",
+      "slug": "wagon",
+      "label": "Wagon",
       "count": 123,
       "subcategories": []
     },
     {
-      "name": "Washroom",
+      "slug": "washroom",
+      "label": "Washroom",
       "count": 44,
       "subcategories": []
     },
     {
-      "name": "Work",
+      "slug": "work",
+      "label": "Work",
       "count": 1117,
       "subcategories": [
         {
-          "name": "doctor/doctor items",
+          "slug": "doctor-doctor-items",
+          "label": "Doctor/doctor Items",
           "count": 62
         },
         {
-          "name": "doctor/furniture",
+          "slug": "doctor-furniture",
+          "label": "Doctor/furniture",
           "count": 10
         },
         {
-          "name": "doctor/medicine",
+          "slug": "doctor-medicine",
+          "label": "Doctor/medicine",
           "count": 47
         },
         {
-          "name": "gunsmith/ammo",
+          "slug": "gunsmith-ammo",
+          "label": "Gunsmith/ammo",
           "count": 91
         },
         {
-          "name": "gunsmith/box",
+          "slug": "gunsmith-box",
+          "label": "Gunsmith/box",
           "count": 48
         },
         {
-          "name": "gunsmith/knife",
+          "slug": "gunsmith-knife",
+          "label": "Gunsmith/knife",
           "count": 10
         },
         {
-          "name": "gunsmith/molotov",
+          "slug": "gunsmith-molotov",
+          "label": "Gunsmith/molotov",
           "count": 9
         },
         {
-          "name": "gunsmith/various",
+          "slug": "gunsmith-various",
+          "label": "Gunsmith/various",
           "count": 17
         },
         {
-          "name": "gunsmith/weapon",
+          "slug": "gunsmith-weapon",
+          "label": "Gunsmith/weapon",
           "count": 178
         },
         {
-          "name": "hunter/animals",
+          "slug": "hunter-animals",
+          "label": "Hunter/animals",
           "count": 8
         },
         {
-          "name": "hunter/call",
+          "slug": "hunter-call",
+          "label": "Hunter/call",
           "count": 35
         },
         {
-          "name": "hunter/fur",
+          "slug": "hunter-fur",
+          "label": "Hunter/fur",
           "count": 18
         },
         {
-          "name": "hunter/skin",
+          "slug": "hunter-skin",
+          "label": "Hunter/skin",
           "count": 64
         },
         {
-          "name": "hunter/skin roll",
+          "slug": "hunter-skin-roll",
+          "label": "Hunter/skin Roll",
           "count": 70
         },
         {
-          "name": "hunter/trap",
+          "slug": "hunter-trap",
+          "label": "Hunter/trap",
           "count": 18
         },
         {
-          "name": "hunter/various",
+          "slug": "hunter-various",
+          "label": "Hunter/various",
           "count": 20
         },
         {
-          "name": "hunter/workspace",
+          "slug": "hunter-workspace",
+          "label": "Hunter/workspace",
           "count": 33
         },
         {
-          "name": "lumber",
+          "slug": "lumber",
+          "label": "Lumber",
           "count": 100
         },
         {
-          "name": "mail",
+          "slug": "mail",
+          "label": "Mail",
           "count": 39
         },
         {
-          "name": "ranch/chicken",
+          "slug": "ranch-chicken",
+          "label": "Ranch/chicken",
           "count": 2
         },
         {
-          "name": "ranch/feed",
+          "slug": "ranch-feed",
+          "label": "Ranch/feed",
           "count": 16
         },
         {
-          "name": "ranch/harmes",
+          "slug": "ranch-harmes",
+          "label": "Ranch/harmes",
           "count": 24
         },
         {
-          "name": "ranch/hay",
+          "slug": "ranch-hay",
+          "label": "Ranch/hay",
           "count": 32
         },
         {
-          "name": "ranch/hitchingpost",
+          "slug": "ranch-hitchingpost",
+          "label": "Ranch/hitchingpost",
           "count": 7
         },
         {
-          "name": "ranch/jumphurdles",
+          "slug": "ranch-jumphurdles",
+          "label": "Ranch/jumphurdles",
           "count": 15
         },
         {
-          "name": "ranch/saddle",
+          "slug": "ranch-saddle",
+          "label": "Ranch/saddle",
           "count": 34
         },
         {
-          "name": "ranch/various",
+          "slug": "ranch-various",
+          "label": "Ranch/various",
           "count": 15
         },
         {
-          "name": "ranch/windmill",
+          "slug": "ranch-windmill",
+          "label": "Ranch/windmill",
           "count": 8
         },
         {
-          "name": "sheriff/badge",
+          "slug": "sheriff-badge",
+          "label": "Sheriff/badge",
           "count": 9
         },
         {
-          "name": "sheriff/gallow, electric",
+          "slug": "sheriff-gallow-electric",
+          "label": "Sheriff/gallow, Electric",
           "count": 11
         },
         {
-          "name": "sheriff/jail",
+          "slug": "sheriff-jail",
+          "label": "Sheriff/jail",
           "count": 12
         },
         {
-          "name": "sheriff/shack",
+          "slug": "sheriff-shack",
+          "label": "Sheriff/shack",
           "count": 20
         },
         {
-          "name": "sheriff/wanted",
+          "slug": "sheriff-wanted",
+          "label": "Sheriff/wanted",
           "count": 35
         }
       ]

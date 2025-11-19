@@ -6,11 +6,11 @@
       </span>
       <span v-else-if="selectedSubcategory !== 'all'">
         Showing {{ paginatedPropsLength }} of {{ filteredPropsLength }} prop{{ filteredPropsLength !== 1 ? "s" : "" }} 
-        from subcategory <strong>"{{ formatCategory(selectedSubcategory) }}"</strong>
+        from subcategory <strong>"{{ selectedSubcategoryLabel }}"</strong>
       </span>
       <span v-else-if="selectedCategory !== 'all'">
         Showing {{ paginatedPropsLength }} of {{ filteredPropsLength }} prop{{ filteredPropsLength !== 1 ? "s" : "" }} 
-        from category <strong>"{{ formatCategory(selectedCategory) }}"</strong>
+        from category <strong>"{{ selectedCategoryLabel }}"</strong>
       </span>
       <span v-else>
         Showing {{ paginatedPropsLength }} of {{ filteredPropsLength }} prop{{ filteredPropsLength !== 1 ? "s" : "" }}
@@ -41,7 +41,6 @@
 
 <script setup lang="ts">
 import { computed } from 'vue';
-import { formatCategory } from '../utils/formatCategory';
 import { PAGINATION, GRID_LAYOUT } from '../constants';
 import CustomSelect from './CustomSelect.vue';
 
@@ -53,6 +52,8 @@ defineProps<{
   selectedSubcategory: string;
   itemsPerPage: number;
   columnsPerRow: number;
+  selectedCategoryLabel: string;
+  selectedSubcategoryLabel: string;
 }>();
 
 defineEmits<{

@@ -21,8 +21,10 @@ export interface Prop {
  * Represents a subcategory with metadata
  */
 export interface Subcategory {
-  /** Name of the subcategory */
-  name: string;
+  /** Stable identifier (kebab-case) */
+  slug: string;
+  /** Display label */
+  label: string;
   /** Number of props in this subcategory */
   count: number;
 }
@@ -31,8 +33,10 @@ export interface Subcategory {
  * Represents a category with its subcategories and metadata
  */
 export interface Category {
-  /** Name of the category */
-  name: string;
+  /** Stable identifier (kebab-case) */
+  slug: string;
+  /** Display label */
+  label: string;
   /** Total number of props in this category */
   count: number;
   /** Array of subcategories belonging to this category */

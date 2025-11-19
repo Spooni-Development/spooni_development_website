@@ -25,12 +25,13 @@ This is the official website for **SPOONI Development** – a team specializing 
 
 ### 🔍 **Advanced Props Gallery**
 A fully-featured, searchable gallery of 15,000+ props with:
-- Real-time search and filtering by category/subcategory
-- Lazy-loaded images and dynamic JSON imports for optimal performance
-- Zoom functionality for detailed viewing
-- One-click copy-to-clipboard for prop names
+- Real-time search and filtering by slug-based category/subcategory identifiers
+- Shareable deep links via `?cat=<slug>&sub=<slug>` that restore state on reload
+- Dynamic JSON imports with automatic metadata generation and pagination
 - Fully responsive design (mobile, tablet, desktop)
-- Efficient pagination and filtering system
+- Efficient pagination, column controls, and filtering system
+- Medium-zoom preview for detailed inspection of prop images
+- One-click copy-to-clipboard for prop names
 
 ### 🌐 **Live Server Status Page**
 Real-time monitoring of all SPOONI servers with:
@@ -45,8 +46,7 @@ Real-time monitoring of all SPOONI servers with:
 Modern navigation features for better UX:
 - Breadcrumb navigation for hierarchical content
 - Scroll-to-top button for long pages
-- Smart routing and page transitions
-- Optimized image lazy loading throughout the site
+- Query-string synchronization so gallery selections can be bookmarked or shared
 
 ### 📱 **Responsive Design**
 Works beautifully on all devices – from mobile phones to ultra-wide monitors. Dark mode included with smooth animations.
@@ -63,14 +63,15 @@ Built with Vite, the site loads instantly. Static generation means no server pro
 All content is written in Markdown – from documentation to team profiles and partner showcases. No database, no complex backend – just create a `.md` file and you're done.
 
 ### 🔎 **Built-in Search**
-Local search functionality lets users find any information instantly across all documentation pages.
+Local search functionality lets users find any information instantly across all documentation pages.  
+The Props Gallery also leverages Fuse.js with a persistent index for typo-tolerant prop lookup.
 
 ### 🎭 **Interactive Components**
 - Tabbed content for organized information
 - Custom Vue components for rich interactivity
 - Embedded videos and media support
 - Live server status indicators
-- Dynamic loading states
+- Dynamic loading states, lazy-loaded images, zoomable prop previews, and pagination controls
 
 ## 🚀 Quick Start
 
@@ -104,6 +105,7 @@ npm run docs:build
 npm run docs:preview
 ```
 
+The build step automatically regenerates category metadata (slugs + labels) and writes it to `docs/.vitepress/theme/propData/categories-metadata.json`.  
 The built site will be in `docs/.vitepress/dist` and can be deployed to any static hosting service (GitHub Pages, Netlify, Vercel, etc.).
 
 ## 🌐 Deployment
@@ -147,9 +149,10 @@ docs/
 │   │   │   ├── PropGrid.vue        # Props gallery grid
 │   │   │   └── ... (more components)
 │   │   ├── composables/        # Reusable composition functions
-│   │   │   ├── useLazyImages.ts    # Image lazy loading
 │   │   │   ├── usePropData.ts      # Props data management
-│   │   │   └── ... (more composables)
+│   │   │   ├── usePropFilter.ts    # Fuzzy search + filtering
+│   │   │   ├── usePropDeepLink.ts  # Query param synchronization
+│   │   │   └── useFavorites.ts     # Favorite props persistence
 │   │   ├── styles/             # Modular CSS architecture
 │   │   │   ├── design-tokens.css   # Design system tokens
 │   │   │   ├── variables.css       # VitePress theme variables
@@ -160,7 +163,7 @@ docs/
 │   │   ├── fonts.css           # Custom font definitions
 │   │   ├── index.ts            # Theme entry point
 │   │   ├── Layout.vue          # Custom layout with enhancements
-│   │   └── PropGallery.vue     # Main props gallery component
+│   │   └── PropGallery.vue     # Main props gallery component (slug-aware deep links)
 │   └── dist/                   # Build output (git-ignored)
 ├── doc_mappings/               # Mapping documentation (100+ locations)
 ├── doc_scripts/                # Script documentation (SPOONI, Dietrich, DrShwaggins)
@@ -210,8 +213,8 @@ This project is licensed under the **GNU General Public License v3.0** – see t
 - [TypeScript 5.7](https://www.typescriptlang.org/) – Type-safe development
 - [Vite](https://vitejs.dev/) – Next-generation build tool
 - [vitepress-plugin-tabs](https://www.npmjs.com/package/vitepress-plugin-tabs) – Tab functionality
-- [medium-zoom](https://github.com/francoischalifour/medium-zoom) – Image zoom functionality
-- [Fuse.js](https://fusejs.io/) – Fuzzy search library
+- [medium-zoom](https://github.com/francoischalifour/medium-zoom) – Interactive image zoom for the props gallery
+- [Fuse.js](https://fusejs.io/) – Fuzzy search library with persistent indexing
 
 ### Special Thanks
 - **[Jump on Studios](https://www.jumpon-studios.com/)** – For the initial idea and code foundation of the Props Gallery component, as well as introducing us to the tabs plugin

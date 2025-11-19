@@ -7,11 +7,8 @@ interface CategoriesMetadata {
 }
 
 /**
- * Composable zum Laden der Kategorien-Metadata
- * Lädt die automatisch generierte categories-metadata.json
- * (wird beim Build automatisch aus allen JSON-Dateien erstellt)
- * 
- * @returns Die Kategorien mit Loading- und Error-States
+ * Loads the aggregated category metadata (slug + label + counts)
+ * generated during the build step.
  */
 export function useCategoriesMetadata(): {
   categories: Ref<Category[]>;
@@ -29,7 +26,7 @@ export function useCategoriesMetadata(): {
       // Load categories metadata (auto-generated beim Build)
       const module = await import("../propData/categories-metadata.json");
       const metadata = module.default as CategoriesMetadata;
-      
+
       categories.value = metadata.categories;
       totalProps.value = metadata.totalProps;
     } catch (e) {

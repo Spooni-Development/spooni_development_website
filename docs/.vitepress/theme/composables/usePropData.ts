@@ -18,17 +18,8 @@ export function usePropData(selectedCategory: Ref<string>): {
     error.value = null;
 
     try {
-      let categoryToLoad = category;
-      if (category === 'favorites') {
-        categoryToLoad = 'all';
-      }
-      
-      const sanitizedName = categoryToLoad
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/^-+|-+$/g, '');
-      
-      const module = await import(`../propData/${sanitizedName}.json`);
+      const categoryToLoad = category === 'favorites' ? 'all' : category;
+      const module = await import(`../propData/${categoryToLoad}.json`);
       const data = module.default;
       
       if (Array.isArray(data)) {

@@ -48,6 +48,8 @@
             :selectedSubcategory="selectedSubcategory"
             :itemsPerPage="itemsPerPage"
             :columnsPerRow="columnsPerRow"
+            :selectedCategoryLabel="selectedCategoryLabel"
+            :selectedSubcategoryLabel="selectedSubcategoryLabel"
             @update:itemsPerPage="itemsPerPage = $event"
             @update:columnsPerRow="columnsPerRow = $event"
           />
@@ -86,6 +88,7 @@ import { useCategoriesMetadata } from './composables/useCategoriesMetadata';
 import { usePropFilter } from './composables/usePropFilter';
 import { usePagination } from './composables/usePagination';
 import { useFavorites } from './composables/useFavorites';
+import { usePropDeepLink } from './composables/usePropDeepLink';
 
 import PropSidebar from './components/PropSidebar.vue';
 import PropSearch from './components/PropSearch.vue';
@@ -96,6 +99,7 @@ import PropPagination from './components/PropPagination.vue';
 import FavoritesManager from './components/FavoritesManager.vue';
 import LoadingSpinner from './components/LoadingSpinner.vue';
 import { PROPS_GALLERY, PAGINATION, GRID_LAYOUT, ANIMATION } from './constants';
+import type { Category } from './types';
 
 // Constants
 const totalPropsEstimate = PROPS_GALLERY.TOTAL_PROPS_ESTIMATE;
@@ -126,6 +130,57 @@ const { propData, isLoading, error } = usePropData(selectedCategory);
 // Categories (from metadata)
 const { categories, totalProps: totalPropsCount } = useCategoriesMetadata();
 
+usePropDeepLink({
+  categories,
+  selectedCategory,
+  selectedSubcategory
+});
+
+const categoryMap = computed(() => {
+  const map = new Map<string, Category>();
+  categories.value.forEach((category) => {
+    map.set(category.slug, category);
+  });
+  return map;
+});
+
+const selectedCategoryLabel = computed(() => {
+  if (selectedCategory.value === 'favorites') return 'Favorites';
+  if (selectedCategory.value === 'all') return 'All Props';
+  return categoryMap.value.get(selectedCategory.value)?.label ?? 'All Props';
+});
+
+const selectedSubcategoryLabel = computed(() => {
+  if (selectedSubcategory.value === 'all') return '';
+  const category = categoryMap.value.get(selectedCategory.value);
+  return (
+    category?.subcategories.find((sub) => sub.slug === selectedSubcategory.value)?.label ?? ''
+  );
+});
+
+watch([selectedCategory, categories], () => {
+  if (selectedCategory.value === 'all' || selectedCategory.value === 'favorites') {
+    if (selectedSubcategory.value !== 'all') {
+      selectedSubcategory.value = 'all';
+    }
+    return;
+  }
+
+  const category = categoryMap.value.get(selectedCategory.value);
+  if (!category) {
+    selectedCategory.value = 'all';
+    selectedSubcategory.value = 'all';
+    return;
+  }
+
+  const hasSubcategory = category.subcategories.some(
+    (sub) => sub.slug === selectedSubcategory.value
+  );
+  if (!hasSubcategory) {
+    selectedSubcategory.value = 'all';
+  }
+});
+
 // Computed property for displaying props based on selected category
 const displayProps = computed(() => {
   if (selectedCategory.value === 'favorites') {
@@ -140,7 +195,6 @@ const displayProps = computed(() => {
 const { filteredProps } = usePropFilter(
   displayProps,
   searchQuery,
-  selectedCategory,
   selectedSubcategory
 );
 

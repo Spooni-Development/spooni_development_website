@@ -13,6 +13,22 @@ const path = require('path');
 const propDataDir = path.join(__dirname, '../docs/.vitepress/theme/propData');
 const outputPath = path.join(propDataDir, 'categories-metadata.json');
 
+function toSlug(value) {
+  return value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function toLabel(value) {
+  return value
+    .replace(/[_-]+/g, ' ')
+    .split(' ')
+    .filter(Boolean)
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+}
+
 console.log('📊 Generating categories metadata...');
 
 // Finde alle JSON-Dateien (außer metadata, template und all.json)
@@ -32,14 +48,8 @@ let totalProps = 0;
 files.forEach(file => {
   const filePath = path.join(propDataDir, file);
   const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  
-  // Convert filename to readable category name
-  // e.g. "spooni-props.json" -> "Spooni Props"
-  const categoryName = file
-    .replace('.json', '')
-    .split('-')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
+  const slug = file.replace('.json', '');
+  const label = toLabel(slug);
   
   // Check if it's new format (with metadata) or old format (just array)
   let props, subcategories;
@@ -52,13 +62,14 @@ files.forEach(file => {
     const subMap = new Map();
     props.forEach(prop => {
       if (prop.subcategory) {
-        if (!subMap.has(prop.subcategory)) {
-          subMap.set(prop.subcategory, { name: prop.subcategory, count: 0 });
+        const subSlug = toSlug(prop.subcategory);
+        if (!subMap.has(subSlug)) {
+          subMap.set(subSlug, { slug: subSlug, label: toLabel(prop.subcategory), count: 0 });
         }
-        subMap.get(prop.subcategory).count++;
+        subMap.get(subSlug).count++;
       }
     });
-    subcategories = Array.from(subMap.values()).sort((a, b) => a.name.localeCompare(b.name));
+    subcategories = Array.from(subMap.values()).sort((a, b) => a.label.localeCompare(b.label));
     
   } else {
     // New format: with metadata
@@ -66,41 +77,47 @@ files.forEach(file => {
     
     // Use defined subcategories from metadata
     if (data.metadata?.subcategories) {
-      subcategories = data.metadata.subcategories.map(sub => ({
-        name: sub.name,
-        count: props.filter(p => p.subcategory === sub.name).length
-      }));
+      subcategories = data.metadata.subcategories.map(sub => {
+        const subSlug = toSlug(sub.name);
+        return {
+          slug: subSlug,
+          label: toLabel(sub.name),
+          count: props.filter(p => toSlug(p.subcategory ?? '') === subSlug).length
+        };
+      });
     } else {
       // Fallback: extract from props
       const subMap = new Map();
       props.forEach(prop => {
         if (prop.subcategory) {
-          if (!subMap.has(prop.subcategory)) {
-            subMap.set(prop.subcategory, { name: prop.subcategory, count: 0 });
+          const subSlug = toSlug(prop.subcategory);
+          if (!subMap.has(subSlug)) {
+            subMap.set(subSlug, { slug: subSlug, label: toLabel(prop.subcategory), count: 0 });
           }
-          subMap.get(prop.subcategory).count++;
+          subMap.get(subSlug).count++;
         }
       });
-      subcategories = Array.from(subMap.values()).sort((a, b) => a.name.localeCompare(b.name));
+      subcategories = Array.from(subMap.values()).sort((a, b) => a.label.localeCompare(b.label));
     }
   }
-  
+
   categories.push({
-    name: categoryName,
+    slug,
+    label,
     count: props.length,
     subcategories: subcategories
   });
   
   totalProps += props.length;
   
-  console.log(`  ✓ ${categoryName.padEnd(30)} ${props.length.toString().padStart(6)} props`);
+  console.log(`  ✓ ${label.padEnd(30)} ${props.length.toString().padStart(6)} props`);
 });
 
 // Sort categories (Spooni Props first, then alphabetical)
 categories.sort((a, b) => {
-  if (a.name === "Spooni Props") return -1;
-  if (b.name === "Spooni Props") return 1;
-  return a.name.localeCompare(b.name);
+  if (a.slug === "spooni-props") return -1;
+  if (b.slug === "spooni-props") return 1;
+  return a.label.localeCompare(b.label);
 });
 
 // Create metadata
