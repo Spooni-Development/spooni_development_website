@@ -331,7 +331,7 @@ head:
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1404921397293355090/e212d9bd0c1b1e35a577530bbb230562.webp?size=128&quality=lossless',
+            avatar: '/partner/tier2/lonestar-rp.webp',
             name: 'LoneStar Roleplay',
             title: '📀 TIER II',
             links: [
@@ -339,7 +339,7 @@ head:
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1308314913202241537/de805cb2bc95bb0eef96ffbd6192aa93.webp?size=128&quality=lossless',
+            avatar: '/partner/tier2/dirty-south-roleplay.webp',
             name: 'Dirty South Roleplay',
             title: '📀 TIER II',
             links: [
@@ -347,15 +347,15 @@ head:
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/1075306420339228742/67c1dfc736eb31cfe1f5df793f2974ad.webp?size=128&quality=lossless',
-            name: 'Highwater RP',
+            avatar: '/partner/tier2/highwater-rp.webp',
+            name: 'Highwater Roleplay',
             title: '📀 TIER II',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/highwaterroleplay' },
             ]
         },
         {
-            avatar: 'https://cdn.discordapp.com/icons/985257469280407632/dc750845088510b51c14a27bc2c1b8c7.webp?size=128&quality=lossless',
+            avatar: '/partner/tier2/nexus-rp.webp',
             name: 'Nexus Roleplay',
             title: '📀 TIER II',
             links: [
