@@ -356,10 +356,10 @@ head:
         },
         {
             avatar: '/partner/tier2/nexus-rp.webp',
-            name: 'Nexus Roleplay',
+            name: 'Nexus County Roleplay',
             title: '📀 TIER II',
             links: [
-                { icon: 'discord', link: 'https://discord.gg/RJhRAQb8wK' },
+                { icon: 'discord', link: 'https://discord.gg/nexuscounty' },
             ]
         },
         {
