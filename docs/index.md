@@ -38,7 +38,7 @@ features:
       height: 32
     title: Showcase Server
     details: Want to test our mappings and scripts before purchasing? On our Showcase Server, you can explore all products in a real gameplay environment. Check out our detailed mappings, test scripts in action, and see the quality of our work for yourself. Join the server and experience Spooni Development firsthand!
-    link: redm://connect/51.77.90.75:30120
+    link: redm://connect/185.45.149.3:30190
     linkText: Join Server
   - icon:
       src: /icons/settings.svg

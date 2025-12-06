@@ -498,7 +498,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
-<ServerStatus serverIp="51.77.90.75" :serverPort="30120" serverType="redm" />
+<ServerStatus serverIp="185.45.149.3" :serverPort="30190" serverType="redm" />
 </div>
 </div>
 </div>
@@ -508,7 +508,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
-<ServerStatus serverIp="176.96.137.178" :serverPort="30120" serverType="redm" />
+<ServerStatus serverIp="185.45.149.3" :serverPort="30120" serverType="redm" />
 </div>
 </div>
 </div>
@@ -518,7 +518,7 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
-<ServerStatus serverIp="176.96.137.178" :serverPort="30130" serverType="redm" />
+<ServerStatus serverIp="185.45.149.3" :serverPort="30130" serverType="redm" />
 </div>
 </div>
 </div>
@@ -528,27 +528,47 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
-<ServerStatus serverIp="176.96.137.178" :serverPort="30140" serverType="redm" />
+<ServerStatus serverIp="185.45.149.3" :serverPort="30140" serverType="redm" />
 </div>
 </div>
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">RSG</h3>
+<h3 class="status-card-title">Mapping 3</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
-<ServerStatus serverIp="176.96.137.178" :serverPort="30150" serverType="redm" />
+<ServerStatus serverIp="185.45.149.3" :serverPort="30150" serverType="redm" />
 </div>
 </div>
 </div>
 <div class="status-card">
 <div class="status-card-header">
-<h3 class="status-card-title">FiveM</h3>
+<h3 class="status-card-title">Mapping 4</h3>
 </div>
 <div class="status-card-body">
 <div class="server-status-wrapper">
-<ServerStatus serverIp="176.96.137.178" :serverPort="30160" serverType="fivem" />
+<ServerStatus serverIp="185.45.149.3" :serverPort="30160" serverType="redm" />
+</div>
+</div>
+</div>
+<div class="status-card">
+<div class="status-card-header">
+<h3 class="status-card-title">Mapping 5</h3>
+</div>
+<div class="status-card-body">
+<div class="server-status-wrapper">
+<ServerStatus serverIp="185.45.149.3" :serverPort="30170" serverType="redm" />
+</div>
+</div>
+</div>
+<div class="status-card">
+<div class="status-card-header">
+<h3 class="status-card-title">Mapping 6</h3>
+</div>
+<div class="status-card-body">
+<div class="server-status-wrapper">
+<ServerStatus serverIp="185.45.149.3" :serverPort="30180" serverType="redm" />
 </div>
 </div>
 </div>
