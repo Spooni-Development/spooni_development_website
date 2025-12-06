@@ -514,6 +514,16 @@ function getStatusIcon(status) {
 </div>
 <div class="status-card">
 <div class="status-card-header">
+<h3 class="status-card-title">RSG</h3>
+</div>
+<div class="status-card-body">
+<div class="server-status-wrapper">
+<ServerStatus serverIp="185.45.149.3" :serverPort="30125" serverType="redm" />
+</div>
+</div>
+</div>
+<div class="status-card">
+<div class="status-card-header">
 <h3 class="status-card-title">Mapping</h3>
 </div>
 <div class="status-card-body">
