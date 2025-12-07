@@ -37,6 +37,6 @@ Go to a prop in the list and interact with the prompt to open the menu, where yo
 
 ## 3. Credits
 
-Big thanks go to [kibook](https://github.com/kibook) the creator of the main script, since the script is already 3 years old (as of 2024) we wanted to give it a little overhaul.
+Big thanks go to [kibook](https://github.com/kibook) the creator of the main script, since the script is already 3 years old (As of: 2024) we wanted to give it a little overhaul.
 
 Click here for the [original script](https://github.com/kibook/redm-interactions)

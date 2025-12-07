@@ -272,6 +272,7 @@ export default defineConfig({
               { text: "🎄 XMAS Calender", link:'/doc_scripts/spooni/spooni_xmas_calendar' },
               { text: "🚁 Zeppelin", link:'/doc_scripts/spooni/spooni_zeppelin' },
               { text: "Free Scripts", collapsed: true, items:[
+                { text: "🏝️ Guarma Travel", link:'/doc_scripts/spooni/spooni_guarma_travel' },
                 { text: "💻 HUD", link:'/doc_scripts/spooni/spooni_hud' },
                 { text: "🪑 Interactions", link:'/doc_scripts/spooni/spooni_interactions' },
                 { text: "📍 Job Blips", link:'/doc_scripts/spooni/spooni_job_blips' },
