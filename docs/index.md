@@ -109,7 +109,7 @@ const sponsors = [
         ]
     },
     {
-        avatar: 'icons/user.svg',
+        avatar: '/sponsor/projekt-babylon.webp',
         name: 'Projekt Babylon',
         title: 'RDR2 Roleplay',
         links: [
@@ -122,6 +122,14 @@ const sponsors = [
         title: 'RDR2 Roleplay',
         links: [
             { icon: 'discord', link: 'https://discord.gg/tPHPT3fzev' },
+        ]
+    },
+    {
+        avatar: '/sponsor/three-pines.webp',
+        name: 'Three Pines',
+        title: 'RDR2 Roleplay',
+        links: [
+            { icon: 'discord', link: 'https://discord.gg/gwb2xZJCPR' },
         ]
     },
     {

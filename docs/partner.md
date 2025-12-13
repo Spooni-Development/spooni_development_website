@@ -734,6 +734,22 @@ head:
             ]
         },
         {
+            avatar: '/partner/tier1/oldlife.webp',
+            name: 'OLDLIFE',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/SbzYhGQ5x4' },
+            ]
+        },
+        {
+            avatar: '/partner/tier1/downtown-rp.webp',
+            name: 'Downtown Roleplay',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/downtown' },
+            ]
+        },
+        {
             avatar: '/partner/tier1/starr-hawke-rp.webp',
             name: 'Starr Hawke RP',
             title: '💿 TIER I',
@@ -907,14 +923,6 @@ head:
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/7Z2UGm5sSA' },
-            ]
-        },
-        {
-            avatar: '/partner/tier1/oldlife.webp',
-            name: 'Oldlife',
-            title: '💿 TIER I',
-            links: [
-                { icon: 'discord', link: 'https://discord.com/invite/9ajTaAbKu5' },
             ]
         },
         {
