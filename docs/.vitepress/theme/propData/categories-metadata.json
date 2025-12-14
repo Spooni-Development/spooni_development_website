@@ -1,10 +1,10 @@
 {
-  "totalProps": 14867,
+  "totalProps": 14911,
   "categories": [
     {
       "slug": "spooni-props",
       "label": "Spooni Props",
-      "count": 290,
+      "count": 334,
       "subcategories": [
         {
           "slug": "bauteile",
@@ -40,6 +40,11 @@
           "slug": "furniture",
           "label": "Furniture",
           "count": 61
+        },
+        {
+          "slug": "furniture-3",
+          "label": "Furniture 3",
+          "count": 44
         },
         {
           "slug": "pavillion",

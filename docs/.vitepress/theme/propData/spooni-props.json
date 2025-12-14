@@ -952,6 +952,182 @@
     "subcategory": "furniture"
   },
   {
+    "id": "brick-0-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "brick-0-smooth_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "lu_standard_dirt",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "lu_standard_dirt_pxm",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "lu_standard_pxm",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "lu_terrain",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "lu_terrain_pxm",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-aluminium-polish_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-bronze-patina_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-bronze-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-bronze-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-copper-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-copper-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-gold-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-gold-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-iron-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-iron_rough2_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-iron_rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-nickel-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-nickel-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-oxidized-rust-_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-platinum-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-silver-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "metal-0-titanium-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "mixed-0-asphalt-new_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "mixed-0-breeze--block_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "paint-0-matte_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "plastic-0-gloss_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "plastic-0-matte_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "rock-0-marble-polished_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "rock-0-marble-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-dirt-damp_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-dirt_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-grass_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-ice-rough_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-ice-smooth_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-mud_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-sand-fine_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "terrain-0-snow_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "wood-0-burnt_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "wood-0-frenchpolish_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "wood-0-lacquer_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "wood-0-smooth_01",
+    "subcategory": "Furniture 3"
+  },
+  {
+    "id": "wood-0-varnish_01",
+    "subcategory": "Furniture 3"
+  },
+  {
     "id": "toilette1",
     "subcategory": "furniture"
   },
