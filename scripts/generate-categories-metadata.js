@@ -3,8 +3,12 @@
 /**
  * Generate Categories Metadata
  * 
- * Liest alle JSON-Dateien aus propData/ und generiert categories-metadata.json
- * Wird automatisch beim Build ausgeführt
+ * Reads all JSON files from propData/ and generates:
+ * - categories-metadata.json (metadata for all categories)
+ * - all.json (all props from all categories combined)
+ * - Updates constants.ts with the total count
+ * 
+ * Runs automatically during build
  */
 
 const fs = require('fs');
@@ -29,88 +33,90 @@ function toLabel(value) {
     .join(' ');
 }
 
+function extractSubcategories(props) {
+  const subMap = new Map();
+  props.forEach(prop => {
+    if (prop.subcategory) {
+      const subSlug = toSlug(prop.subcategory);
+      if (!subMap.has(subSlug)) {
+        subMap.set(subSlug, { slug: subSlug, label: toLabel(prop.subcategory), count: 0 });
+      }
+      subMap.get(subSlug).count++;
+    }
+  });
+  return Array.from(subMap.values()).sort((a, b) => a.label.localeCompare(b.label));
+}
+
 console.log('📊 Generating categories metadata...');
 
-// Finde alle JSON-Dateien (außer metadata, template und all.json)
+// Find all JSON files (except metadata, template and all.json)
 const files = fs.readdirSync(propDataDir)
   .filter(file => 
     file.endsWith('.json') && 
     !file.startsWith('_') && 
     file !== 'categories-metadata.json' &&
     file !== 'all.json'  // Exclude all.json
-  );
+  )
+  .sort(); // Sort alphabetically for consistent order
 
 console.log(`Found ${files.length} category files`);
 
 const categories = [];
+const allProps = []; // Collect all props for all.json
 let totalProps = 0;
 
 files.forEach(file => {
   const filePath = path.join(propDataDir, file);
-  const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
   const slug = file.replace('.json', '');
   const label = toLabel(slug);
   
-  // Check if it's new format (with metadata) or old format (just array)
-  let props, subcategories;
-  
-  if (Array.isArray(data)) {
-    // Old format: just array of props
-    props = data;
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
     
-    // Build subcategories from props
-    const subMap = new Map();
-    props.forEach(prop => {
-      if (prop.subcategory) {
-        const subSlug = toSlug(prop.subcategory);
-        if (!subMap.has(subSlug)) {
-          subMap.set(subSlug, { slug: subSlug, label: toLabel(prop.subcategory), count: 0 });
-        }
-        subMap.get(subSlug).count++;
-      }
-    });
-    subcategories = Array.from(subMap.values()).sort((a, b) => a.label.localeCompare(b.label));
+    // Check if it's new format (with metadata) or old format (just array)
+    let props, subcategories;
     
-  } else {
-    // New format: with metadata
-    props = data.props || [];
-    
-    // Use defined subcategories from metadata
-    if (data.metadata?.subcategories) {
-      subcategories = data.metadata.subcategories.map(sub => {
-        const subSlug = toSlug(sub.name);
-        return {
-          slug: subSlug,
-          label: toLabel(sub.name),
-          count: props.filter(p => toSlug(p.subcategory ?? '') === subSlug).length
-        };
-      });
+    if (Array.isArray(data)) {
+      // Old format: just array of props
+      props = data;
+      subcategories = extractSubcategories(props);
     } else {
-      // Fallback: extract from props
-      const subMap = new Map();
-      props.forEach(prop => {
-        if (prop.subcategory) {
-          const subSlug = toSlug(prop.subcategory);
-          if (!subMap.has(subSlug)) {
-            subMap.set(subSlug, { slug: subSlug, label: toLabel(prop.subcategory), count: 0 });
-          }
-          subMap.get(subSlug).count++;
-        }
-      });
-      subcategories = Array.from(subMap.values()).sort((a, b) => a.label.localeCompare(b.label));
+      // New format: with metadata
+      props = data.props || [];
+      
+      // Use defined subcategories from metadata
+      if (data.metadata?.subcategories) {
+        subcategories = data.metadata.subcategories.map(sub => {
+          const subSlug = toSlug(sub.name);
+          return {
+            slug: subSlug,
+            label: toLabel(sub.name),
+            count: props.filter(p => toSlug(p.subcategory ?? '') === subSlug).length
+          };
+        });
+      } else {
+        // Fallback: extract from props
+        subcategories = extractSubcategories(props);
+      }
     }
-  }
 
-  categories.push({
-    slug,
-    label,
-    count: props.length,
-    subcategories: subcategories
-  });
-  
-  totalProps += props.length;
-  
-  console.log(`  ✓ ${label.padEnd(30)} ${props.length.toString().padStart(6)} props`);
+    categories.push({
+      slug,
+      label,
+      count: props.length,
+      subcategories: subcategories
+    });
+    
+    // Add all props to the collection for all.json
+    allProps.push(...props);
+    
+    totalProps += props.length;
+    
+    console.log(`  ✓ ${label.padEnd(30)} ${props.length.toString().padStart(6)} props`);
+  } catch (error) {
+    console.error(`  ✗ Error processing ${file}: ${error.message}`);
+    process.exitCode = 1;
+  }
 });
 
 // Sort categories (Spooni Props first, then alphabetical)
@@ -120,6 +126,9 @@ categories.sort((a, b) => {
   return a.label.localeCompare(b.label);
 });
 
+// Sort all props alphabetically by id for consistent order
+allProps.sort((a, b) => (a.id || '').localeCompare(b.id || ''));
+
 // Create metadata
 const metadata = {
   totalProps: totalProps,
@@ -127,21 +136,41 @@ const metadata = {
 };
 
 // Write metadata file
-fs.writeFileSync(outputPath, JSON.stringify(metadata, null, 2), 'utf-8');
+try {
+  fs.writeFileSync(outputPath, JSON.stringify(metadata, null, 2), 'utf-8');
+  console.log('');
+  console.log(`✅ Generated categories-metadata.json`);
+} catch (error) {
+  console.error(`❌ Error writing categories-metadata.json: ${error.message}`);
+  process.exit(1);
+}
+
+// Generate all.json with all props combined
+try {
+  const allJsonPath = path.join(propDataDir, 'all.json');
+  fs.writeFileSync(allJsonPath, JSON.stringify(allProps, null, 2), 'utf-8');
+  console.log(`✅ Generated all.json with ${allProps.length} combined props`);
+} catch (error) {
+  console.error(`❌ Error writing all.json: ${error.message}`);
+  process.exit(1);
+}
 
 // Update constants.ts with the new total
-const constantsPath = path.join(__dirname, '../docs/.vitepress/theme/constants.ts');
-let constantsContent = fs.readFileSync(constantsPath, 'utf-8');
-constantsContent = constantsContent.replace(
-  /TOTAL_PROPS_ESTIMATE:\s*\d+,\s*\/\/ Auto-generated by generate-categories-metadata\.js/,
-  `TOTAL_PROPS_ESTIMATE: ${totalProps}, // Auto-generated by generate-categories-metadata.js`
-);
-fs.writeFileSync(constantsPath, constantsContent, 'utf-8');
+try {
+  const constantsPath = path.join(__dirname, '../docs/.vitepress/theme/constants.ts');
+  let constantsContent = fs.readFileSync(constantsPath, 'utf-8');
+  constantsContent = constantsContent.replace(
+    /TOTAL_PROPS_ESTIMATE:\s*\d+,\s*\/\/ Auto-generated by generate-categories-metadata\.js/,
+    `TOTAL_PROPS_ESTIMATE: ${totalProps}, // Auto-generated by generate-categories-metadata.js`
+  );
+  fs.writeFileSync(constantsPath, constantsContent, 'utf-8');
+  console.log(`✅ Updated constants.ts with total props count`);
+} catch (error) {
+  console.error(`❌ Error updating constants.ts: ${error.message}`);
+  process.exit(1);
+}
 
-console.log('');
-console.log(`✅ Generated categories-metadata.json`);
 console.log(`   Total categories: ${categories.length}`);
 console.log(`   Total props: ${totalProps}`);
-console.log(`✅ Updated constants.ts with total props count`);
 console.log('');
 
