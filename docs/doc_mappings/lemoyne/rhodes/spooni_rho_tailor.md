@@ -1,6 +1,6 @@
 ---
 title: Rhodes Tailor
-description: SPOONI Rhodes Tailor MLO for RedM - Clothing shop interior with workshop area. Fashion and tailoring business for Rhodes roleplay in Red Dead Redemption 2.
+description: Clothing shop interior with workshop area in Rhodes, Lemoyne.
 ---
 
 # 🏠 Rhodes Tailor

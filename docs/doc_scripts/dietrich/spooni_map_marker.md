@@ -1,6 +1,6 @@
 ---
-title: Map Marker Script
-description: Advanced map marker system for RedM by Dietrich Development. Create custom waypoints and markers for your Red Dead Redemption 2 roleplay server.
+title: Map Marker
+description: Advanced map marker system by Dietrich Development. Create custom waypoints and markers.
 ---
 
 # 🗺️ Map Marker

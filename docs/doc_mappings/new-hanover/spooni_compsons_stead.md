@@ -1,6 +1,6 @@
 ---
 title: Compsons Stead
-description: SPOONI Compson's Stead MLO for RedM - Homestead with cabin and outbuildings. Rural property for New Hanover frontier roleplay in Red Dead Redemption 2.
+description: Homestead with cabin and outbuildings in New Hanover.
 ---
 
 # 🏠 Compsons Stead

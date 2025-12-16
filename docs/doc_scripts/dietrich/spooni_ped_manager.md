@@ -1,6 +1,6 @@
 ---
-title: Ped Manager Script
-description: Dynamic ambient and ped behavior system for RedM by Dietrich Development. Manage NPCs, spawn pedestrians, and control AI behavior in Red Dead Redemption 2 servers.
+title: Ped Manager
+description: Dynamic ambient and ped behavior system by Dietrich Development. Manage NPCs, spawn pedestrians, and control AI behavior.
 ---
 
 # 👥 Dynamic Ambient & Ped Behavior System

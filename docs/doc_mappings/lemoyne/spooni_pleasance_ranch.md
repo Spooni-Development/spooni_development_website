@@ -1,6 +1,6 @@
 ---
 title: Pleasance Ranch
-description: SPOONI Pleasance Ranch MLO for RedM - Abandoned ranch with dark history and detailed interior. Haunted property for Lemoyne mystery roleplay in Red Dead Redemption 2.
+description: Abandoned ranch with dark history and detailed interior in Lemoyne.
 ---
 
 # 🏠 Pleasance Ranch

@@ -1,6 +1,6 @@
 ---
 title: Bacchus Station
-description: SPOONI Bacchus Station MLO for RedM - Railway station with detailed interior. Remote depot for New Hanover train roleplay in Red Dead Redemption 2.
+description: Railway station with detailed interior in New Hanover.
 ---
 
 # 🏠 Bacchus Station

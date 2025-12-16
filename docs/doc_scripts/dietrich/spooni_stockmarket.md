@@ -1,6 +1,6 @@
 ---
-title: Stockmarket Script
-description: Dynamic stock market trading system for RedM by Dietrich Development. Buy and sell shares, track market trends, and manage investments in your Red Dead Redemption 2 roleplay economy.
+title: Stock Market
+description: Dynamic stock market trading system by Dietrich Development. Buy and sell shares, track market trends, and manage investments.
 ---
 
 # 📈 Stockmarket

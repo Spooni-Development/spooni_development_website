@@ -1,6 +1,6 @@
 ---
 title: Braithwaite Storage House
-description: SPOONI Braithwaite Storage House MLO for RedM - Warehouse building with storage space. Supply depot for Braithwaite Manor area roleplay in Red Dead Redemption 2 Lemoyne.
+description: Warehouse building with storage space in Lemoyne.
 ---
 
 # 🏠 Braithwaite Storage House

@@ -1,6 +1,6 @@
 ---
 title: Vultures Claim
-description: SPOONI Vulture's Claim MLO for RedM - Abandoned mining settlement with detailed interiors. Ghost town for New Austin exploration roleplay in Red Dead Redemption 2.
+description: Abandoned mining settlement with detailed interiors in New Austin.
 ---
 
 # 🏠 Vultures Claim

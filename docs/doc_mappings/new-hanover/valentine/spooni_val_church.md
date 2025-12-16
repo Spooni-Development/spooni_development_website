@@ -1,6 +1,6 @@
 ---
 title: Valentine Church
-description: SPOONI Valentine Church MLO for RedM - Detailed church interior with office and back rooms. Premium religious building for Valentine roleplay servers in Red Dead Redemption 2.
+description: Detailed church interior with office and back rooms in Valentine, New Hanover.
 ---
 
 # 🏠 Valentine Church

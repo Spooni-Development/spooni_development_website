@@ -1,6 +1,6 @@
 ---
 title: Aspen Lodge
-description: SPOONI Aspen Lodge MLO for RedM - Mountain cabin retreat with detailed interior. Wilderness lodge for New Austin high country roleplay in Red Dead Redemption 2.
+description: Mountain cabin retreat with detailed interior in New Austin.
 ---
 
 # 🏠 Aspen Lodge

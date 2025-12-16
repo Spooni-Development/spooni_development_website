@@ -1,6 +1,6 @@
 ---
 title: Armadillo Church
-description: SPOONI Armadillo Church MLO for RedM - Desert town church with detailed interior. Religious building for Armadillo roleplay in Red Dead Redemption 2 New Austin.
+description: Desert town church with detailed interior in Armadillo, New Austin.
 ---
 
 # 🏠 Armadillo Church

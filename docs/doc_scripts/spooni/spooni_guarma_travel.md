@@ -1,6 +1,6 @@
 ---
 title: Guarma Travel
-description: SPOONI Guarma Travel script for RedM - Travel system between Mainland and Guarma. Features smooth transitions, water effects, and customizable travel points for your RDR2 roleplay server.
+description: Travel system between Mainland and Guarma. Features smooth transitions, water effects, and customizable travel points.
 ---
 
 # 🏝️ Guarma Travel

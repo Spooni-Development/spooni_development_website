@@ -1,6 +1,6 @@
 ---
 title: Nordheim
-description: SPOONI Nordheim MLO for RedM - Alpine village in Ambarino with cable car system and sled tracks. Detailed mountain settlement for Red Dead Redemption 2 roleplay servers.
+description: Alpine village with cable car system and sled tracks in Ambarino.
 ---
 
 # ❄️ Nordheim

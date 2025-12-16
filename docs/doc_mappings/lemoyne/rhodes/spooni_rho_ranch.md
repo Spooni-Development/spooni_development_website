@@ -1,6 +1,6 @@
 ---
 title: Ranch near Rhodes
-description: SPOONI Ranch near Rhodes MLO for RedM - Working ranch with barns and living quarters. Agricultural property for Rhodes area roleplay in Red Dead Redemption 2.
+description: Working ranch with barns and living quarters near Rhodes, Lemoyne.
 ---
 
 # 🏠 Ranch near Rhodes

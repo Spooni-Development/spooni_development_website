@@ -1,6 +1,6 @@
 ---
 title: Railroad
-description: SPOONI Railroad Expansion MLO for RedM - Enhanced railway stations and rail facilities. Complete railroad infrastructure for Red Dead Redemption 2 roleplay servers.
+description: Enhanced railway stations and rail facilities.
 ---
 
 # 🛤️ Railroad

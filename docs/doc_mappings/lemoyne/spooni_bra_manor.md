@@ -1,6 +1,6 @@
 ---
 title: Braithwaite Manor
-description: SPOONI Braithwaite Manor MLO for RedM - Braithwaite upgrade for roleplay in Red Dead Redemption 2 Lemoyne.
+description: Grand plantation mansion with detailed interior in Lemoyne.
 ---
 
 # 🏠 Braithwaite Manor

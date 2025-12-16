@@ -108,27 +108,30 @@ function selectSubcategory(subcategory: string) {
 /* Custom Scrollbar Styling */
 .prop-sidebar::-webkit-scrollbar {
   width: 8px;
+  display: block;
 }
 
 .prop-sidebar::-webkit-scrollbar-track {
-  background: transparent;
+  background: var(--vp-c-bg-soft);
   border-radius: var(--radius-lg);
 }
 
 .prop-sidebar::-webkit-scrollbar-thumb {
-  background: var(--vp-c-bg);
+  background: var(--vp-c-divider);
   border-radius: var(--radius-lg);
+  border: 2px solid var(--vp-c-bg-soft);
   transition: background var(--transition-base) ease;
 }
 
 .prop-sidebar::-webkit-scrollbar-thumb:hover {
   background: var(--vp-c-brand);
+  border-color: transparent;
 }
 
 /* Firefox Scrollbar */
 .prop-sidebar {
   scrollbar-width: thin;
-  scrollbar-color: var(--vp-c-bg) transparent;
+  scrollbar-color: var(--vp-c-divider) var(--vp-c-bg-soft);
 }
 
 .sidebar-content {

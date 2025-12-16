@@ -1,6 +1,6 @@
 ---
 title: Secret Cellar
-description: SPOONI Secret Cellar MLO for RedM - Hidden underground facility with secret rooms. Concealed location for mystery and criminal roleplay in Red Dead Redemption 2.
+description: Hidden underground facility with secret rooms.
 ---
 
 # 🏠 Secret Cellar

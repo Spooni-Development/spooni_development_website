@@ -1,6 +1,6 @@
 ---
 title: Wild Horse Manager
-description: Comprehensive wild horse spawning and taming system for RedM by Dietrich Development. Capture, tame, and manage wild horses in your Red Dead Redemption 2 roleplay server.
+description: Comprehensive wild horse spawning and taming system by Dietrich Development. Capture, tame, and manage wild horses.
 ---
 
 # 🐎 Wild Horse Manager

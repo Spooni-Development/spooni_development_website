@@ -1,6 +1,6 @@
 ---
 title: Tumbleweed Train Station
-description: SPOONI Tumbleweed Train Station MLO for RedM - Abandoned railway station with detailed interior. Ghost town depot for Tumbleweed roleplay in Red Dead Redemption 2 New Austin.
+description: Abandoned railway station with detailed interior in Tumbleweed, New Austin.
 ---
 
 # 🏠 Tumbleweed Train Station

@@ -1,6 +1,6 @@
 ---
 title: Valentine Law Office
-description: SPOONI Valentine Law Office MLO for RedM - Sheriff's office with cells and offices. Law enforcement building for Valentine roleplay in Red Dead Redemption 2 New Hanover.
+description: Sheriff's office with cells and offices in Valentine, New Hanover.
 ---
 
 # 🏠 Valentine Law Office

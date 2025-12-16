@@ -1,6 +1,6 @@
 ---
 title: Rathskeller Fork
-description: SPOONI Rathskeller Fork MLO for RedM - Riverside settlement with buildings. Small New Austin community for frontier roleplay in Red Dead Redemption 2.
+description: Riverside settlement with buildings in New Austin.
 ---
 
 # 🏠  Rathskeller Fork

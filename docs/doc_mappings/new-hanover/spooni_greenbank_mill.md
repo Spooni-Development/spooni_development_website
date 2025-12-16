@@ -1,6 +1,6 @@
 ---
 title: Greenbank Mill
-description: SPOONI Greenbank Mill MLO for RedM - Working lumber mill with processing area. Industrial facility for New Hanover logging roleplay in Red Dead Redemption 2.
+description: Working lumber mill with processing area in New Hanover.
 ---
 
 # 🏠 Greenbank Mill

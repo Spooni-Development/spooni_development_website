@@ -1,6 +1,6 @@
 ---
 title: St. Denis Police
-description: SPOONI St. Denis Police MLO for RedM - Detailed police station add-on with offices, cells, armory, and interrogation rooms. High-quality interior mapping for Saint Denis roleplay servers in Red Dead Redemption 2.
+description: Detailed police station add-on with offices, cells, armory, and interrogation rooms in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Police

@@ -15,29 +15,32 @@ html {
    Custom Scrollbar
    ======================================== */
 
-/* Webkit Scrollbar (Chrome, Safari, Edge) */
+/* Webkit Scrollbar (Chrome, Safari, Edge, OperaGX) */
 ::-webkit-scrollbar {
   width: 8px;
+  display: block;
 }
 
 ::-webkit-scrollbar-track {
-  background: transparent;
+  background: var(--vp-c-bg-soft);
   border-radius: var(--radius-lg);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--vp-c-bg);
+  background: var(--vp-c-divider);
   border-radius: var(--radius-lg);
+  border: 2px solid var(--vp-c-bg-soft);
   transition: background var(--transition-base) ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--vp-c-brand);
+  border-color: transparent;
 }
 
 /* Firefox Scrollbar */
 * {
   scrollbar-width: thin;
-  scrollbar-color: var(--vp-c-bg) transparent;
+  scrollbar-color: var(--vp-c-divider) var(--vp-c-bg-soft);
 }
 

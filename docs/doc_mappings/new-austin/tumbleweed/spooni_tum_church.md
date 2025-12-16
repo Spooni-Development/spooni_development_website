@@ -1,6 +1,6 @@
 ---
 title: Tumbleweed Church
-description: SPOONI Tumbleweed Church MLO for RedM - Desert ghost town church with detailed interior. Abandoned religious building for Tumbleweed roleplay in Red Dead Redemption 2 New Austin.
+description: Desert ghost town church with detailed interior in Tumbleweed, New Austin.
 ---
 
 # 🏠 Tumbleweed Church

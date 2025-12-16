@@ -1,6 +1,6 @@
 ---
 title: Fort Oasis
-description: SPOONI Fort Oasis MLO for RedM - Desert military outpost with barracks and storage. Abandoned fort for New Austin exploration roleplay in Red Dead Redemption 2.
+description: Desert military outpost with barracks and storage in New Austin.
 ---
 
 # 🏠 Fort Oasis

@@ -1,6 +1,6 @@
 ---
 title: Rhodes Saloon Cellar
-description: SPOONI Rhodes Saloon Cellar MLO for RedM - Underground cellar expansion for Rhodes saloon. Hidden storage and meeting space for Red Dead Redemption 2 roleplay.
+description: Underground cellar expansion for Rhodes saloon in Lemoyne.
 ---
 
 # 🏠 Rhodes Saloon Cellar

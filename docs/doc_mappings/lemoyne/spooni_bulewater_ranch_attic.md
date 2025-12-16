@@ -1,6 +1,6 @@
 ---
 title: Bluewater Ranch Attic
-description: SPOONI Bluewater Ranch Attic MLO for RedM - Accessible attic space with storage area and detailed interior. Additional building space for Bluewater Ranch roleplay in Red Dead Redemption 2 Lemoyne.
+description: Accessible attic space with storage area and detailed interior in Lemoyne.
 ---
 
 # 🏠 Bluewater Ranch Attic

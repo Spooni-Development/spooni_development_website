@@ -1,6 +1,6 @@
 ---
-title: Prop Placer Script
-description: Advanced prop placement tool for RedM by Dietrich Development. Place and manage custom objects with precision for your Red Dead Redemption 2 server.
+title: Prop Placer
+description: Advanced prop placement tool by Dietrich Development. Place and manage custom objects with precision.
 ---
 
 # 🧩 Prop Placer

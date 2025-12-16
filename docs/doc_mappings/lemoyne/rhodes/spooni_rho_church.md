@@ -1,6 +1,6 @@
 ---
 title: Rhodes Church
-description: SPOONI Rhodes Church MLO for RedM - Detailed church interior with office and rooms. Premium religious building for Rhodes roleplay in Red Dead Redemption 2.
+description: Detailed church interior with office and rooms in Rhodes, Lemoyne.
 ---
 
 # 🏠 Rhodes Church

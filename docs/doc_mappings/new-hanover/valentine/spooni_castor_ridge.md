@@ -1,6 +1,6 @@
 ---
 title: Castor Ridge
-description: SPOONI Castor Ridge MLO for RedM - Ridge settlement near Valentine with detailed buildings. Highland community for Valentine area roleplay in Red Dead Redemption 2 New Hanover.
+description: Ridge settlement with detailed buildings near Valentine, New Hanover.
 ---
 
 # 🏠 Castor Ridge

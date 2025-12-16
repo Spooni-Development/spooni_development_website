@@ -1,6 +1,6 @@
 ---
 title: Blackwater Church
-description: SPOONI Blackwater Church MLO for RedM - Town church with detailed interior. Religious building for Blackwater roleplay in Red Dead Redemption 2 West Elizabeth.
+description: Town church with detailed interior in Blackwater, West Elizabeth.
 ---
 
 # 🏠 Blackwater Church

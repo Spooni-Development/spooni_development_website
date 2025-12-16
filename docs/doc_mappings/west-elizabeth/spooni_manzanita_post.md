@@ -1,6 +1,6 @@
 ---
 title: Manzanita Post
-description: SPOONI Manzanita Post MLO for RedM - Frontier trading post with general store. Supply depot for West Elizabeth roleplay in Red Dead Redemption 2.
+description: Frontier trading post with general store in West Elizabeth.
 ---
 
 # 🏠 Manzanita Post

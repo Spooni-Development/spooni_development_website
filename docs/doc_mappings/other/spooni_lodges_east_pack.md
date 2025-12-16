@@ -1,6 +1,6 @@
 ---
 title: Lodges East Pack
-description: SPOONI Lodges East Pack MLO for RedM - Collection of eastern lodges and cabins. Multiple wilderness properties for Red Dead Redemption 2 roleplay servers.
+description: Collection of eastern lodges and cabins.
 ---
 
 # 🏘️ Lodges East Pack

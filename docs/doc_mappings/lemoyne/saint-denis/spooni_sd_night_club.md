@@ -1,6 +1,6 @@
 ---
 title: St. Denis Night Club
-description: SPOONI St. Denis Night Club MLO for RedM - Upscale entertainment venue with bar and stage. Nightlife establishment for Saint Denis roleplay in Red Dead Redemption 2.
+description: Upscale entertainment venue with bar and stage in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Night Club

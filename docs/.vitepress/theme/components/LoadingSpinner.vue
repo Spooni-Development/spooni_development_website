@@ -47,6 +47,7 @@ withDefaults(defineProps<Props>(), {
 
 .loading-spinner-container.overlay {
   background: rgba(0, 0, 0, 0.5);
+  -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
 }
 

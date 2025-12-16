@@ -1,6 +1,6 @@
 ---
 title: Fort Heartlands
-description: SPOONI Fort Heartlands MLO for RedM - Military outpost with complete facilities. Active fort for New Hanover military roleplay in Red Dead Redemption 2.
+description: Military outpost with complete facilities in New Hanover.
 ---
 
 # 🏠 Fort Heartlands

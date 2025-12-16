@@ -1,6 +1,6 @@
 ---
 title: Dewberry Creek
-description: SPOONI Dewberry Creek MLO for RedM - Riverside settlement with detailed buildings. Creek-side community for New Hanover roleplay in Red Dead Redemption 2.
+description: Riverside settlement with detailed buildings in New Hanover.
 ---
 
 # 🏠 Dewberry Creek

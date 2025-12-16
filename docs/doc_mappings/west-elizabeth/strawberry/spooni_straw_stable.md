@@ -1,6 +1,6 @@
 ---
 title: Strawberry Stable
-description: SPOONI Strawberry Stable MLO for RedM - Horse stables with detailed interior. Equestrian facility for Strawberry roleplay in Red Dead Redemption 2 West Elizabeth.
+description: Horse stables with detailed interior in Strawberry, West Elizabeth.
 ---
 
 # 🏠 Strawberry Stable

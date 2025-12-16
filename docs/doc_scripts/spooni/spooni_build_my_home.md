@@ -1,6 +1,6 @@
 ---
 title: Build My Home
-description: SPOONI Build My Home script for RedM - Comprehensive house building system with 21 building steps, furniture placement, and property transfer. Create custom homes anywhere on the map for VORP, RSG, and RPX frameworks.
+description: Comprehensive house building system with 21 building steps, furniture placement, and property transfer. Create custom homes anywhere on the map.
 ---
 
 # 🏠 Build my Home

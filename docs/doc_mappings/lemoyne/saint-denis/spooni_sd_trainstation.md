@@ -1,6 +1,6 @@
 ---
 title: St. Denis Train Station
-description: SPOONI St. Denis Train Station MLO for RedM - Grand railway terminal with platforms and offices. Major transportation hub for Saint Denis roleplay in Red Dead Redemption 2.
+description: Grand railway terminal with platforms and offices in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Train Station

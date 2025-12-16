@@ -1,6 +1,6 @@
 ---
-title: Weapon Controller Script
-description: Dynamic weapon management system for RedM by Dietrich Development. Control weapon behavior, damage, and configurations for your Red Dead Redemption 2 roleplay server.
+title: Weapon Controller
+description: Dynamic weapon management system by Dietrich Development. Control weapon behavior, damage, and configurations.
 ---
 
 # 🔫 Dynamic Weapon Controller

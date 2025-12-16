@@ -1,6 +1,6 @@
 ---
 title: Fort Wallace
-description: SPOONI Fort Wallace MLO for RedM - Historic military fort with barracks and structures. Frontier fortification for New Hanover roleplay in Red Dead Redemption 2.
+description: Historic military fort with barracks and structures in New Hanover.
 ---
 
 # 🏠 Fort Wallace

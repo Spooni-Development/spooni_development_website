@@ -1,6 +1,6 @@
 ---
 title: Cumberland Crest
-description: SPOONI Cumberland Crest MLO for RedM - Mountain estate with lodge buildings. High altitude property for New Hanover wilderness roleplay in Red Dead Redemption 2.
+description: Mountain estate with lodge buildings in New Hanover.
 ---
 
 # 🏠 Cumberland Crest

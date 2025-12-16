@@ -138,6 +138,7 @@ function showMessage(text: string, type: 'success' | 'error'): void {
   right: 0;
   bottom: 0;
   background: rgba(0, 0, 0, 0.6);
+  -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
   display: flex;
   align-items: center;

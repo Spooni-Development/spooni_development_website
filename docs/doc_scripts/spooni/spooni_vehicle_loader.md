@@ -1,6 +1,6 @@
 ---
-title: Vehicle Loader Script
-description: SPOONI Vehicle Loader for RedM - Free tool to spawn and load vehicles on your map. Compatible with VORP, RSG, QBR, RPX, and RedEM frameworks for Red Dead Redemption 2.
+title: Vehicle Loader
+description: Free tool to spawn and load vehicles on your map. Compatible with VORP, RSG, QBR, RPX, and RedEM frameworks.
 ---
 
 # 🛞 Vehicle Loader

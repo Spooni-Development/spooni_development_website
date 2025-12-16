@@ -1,6 +1,6 @@
 ---
 title: Hobbit House
-description: SPOONI Hobbit House MLO for RedM - Unique underground hobbit-style home in Ambarino. Cozy fantasy dwelling with detailed interior for Red Dead Redemption 2 roleplay servers.
+description: Unique underground hobbit-style home with detailed interior in Ambarino.
 ---
 
 # 🏠 Hobbit House

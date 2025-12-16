@@ -1,6 +1,6 @@
 ---
 title: St. Denis Spaldings
-description: SPOONI St. Denis Spaldings MLO for RedM - Historic mansion with luxurious interior. Grand estate for Saint Denis high society roleplay in Red Dead Redemption 2.
+description: Historic mansion with luxurious interior in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Spaldings

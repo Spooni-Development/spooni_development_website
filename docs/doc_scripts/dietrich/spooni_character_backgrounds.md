@@ -1,6 +1,6 @@
 ---
 title: Character Backgrounds
-description: Immersive character background selection system for RedM by Dietrich Development. Create unique character stories and origins for your Red Dead Redemption 2 roleplay server.
+description: Immersive character background selection system by Dietrich Development. Create unique character stories and origins.
 ---
 
 # 🤠 Immersive Character Background Selection

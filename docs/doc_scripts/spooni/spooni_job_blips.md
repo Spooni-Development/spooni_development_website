@@ -1,6 +1,6 @@
 ---
-title: Job Blips Script
-description: SPOONI Job Blips for RedM - Free script to display job-specific map markers for players. Standalone VORP integration for organized job locations in Red Dead Redemption 2.
+title: Job Blips
+description: Free script to display job-specific map markers for players. Standalone VORP integration for organized job locations.
 ---
 
 # 📍 Job Blips

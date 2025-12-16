@@ -1,6 +1,6 @@
 ---
-title: Theater & Cinema Script
-description: SPOONI Showtime for RedM - Complete theater and cinema system with video playback, stage shows, and audience management. Immersive entertainment for VORP, RSG, RPX, and RedEM frameworks.
+title: Showtime
+description: Complete theater and cinema system with video playback, stage shows, and audience management. Immersive entertainment system.
 ---
 
 # 🎭 Theater & Cinema

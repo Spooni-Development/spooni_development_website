@@ -1,6 +1,6 @@
 ---
 title: Strawberry Doctor
-description: SPOONI Strawberry Doctor MLO for RedM - Medical office with examination room. Healthcare facility for Strawberry roleplay in Red Dead Redemption 2 West Elizabeth.
+description: Medical office with examination room in Strawberry, West Elizabeth.
 ---
 
 # 🏠 Strawberry Doctor

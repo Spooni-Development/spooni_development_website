@@ -122,6 +122,7 @@ export default defineConfig({
         items: [
 
           { text: "Ambarino", collapsed: true, items:[
+            {text: "🔸Colter Reborn", link:'/doc_mappings/ambarino/spooni_colter_reborn'},
             {text: "🔸Hobbit House", link:'/doc_mappings/ambarino/spooni_hobbit_house'},
             {text: "🔸Moonstone Pond", link:'/doc_mappings/ambarino/spooni_moonstone_pond'},
             {text: "🔸Nordheim", link:'/doc_mappings/ambarino/spooni_nordheim'},

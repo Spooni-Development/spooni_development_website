@@ -1,6 +1,6 @@
 ---
 title: Rhodes Caravan
-description: SPOONI Rhodes Caravan MLO for RedM - Detailed caravan interior near Rhodes. Mobile home with custom features for Red Dead Redemption 2 roleplay in Lemoyne.
+description: Detailed caravan interior near Rhodes, Lemoyne.
 ---
 
 # 🏠 Rhodes Caravan

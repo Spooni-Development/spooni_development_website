@@ -1,6 +1,6 @@
 ---
 title: St. Denis Cart Woodworker
-description: SPOONI St. Denis Cart Woodworker MLO for RedM - Carpentry workshop with tools and storage. Woodworking business for Saint Denis roleplay in Red Dead Redemption 2.
+description: Carpentry workshop with tools and storage in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Cart- & Woodworker

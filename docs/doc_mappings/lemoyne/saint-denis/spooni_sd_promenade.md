@@ -1,6 +1,6 @@
 ---
 title: St. Denis Promenade
-description: SPOONI St. Denis Promenade MLO for RedM - Waterfront boardwalk with shops and entertainment. Scenic public area for Saint Denis roleplay in Red Dead Redemption 2.
+description: Waterfront boardwalk with shops and entertainment in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Promenade

@@ -1,6 +1,6 @@
 ---
-title: HUD Script
-description: SPOONI HUD for RedM - Performance-optimized HUD system with VORP integration. Real-time money, gold, role tokens, and temperature display. Event-driven architecture for Red Dead Redemption 2 servers.
+title: HUD
+description: Performance-optimized HUD system with VORP integration. Real-time money, gold, role tokens, and temperature display.
 ---
 
 # 💻 HUD

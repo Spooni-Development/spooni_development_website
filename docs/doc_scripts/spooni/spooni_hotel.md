@@ -1,6 +1,6 @@
 ---
-title: Hotel Script
-description: SPOONI Hotel script for RedM - Complete hotel management system with room rentals, storage, and closet features. Compatible with VORP, RSG, and RPX frameworks. Create immersive hotel experiences for your RDR2 roleplay server.
+title: Hotel
+description: Complete hotel management system with room rentals, storage, and closet features. Create immersive hotel experiences.
 ---
 
 # 🏨 Hotel

@@ -1,6 +1,6 @@
 ---
-title: XMAS Calender Script
-description: SPOONI XMAS Calender for RedM - Christmas calendar with daily rewards such as special quests, gold, cash, items, and weapons. Compatible with VORP, RSG, QBR, RPX, and RedEM frameworks for Red Dead Redemption 2.
+title: XMAS Calendar
+description: Christmas calendar with daily rewards such as special quests, gold, cash, items, and weapons. Compatible with VORP, RSG, QBR, RPX, and RedEM frameworks.
 ---
 
 # 🎄 XMAS Calender

@@ -1,6 +1,6 @@
 ---
 title: Thieves' Landing Distillery
-description: SPOONI Thieves' Landing Distillery MLO for RedM - Illicit alcohol production facility. Criminal operation for New Austin outlaw roleplay in Red Dead Redemption 2.
+description: Illicit alcohol production facility in New Austin.
 ---
 
 # 🏠 Thieves' Landing Distillery

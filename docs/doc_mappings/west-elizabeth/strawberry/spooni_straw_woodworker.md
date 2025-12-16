@@ -1,6 +1,6 @@
 ---
 title: Strawberry Woodworker
-description: SPOONI Strawberry Woodworker MLO for RedM - Carpentry workshop with tools. Woodworking business for Strawberry roleplay in Red Dead Redemption 2 West Elizabeth.
+description: Carpentry workshop with tools in Strawberry, West Elizabeth.
 ---
 
 # 🏠 Strawberry Woodworker

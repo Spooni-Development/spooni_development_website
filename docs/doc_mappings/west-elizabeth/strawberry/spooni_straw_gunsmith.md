@@ -1,6 +1,6 @@
 ---
 title: Strawberry Gunsmith
-description: SPOONI Strawberry Gunsmith MLO for RedM - Weapons shop with workshop. Firearms business for Strawberry roleplay in Red Dead Redemption 2 West Elizabeth.
+description: Weapons shop with workshop in Strawberry, West Elizabeth.
 ---
 
 # 🏠 Strawberry Gunsmith

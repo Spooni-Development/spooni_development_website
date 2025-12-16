@@ -1,6 +1,6 @@
 ---
 title: Hagen Orchards
-description: SPOONI Hagen Orchards MLO for RedM - Fruit farm with buildings and storage. Agricultural property for Lemoyne farming roleplay in Red Dead Redemption 2.
+description: Fruit farm with buildings and storage in Lemoyne.
 ---
 
 # 🏠 Hagen Orchards

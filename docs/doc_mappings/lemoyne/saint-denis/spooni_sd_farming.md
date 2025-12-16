@@ -1,6 +1,6 @@
 ---
 title: St. Denis Farming
-description: SPOONI St. Denis Farming MLO for RedM - Agricultural area with barns and storage. Farming operation for Saint Denis outskirts roleplay in Red Dead Redemption 2.
+description: Agricultural area with barns and storage in Saint-Denis outskirts, Lemoyne.
 ---
 
 # 🏠 St. Denis Farming

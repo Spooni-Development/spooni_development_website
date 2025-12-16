@@ -1,6 +1,6 @@
 ---
-title: Prop Deleter Script
-description: SPOONI Prop Deleter for RedM - Remove unwanted props and objects from your server. Standalone tool for cleaning up and customizing your Red Dead Redemption 2 world.
+title: Prop Deleter
+description: Remove unwanted props and objects from your server. Standalone tool for cleaning up and customizing your world.
 ---
 
 # 🗑️ Prop Deleter

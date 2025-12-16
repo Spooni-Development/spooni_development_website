@@ -1,6 +1,6 @@
 ---
 title: Emerald Ranch
-description: SPOONI Emerald Ranch MLO for RedM - Working ranch with multiple buildings and livestock areas. Major agricultural property for New Hanover roleplay in Red Dead Redemption 2.
+description: Working ranch with multiple buildings and livestock areas in New Hanover.
 ---
 
 # 🏠 Emerald Ranch

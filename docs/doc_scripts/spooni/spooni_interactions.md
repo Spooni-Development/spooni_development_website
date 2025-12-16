@@ -1,6 +1,6 @@
 ---
 title: Interactions
-description: SPOONI Interactions script for RedM - Free standalone script for interactive props with scenario animations. Enhanced version of the popular kibook script with improved features and vorp_menu integration.
+description: Free standalone script for interactive props with scenario animations. Enhanced version of the popular kibook script with improved features and vorp_menu integration.
 ---
 
 # 🪑 Interactions

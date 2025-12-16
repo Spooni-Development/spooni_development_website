@@ -1,6 +1,6 @@
 ---
 title: Rhodes Doctor
-description: SPOONI Rhodes Doctor MLO for RedM - Medical office interior with examination room. Healthcare facility for Rhodes roleplay in Red Dead Redemption 2.
+description: Medical office interior with examination room in Rhodes, Lemoyne.
 ---
 
 # 🏠 Rhodes Doctor

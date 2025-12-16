@@ -1,6 +1,6 @@
 ---
 title: Blackwater Lighthouse
-description: SPOONI Blackwater Lighthouse MLO for RedM - Coastal lighthouse with keeper's quarters. Maritime landmark for Blackwater area roleplay in Red Dead Redemption 2 West Elizabeth.
+description: Coastal lighthouse with keeper's quarters in Blackwater, West Elizabeth.
 ---
 
 # 🏠 Blackwater Lighthouse

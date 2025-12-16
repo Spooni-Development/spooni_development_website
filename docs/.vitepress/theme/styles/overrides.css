@@ -206,6 +206,17 @@ a.link.VPFeature .link-text .link-text-icon {
 .plugin-tabs--content iframe {
   max-width: 560px !important;
   width: 100% !important;
-  height: 315px !important;
-  aspect-ratio: auto !important;
+  height: auto !important; /* Changed from fixed 315px to auto for better image scaling */
+  aspect-ratio: 16 / 9 !important; /* Maintains video aspect ratio */
+  border-radius: var(--radius-lg);
+}
+
+/* Support for images in the same container */
+.plugin-tabs--content img {
+  max-width: 560px !important;
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9 !important;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
 }

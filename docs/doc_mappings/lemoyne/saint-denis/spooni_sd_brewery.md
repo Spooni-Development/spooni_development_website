@@ -1,6 +1,6 @@
 ---
 title: St. Denis Brewery
-description: SPOONI St. Denis Brewery MLO for RedM - Industrial brewery with production area and storage. Beer manufacturing facility for Saint Denis roleplay in Red Dead Redemption 2.
+description: Industrial brewery with production area and storage in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Brewery

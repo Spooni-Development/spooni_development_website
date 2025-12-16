@@ -1,6 +1,6 @@
 ---
 title: St. Denis Undertaker
-description: SPOONI St. Denis Undertaker MLO for RedM - Funeral parlor with embalming room and chapel. Mortuary service for Saint Denis roleplay in Red Dead Redemption 2.
+description: Funeral parlor with embalming room and chapel in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Undertaker

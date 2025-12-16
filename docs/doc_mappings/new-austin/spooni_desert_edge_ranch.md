@@ -1,6 +1,6 @@
 ---
 title: Desert Edge Ranch
-description: SPOONI Desert Edge Ranch MLO for RedM - Working ranch on the desert frontier with barns and living quarters. Agricultural property for New Austin roleplay in Red Dead Redemption 2.
+description: Working ranch on the desert frontier with barns and living quarters in New Austin.
 ---
 
 # 🏠 Desert Edge Ranch

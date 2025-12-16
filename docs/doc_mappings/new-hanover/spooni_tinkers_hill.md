@@ -1,6 +1,6 @@
 ---
 title: Tinkers Hill
-description: SPOONI Tinker's Hill MLO for RedM - Hillside settlement with workshop buildings. Craftsman community for New Hanover roleplay in Red Dead Redemption 2.
+description: Hillside settlement with workshop buildings in New Hanover.
 ---
 
 # 🏠 Tinkers Hill

@@ -1,6 +1,6 @@
 ---
-title: Ferris Wheel Script
-description: SPOONI Ferris Wheel for RedM - Interactive Ferris wheel with 4-player gondolas and scenic views. Standalone entertainment script for Red Dead Redemption 2 roleplay servers.
+title: Ferris Wheel
+description: Interactive Ferris wheel with 4-player gondolas and scenic views. Standalone entertainment script.
 ---
 
 # 🎡 Ferris Wheel

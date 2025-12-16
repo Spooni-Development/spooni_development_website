@@ -1,6 +1,6 @@
 ---
 title: St. Denis Bakery & Florist
-description: SPOONI St. Denis Bakery & Florist MLO for RedM - Combined bakery and flower shop with detailed interiors. Dual business location for Saint Denis roleplay in Red Dead Redemption 2.
+description: Combined bakery and flower shop with detailed interiors in Saint-Denis, Lemoyne.
 ---
 
 # 🏠 St. Denis Bakery & Florist

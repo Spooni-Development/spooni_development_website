@@ -1,6 +1,6 @@
 ---
 title: Lone Mule Stead
-description: SPOONI Lone Mule Stead MLO for RedM - Remote homestead with cabin. Isolated property for West Elizabeth frontier roleplay in Red Dead Redemption 2.
+description: Remote homestead with cabin in West Elizabeth.
 ---
 
 # 🏠 Lone Mule Stead

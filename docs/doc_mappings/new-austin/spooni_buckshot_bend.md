@@ -1,6 +1,6 @@
 ---
 title: Buckshot Bend
-description: SPOONI Buckshot Bend MLO for RedM - Desert settlement with buildings and storage. Small New Austin outpost for frontier roleplay in Red Dead Redemption 2.
+description: Desert settlement with buildings and storage in New Austin.
 ---
 
 # 🏠 Buckshot Bend

@@ -1,6 +1,6 @@
 ---
 title: Fort Brennand
-description: SPOONI Fort Brennand MLO for RedM - Abandoned military fort with barracks and storage. Historic fortification for New Hanover exploration roleplay in Red Dead Redemption 2.
+description: Abandoned military fort with barracks and storage in New Hanover.
 ---
 
 # 🏠 Fort Brennand

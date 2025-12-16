@@ -1,6 +1,6 @@
 ---
-title: Attractions Script
-description: SPOONI Attractions for RedM - Interactive carousel and swing ride entertainment for your RDR2 roleplay server. Standalone scripts with configurable animations and passenger management.
+title: Attractions
+description: Interactive carousel and swing ride entertainment. Standalone scripts with configurable animations and passenger management.
 ---
 
 # 🎠 Attractions
