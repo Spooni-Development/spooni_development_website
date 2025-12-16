@@ -10,8 +10,8 @@ Documentation relating to the spooni_fort_wallace.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w5L69yCk_Uw?si=9u_qwMkKKrq7rd4y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6423059" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house72" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6423059" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house72" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

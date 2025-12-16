@@ -10,8 +10,8 @@ Documentation relating to the spooni_moonstone_pond.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8SADx-ox6Ho?si=rgSgWuF_VrcCYbGy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6222295" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house120" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6222295" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house120" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

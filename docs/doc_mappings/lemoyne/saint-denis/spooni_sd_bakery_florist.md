@@ -10,8 +10,8 @@ Documentation relating to the spooni_sd_bakery_florist.
 == INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/89d00dffdf211d1bcb34a65ba3cd0e425d0a6219.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6357270" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house22" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6357270" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house22" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

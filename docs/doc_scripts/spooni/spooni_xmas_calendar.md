@@ -10,7 +10,7 @@ Documentation relating to the spooni_xmas_calendar.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/bfb1afde0bba66d0a6b4f2570ece04e50e8fe80e.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/7135204" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni-mapping.tebex.io/package/7135204" class="button-buy">Buy Now</a>
 :::
 
 ## 1. Installation

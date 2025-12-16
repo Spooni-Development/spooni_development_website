@@ -10,8 +10,8 @@ Documentation relating to the spooni_colter_reborn.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/fc795e0182f8cdf7b48f4806a6c7bfd8dbb54d32.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/5396818" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house240" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/5396818" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house240" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

@@ -8,7 +8,7 @@ Documentation relating to the spooni_hud.
 
 :::tabs
 == INFO
-<a href="https://github.com/Spooni-Development/spooni_hud" class="button-buy">⬇️ Download Now</a>
+<a href="https://github.com/Spooni-Development/spooni_hud" class="button-buy">Download Now</a>
 :::
 
 ## 1. Installation

@@ -10,8 +10,8 @@ Documentation relating to the spooni_buckshot_bend.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1218000/f814720d91b3c9e727e2f896172a7a37381004d9.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6524621" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house154" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6524621" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house154" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

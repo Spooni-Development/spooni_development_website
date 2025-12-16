@@ -10,7 +10,7 @@ Documentation relating to the spooni_ped_manager.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/ac6a0c51219a6ecfc4e7920e5ed628ff35ed61d3.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://tebex.dietrich-development.com//package/6959754?basket=co6ej7-b01c46a21fd8a4008a42681be1a4986b5c630888" class="button-buy">🛒 Buy Now</a>
+<a href="https://tebex.dietrich-development.com//package/6959754?basket=co6ej7-b01c46a21fd8a4008a42681be1a4986b5c630888" class="button-buy">Buy Now</a>
 :::
 
 ## 1. Installation

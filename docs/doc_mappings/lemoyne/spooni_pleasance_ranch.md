@@ -10,8 +10,8 @@ Documentation relating to the spooni_pleasance_ranch.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qF_YQ3lzs1Y?si=l0W2pzSa9Cfo6bic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6724542" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house149" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6724542" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house149" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

@@ -10,8 +10,8 @@ Documentation relating to the spooni_thl_distillery.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9KoRs8MnQ8?si=h1lNiYgdLG_40ReA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6158941" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house102" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6158941" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house102" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

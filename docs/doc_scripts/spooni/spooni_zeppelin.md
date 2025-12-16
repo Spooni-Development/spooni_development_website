@@ -10,7 +10,7 @@ Documentation relating to the spooni_zeppelin.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_GwOyjhw9c?si=Cta0JOYYaWa9fSX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6835454" class="button-buy">🛒 Buy Now</a>
+<a href="https://spooni-mapping.tebex.io/package/6835454" class="button-buy">Buy Now</a>
 :::
 
 ## 1. Installation

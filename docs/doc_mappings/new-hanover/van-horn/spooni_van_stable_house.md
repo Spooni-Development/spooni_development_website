@@ -10,8 +10,8 @@ Documentation relating to the spooni_van_stable_house.
 == INFO
 <iframe width="570" height="321" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0bfdc312db629d4b888c9bdb2a8c1048654a46a3.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6223768" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house18" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6223768" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house18" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

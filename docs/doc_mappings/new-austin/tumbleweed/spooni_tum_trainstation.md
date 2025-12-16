@@ -10,8 +10,8 @@ Documentation relating to the spooni_tum_trainstation.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqXrHbgXhAo?si=LUHQbcuOlL3DDAsG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/7034541" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house232" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/7034541" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house232" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

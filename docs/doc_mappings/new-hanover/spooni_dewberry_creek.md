@@ -10,8 +10,8 @@ Documentation relating to the spooni_dewberry_creek.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AxNafdEx5ck?si=JXLiEIZ0L13O26yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6090322" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house97" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6090322" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house97" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation

@@ -10,8 +10,8 @@ Documentation relating to the spooni_bla_casino_ship.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/99b75524fba2e24746e19b6e0398a3627b0ddd0c.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6626922" class="button-buy">🛒 Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house69" class="button-map">📍 View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6626922" class="button-buy">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house69" class="button-map">View on Map</a>
 :::
 
 ## 1. Installation
