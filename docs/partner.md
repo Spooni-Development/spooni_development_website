@@ -403,14 +403,6 @@ head:
             ]
         },
         {
-            avatar: '/partner/tier2/wild-west-roleplay.webp',
-            name: 'Wild West Roleplay',
-            title: '📀 TIER II', 
-            links: [
-                { icon: 'discord', link: 'https://discord.gg/mQTn4JVdxa' },
-            ]
-        },
-        {
             avatar: '/partner/tier2/western-wegends.webp',
             name: 'Western Legends',
             title: '📀 TIER II',
@@ -678,7 +670,7 @@ head:
             ]
         },
         {
-            avatar: '/partner/tier1/west-born.web',
+            avatar: '/partner/tier1/west-born.webp',
             name: 'West Born',
             title: '💿 TIER I',
             links: [
@@ -691,6 +683,30 @@ head:
             title: '💿 TIER I',
             links: [
                 { icon: 'discord', link: 'https://discord.gg/WcSpun2AQc' },
+            ]
+        },
+        {
+            avatar: '/partner/tier1/dead-river.webp',
+            name: 'Dead River',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/6wkPhK6N2R' },
+            ]
+        },
+        {
+            avatar: '/partner/tier1/redempire.webp',
+            name: 'REDEMPIRE',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/SSMKXuQnkw' },
+            ]
+        },
+        {
+            avatar: '/partner/tier1/elite-rp.webp',
+            name: 'Elite RP',
+            title: '💿 TIER I',
+            links: [
+                { icon: 'discord', link: 'https://discord.gg/CP4hxPRMeP' },
             ]
         },
         {
