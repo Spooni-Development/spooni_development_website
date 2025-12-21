@@ -163,7 +163,7 @@ onUnmounted(() => {
     position: absolute;
     background: white;
     border-radius: 50%;
-    filter: blur(1px);
+    filter: blur(0.5px);
     box-shadow: 0 0 3px rgba(255, 255, 255, 0.8);
     will-change: transform;
 }
@@ -171,7 +171,7 @@ onUnmounted(() => {
 /* Reduce blur on mobile devices for better performance */
 @media (max-width: 768px) {
     .snowflake {
-        filter: blur(0.5px);
+        filter: blur(0.25px);
     }
 }
 </style>
