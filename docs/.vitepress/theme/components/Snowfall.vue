@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, onMounted, onUnmounted, inject } from 'vue'
 
 interface Snowflake {
     id: number
@@ -13,6 +13,7 @@ interface Snowflake {
 
 const snowflakes = ref<Snowflake[]>([])
 const animationFrame = ref<number>()
+const isEnabled = inject<{ value: boolean }>('snowfall-enabled', { value: true })
 
 const createSnowflake = (id: number): Snowflake => ({
     id,
@@ -30,7 +31,7 @@ const animate = () => {
         let newX = flake.x + flake.drift
         
         if (newY > 110) {
-            return createSnowflake(flake.id)
+        return createSnowflake(flake.id)
         }
         
         if (newX > 100) newX = 0
@@ -38,7 +39,7 @@ const animate = () => {
         
         return { ...flake, y: newY, x: newX }
     })
-
+    
     animationFrame.value = requestAnimationFrame(animate)
 }
 
@@ -59,7 +60,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-    <div class="snowfall">
+    <div v-if="isEnabled.value" class="snowfall">
         <div
         v-for="flake in snowflakes"
         :key="flake.id"
