@@ -10,8 +10,8 @@ Documentation relating to the spooni_straw_gunsmith.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/7f2ac106c812e31f2ebcad3aa92b939c8d0144ab.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/5703317" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house167" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/5703317" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house167" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

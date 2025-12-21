@@ -10,8 +10,8 @@ Documentation relating to the spooni_straw_bakery.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/044dd309af90e878de817b31232246660025b71b.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6946092" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house224" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6946092" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house224" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

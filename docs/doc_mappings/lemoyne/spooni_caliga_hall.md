@@ -10,8 +10,8 @@ Documentation relating to the spooni_caliga_hall.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJ9Si62h3WA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6010188" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house74" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6010188" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house74" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

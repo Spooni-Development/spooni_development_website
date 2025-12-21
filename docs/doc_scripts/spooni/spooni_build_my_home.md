@@ -10,7 +10,7 @@ Documentation relating to the spooni_build_my_home.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5AlTVWQhH9w?si=1OPpOkhH7ALFz85f" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6194363" class="button-buy">Buy Now</a>
+<a href="https://spooni-mapping.tebex.io/package/6194363" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
 :::
 
 ## 1. Installation

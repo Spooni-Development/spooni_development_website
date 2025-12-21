@@ -10,8 +10,8 @@ Documentation relating to the spooni_treehouse.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/099ad3a00340e5347e91785c675a23889afa47ab.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/7173288" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house241" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/7173288" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house241" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

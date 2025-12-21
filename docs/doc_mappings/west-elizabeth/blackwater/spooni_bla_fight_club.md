@@ -10,8 +10,8 @@ Documentation relating to the spooni_bla_fight_club.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/a51c8e3c89a50351bca6f8a3d96dd1e02fae0d3e.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6800802" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house204" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6800802" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house204" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

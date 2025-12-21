@@ -10,7 +10,7 @@ Documentation relating to the spooni_prop_deleter.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6564260" class="button-buy">Buy Now</a>
+<a href="https://spooni-mapping.tebex.io/package/6564260" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
 :::
 
 ## 1. Installation

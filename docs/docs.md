@@ -39,7 +39,7 @@ For detailed installation instructions, refer to the specific product documentat
 
 Join our **Showcase Server** to test all our mappings and scripts in action:
 
-<a href="redm://connect/51.77.90.75:30120" class="button-buy">Connect Now</a>
+<a href="redm://connect/51.77.90.75:30120" class="button-buy" target="_blank" rel="noopener noreferrer">Connect Now</a>
 
 ## Need Help?
 

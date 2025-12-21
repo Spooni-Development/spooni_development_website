@@ -437,7 +437,7 @@ import { ref } from 'vue'
 <li>Installing the framework</li>
 <li>Basic configuration</li>
 </ul>
-<a href="https://iceline-hosting.com/spooni" target="_blank" rel="noopener noreferrer" class="price-btn">Get Started</a>
+<a href="https://iceline-hosting.com/spooni" class="price-btn" target="_blank" rel="noopener noreferrer">Get Started</a>
 </div>
 <div class="price-card featured">
 <div class="price-badge">⭐ POPULAR</div>
@@ -454,7 +454,7 @@ import { ref } from 'vue'
 <li>Advanced optimization</li>
 <li>Post-setup assistance</li>
 </ul>
-<a href="https://iceline-hosting.com/spooni" target="_blank" rel="noopener noreferrer" class="price-btn">Get Started</a>
+<a href="https://iceline-hosting.com/spooni" class="price-btn" target="_blank" rel="noopener noreferrer">Get Started</a>
 </div>
 </div>
 
@@ -486,8 +486,8 @@ import { ref } from 'vue'
 <div class="provider-name">Iceline Hosting</div>
 <div class="provider-desc">Simplified server hosting, at any scale.</div>
 <div class="provider-actions">
-<a href="https://iceline-hosting.com/" target="_blank" rel="noopener noreferrer" class="provider-btn primary">Get your server</a>
-<a href="https://discord.gg/knVH9SYB4g" target="_blank" rel="noopener noreferrer" class="provider-btn secondary">Join Discord</a>
+<a href="https://iceline-hosting.com/" class="provider-btn primary" target="_blank" rel="noopener noreferrer">Get your server</a>
+<a href="https://discord.gg/knVH9SYB4g" class="provider-btn secondary" target="_blank" rel="noopener noreferrer">Join Discord</a>
 </div>
 </div>
 </div>

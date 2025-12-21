@@ -10,7 +10,7 @@ Documentation relating to the spooni_map_marker.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0e11b6916283c130c92fe45fb283061fb57c534f.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://tebex.dietrich-development.com//package/6982151?basket=cp7k78-f891a5bc3e700a7f8c7837116a0db07a3b03a874" class="button-buy">Buy Now</a>
+<a href="https://tebex.dietrich-development.com//package/6982151?basket=cp7k78-f891a5bc3e700a7f8c7837116a0db07a3b03a874" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
 :::
 
 ## 1. Installation

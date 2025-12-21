@@ -299,7 +299,7 @@ export default defineConfig({
     ],
     footer: {
       message: "Released under the GNU General Public License v3.0.", 
-      copyright: '© 2022 - 2025 <a style="color: #f25c05;" href="https://discord.gg/spooni" target="_blank">SPOONI Development</a>',
+      copyright: '© 2022 - 2025 <a style="color: #f25c05;" href="https://discord.gg/spooni" target="_blank" rel="noopener noreferrer">SPOONI Development</a>',
     },   
   },
 

@@ -5,6 +5,7 @@ import { nextTick, provide } from 'vue'
 import { useLazyImages } from './composables/useLazyImages'
 import Breadcrumbs from './components/Breadcrumbs.vue'
 import ScrollToTop from './components/ScrollToTop.vue'
+import Snowfall from './components/Snowfall.vue'
 
 const { isDark } = useData()
 
@@ -53,6 +54,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
     </template>
   </DefaultTheme.Layout>
   <ScrollToTop />
+  <Snowfall />
 </template>
 
 <style>

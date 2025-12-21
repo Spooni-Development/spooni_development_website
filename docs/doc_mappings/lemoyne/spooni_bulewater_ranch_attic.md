@@ -10,8 +10,8 @@ Documentation relating to the spooni_bulewater_ranch_attic.
 == INFO
 <iframe width="560" height="315" src="https://dunb17ur4ymx4.cloudfront.net/packages/images/92f443232a5911bb10909129b4fac4b1281865d4.png" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/7082691" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house237" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/7082691" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house237" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

@@ -10,8 +10,8 @@ Documentation relating to the spooni_desert_edge_ranch.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XgrEqtxEd2g?si=oIyxVFbueDL06b18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://spooni-mapping.tebex.io/package/6725577" class="button-buy">Buy Now</a>
-<a href="https://spooni.de/rdr2/?m=house150" class="button-map">View on Map</a>
+<a href="https://spooni-mapping.tebex.io/package/6725577" class="button-buy" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a href="https://spooni.de/rdr2/?m=house150" class="button-map" target="_blank" rel="noopener noreferrer">View on Map</a>
 :::
 
 ## 1. Installation

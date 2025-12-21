@@ -10,7 +10,7 @@ Documentation relating to the spooni_spooner.
 == INFO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-vBL0laTaw?si=TxZ9iKd_sPRe1jQX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<a href="https://github.com/Spooni-Development/spooni_spooner" class="button-buy">Download Now</a>
+<a href="https://github.com/Spooni-Development/spooni_spooner" class="button-buy" target="_blank" rel="noopener noreferrer">Download Now</a>
 :::
 
 

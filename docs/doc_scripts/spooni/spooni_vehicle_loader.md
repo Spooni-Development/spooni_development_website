@@ -8,7 +8,7 @@ Documentation relating to the spooni_vehicle_loader.
 
 :::tabs
 == INFO
-<a href="https://github.com/Spooni-Development/spooni_vehicle_loader" class="button-buy">Download Now</a>
+<a href="https://github.com/Spooni-Development/spooni_vehicle_loader" class="button-buy" target="_blank" rel="noopener noreferrer">Download Now</a>
 :::
 
 ## 1. Installation
