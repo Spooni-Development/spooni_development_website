@@ -6,6 +6,7 @@ import './style.css';
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client';
 import Layout from './Layout.vue';
 import PropGallery from './PropGallery.vue';
+import ServerService from './ServerService.vue';
 
 import ServerStatus from './components/ServerStatus.vue';
 
@@ -22,6 +23,7 @@ const theme: Theme = {
     
     // Register global components
     app.component('PropGallery', PropGallery);
+    app.component('ServerService', ServerService);
     app.component('ServerStatus', ServerStatus);
 
     // Convert iframes with image URLs to img tags for better scaling

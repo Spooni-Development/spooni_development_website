@@ -16,7 +16,7 @@ This is the official website for **SPOONI Development** – a team specializing 
 - 🌐 **Live Status** – Real-time server status monitoring for all SPOONI servers and external services
 - 👥 **Team Showcase** – Meet our developers, mappers, and artists
 - 🤝 **Partner Network** – Showcasing our community partners across multiple tiers
-- 🛠️ **Services** – Information about our development and mapping services
+- 🛠️ **Server Setup Service** – Professional RedM server setup and configuration
 - 📖 **Knowledge Base** – Detailed guides, crash codes, and tutorials for RedM development
 
 **Why VitePress?** It's lightning-fast, markdown-based, and incredibly flexible. Perfect for building a modern web presence that combines documentation, galleries, and dynamic content – all without a complex CMS.
@@ -163,13 +163,14 @@ docs/
 │   │   ├── fonts.css           # Custom font definitions
 │   │   ├── index.ts            # Theme entry point
 │   │   ├── Layout.vue          # Custom layout with enhancements
-│   │   └── PropGallery.vue     # Main props gallery component (slug-aware deep links)
+│   │   ├── PropGallery.vue     # Main props gallery component (slug-aware deep links)
+│   │   └── ServerService.vue   # Server setup service page
 │   └── dist/                   # Build output (git-ignored)
 ├── doc_mappings/               # Mapping documentation (100+ locations)
 ├── doc_scripts/                # Script documentation (SPOONI, Dietrich, DrShwaggins)
 ├── team.md                     # Team members showcase
 ├── partner.md                  # Partner network (Tier 1, Tier 2, Dev)
-├── service.md                  # Services offered
+├── service.md                  # Server setup service page
 ├── props.md                    # Props gallery page
 ├── status.md                   # Live server & service status page
 ├── crashes.md                  # RedM crash codes reference
