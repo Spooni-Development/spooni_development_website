@@ -110,7 +110,7 @@ head:
 
     const developer = [
         {
-            avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/94bdab75a18e8191e71478bcc86e414d.webp?size=128',
+            avatar: 'https://cdn.discordapp.com/avatars/549911000976195590/48004aa97704a9d093a908362caed82c.webp?size=128',
             name: 'Emotion',
             title: 'Developer',
             links: [
