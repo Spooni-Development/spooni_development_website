@@ -114,7 +114,7 @@ head:
             name: 'Emotion',
             title: 'Developer',
             links: [
-                { icon: 'github', link: 'https://github.com/Emotion06' },
+                { icon: 'github', link: 'https://github.com/TimGehring' },
                 { icon: 'discord', link: 'https://discordapp.com/users/549911000976195590/' },
             ]
         },
